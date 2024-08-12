@@ -10,10 +10,11 @@ about:
 
 ## Goals
 
-- Talk about my career as a business and process improvement analyst.
+- Talk about my career as a Business & Process Improvement Analyst.
 - Lean principles, PDCA and quality tools.
 - Machine learning applied to manufacturing.
 - Data analysis in advanced manufacturing.
+- Produce bibliographic content for my nephews Alexis and Noah who are currently studying robotics in Okinawa Japan.
 
 ## Education
 
