@@ -14,7 +14,7 @@ about:
 - Lean principles, PDCA and quality tools.
 - Machine learning applied to manufacturing.
 - Data analysis in advanced manufacturing.
-- Produce bibliographic content for my nephews Alexis and Noah who are currently studying robotics in Okinawa Japan.
+- Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.
 
 ## Education
 
