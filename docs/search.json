@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "research_2024.html",
+    "href": "research_2024.html",
+    "title": "Research in 2024",
+    "section": "",
+    "text": "Analyze the past, presente and future of manufacturing process in the United States.\n\n\n\n\n\n\n\nStudy in detail the National Action Plan for United States Leadership in Advanced Manufacturing.\n\n\n\n\n\n\n\nDevelop preparatory content for MIT courses on data analysis in smart manufacturing and additive manufacturing.\n\n\n\n\n\n\n\nRaise questions, analyze, discuss and propose ideas for consistency of American competitiveness in manufacturing processes."
   },
   {
     "objectID": "index.html",
@@ -40,5 +33,47 @@
     "title": "Kaizen and Advanced Manufacturing Research",
     "section": "",
     "text": "Process improvement\nStatistic\nMachine Learning Models\nR programming language\nBusiness Intelligence\nData Analysis"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Bertin S/A was a meat processing company that manufactures beef-based proteins that, after merging with Friboi, formed JBS Global, which currently generates 250,000 jobs globally.\n\nCreate a low-latency business intelligence structure and deploy it on the factory floor in 9 mfg plants.\nDevelop an intergrated planning system using linear programming to assist in strategic decisions at head quarter.\nTrain teams of operators, supervisors, managers in lean manufacturing principles and businesss intelligence tools\nCoordinate 15 kaizen project in the areas of energy, production processes, slaughter, devoning, and logistics.\nReduce 2% do COGS which represented 80% of revenue.\n\n\n\n\nModel for strategic decision support - summarized\n\n\n\n\n\nModel for strategic decision support - Expanded one plant and one process"
+  },
+  {
+    "objectID": "projects.html#bertin-sa---1999-to-2009",
+    "href": "projects.html#bertin-sa---1999-to-2009",
+    "title": "Projects",
+    "section": "",
+    "text": "Bertin S/A was a meat processing company that manufactures beef-based proteins that, after merging with Friboi, formed JBS Global, which currently generates 250,000 jobs globally.\n\nCreate a low-latency business intelligence structure and deploy it on the factory floor in 9 mfg plants.\nDevelop an intergrated planning system using linear programming to assist in strategic decisions at head quarter.\nTrain teams of operators, supervisors, managers in lean manufacturing principles and businesss intelligence tools\nCoordinate 15 kaizen project in the areas of energy, production processes, slaughter, devoning, and logistics.\nReduce 2% do COGS which represented 80% of revenue.\n\n\n\n\nModel for strategic decision support - summarized\n\n\n\n\n\nModel for strategic decision support - Expanded one plant and one process"
+  },
+  {
+    "objectID": "projects.html#govbr---2011-2012",
+    "href": "projects.html#govbr---2011-2012",
+    "title": "Projects",
+    "section": "GovBR - 2011-2012",
+    "text": "GovBR - 2011-2012\nGOVBR is a software development company that provides solutions for improving public management.\nActivities: - Carry out process mapping and gathering information about internal financial statement communications. - Structured the business intelligence area, focusing on the controllership process involving five business group companies. - Created a new SQL Server database to store financial and operation data history. - Created dashboards using QlikView tools to monitor results. - Analyzed balance sheets and financial statements, looking for improvements and implementing changes.\nAccomplishments:\n\nRedesigned and provided a P&L report format using public company standards and a defined schedule.\nEnabled teams to communicate results effectively in written and oral formats to various audiences."
+  },
+  {
+    "objectID": "projects.html#excalibur-precision-manufacturing---2015",
+    "href": "projects.html#excalibur-precision-manufacturing---2015",
+    "title": "Projects",
+    "section": "Excalibur Precision Manufacturing - 2015",
+    "text": "Excalibur Precision Manufacturing - 2015\n\nUsing photos, drwa the factory floor processes.\nCreate a standardized report of financial statements to calculate the company’s valuation.\n\n\n\nProcess mapping at Excallibur mfg"
+  },
+  {
+    "objectID": "projects.html#portobello-shop---2014---2016",
+    "href": "projects.html#portobello-shop---2014---2016",
+    "title": "Projects",
+    "section": "Portobello Shop - 2014 - 2016",
+    "text": "Portobello Shop - 2014 - 2016\nPortobello S/A is a high-end ceramic tile manufacturer in Brazil (Tijucas, SC) and the United States of America (Baxter, TN).\nActivities:\n\nSupported three strategic goals: open new stores, increase store sales, and provide better customer service.\nMapping internal processes, running, monitoring, looking for improvements, and implementing changes.\nImproved data quality and user interface for Neoway Radar, a big data tool used to increase external sales.\nDeveloped manual and trained support teams on the use of new software tools.\n\nSupported the business intelligence area and created indicators and dashboards for strategic goals.\n\nAccomplishments:\n\nIncreased the speed of opening new stores from 8 to 12 per year.\nIncreased external sales by 86% in 2015.\nImproved the company’s web portal, providing better information support for customers and internal staff.\nIncreased by 44% the number of stores using the big data tool Neoway Radar.\n\n\n\n\nPartial results of the radar market intelligence tool in stores\n\n\n\n\n\nImprovement projects underway in 2016"
+  },
+  {
+    "objectID": "projects.html#delta-brindes---2019---2023",
+    "href": "projects.html#delta-brindes---2019---2023",
+    "title": "Projects",
+    "section": "Delta Brindes - 2019 - 2023",
+    "text": "Delta Brindes - 2019 - 2023\nDelta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil\nStrategic position:\n\nCreated a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/quotations, market sentiment, and operational performance.\nUsed data to anticipate macroeconomic and market behavior to support the CEO’s decisions.\n\nTactical and operational positions:\n\nPerformed day-to-day tasks, mapped processes, and suggested and implemented improvements.\nDocumented and trained teams for distribution planning activities, shipments, customer quotes, and communication to maintain a positive relationship with customers and suppliers.\n\nAccomplishments:\n\nReduced shipping errors caused by registration problems by 98% and setup time from 1 day to 20 minutes.\nImplemented ERP system, Business Intelligence, and a new data collection and analysis structure, and trained staff.\n\n\n\n\nBusiness Intelligence Project at Delta Brindes Corporativos"
   }
 ]
