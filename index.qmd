@@ -10,9 +10,10 @@ about:
 
 ## Goals
 
--  Show the work I have done over the last 20 years as a Business & Process Improvement analyst.
-- Maintain constant research on process improvement.
-- Research on process improvement, data analysis, and advanced manufacturing.
+- Talk about my career as a business and process improvement analyst.
+- Lean principles, PDCA and quality tools.
+- Machine learning applied to manufacturing.
+- Data analysis in advanced manufacturing.
 
 ## Education
 
