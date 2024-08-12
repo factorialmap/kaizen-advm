@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: ""
 about:
   id: me
-  template: broadside
+  template: marquee
   image: img/profile.png
 ---
 
@@ -10,9 +10,23 @@ about:
 
 ## Goals
 
+-  Show the work I have done over the last 20 years as a Business & Process Improvement analyst.
+- Maintain constant research on process improvement.
+- Research on process improvement, data analysis, and advanced manufacturing.
+
 ## Education
 
+- Agro-industrial production and management - MS
+- Business Administration - BA
+
 ## Experience
+
+- Process improvement
+- Statistic
+- Machine Learning Models
+- R programming language
+- Business Intelligence
+- Data Analysis
 
 :::
 
