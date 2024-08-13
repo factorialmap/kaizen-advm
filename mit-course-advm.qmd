@@ -1,0 +1,43 @@
+---
+title: "MIT courses on Manufacturing"
+---
+
+**Introduction to Lean Six Sigma Methods by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen**
+
+-   
+
+-   
+
+**Innovation Systems for Science, Technology, Energy, Manufacturing, and Health by William Bonvillian**
+
+-   
+
+-   
+
+-   
+
+**Smart Manufacturing: Moving From Static to Dynamic Manufacturing Operations by Brian Anthony**
+
+-   
+
+-   
+
+-   
+
+**Industrial Internet of Things: From Theory to Applications by Brian Anthony**
+
+-   
+
+-   
+
+-   
+
+**Advanced Data Analytics For IIOT and Smart Manufacturing by Brian Anthony**
+
+-   
+
+-   
+
+-   
+
+**AdvancedAdditive Manufacturing for Innovative Design and Production by John Hart, Wojciech Matusik, Emanuel "Ely" Sachs and others**

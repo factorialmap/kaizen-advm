@@ -1,36 +1,69 @@
 [
   {
-    "objectID": "research_2024.html",
-    "href": "research_2024.html",
-    "title": "Research in 2024",
+    "objectID": "three-generations.html",
+    "href": "three-generations.html",
+    "title": "Past, Present, and Future of Manufacturing in US",
     "section": "",
-    "text": "Analyze the past, presente and future of manufacturing process in the United States.\n\n\n\n\n\n\n\nStudy in detail the National Action Plan for United States Leadership in Advanced Manufacturing.\n\n\n\n\n\n\n\nDevelop preparatory content for MIT courses on data analysis in smart manufacturing and additive manufacturing.\n\n\n\n\n\n\n\nRaise questions, analyze, discuss and propose ideas for consistency of American competitiveness in manufacturing processes."
+    "text": "Past\n\nIndustrial revolution 1865, Carnegie, bessemer process etc.\nFord, Packard, WWII, Inovations, Deming\nExit Zero, American Story, Rust Belt - First Impressions, Rust Belt - City’s economic Struggle\nIntroduction to Lean Six Sigma Methods by MIT Aeronautics Engineering System Division\n\nPresent\n\nChips and Science Act and Research and Development, Competition, and Innovation Ac\nInflation Reduction Act\nInvest in America\nWorkforce Education\nAction plan for Manufacturing in US\n\nFuture\n\nConsistence and Competitiveness on Manufacturing\nPersonal Finance\nManufacturing base",
+    "crumbs": [
+      "Past, Present, and Future of Manufacturing in US"
+    ]
+  },
+  {
+    "objectID": "research-us-mfg.html",
+    "href": "research-us-mfg.html",
+    "title": "Research about Manufacturing in US",
+    "section": "",
+    "text": "Munro Live\n\n\n\n\n\nSchuler Technology\n\n\n\n\nMississippi Community College and Golden Triangle Development Link Project\n\n\n\n\nPDCA method using AI and machine learning models\n\n\n\n\n\nEconomic and Personal Finance Education programs by CEE\n\n\n\n\n\nRobotics Career in Manufacturing by RoboticsCareer org",
+    "crumbs": [
+      "Research about Manufacturing in US"
+    ]
+  },
+  {
+    "objectID": "mit-course-advm.html",
+    "href": "mit-course-advm.html",
+    "title": "MIT courses on Manufacturing",
+    "section": "",
+    "text": "Introduction to Lean Six Sigma Methods by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen\n\n\n\n\nInnovation Systems for Science, Technology, Energy, Manufacturing, and Health by William Bonvillian\n\n\n\n\n\nSmart Manufacturing: Moving From Static to Dynamic Manufacturing Operations by Brian Anthony\n\n\n\n\n\nIndustrial Internet of Things: From Theory to Applications by Brian Anthony\n\n\n\n\n\nAdvanced Data Analytics For IIOT and Smart Manufacturing by Brian Anthony\n\n\n\n\n\nAdvancedAdditive Manufacturing for Innovative Design and Production by John Hart, Wojciech Matusik, Emanuel “Ely” Sachs and others",
+    "crumbs": [
+      "MIT courses on Manufacturing"
+    ]
+  },
+  {
+    "objectID": "action-plan-us-advm.html",
+    "href": "action-plan-us-advm.html",
+    "title": "Action Plan for US Leadership in Advanced Manufacturing summary",
+    "section": "",
+    "text": "Introduction\n\n\n\n\n\nGoals\n\n\n\n\n\nWhat is Advanced Manufacturing\n\n\n\n\n\nPrinciples of Advanced Manufacturing\n\n\n\n\n\nEconomic Activities in Emerging Markets on Manufacturing",
+    "crumbs": [
+      "Action Plan for US Leadership in Advanced Manufacturing summary"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Kaizen and Advanced Manufacturing Research",
+    "title": "Kaizen & Advanced Manufacturing",
     "section": "",
     "text": "Talk about my career as a Business & Process Improvement Analyst.\nLean principles, PDCA and quality tools.\nMachine learning applied to manufacturing.\nData analysis in advanced manufacturing.\nProduce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.\n\n\n\n\n\nAgro-industrial production and management - MS\nBusiness Administration - BA\n\n\n\n\n\nProcess improvement\nStatistic\nMachine Learning Models\nR programming language\nBusiness Intelligence\nData Analysis\nThanks for checking out my web site!"
   },
   {
     "objectID": "index.html#goals",
     "href": "index.html#goals",
-    "title": "Kaizen and Advanced Manufacturing Research",
+    "title": "Kaizen & Advanced Manufacturing",
     "section": "",
     "text": "Talk about my career as a Business & Process Improvement Analyst.\nLean principles, PDCA and quality tools.\nMachine learning applied to manufacturing.\nData analysis in advanced manufacturing.\nProduce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Kaizen and Advanced Manufacturing Research",
+    "title": "Kaizen & Advanced Manufacturing",
     "section": "",
     "text": "Agro-industrial production and management - MS\nBusiness Administration - BA"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Kaizen and Advanced Manufacturing Research",
+    "title": "Kaizen & Advanced Manufacturing",
     "section": "",
     "text": "Process improvement\nStatistic\nMachine Learning Models\nR programming language\nBusiness Intelligence\nData Analysis"
   },
@@ -53,7 +86,7 @@
     "href": "projects.html#govbr---2011-2012",
     "title": "Projects",
     "section": "GovBR - 2011-2012",
-    "text": "GovBR - 2011-2012\nGOVBR is a software development company that provides solutions for improving public management.\nActivities: - Carry out process mapping and gathering information about internal financial statement communications. - Structured the business intelligence area, focusing on the controllership process involving five business group companies. - Created a new SQL Server database to store financial and operation data history. - Created dashboards using QlikView tools to monitor results. - Analyzed balance sheets and financial statements, looking for improvements and implementing changes.\nAccomplishments:\n\nRedesigned and provided a P&L report format using public company standards and a defined schedule.\nEnabled teams to communicate results effectively in written and oral formats to various audiences.\n\n\n\n\nBSC strategic plan and BI process 2012\n\n\n\n\n\nMultidimensional modeling - business intelligence"
+    "text": "GovBR - 2011-2012\nGOVBR is a software development company that provides solutions for improving public management.\nActivities:\n\nCarry out process mapping and gathering information about internal financial statement communications.\nStructured the business intelligence area, focusing on the controllership process involving five business group companies.\nCreated a new SQL Server database to store financial and operation data history.\nCreated dashboards using QlikView tools to monitor results. - Analyzed balance sheets and financial statements, looking for improvements and implementing changes.\n\nAccomplishments:\n\nRedesigned and provided a P&L report format using public company standards and a defined schedule.\nEnabled teams to communicate results effectively in written and oral formats to various audiences.\n\n\n\n\nBSC strategic plan and BI process 2012\n\n\n\n\n\nMultidimensional modeling - business intelligence"
   },
   {
     "objectID": "projects.html#excalibur-precision-manufacturing---2015",
@@ -75,5 +108,12 @@
     "title": "Projects",
     "section": "Delta Brindes - 2019 - 2023",
     "text": "Delta Brindes - 2019 - 2023\nDelta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil\nStrategic position:\n\nCreated a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/quotations, market sentiment, and operational performance.\nUsed data to anticipate macroeconomic and market behavior to support the CEO’s decisions.\n\nTactical and operational positions:\n\nPerformed day-to-day tasks, mapped processes, and suggested and implemented improvements.\nDocumented and trained teams for distribution planning activities, shipments, customer quotes, and communication to maintain a positive relationship with customers and suppliers.\n\nAccomplishments:\n\nReduced shipping errors caused by registration problems by 98% and setup time from 1 day to 20 minutes.\nImplemented ERP system, Business Intelligence, and a new data collection and analysis structure, and trained staff.\n\n\n\n\nBusiness Intelligence Project at Delta Brindes Corporativos"
+  },
+  {
+    "objectID": "research_2024.html",
+    "href": "research_2024.html",
+    "title": "Research in 2024",
+    "section": "",
+    "text": "Analyze the past, presente and future of manufacturing process in the United States.\n\n\n\n\n\n\n\nStudy in detail the National Action Plan for United States Leadership in Advanced Manufacturing.\n\n\n\n\n\n\n\nDevelop preparatory content for MIT courses on data analysis in smart manufacturing and additive manufacturing.\n\n\n\n\n\n\n\nRaise questions, analyze, discuss and propose ideas for consistency of American competitiveness in manufacturing processes."
   }
 ]

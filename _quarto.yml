@@ -9,14 +9,23 @@ execute:
 
   
 website:
-  title: "Kaizen and Advanced Manufacturing Research"
+  title: "Kaizen & Advanced Manufacturing"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
-      - research_2024.qmd
-    tools:
+      - sidebar:research_2024
+  sidebar: 
+    - id: research_2024
+      title: "Research 2024"
+      collapse-level: 4
+      contents: 
+        - href: three-generations.qmd
+        - href: action-plan-us-advm.qmd
+        - href: mit-course-advm.qmd
+        - href: research-us-mfg.qmd
+      tools:
       - icon: twitter
         href: https://twitter.com/factorialmap
       - icon: github
