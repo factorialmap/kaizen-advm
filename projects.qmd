@@ -39,6 +39,7 @@ GOVBR is a software development company that provides solutions for improving pu
 
 ![Multidimensional modeling - business intelligence](img/govbr_2.png)
 
+
 ## Excalibur Precision Manufacturing - 2015
 
 -   Using photos, drwa the factory floor processes.

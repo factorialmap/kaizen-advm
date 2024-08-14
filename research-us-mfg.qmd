@@ -1,6 +1,57 @@
 ---
 title: "Research about Manufacturing in US"
+bibliography: references.bib
 ---
+
+**Semiconductor**
+
+**Smartphone manufacturing**
+
+In 1990, the United States used to be a global leader in manufacturing, but in 2010, China passed the U.S. going from 3.5% in 1990 to 30.5% in 2021.
+
+Apple and Alphabet hire and send thousands of employees abroad to eversea manufacturing. It was common to send 20,40 engineers at a time to the factory to support prototyping builds to do that learning and finding and fixing of issues and be in the right place at the right time. Apple buying 50 business class seats from San Francisco to Shanghai daily, accounting for \$150 million in annual revenue for United Air Lines.
+
+> The popular conception is that companies come to China because of low labor cost. I'm not sure what part of China they go to, but the truth is China stopped being the low labor cost country many years ago and that is not the reason to come to China from a supply point of view. The reason is because of the skill and the quantity of skill in one location and the type of skill it is.
+>
+> ***- Tim Cook - CEO of Apple***
+
+Acording to @helwig , manufacturing is subject to learning effect and making high value-added technology products requires specialized process knowledge and when firms or nations stop producing something, developing that capability again is an uphill battle.
+
+Manufacturing process demand a lot of skill and a lot of local supply chain for where all the parts are going to come from to build such a complex product that makes it a very appealing place to build.
+
+All products of Apple are designed and engineered in US and they all include components manufactured in U.S. (e.g. iPhone glass is made in Kentucky, and lasers that enable Face ID are built in the U.S. too.). In 2023 Apple annouced \$430 billion in new investments across the country, including work with more than nine thousand suppliers across all fifty states in U.S. acording @cnbc2022
+
+-   source: Steve Jobs at MIT 1992
+
+-   source: r'
+
+In 2012 Google buy Motorola for \$12.5 billion and open smartphone manufacturing plant in Fort Worth Texas to build Moto X. The goals was build as American made low cost smartphone but about a year after it opened, the plant shut down, citing high demestic operating costs and low consumer demand. Google sold Motorola to Lenovo for a multibillion dollar loss. Some experts says the U.S. failure shows that the cost of labor and the lack of skill in the U.S. is why manufacturing in the country is not cost effective.
+
+Foxconn is Apple's largest supplier and the world's largest electronic manufacturer. Acording to @yeung Chairman Terry Gou sayd the core skills and the capabilities of making phones, manufacturing, electronics have moved to Asia and for it to come to America it would be difficult, though not impossible
+
+**Car manufacturing**
+
+**Energy density in electric battery storage manufacturing**
+
+-   **Mujeeb Ijaz** founder, CEO of Our next energy Michigan made cells LFP technolgy, R&D Center in Fremont California and another one in Boston and Bedford shows us the 3 gerenation analysis about energy storage at @mitmobilityinitiative2023
+
+![Evolution of energy storage](img\one_our_next_energy.png)
+
+-   **Yet-Ming Chiang** is professor of material science and engineering at MIT co-founder of A123 Systems, co-founder of Form Energy, and co-founder of 24M technologies.
+
+-   What is the limits of energy storage?
+
+-   Energy density
+
+-   He talks about Arpa-e energy gov call for proposals propel 1k that refers to on thousand watt hours per kilogram. Today EV's is pushing to 250 watt hours per kilogram. So 1K is about planes, trains and ships. To put in perspective the chemistries that we know of today the top and os about 4 kWh/kg and what we are all trying to do is figure it out how to make those usable low cost enough and by the time you get to a system that exceeds what we're doing today.
+
+Obs: Innolith Switzerland-based company with labs in Germany claims it's on path to 1000 wh/kg or (1kWh/kg) battery energy density to enable the production of vehicles with 620 miles range(1000 km). The oth
+
+-   **Martin Bazant** professor of chemical engineering and mathematics at MIT director of center for battery sustainability, co-founder of Lithios an advanced lithium extraction from brins using electrochemistry.
+
+-   Transition to LFP and mthe scientific problem for the last 20 years such as industrilize, build supply chain, sustainability and circularity of these different materials, how to do all this domestically.
+
+-   **Chirstina Lampe-Onnerud** founder and CEO of Cadenza Innovation. She talk about basic research with the goal to make safe, lowcost and performance just right, systemitized and data truth.
 
 **Munro Live**
 
