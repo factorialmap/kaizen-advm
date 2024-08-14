@@ -25,6 +25,7 @@ website:
         - href: action-plan-us-advm.qmd
         - href: mit-course-advm.qmd
         - href: research-us-mfg.qmd
+        - href: data-analysis-mfg.qmd
       tools:
       - icon: twitter
         href: https://twitter.com/factorialmap
