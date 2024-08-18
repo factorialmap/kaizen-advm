@@ -5,9 +5,25 @@ bibliography: references.bib
 
 **Semiconductor**
 
--   CHIPS and Science Act provide \$52.7 billion for American semiconductor research, development, manufacturing, and workforce development. This includes \$39 billion in manufacturing incentives.
+-   CHIPS and Science Act provide \$52.7 billion for American semiconductor research, development, manufacturing, and workforce development. This includes \$39 billion in manufacturing incentives @hawkins2024
 
 -   
+
+**SMM's - Small, medium manufacturers**
+
+The task here is to research the possibilities in the small and medium manufacturing sector considering the market, historic aspects, and the innovation theory of Bonvillian and Paul Romer.
+
+-   Manufacturing as a service @sendcutsend2024 and @fussell2024
+
+-   Dev kit's serving as a catalyts for creativity and scientific discovery when the innovators can quickly test and validate their hypoteses, fostering a culture of experimentation and risk-taking. By providing access to cutting-edge hardware, these kits empower people from diverse backgrounds to angage in hands-on experimentation and prototyping @breakingtaps2024. This, in turn, enables the rapid iteration and refinement of design concepts, accelerating the journey from idea to reality. As a result, dev kits have become an essential tool for driving innovation, fueling breakthroughs, and pushing the boundaries of what is possIble while creating an environment for exapanding supply chain capabilities and knowledge base @lgarlati2024
+
+**Pharmaceutical Industry**
+
+-   Solid dosage products still account for the majority of medicinal products made worldwide, but there are some hurdles to overcome in order to make the tablet of the future. Issues such as patient centricity, solubility, bioavailability conversion of parental products to solid dosage forms are all topics that need to be addressed.
+
+-   Quality, variability, new processes, supply chain, and inspection
+
+-   Smart pill such as electronic capsule for tageting drug to delivery system.
 
 **Smartphone manufacturing**
 
@@ -19,7 +35,7 @@ Apple and Alphabet hire and send thousands of employees abroad to eversea manufa
 >
 > ***- Tim Cook - CEO of Apple***
 
-Acording to @helwig , manufacturing is subject to learning effect and making high value-added technology products requires specialized process knowledge and when firms or nations stop producing something, developing that capability again is an uphill battle.
+Acording to @helwig2024 , manufacturing is subject to learning effect and making high value-added technology products requires specialized process knowledge and when firms or nations stop producing something, developing that capability again is an uphill battle.
 
 Manufacturing process demand a lot of skill and a lot of local supply chain for where all the parts are going to come from to build such a complex product that makes it a very appealing place to build.
 
@@ -31,7 +47,7 @@ All products of Apple are designed and engineered in US and they all include com
 
 In 2012 Google buy Motorola for \$12.5 billion and open smartphone manufacturing plant in Fort Worth Texas to build Moto X. The goals was build as American made low cost smartphone but about a year after it opened, the plant shut down, citing high demestic operating costs and low consumer demand. Google sold Motorola to Lenovo for a multibillion dollar loss. Some experts says the U.S. failure shows that the cost of labor and the lack of skill in the U.S. is why manufacturing in the country is not cost effective.
 
-Foxconn is Apple's largest supplier and the world's largest electronic manufacturer. Acording to @yeung Chairman Terry Gou sayd the core skills and the capabilities of making phones, manufacturing, electronics have moved to Asia and for it to come to America it would be difficult, though not impossible. In 2017, the White House announced Foxconn's plan to invest \$10 billion, and open a massive LCD screen manufacturing facility in Wisconsin creating a 13.000 jobs.
+Foxconn is Apple's largest supplier and the world's largest electronic manufacturer. Acording to @yeung2022 Chairman Terry Gou sayd the core skills and the capabilities of making phones, manufacturing, electronics have moved to Asia and for it to come to America it would be difficult, though not impossible. In 2017, the White House announced Foxconn's plan to invest \$10 billion, and open a massive LCD screen manufacturing facility in Wisconsin creating a 13.000 jobs.
 
 A smartphone made in America cost \$2.000 dollars but the same product made in China cost \$1.300, it's \$700 cheaper than the American-made model. The supply chain doesn't exist. Labor intensive positions is a challange and needs to rebuild.
 
@@ -45,7 +61,7 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 
 -   **Mujeeb Ijaz** founder, CEO of Our next energy Michigan made cells LFP technolgy, R&D Center in Fremont California and another one in Boston and Bedford shows us the 3 gerenation analysis about energy storage at @mitmobilityinitiative2023
 
-![Evolution of energy storage](img\one_our_next_energy.png)
+![Evolution of energy storage adapted from Mujeeb Ijaz's presentation](img\one_our_next_energy.png)
 
 -   **Yet-Ming Chiang** is professor of material science and engineering at MIT co-founder of A123 Systems, co-founder of Form Energy, and co-founder of 24M technologies.
 
