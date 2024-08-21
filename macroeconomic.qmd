@@ -4,21 +4,24 @@ bibliography: references.bib
 execute: 
   warning: false
   message: false
+  echo: false
 ---
 
 ## 2024 United States
 
 ### Gross Domestic Product - GDP
 
--   Personal income
+-   Real gross domestic product increased at an annual rate of 2.8% in the second quarter of 2024. Drivers are consumer spending, private inventory investment, and nonresidential fixed investment.
 
--   Personal saving
+-   Personal income increased \$237.6 billion in the second quarter, compared with an increase of \$396.8 billion in the first quarter.
 
--   Personal consumption expenditures: % Change from Proceding Period
+-   Personal saving increased \$186.3 billion or 3.6%. Personal saving rate as a percentage of disposable personal income was 3.5% in the second quarter, compared with 3.8% in the first quarter.
 
--   Gross private domestic investment: % Change from Proceding Period
+-   Personal consumption expenditures: % Change from Proceding Period was 2.3%, compared with 1.4% in the first quarter.
 
--   Net exports of goods and services: % Change from Proceding Period
+-   Gross private domestic investment: % Change from Proceding Period was 8.4% in the second quarter , compared with 4.4% in the first quarter.
+
+-   Government consumption expenditures and gross investment: % Change from Proceding Period was 3.1% in the second quarter compared with 1.8% in the first quarter.
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
@@ -73,11 +76,13 @@ data_continuos_claims %>%
 
 ```
 
--   Another importat indicator about labor market is Aggregate hours worked. The chart below shows the average weekly hours of all employees, total private from FRED. The first thing you see when the economy is slowing down is a reduction in job openings. That is the first wave. The secong wave that you see is the number of hours worked. And that is a very important metric because when you're cutting hours, the next step is to actually cut positions.
+-   Another importat labor market indicator is Aggregate hours worked. The chart below shows the average weekly hours of all employees, total private from FRED. The first thing you see when the economy is slowing down is a reduction in job openings. That is the first wave. The secong wave that you see is the number of hours worked. And that is a very important metric because when you're cutting hours, the next step is to actually cut positions.
 
 ```{r}
 
 #Average weekly hours of all employees, total private ()
+#Table B-2. Average weekly hours and overtime of all employees on private nonfarm payrolls by industry sector, seasonally adjusted
+
 data_wk_hours <-  tq_get("AWHAETP", get = "economic.data")
 
 data_end_wk_hours <- data_wk_hours %>% tail(1)
@@ -97,7 +102,6 @@ data_wk_hours %>%
   labs(title = "Average weekly hours of all employees, total private",
        caption = "Source: FRED")
 
-#Table B-2. Average weekly hours and overtime of all employees on private nonfarm payrolls by industry sector, seasonally adjusted
 
 ```
 
@@ -105,7 +109,8 @@ Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.go
 
 ### 10-Year Treasury bonds
 
--   Insert text here
+-   United States Central Bank Rate stands at 5.50%, following the most recent adjustment in july 2023.
+-   The chart below shows the United States 10-Year Government Bond yield
 
 ```{r}
 #| label: bonds_10y
@@ -122,10 +127,9 @@ data_10y_bonds %>%
   geom_text_repel(
     aes(label = price),
     data = data_10y_end
-  )
+  )+
   labs(title = "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
       caption = "Soure: FRED")
-
 
 ```
 
@@ -133,7 +137,7 @@ Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouis
 
 ### 10Y3M curve
 
--   Insert text here
+-   The spread between United States 10-Year and 3-Months is -136.6 basis points(bp)
 
 ```{r}
 #| label: yield_curve
