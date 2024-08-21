@@ -2,22 +2,17 @@
 title: "Data Science in Manufacturing"
 ---
 
-**Introduction**
+### Predictive Analysis
 
+Manufacturers make the most of data by employing predictive analysis to monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Data are analyzed to identify and avoid recurrent problems or errors in the future.
 
-**Predictive Analysis**
-
-Manufacturers make the most of data by employing predictive analysis to monitor businesss operations, performance, and potential solutions to problems impeding future prospects.
-Data are analyzed to identify and avoid recurrent problems or errors in the future.
-
-
-**Maintenace**
+### Maintenace
 
 Data analysis plays a crucial role in predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency.
 
 Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.
 
-**Price reduction**
+### Price reduction
 
 Data analysis helping manufaturers to optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must mconsider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques.
 
@@ -27,36 +22,33 @@ Manufacturers can make informed pricing decisions that drive business growth, im
 
 Examples:
 
-- Gain a deeper understanding of their cost structure and identify opportunities for reduction.
+-   Gain a deeper understanding of their cost structure and identify opportunities for reduction.
 
-- Analyze market trends and competitor pricing to inform their own pricing strategies.
+-   Analyze market trends and competitor pricing to inform their own pricing strategies.
 
-- Analyze macro economic trends 
+-   Analyze macro economic trends
 
-- Develop targeted pricing models that account for variations in customer demand and market conditions.
+-   Develop targeted pricing models that account for variations in customer demand and market conditions.
 
-- Optimize their supply chain and logistics to reduce costs and improve efficiency.
+-   Optimize their supply chain and logistics to reduce costs and improve efficiency.
 
-- Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.
+-   Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.
 
-
-**Robotization and Automation**
+### Robotization and Automation
 
 Data analysis is transforming the manufacturing industry by enabling the widespread adoption of automation technologies. Robots are increasingly being used to perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(**Exploring more in this topic in the future**), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs.
 
 The use of data analysis in automation has made manufacturing robots more accessible and affordable than ever before. As the manufacturing landscape continues t envolve, data analysis will play an incresingly important role in driving the adoption of automation technologies and shaping the future of industry.
 
-
 Examples:
 
-- Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.
+-   Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.
 
-- Identify areas where automation can be improved or expanded, driving further innovation and growth.
+-   Identify areas where automation can be improved or expanded, driving further innovation and growth.
 
-- Streamline robot integration and deployment, reducing downtime increasing productivity and availability.
+-   Streamline robot integration and deployment, reducing downtime increasing productivity and availability.
 
-
-**Directing the Supply Chain**
+### Directing the Supply Chain
 
 Data science could help manufaturers to navigate complex risks and uncertainties, and proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact.
 
@@ -68,21 +60,19 @@ Data analysis provides manufacturers with the visibility and agility they need t
 
 Examples:
 
--  Analyze real-time data to identify potential bottlenecks and delays.
+-   Analyze real-time data to identify potential bottlenecks and delays.
 
-- Assess the likehood of major disruptions ond develop contingency plans
+-   Assess the likehood of major disruptions ond develop contingency plans
 
-- Evaluate the performance of suppliers and identify opportunities for improvement.
+-   Evaluate the performance of suppliers and identify opportunities for improvement.
 
-- Optimize inventory management and reduce waste.
+-   Optimize inventory management and reduce waste.
 
+### Inventory Control and Demand Forecasting
 
-**Inventory Control and Demand Forecasting**
+-   Este precisa ser repensado por que ao meu ver sofrerá grandes mudanças.
 
-- Este precisa ser repensado por que ao meu ver sofrerá grandes mudanças.
-
-
-**Warranty Analysis**
+### Warranty Analysis
 
 Warranty analysis is a critical aspect of product development, and data science plays an important role in helping manufacturers optimize their warranty claims process.
 
@@ -92,29 +82,29 @@ Data scientists can help manufacturers analyze the root causes of product defect
 
 with the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
 
-- Product sensor data
+-   Product sensor data
 
-- Customer feedback and complaints
+-   Customer feedback and complaints
 
-- Warranty claims and repair data
+-   Warranty claims and repair data
 
-- Manufacturing and quality control data
+-   Manufacturing and quality control data
 
 By analyzing this data, manufaturers can gain valuable insights into product performance, identify areas for improvement, and develop targeted solutions to reduce warranty claims and improve customer satisfaction. Data science can help manufaturers:
 
-- Indetify patterns and trends in warranty claims data.
+-   Indetify patterns and trends in warranty claims data.
 
-- Develop predictive models for forecast potential warranty claims.
+-   Develop predictive models for forecast potential warranty claims.
 
-- Analyzie the root cause of product defects and develop corrective actions.
+-   Analyzie the root cause of product defects and develop corrective actions.
 
-- Optimize warranty claims processing and reduce costs.
+-   Optimize warranty claims processing and reduce costs.
 
-- Improve product quality and reliability
+-   Improve product quality and reliability
 
 With data-driven insights, manufacturers can make informed decisions about product development, quality control, and warranty claims management, ultimately driving business growht and success.
 
-**Product Authenticity**
+### Product Authenticity
 
 Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health.
 
@@ -122,23 +112,22 @@ Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help man
 
 Some benefits
 
-- **Fast**: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.
+-   **Fast**: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.
 
-- **Cost-effective**: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.
+-   **Cost-effective**: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.
 
-- **Non-invasive**: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.
+-   **Non-invasive**: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.
 
-
-The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular  vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
+The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
 
 Example:
 
-- Verify the identity of raw materials and finished products.
+-   Verify the identity of raw materials and finished products.
 
-- Detect adulteration or contamination.
+-   Detect adulteration or contamination.
 
-- Ensure compliance with regulatory requirements.
+-   Ensure compliance with regulatory requirements.
 
-- Protect their brand reputation and intellectual property.
+-   Protect their brand reputation and intellectual property.
 
-- Prevent financial loesses due to counterfeit products.
+-   Prevent financial loesses due to counterfeit products.

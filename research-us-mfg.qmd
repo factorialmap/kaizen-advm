@@ -7,7 +7,35 @@ bibliography: references.bib
 
 -   CHIPS and Science Act provide \$52.7 billion for American semiconductor research, development, manufacturing, and workforce development. This includes \$39 billion in manufacturing incentives @hawkins2024
 
--   
+-   Intel has been aawarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. Similar decisions were nade at GE, and were reversed by Larry Culp. What lessons could he provide?
+
+**Battery manufacturing**
+
+-   Acording to @manufacturingmit2024, lithium-ion betteries were invented in United States, but never built the needed supply chains, government support was missing, and batteries faced political and industrial opposition.
+
+-   China that has seized the lead in battery technology, leading battery manufacturing, and making technical progress. The firm A123 was bought for a Chinese company that was transferred its significant technology, then scaled these advances, putting them into domestic hybrid then electric vehicles built with massive government support.
+
+**Energy density in electric battery storage manufacturing**
+
+-   **Mujeeb Ijaz** founder, CEO of Our next energy Michigan made cells LFP technolgy, R&D Center in Fremont California and another one in Boston and Bedford shows us the 3 gerenation analysis about energy storage at @mitmobilityinitiative2023
+
+![Evolution of energy storage adapted from Mujeeb Ijaz's presentation](img\one_our_next_energy.png)
+
+-   **Yet-Ming Chiang** is professor of material science and engineering at MIT co-founder of A123 Systems, co-founder of Form Energy, and co-founder of 24M technologies.
+
+-   What is the limits of energy storage?
+
+-   Energy density
+
+-   He talks about Arpa-e energy gov call for proposals propel 1k that refers to on thousand watt hours per kilogram. Today EV's is pushing to 250 watt hours per kilogram. So 1K is about planes, trains and ships. To put in perspective the chemistries that we know of today the top and os about 4 kWh/kg and what we are all trying to do is figure it out how to make those usable low cost enough and by the time you get to a system that exceeds what we're doing today.
+
+Obs: Innolith Switzerland-based company with labs in Germany claims it's on path to 1000 wh/kg or (1kWh/kg) battery energy density to enable the production of vehicles with 620 miles range(1000 km). The oth
+
+-   **Martin Bazant** professor of chemical engineering and mathematics at MIT director of center for battery sustainability, co-founder of Lithios an advanced lithium extraction from brins using electrochemistry.
+
+-   Transition to LFP and mthe scientific problem for the last 20 years such as industrilize, build supply chain, sustainability and circularity of these different materials, how to do all this domestically.
+
+-   **Chirstina Lampe-Onnerud** founder and CEO of Cadenza Innovation. She talk about basic research with the goal to make safe, lowcost and performance just right, systemitized and data truth.
 
 **SMM's - Small, medium manufacturers**
 
@@ -24,6 +52,29 @@ The task here is to research the possibilities in the small and medium manufactu
 -   Quality, variability, new processes, supply chain, and inspection
 
 -   Smart pill such as electronic capsule for tageting drug to delivery system.
+
+**Aviation and Jet Egines manufaturing**
+
+-   Jet engine is important part of commerial airplane and reparing them has become a \$58 billion business acording to \@cnbc2024. A commercial jet engine is a complex, expensive machine made up of thousands of parts and cost of \$10 million each one or \$6 million for overhaul. The process of overhauling one means disassembling it and replacing all the worn on damaged parts like blades, which can cost up to \$20.000 a piece and HPT( high pressure turbine) costing more then \$30.000 a piece, and one engine aproximately 40 to 60 of them is necessary. Before the supply chain issues, a typical narrowbody engine took 60 to 75 days to overhaul, and that time has gone up, in some cases to over 200 days because it's not sufficient spare parts, labor to do this in normal time.
+
+-   Jet engine manufacturing is dominated by GE Aerospace(12.81%), CFM/Safran(44.77%), Rools-Royce(19.57%) and Pratt & Whitney (22.85%). More than 70% of GE's commercial engine revenue comes from partes and service, and first two quarters of 2024 GE reported over \$15 billion in MRO(maintenance, repair and overhaul) versus \$8 billion for new engines.
+
+```{r}
+
+#get stock retursn for GE, RYCEY, SAF.PA, RTX, AIR.PA, BA
+
+
+```
+
+-   In U.S. there are over three thousand aircraft repair shops, and the most commonly flown jet engine is CFM56 that 80 to 85% part commonality between engines resulting in a very good reuse capability. The engine has parts which are life time limited and the safe operation of the engine is guaranteed up to 25 to 30 thousand cycles. In the hottest part of a jet engine in 2024, the temperature surrounding the turbine blade is several hundred degrees above the melting point of the material of the turbine blade. Aproximately 1200 parts per engine and many stages for overhauling.
+
+    -   Break the major flange and then it'll be separated into the cold and the hot section.
+
+    -   Broken down into piece and then the parts are cleaned and inspected.
+
+    -   Testing process envolve techniques such as ultrasound, x-ray, magnetic inspection and fluorescent penetrant that is spray parts with a lime green fluorescent penetrant, and it seeps into the surface of the parts and any subsurface defects. They use a black light for the fluorescent to be little more brilliant and help signify where some of those defects are located @hradecky2011.
+
+-   Supply chain issues are expected to persist in an a airline manufacturing and MRO shops raising concerns about rising maintenance costs.\
 
 **Smartphone manufacturing**
 
@@ -56,28 +107,6 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 > For Beginners and Beyound channel at YouTube
 
 **Car manufacturing**
-
-**Energy density in electric battery storage manufacturing**
-
--   **Mujeeb Ijaz** founder, CEO of Our next energy Michigan made cells LFP technolgy, R&D Center in Fremont California and another one in Boston and Bedford shows us the 3 gerenation analysis about energy storage at @mitmobilityinitiative2023
-
-![Evolution of energy storage adapted from Mujeeb Ijaz's presentation](img\one_our_next_energy.png)
-
--   **Yet-Ming Chiang** is professor of material science and engineering at MIT co-founder of A123 Systems, co-founder of Form Energy, and co-founder of 24M technologies.
-
--   What is the limits of energy storage?
-
--   Energy density
-
--   He talks about Arpa-e energy gov call for proposals propel 1k that refers to on thousand watt hours per kilogram. Today EV's is pushing to 250 watt hours per kilogram. So 1K is about planes, trains and ships. To put in perspective the chemistries that we know of today the top and os about 4 kWh/kg and what we are all trying to do is figure it out how to make those usable low cost enough and by the time you get to a system that exceeds what we're doing today.
-
-Obs: Innolith Switzerland-based company with labs in Germany claims it's on path to 1000 wh/kg or (1kWh/kg) battery energy density to enable the production of vehicles with 620 miles range(1000 km). The oth
-
--   **Martin Bazant** professor of chemical engineering and mathematics at MIT director of center for battery sustainability, co-founder of Lithios an advanced lithium extraction from brins using electrochemistry.
-
--   Transition to LFP and mthe scientific problem for the last 20 years such as industrilize, build supply chain, sustainability and circularity of these different materials, how to do all this domestically.
-
--   **Chirstina Lampe-Onnerud** founder and CEO of Cadenza Innovation. She talk about basic research with the goal to make safe, lowcost and performance just right, systemitized and data truth.
 
 **Munro Live**
 
