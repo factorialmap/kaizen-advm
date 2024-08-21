@@ -52,16 +52,6 @@ GOVBR is a software development company that provides solutions for improving pu
 
 ![Multidimensional modeling - business intelligence](img/govbr_2.png)
 
-## Excalibur Precision Manufacturing - 2015
-
-**Activities:**
-
--   Using photos, drwa the factory floor processes.
-
--   Create a standardized report of financial statements to calculate the company's valuation.
-
-    ![Process mapping at Excallibur mfg](img/excalibur_precision_mfg.png)
-
 ## Portobello Shop - 2014 - 2016
 
 Portobello S/A is a high-end ceramic tile manufacturer in Brazil (Tijucas, SC) and the United States of America (Baxter, TN).
