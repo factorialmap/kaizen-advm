@@ -1,0 +1,19 @@
+---
+title: "Workflow"
+---
+
+#### Fase 1 - Business & process improvement project approach
+
+#### ![](img/fase_1.png)
+
+#### Fase 2 - Investigation of the problem from different points of view
+
+#### ![](img/fase_2.png)
+
+#### Fase 3 - Tools, actions and impacts on finance and sustainability
+
+![](img/fase_3.png)
+
+#### Fase 4 - Scheduling and deploying
+
+![](img/fase_4.png)

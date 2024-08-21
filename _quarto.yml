@@ -15,6 +15,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - workflow.qmd
       - sidebar:research_2024
   sidebar: 
     - id: research_2024
@@ -43,4 +44,3 @@ format:
     code-fold: true
     
 editor: source
-
