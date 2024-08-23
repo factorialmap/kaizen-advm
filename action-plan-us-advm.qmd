@@ -25,25 +25,37 @@ The texts may contain typos, unfinished ideas and will be in constant developmen
 
 -   Application of digital technologies to the physical world and inovation in the world of atoms for process innovation, or alterations to the manufacturing process that improve how thigs are built. As a result, scale that was previously impossible, cost reduction, and value-added products in shorter cycles.
 
--   
+-   Talk about transition from digitalization to industrial AI and advanced data analytics role, and lean principles.
 
--   
+-   Talk about how to copilot can helps in advance manufaturing
+
+-   Talk about factory of the future and jobs
+
+-   Talk about digital twins
+
+-   Talk about nano tech
+
+-   Insert some examples of process innovations with pictures and illustrations (bessemer process, planar process, ether loop)
 
 **Principles of Advanced Manufacturing**
 
--   
+-   Talk about learning by doing
 
--   
+-   Talk about data standards
 
--   
+-   Talk about R&D
+
+-   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
+
+-   Talk about scale the materials genome initiative page 23
 
 **Economic Activities in Emerging Markets on Manufacturing**
 
--   
+-   Talk about project China 2025 and 2030
 
--   
+-   Talk about South Asia countries
 
--   
+-   Talk about Central e South America
 
 **Value Chain**
 
@@ -55,10 +67,22 @@ The texts may contain typos, unfinished ideas and will be in constant developmen
 
 -   How to deliver superior customer value in line with one of the three value disciplines - operational excellence, customer intimacy or product leadership - in a world where populations are getting older @anjos2024 , more urban, new tehnologies are emerging rapidly, economic activity in emerging markets is expanding rapidly all this without forgetting climate change ?
 
-![Illustration of value chain](img/new_world_value_chain.png){alt="Illustration of value chain"}
+![Illustration of value chain](img/new_world_value_chain.png)
 
 **Business Model and Cultural transformation**
 
 -   Acording @treacy1993 to becoming an industry leader requires to choose a value discipline that takes into account its capabilities and culture as well as competitors's strengths .
 
 ![Illustration of the idea of value discipline](img/prod_pred_stratg.png)
+
+-   Talk about relationship between small manufacturing and advanced manufacturing (pag 24)
+
+-   Talk about lean manufacturing( pag 25) and Earl Murman(MIT) papers and classes.
+
+-   Talk about capital access gaps for small medium manufacturing (pag 26)
+
+-   Talks about supply chain system with Allies and Partners (pag31,35)
+
+-   Talk about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
+
+-   Talk about cognitive bias, principles and examples. from A Neural Network Framework for Cognitive Bias paper at ncbi

@@ -11,7 +11,63 @@ bibliography: references.bib
 
 -   Lean focused on reduce waste and six sigma focused on reduced waste. Enterprises usually adopt thei own name (e.g Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
 
--   Cost price relationshi
+-   Cost price relationship
+
+    ![adapted from MIT lectures](img/cost_value_relationship.png)
+
+-   Elements of a process, process map, value in a process, five fundamental lean principles, concepts and tools for implementing lean principles.
+
+    -   Process is a series of actions, changes, or functions which transform inputs to outputs.
+
+    -   Customers also drive the inputs to a process through their needs and requirements
+
+    -   Process map
+
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 1.  Over-production            | Creating more material or information or tests or treatment than needed                   |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 2.  Inventory                  | More material or information than needed                                                  |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 3.  Transportation             | Moving material or informatio or people                                                   |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 4.  Unnecessary movement       | Moving employees to access or process material or information or patients                 |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 5.  Waiting                    | Waiting for material, information or treatment or work in process waiting to be processed |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 6.  Defective outputs          | Errors or mistakes causing the effort to be redone to correct the problem                 |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 7.  Over-processing            | Processing more thena necessary to produce the desired output                             |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+    | 8.  Unused employee creativity | Losing improvement opportunities by not engaging or listening to employees                |
+    +--------------------------------+-------------------------------------------------------------------------------------------+
+
+![Illustration of a mapping process for opening stores at Portobello](img/ptbl_open_store_map.png)
+
+-   Types of value in process steps
+
+    -   Value added process steps
+
+    -   Necessary waste process steps
+
+    -   Pure waste process steps
+
+-   Strategy-driven processes
+
+    -   
+
+![Process model guided by strategic goals](img/process_guided_strat_goals.png)
+
+-   Genchi genbutsu principles, relying on data and observations produced by others does not give a complete understanding.
+
+    -   Go to the actual place
+
+    -   Talk to the actual people
+
+    -   Doing the actual work
+
+-   Why mapping process is important?
+
+![Process design throughout the business life cycle](img/why_process.png)
 
 Sorce: MIT by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen
 
@@ -91,17 +147,27 @@ Source: MIT by y Brian Anthony
 
 -   Use of laser ultrasound imaging to capture charateristics of object and build digital map for 3D print for example see inside of pipeflows for contaminants. Motion vision make decision base on video in process manufacturing with feedback decision.
 
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Tools of the day1                                            | Tools of the day2           | Tools of the day3                 | Tools of the day4                                           |
-|--------------------------------------------------------------|-----------------------------|-----------------------------------|-------------------------------------------------------------|
++==============================================================+=============================+===================================+=============================================================+
 | Machine learning for real time process control and monitorig | Discrete Event Simulation   | Security: Homomorphic Encryptions | Complex Assemblies                                          |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Deep reinforcement learning for real-time control            | Synthetic Training          | Inverse Problems                  | Unsupervised learning - assemblies, test, and quality check |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Time-series classification with CNN and LSTM                 |                             |                                   | LSTM RNN vs Clustering                                      |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | **Cases of the Day1**                                        | **Cases of the Day2**       | **Cases of the Day3**             | **Cases of the Day4**                                       |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Food processing                                              | Automotive                  | Imaging                           | Packaging                                                   |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Ambient Sensing in the Home                                  | Fiber                       | Inverse Design                    | Automotive                                                  |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Fiber                                                        |                             |                                   |                                                             |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | **Themes**                                                   | **Themes**                  | **Themes**                        | **Themes**                                                  |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 | Continuous processing                                        | Systems/Lin/Batch processes | Design and Inverse problems       | Complex Assembly and Test                                   |
++--------------------------------------------------------------+-----------------------------+-----------------------------------+-------------------------------------------------------------+
 
 : Calendar
 
