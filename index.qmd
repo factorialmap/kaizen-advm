@@ -8,7 +8,7 @@ about:
 
 :::{#me}
 
-## Goals
+### [**Goals**]{style="color: #9D0F6A ;"}
 
 - Talk about my career as a Business & Process Improvement Analyst.
 - Lean principles, PDCA and quality tools.
@@ -16,12 +16,14 @@ about:
 - Data analysis in advanced manufacturing.
 - Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.
 
-## Education
+### [**Education**]{style="color: #9D0F6A ;"}
+
 
 - Agro-industrial production and management - MS
 - Business Administration - BA
 
-## Experience
+
+### [**Experience**]{style="color: #9D0F6A ;"}
 
 - Process improvement
 - Statistic

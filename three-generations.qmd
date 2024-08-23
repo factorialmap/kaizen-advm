@@ -2,6 +2,9 @@
 title: "Past, Present, and Future of Manufacturing in US"
 ---
 
+In this space, I share some details about research and studies that I have been working on.
+
+
 **Past**
 
 -   Industrial revolution 1865, Carnegie, bessemer process etc.

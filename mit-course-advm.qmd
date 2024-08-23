@@ -3,7 +3,10 @@ title: "MIT courses on Manufacturing"
 bibliography: references.bib
 ---
 
-### Introduction to Lean Six Sigma Methods
+In this space, I share some details about research and studies that I have been working on.
+
+### [**Introduction to Lean Six Sigma Methods**]{style="color: #9D0F6A ;"}
+
 
 -   Overview about patterns and characteristics such as productivity, quality defects, training hours between North American and Japanese manufacturing in 1990.
 
@@ -71,7 +74,9 @@ bibliography: references.bib
 
 Sorce: MIT by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen
 
-### Innovation Systems for Science, Technology, Energy, Manufacturing, and Health
+
+### [**Innovation Systems for Science, Technology, Energy, Manufacturing, and Health**]{style="color: #9D0F6A ;"}
+
 
 **What is**
 
@@ -117,7 +122,8 @@ Research \> Development \> Prototype \> Demo \> Test \> Production \> Market
 
 Source: MIT by by William Bonvillian
 
-### Smart Manufacturing: Moving From Static to Dynamic Manufacturing Operations
+### [**Smart Manufacturing: Moving From Static to Dynamic Manufacturing Operations**]{style="color: #9D0F6A ;"}
+
 
 -   
 
@@ -127,7 +133,8 @@ Source: MIT by by William Bonvillian
 
 Source: MIT by by Brian Anthony
 
-### Industrial Internet of Things: From Theory to Applications
+### [**Industrial Internet of Things: From Theory to Applications**]{style="color: #9D0F6A ;"}
+
 
 -   
 
@@ -137,7 +144,8 @@ Source: MIT by by Brian Anthony
 
 Source: MIT by y Brian Anthony
 
-### Advanced Data Analytics For IIOT and Smart Manufacturing
+### [**Advanced Data Analytics For IIOT and Smart Manufacturing**]{style="color: #9D0F6A ;"}
+
 
 -   This course is on Campus, and is closed. Course length: 4 days
 
@@ -173,7 +181,8 @@ Source: MIT by y Brian Anthony
 
 Source: MIT by Brian Anthony
 
-### Advanced Additive Manufacturing for Innovative Design and Production
+### [**Advanced Additive Manufacturing for Innovative Design and Production**]{style="color: #9D0F6A ;"}
+
 
 -   
 

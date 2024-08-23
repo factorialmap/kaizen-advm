@@ -6,22 +6,22 @@ Some projects I've worked on during my career
 
 ## Bertin S/A - 1999 to 2009
 
-[**Business**]{style="color: #9D0F6A ;"}
+### [**Business**]{style="color: #9D0F6A ;"}
 
 Bertin S/A was a meat processing company that manufactures beef-based proteins that, after merging with Friboi, formed JBS Global, which currently generates 250,000 jobs globally.
 
-[**Goals**]{style="color: #9D0F6A ;"}
+### [**Goals**]{style="color: #9D0F6A ;"}
 
 The goal was to build a tool that would help in decision-making to reduce COGS(cost of good sold) by 2%. COGS, in turn, represented 80% of the company's revenue.
 
-[**Activities:**]{style="color: #9D0F6A ;"}
+### [**Activities**]{style="color: #9D0F6A ;"}
 
 -   Create a low-latency business intelligence structure and deploy it on the factory floor in 9 manufacturing plants.
 -   Develop an intergrated planning system using linear programming to assist in strategic decisions.
 -   Train teams of operators, supervisors, managers in lean manufacturing principles and businesss intelligence tools.
 -   Coordinate 15 kaizen project in the areas of energy, production processes, slaughter, deboning, and logistics.
 
-[**Accomplishments:**]{style="color: #9D0F6A ;"}
+### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
 -   Reduced cost of good sold(COGS) by 2%, around 27 million dollars in 2007.
 -   Supported the commercial team in demonstrating the best product mix.
@@ -36,15 +36,15 @@ The goal was to build a tool that would help in decision-making to reduce COGS(c
 
 ## GovBR - 2011-2012
 
-[**Business**]{style="color: #9D0F6A ;"}
+### [**Business**]{style="color: #9D0F6A ;"}
 
 GOVBR is a software development company that provides solutions for improving public management.
 
-[**Goals**]{style="color: #9D0F6A ;"}
+### [**Goals**]{style="color: #9D0F6A ;"}
 
 Improve company valuation through transparency in the communication of operational and financial data.
 
-[**Activities:**]{style="color: #9D0F6A ;"}
+### [**Activities**]{style="color: #9D0F6A ;"}
 
 -   Carry out process mapping and gathering information about internal financial statement communications.
 
@@ -54,7 +54,7 @@ Improve company valuation through transparency in the communication of operation
 
 -   Created dashboards using QlikView tools to monitor results. - Analyzed balance sheets and financial statements, looking for improvements and implementing changes.
 
-[**Accomplishments:**]{style="color: #9D0F6A ;"}
+### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
 -   Redesigned and provided a P&L report format using public company standards and a defined schedule.
 -   Enabled teams to communicate results effectively in written and oral formats to various audiences.
@@ -65,24 +65,24 @@ Improve company valuation through transparency in the communication of operation
 
 ## Portobello Shop - 2014 - 2016
 
-[**Business**]{style="color: #9D0F6A ;"}
+### [**Business**]{style="color: #9D0F6A ;"}
 
 Portobello S/A is a high-end ceramic tile manufacturer in Brazil (Tijucas, SC) and the United States of America (Baxter, TN).
 
-[**Goals**]{style="color: #9D0F6A ;"}
+### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Open new stores
 -   Increase store sales
 -   provide better customer service.
 
-[**Activities:**]{style="color: #9D0F6A ;"}
+### [**Activities**]{style="color: #9D0F6A ;"}
 
 -   Mapping internal processes, running, monitoring, looking for improvements, and implementing changes.
 -   Improved data quality and user interface for Neoway Radar, a big data tool used to increase external sales.
 -   Developed manual and trained support teams on the use of new software tools.\
 -   Supported the business intelligence area and created indicators and dashboards for strategic goals.
 
-[**Accomplishments:**]{style="color: #9D0F6A ;"}
+### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
 -   Increased the speed of opening new stores from 8 to 12 per year.
 -   Increased external sales by 86% in 2015.
@@ -95,11 +95,11 @@ Portobello S/A is a high-end ceramic tile manufacturer in Brazil (Tijucas, SC) a
 
 ## Delta Brindes - 2019 - 2023
 
-[**Business**]{style="color: #9D0F6A ;"}
+### [**Business**]{style="color: #9D0F6A ;"}
 
 Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil
 
-[**Goals**]{style="color: #9D0F6A ;"}
+### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Improve the company's vision capability, allowing decisions to be made with grater speend and accuracy.
 
@@ -111,18 +111,18 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 -   Increase revenue from existing customers.
 
-[**Activities - Strategic position:**]{style="color: #9D0F6A ;"}
+### [**Activities - Strategic position**]{style="color: #9D0F6A ;"}
 
 -   Created a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/quotations, market sentiment, and operational performance.
 
 -   Used data to anticipate macroeconomic and market behavior to support the CEO's decisions.
 
-[**Activities - Tactical and operational positions:**]{style="color: #9D0F6A ;"}
+### [**Activities - Tactical and operational positions**]{style="color: #9D0F6A ;"}
 
 -   Performed day-to-day tasks, mapped processes, and suggested and implemented improvements.
 -   Documented and trained teams for distribution planning activities, shipments, customer quotes, and communication to maintain a positive relationship with customers and suppliers.
 
-[**Accomplishments:**]{style="color: #9D0F6A ;"}
+### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
 -   Reduced shipping errors caused by registration problems by 98% and setup time from 1 day to 20 minutes.
 -   Implemented ERP system, Business Intelligence, and a new data collection and analysis structure, and trained staff.

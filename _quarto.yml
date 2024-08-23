@@ -22,12 +22,12 @@ website:
       title: "Research 2024"
       collapse-level: 6
       contents: 
-        - href: three-generations.qmd
         - href: action-plan-us-advm.qmd
         - href: mit-course-advm.qmd
         - href: research-us-mfg.qmd
         - href: data-analysis-mfg.qmd
         - href: macroeconomic.qmd
+        - href: three-generations.qmd
       tools:
       - icon: twitter
         href: https://twitter.com/factorialmap

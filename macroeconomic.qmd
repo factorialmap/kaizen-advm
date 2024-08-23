@@ -7,9 +7,11 @@ execute:
   echo: false
 ---
 
+In this space, I share some details about research and studies that I have been working on.
+
 ## 2024 United States
 
-### Gross Domestic Product - GDP
+### [**Gross Domestic Product - GDP**]{style="color: #9D0F6A ;"}
 
 -   Real gross domestic product increased at an annual rate of 2.8% in the second quarter of 2024. Drivers are consumer spending, private inventory investment, and nonresidential fixed investment.
 
@@ -25,7 +27,7 @@ execute:
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
-### Inflation
+### [**Inflation**]{style="color: #9D0F6A ;"}
 
 -   The Federal Open Market Committee at Jackson Hole during Aug 22-24, 2024.
 
@@ -33,13 +35,13 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
-### Interest rates
+### [**Interest rates**]{style="color: #9D0F6A ;"}
 
 -   Insert text here
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
-### Labor
+### [**Labor**]{style="color: #9D0F6A ;"}
 
 -   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims for the week ending Aug 3, 2024 is 1.864 million. That is slightly more than the four-week moving average of 1.862 million. Meanwhile the number of initial claims for the week ending Aug. 3, 2024 is 233.000 lower than the four-week moving average of 240.750. The chart created by @dimartino2024 shows more details about the indicator.
 
@@ -107,7 +109,7 @@ data_wk_hours %>%
 
 Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
 
-### 10-Year Treasury bonds
+### [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
 -   United States Central Bank Rate stands at 5.50%, following the most recent adjustment in july 2023.
 -   The chart below shows the United States 10-Year Government Bond yield
@@ -135,7 +137,7 @@ data_10y_bonds %>%
 
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
-### 10Y3M curve
+### [**10Y3M curve**]{style="color: #9D0F6A ;"}
 
 -   The spread between United States 10-Year and 3-Months is -136.6 basis points(bp)
 
@@ -157,9 +159,9 @@ data_yield_curve %>%
 
 Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
-### Overview 2Q24
+### [**Overview 2Q24**]{style="color: #9D0F6A ;"}
 
-#### Overall
+#### [**Overall**]{style="color: #9D0F6A ;"}
 
 Revenue's cash flow is a challenge which has a short-term effect on supply chains, labor market and debt costs as some of them are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their process searching for efficiency.
 
@@ -173,17 +175,17 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
 
 -   Increase of risk of plain vanilla recession
 
-#### Agroindustry: dairy sector adjustments, machines (e.g. John Deer).
+#### [**Agroindustry: dairy sector adjustments, machines (e.g. John Deer).**]{style="color: #9D0F6A ;"}
 
 -   here
 
-#### Auto industry: sales, operation results, investments, and projections
+#### [**Auto industry: sales, operation results, investments, and projections**]{style="color: #9D0F6A ;"}
 
 -   here
 
 ![Auto sales by brand 2Q24](img/auto_results_24.jpg)
 
-#### Transportation: carrier population, tender rejections, volume, capacity.
+#### [**Transportation: carrier population, tender rejections, volume, capacity**]{style="color: #9D0F6A ;"}
 
 There was overcapacity in carrier population during the period from 2020 to 2023 due to demand that has been inconsistent over time and is currently undergoing adjustments. However, capacity still presents high values in relation to valumes and demand, pressuring agents to adjust their operations in search for efficiency gains. Some of those carriers are contracting reducing their fleets sizes in order to move forward. On the other side the carriers population are reduced in 32.500 from december of 2022 to june of 2024.
 
@@ -195,15 +197,15 @@ There was overcapacity in carrier population during the period from 2020 to 2023
 
 -   Flat bed in spot market currently \$2.34 per mile -1% YoY and -7% over five years.
 
-#### Technology: growth, AI, balance sheet adjustments, labor force,
+#### [**Technology: growth, AI, balance sheet adjustments, labor force**]{style="color: #9D0F6A ;"}
 
 -   here
 
-#### Construction:index, prices, new home sales, labor force, permits, projections.
+#### [**Construction:index, prices, new home sales, labor force, permits, projections**]{style="color: #9D0F6A ;"}
 
 -   here
 
-#### Manufacturing:sector, investments, construction site, infraestructute, training, labor force.
+#### [**Manufacturing:sector, investments, construction site, infraestructute, training, labor force**]{style="color: #9D0F6A ;"}
 
 -   here
 

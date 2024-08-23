@@ -2,17 +2,17 @@
 title: "Data Science in Manufacturing"
 ---
 
-### Predictive Analysis
+### [**Predictive Analysis**]{style="color: #9D0F6A ;"}
 
 Manufacturers make the most of data by employing predictive analysis to monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Data are analyzed to identify and avoid recurrent problems or errors in the future.
 
-### Maintenace
+### [**Maintenace**]{style="color: #9D0F6A ;"}
 
 Data analysis plays a crucial role in predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency.
 
 Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.
 
-### Price reduction
+### [**Price reduction**]{style="color: #9D0F6A ;"}
 
 Data analysis helping manufaturers to optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must mconsider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques.
 
@@ -34,7 +34,7 @@ Examples:
 
 -   Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.
 
-### Robotization and Automation
+### [**Robotization and Automation**]{style="color: #9D0F6A ;"}
 
 Data analysis is transforming the manufacturing industry by enabling the widespread adoption of automation technologies. Robots are increasingly being used to perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(**Exploring more in this topic in the future**), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs.
 
@@ -48,7 +48,7 @@ Examples:
 
 -   Streamline robot integration and deployment, reducing downtime increasing productivity and availability.
 
-### Directing the Supply Chain
+### [**Directing the Supply Chain**]{style="color: #9D0F6A ;"}
 
 Data science could help manufaturers to navigate complex risks and uncertainties, and proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact.
 
@@ -68,11 +68,11 @@ Examples:
 
 -   Optimize inventory management and reduce waste.
 
-### Inventory Control and Demand Forecasting
+### [**Inventory Control and Demand Forecasting**]{style="color: #9D0F6A ;"}
 
 -   Este precisa ser repensado por que ao meu ver sofrerá grandes mudanças.
 
-### Warranty Analysis
+### [**Warranty Analysis**]{style="color: #9D0F6A ;"}
 
 Warranty analysis is a critical aspect of product development, and data science plays an important role in helping manufacturers optimize their warranty claims process.
 
@@ -104,7 +104,7 @@ By analyzing this data, manufaturers can gain valuable insights into product per
 
 With data-driven insights, manufacturers can make informed decisions about product development, quality control, and warranty claims management, ultimately driving business growht and success.
 
-### Product Authenticity
+### [**Product Authenticity**]{style="color: #9D0F6A ;"}
 
 Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health.
 
