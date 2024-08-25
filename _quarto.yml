@@ -20,8 +20,9 @@ website:
   sidebar: 
     - id: research_2024
       title: "Research 2024"
-      collapse-level: 6
+      collapse-level: 7
       contents: 
+        - href: calendar.qmd
         - href: action-plan-us-advm.qmd
         - href: mit-course-advm.qmd
         - href: research-us-mfg.qmd

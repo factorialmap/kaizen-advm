@@ -1,0 +1,17 @@
+{
+  "hash": "41a15849d09f934bc5c8fd4d49740876",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Calendar\"\nexecute: \n  warning: false\n  echo: false\n---\n\n\n\n\n### [Calendar 2024]{style=\"color: #9D0F6A ;\"}\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](calendar_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "calendar_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

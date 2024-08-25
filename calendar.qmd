@@ -1,0 +1,40 @@
+---
+title: "Calendar"
+execute: 
+  warning: false
+  echo: false
+---
+
+### [Calendar 2024]{style="color: #9D0F6A ;"}
+
+```{r}
+
+library(tidyverse)
+library(ganttrify)
+
+data_gantt <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/models/quarto_projects/db/gantt_research24.xlsx", sheet = 1)
+data_spot <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/models/quarto_projects/db/gantt_research24.xlsx", sheet = 2)
+
+
+#make gantt chart
+ganttrify(
+  project = data_gantt,
+  spots = data_spot,
+  spot_size_text_relative = 1,
+  spot_fill = ggplot2::alpha(c("white"), 0.1),
+  spot_padding = unit(0.6, "lines"),
+  project_start_date = "2024-01",
+  #hide_wp = TRUE,
+  alpha_wp = 0.5,
+  alpha_activity = 0.8,
+  line_end_wp = "round",
+  line_end_activity = "round",
+  size_text_relative = .9,
+  mark_quarters = TRUE,
+  font_family = "sans"
+) +
+  labs(title = "Immigration process and ongoing activities",
+       subtitle = "2024 - Marcelo Carvalho",
+       caption = "@carvalhoribeiro | USCIS/NVC data")
+
+```
