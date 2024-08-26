@@ -166,7 +166,7 @@ data_yield_curve %>%
 
 Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
-### [**Overview 2Q24**]{style="color: #9D0F6A ;"}
+### [**Sectors 2Q24**]{style="color: #9D0F6A ;"}
 
 #### [**Overall**]{style="color: #9D0F6A ;"}
 
@@ -182,15 +182,60 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
 
 -   Increase of risk of plain vanilla recession
 
-#### [**Agroindustry: dairy sector adjustments, machines (e.g. John Deer).**]{style="color: #9D0F6A ;"}
+#### [**Agroindustry:**]{style="color: #9D0F6A ;"}
 
--   here
+-   2023 was an incredible year for agriculture, with high productivity for wheat and corn. In 2024, the harvest is a little late in South Dakota area for example. There was high intensity of rainfall at the beginning of planting with mild temperatutes, causing the crop not to develop as much as in 2023. During the what harvest, usually in August, the corn needs rain to fill the grain, but this year there was not much rain during this period.
+
+-   The distortions generated during the pandemic make 2024 a year of adjusments that are being faced by producers, the agricultural manufacturing industry, the sale of machinery and equipment temporarily affeting jobs.
+
+-   As for agricultural prices, they are still not good. The expectation is not for a bad year, but it will not be as good as 2023. Sales of new equipment have fallen, making it necessary to adjust costs and expenses in companies such as John Deer and CNH industrial.
 
 #### [**Auto industry: sales, operation results, investments, and projections**]{style="color: #9D0F6A ;"}
 
--   here
+-   The autoindustry faces many challenges in 2024. Slowdown in growth, increased competition and distortions in and supply chain caused during the pandemic and business decisions caused distortions in costs and prices that grew way above the population's income and general inflation rates. This process may take a few years to stabilize.
+
+-   Another phenomemon observed is that the volume of new car sales does not follow the same trend as population growth. It requires a deeper analysis to identify cause-and-effect relationships, but for now, the hypotheses raised are accessibility and the durability of the vehicles @autolinenetwork2024.
+
+    -   Prices: Historically, it takes 25 weeks of average household income to buy a new vehicle. The average household income in 2024 is \$75.000(\$1.400 per week) which would be enough to buy a vehicle worth \$36.000 dollars.
+
+    -   Age of Vehicles: The average age of vehicle on the road in the United States is 12.6 years acording to @parekh2024
+
+```{r}
+
+library(tidyverse)
+library(scales)
+
+data_us_pop <- tribble(~year,~pop, ~vehicle_sales,
+                       1970, 203211926,13290000, 
+                       1980, 226545805,11464000,
+                       1990, 248709873,14141000,
+                       2000, 281421906,17811000,
+                       2010, 308745538,11772000,
+                       2020, 331449281,14881000,
+                       2023, 331449281,16032000)
+
+data_us_pop %>% 
+  pivot_longer(cols =-year,
+               names_to = "indicator",
+               values_to = "value") %>% 
+  ggplot(aes(x = year, y = value))+
+  geom_line(color = "#9D0F6A")+
+  facet_wrap(~indicator, scales = "free" )+
+  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))+
+  theme_minimal()+
+  labs(
+    title = "Population growth vs Vehicle sales",
+    x = "",
+    y = "",
+    caption = "Source: ww.census.gov | FRED ")
+```
+
+-   Adjustments in scale, costs, processes, and supply chain econsystems are refleted in the companies' financial results, which are already starting to become tighter.
 
 ![Auto sales by brand 2Q24](img/auto_results_24.jpg)
+
+
+- Reducing costs and prices, increasing household income, and finding more sources of revenue such as subscription services are some options that can be observed in the market.
 
 #### [**Transportation: carrier population, tender rejections, volume, capacity**]{style="color: #9D0F6A ;"}
 
@@ -216,4 +261,3 @@ There was overcapacity in carrier population during the period from 2020 to 2023
 
 -   here
 
-Source: CNBC, The week in Agribusiness, The Autoline Daily, Bloomberg, Trucking Made Successful,
