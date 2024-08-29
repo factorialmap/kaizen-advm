@@ -46,6 +46,40 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 >
 > — Jerome Powell
 
+```{r}
+
+library(tidyverse)
+library(tidyquant)
+library(scales)
+library(ggrepel)
+
+data_interest_rate <-  tq_get("DFF", 
+                              get = "economic.data",
+                              from = "1970-01-01",
+                              to = "2025-01-01")
+
+data_end_interest_rate <- data_interest_rate %>% tail(1)
+
+data_interest_rate %>% 
+  ggplot(aes(x = date, y = price))+
+  geom_line(linewidth = 0.5,
+            color = "navy")+
+  scale_y_continuous(
+    labels = label_number(scale_cut = cut_short_scale())
+  )+
+  geom_text_repel(
+    aes(label = price,
+        hjust = 1),
+    data = data_end_interest_rate
+  )+
+  theme_minimal()+
+  labs(title = "Federal Funds Effective Rate",
+       x = "Period",
+       y = "Rate in %",
+       caption = "Source: FRED")
+
+```
+
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ### [**Labor**]{style="color: #9D0F6A ;"}
@@ -284,56 +318,56 @@ data_ml %>%
 
 **Infraestructure**
 
--   Computing: Amazon, Google, Microsoft, Nvidia
+-   **Computing:** Amazon, Google, Microsoft, Nvidia
 
--   AI foundation models: OpenAI(Msft), Anthropic(Google/Amazon), Cohere(Nvidia)
+-   **AI foundation models:** OpenAI(Msft), Anthropic(Google/Amazon), Cohere(Nvidia)
 
--   Model development & deployment: Modular(Google)
+-   **Model development & deployment:** Modular(Google)
 
--   Systhetic data: Hazy(Microsoft)
+-   **Systhetic data:** Hazy(Microsoft)
 
 **Horizontal AI**
 
 Horizontal AI refers to AI systems that have a broad range of capabilities and can be applied across multiple industries, domais, or tasks. These systems are often more general-purpose and can be trained on a wide range of data sources(e.g. natural language processing in virtual assistant, general purpose machine learning frameworks like pytorch or tensorflow, cognitive architectures etc.)
 
--   AI commpanions(autonomous agents): Adept e Inflection(msft, nvda), Cognosys e graft(goog), Imbue(amzn, nvda)
+-   **AI commpanions(autonomous agents):** Adept e Inflection(msft, nvda), Cognosys e graft(goog), Imbue(amzn, nvda)
 
--   Digital Twins: blackshark.ai (msft)
+-   **Digital Twins:** blackshark.ai (msft), Siemens TeamCenter X, Autodesk Revit @nvidia2024
 
--   HR: moonhub(goog), smartymeet(amzn)
+-   **HR:** moonhub(goog), smartymeet(amzn)
 
--   Productivity & knowledge management: essential AI(goog, nvda), Humata(goog), Redactabl(goog)
+-   **Productivity & knowledge management:** essential AI(goog, nvda), Humata(goog), Redactabl(goog)
 
--   Marketing and sales: Outreach(msft), Speedy(goog)
+-   **Marketing and sales:** Outreach(msft), Speedy(goog)
 
--   Search: perplexity and twelve labs(nvda)
+-   **Search:** perplexity and twelve labs(nvda)
 
--   Stell tech: osmo(goog)
+-   **Stell tech:** osmo(goog)
 
--   Software development: Bulder.ai (msft)
+-   **Software development:** Bulder.ai (msft)
 
 **Vertical AI**
 
 Vertical AI are often designed to perform a specific task or set of tasks within a particular industry or domain, and to integrate with existing systems and workflows within an organization, making them useful for solving specific business problems.Theses systems are typically narrow in their focus and are trained on a specific dataset or set of rules to excel in the specific area(e.g. img recognition for medical diagnosis, sentiment analysis tools for custormer service, predictive maintenance for mfg equipment etc).
 
--   Agriculture: Bowery(goog)
+-   **Agriculture:** Bowery(goog)
 
--   Education: Elsa(goog)
+-   **Education:** Elsa(goog)
 
--   Healthcare/life science: Charm, Generate Biomedicine, Genesis therapeutics, Lambic, Inceptive, Superliminal, flyweel(nvda), layer health, seismic, tidalflow(goog), paige, flyweel(msft)
+-   **Healthcare/life science:** Charm, Generate Biomedicine, Genesis therapeutics, Lambic, Inceptive, Superliminal, flyweel(nvda), layer health, seismic, tidalflow(goog), paige, flyweel(msft)
 
--   Manufacturing: machina labs(nvda), nobble.ai(msft), veo robotics(amzn)
+-   **Manufacturing:** machina labs(nvda), nobble.ai(msft), veo robotics(amzn)
 
--   Real Estate: jitty(goog)
+-   **Real Estate:** jitty(goog)
 
--   Warehousing and logisticis: flymingo(amzn), gatik, invia, nautilus labs, netradyne, nextbillionai(msft) outtrider, serve(nvda)
+-   **Warehousing and logisticis:** flymingo(amzn), gatik, invia, nautilus labs, netradyne, nextbillionai(msft) outtrider, serve(nvda)
 
--   Waste management: amp robotics(msft)
+-   **Waste management:** amp robotics(msft)
 
-#### [**Construction:index, prices, new home sales, labor force, permits, projections**]{style="color: #9D0F6A ;"}
+#### [**Housing market and construction:index, prices, new home sales, labor force, permits, projections**]{style="color: #9D0F6A ;"}
 
 -   here
 
-#### [**Manufacturing:sector, investments, construction site, infraestructute, training, labor force**]{style="color: #9D0F6A ;"}
+#### [**Manufacturing: sector, investments, construction site, infraestructute, training, labor force**]{style="color: #9D0F6A ;"}
 
 -   here

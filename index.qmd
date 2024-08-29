@@ -6,32 +6,32 @@ about:
   image: img/profile.png
 ---
 
-:::{#me}
-
+::: {#me}
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-- Talk about my career as a Business & Process Improvement Analyst.
-- Lean principles, PDCA and quality tools.
-- Machine learning applied to manufacturing.
-- Data analysis in advanced manufacturing.
-- Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.
+-   Talk about my career as a Business & Process Improvement Analyst.
+-   Lean principles, PDCA and quality tools.
+-   Machine learning applied to manufacturing.
+-   Data analysis in advanced manufacturing.
+-   Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
-
-- Agro-industrial production and management - MS
-- Business Administration - BA
-
+-   Agro-industrial production and management - MS
+-   Business Administration - BA
 
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
-- Process improvement
-- Statistic
-- Machine Learning Models
-- R programming language
-- Business Intelligence
-- Data Analysis
-
+-   Process improvement
+-   Statistic
+-   Machine Learning Models
+-   R programming language
+-   Business Intelligence
+-   Data Analysis
 :::
+
+> Despite years of experience, maintain humility and intellectual curiosity. Approach learning with the openness and hunger of a child
+>
+> — Marcelo Carvalho dos Anjos
 
 Thanks for checking out my web site!
