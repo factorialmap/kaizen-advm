@@ -171,6 +171,7 @@ data_10y_bonds %>%
     aes(label = price),
     data = data_10y_end
   )+
+  theme_minimal()+
   labs(title = "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
       caption = "Soure: FRED")
 
@@ -364,10 +365,114 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 -   **Waste management:** amp robotics(msft)
 
-#### [**Housing market and construction:index, prices, new home sales, labor force, permits, projections**]{style="color: #9D0F6A ;"}
+#### [**Housing market and construction: prices, new home sales**]{style="color: #9D0F6A ;"}
 
--   here
+-   The U.S. median home price in 2Q24 is \$412.300 compared to \$418.500 last year a decrease of 1.48%.
+
+-   When observed from the perspective of supply and demand, the plot below shows the behaviors in more detail.
+
+```{r}
+#| label: house_mkt
+
+data_house_supply <- tq_get("MSACSR", 
+                            get = "economic.data",
+                            from = "2000-01-01",
+                            to = Sys.Date())
+
+data_house_supply_end <- data_house_supply %>% tail(1)
+
+
+data_house_supply %>% 
+  ggplot(aes(x = date, y = price))+
+  geom_line(linewidth = 0.5,
+            color = "navy")+
+  geom_text_repel(
+    aes(label = price),
+    data = data_house_supply_end
+  )+
+  theme_minimal()+
+  labs(title = "Montly Supply of New Houses in the United States",
+      caption = "Soure: FRED")
+
+```
+
+-   In 2024 home buyers are looking for better prices and interest rates, home offices continuing a popular feature, two family homes with smarter technologies and other factors that may be relevant such as a laundry room, ceilling fans, energy star rated windows, patio, hardwood floors in the living areas, and side-by-side kitchen sink, and close to fun and public transportation.
 
 #### [**Manufacturing: sector, investments, construction site, infraestructute, training, labor force**]{style="color: #9D0F6A ;"}
 
--   here
+-   In 2024, the United States manufatured over 18% of global high-technology goods.This scenario is changing rapidly.
+
+-   Looking at gross private domestric investment, it has been growing 7.6% in 2024. Below is an overview of private investments the manufacturing sector.
+
+```{r}
+#| label: invest_america
+
+library(waterfalls)
+
+data_invest <- tribble(~sector, ~value,
+                       "Semiconductor", 395,
+                       "Ev & batteries", 177,
+                       "Clean power", 160,
+                       "Clean energy mfg", 80,
+                       "Bio mfg",42,
+                       "Heavy industry",42)
+
+data_invest %>% 
+  waterfalls::waterfall(
+    calc_total = TRUE,
+    total_rect_color = "#9D0F6A"
+  )+
+  theme_minimal()+
+  labs(title = "Distribution of manufacturing investments by sector",
+       caption = "Source: White House",
+       y = "Billion US dollar",
+       x =  "")+
+  coord_flip()
+
+```
+
+-   Looking at the manufacturing plants construction sites such as
+    -   **Semiconductor:** TSMC (Phenix, AZ) , Wolfspeed(Pittsboro,NC), Intel(Licking County, OH), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT), Samsung(Taylor, TX), Texas Instruments(Sherman, TX)
+    -   **Batteries:** Toyota (Liberty, NC), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS), Ford SK (Stanton, TN)
+    -   **Biomanufacturing:** Moderna(Marlborough,MA), Pfizer(Peral River, NY), Thermo Fisher(Greenville, NC), Novo Nordisk(Clayton, NC), Fujifilm(Holly Springs, NC), Genentech(Oceanside, CA)
+    -   **Heavy Industry:** Norsk Hydro(Cassopolis, MI), Altex Heat Exchanger(Columbus, MS), Nucor(Kingman, AZ), GE Appliances(Louisville, KY), JSW Steel(Mingo Junction, Ohio)
+    -   **Clean Power:** Tesla, Buffalo Branch Wind, Skipjack Offshore Energy, Engie NA,
+    -   **Clean Energy Manufacturing:** Boom Supersonic(Greensboro, NC), Electric Hydrogen(Devens, MA), Siemens Gamesa(Port of Coeuumans, NY)
+-   Looking to training and labor force, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
+-   In 2023, there are approximately 1,476 community colleges in the United States. These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers @wellington2023. Community college students also are among the more diverse in postsecondary education acording to @education2024
+
+```{r}
+
+library(tidyverse)
+
+data_com_college <- tribble(~state, ~num_comm_college,
+                            "California", 184,
+                            "Texas",101,
+                            "New York",75,
+                            "Florida",74,
+                            "Ohio",73,
+                            "North Carolina",63,
+                            "Pennsylvania",62,
+                            "Illinois",57,
+                            "Georgia",46,
+                            "Virginia",41,
+                            "Washington",39,
+                            "Arizona",36,
+                            "Others 46", 625)
+
+
+data_com_college %>% 
+  waterfalls::waterfall(calc_total = TRUE,
+                        total_rect_color = "#9D0F6A",
+                        rect_text_size = 1,
+                        rect_width = .7,
+                        scale_y_to_waterfall = TRUE
+                        )+
+  theme_minimal()+
+  coord_flip()+
+  labs(title = "Geographic Distribution of Community College in U.S." ,
+       x = "",
+       y = "",
+       caption = "Source: US News-2023")
+
+```
