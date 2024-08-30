@@ -63,7 +63,7 @@ data_end_interest_rate <- data_interest_rate %>% tail(1)
 data_interest_rate %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "navy")+
+            color = "#9D0F6A")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -96,14 +96,17 @@ library(scales)
 library(ggrepel)
 
 #Continued Claims (Insured Unemployment) from FRED
-data_continuos_claims <-  tq_get("CCSA", get = "economic.data")
+data_continuos_claims <-  tq_get("CCSA", 
+                                 get = "economic.data",
+                                 from = "1970-01-01",
+                                 to = "2025-01-01")
 
 data_end <- data_continuos_claims %>% tail(1)
 
 data_continuos_claims %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "navy")+
+            color = "#9D0F6A")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -126,14 +129,17 @@ data_continuos_claims %>%
 #Average weekly hours of all employees, total private ()
 #Table B-2. Average weekly hours and overtime of all employees on private nonfarm payrolls by industry sector, seasonally adjusted
 
-data_wk_hours <-  tq_get("AWHAETP", get = "economic.data")
+data_wk_hours <-  tq_get("AWHAETP", 
+                         get = "economic.data",
+                         from = "1970-01-01",
+                         to = "2025-01-01")
 
 data_end_wk_hours <- data_wk_hours %>% tail(1)
 
 data_wk_hours %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5, 
-            color = "navy")+
+            color = "#9D0F6A")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -158,7 +164,10 @@ Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.go
 ```{r}
 #| label: bonds_10y
 
-data_10y_bonds <- tq_get("DGS10", get = "economic.data")
+data_10y_bonds <- tq_get("DGS10", 
+                         get = "economic.data",
+                         from = "1970-01-01",
+                         to = "2025-01-01")
 
 data_10y_end <- data_10y_bonds %>% tail(1)
 
@@ -166,7 +175,7 @@ data_10y_end <- data_10y_bonds %>% tail(1)
 data_10y_bonds %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "navy")+
+            color = "#9D0F6A")+
   geom_text_repel(
     aes(label = price),
     data = data_10y_end
@@ -186,13 +195,16 @@ Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouis
 ```{r}
 #| label: yield_curve
 
-data_yield_curve <- tq_get("T10Y3M", get = "economic.data")
+data_yield_curve <- tq_get("T10Y3M", 
+                           get = "economic.data",
+                           from = "1970-01-01",
+                           to = "2025-01-01")
 
 
 data_yield_curve %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = .5,
-            color = "navy")+
+            color = "#9D0F6A")+
   geom_hline(yintercept = 0, linewidth = 1, color = "red")+
   theme_minimal()+
   labs(title = "Yield Curve 10-year bonds vs T-bills 13 weeks")
@@ -385,13 +397,13 @@ data_house_supply_end <- data_house_supply %>% tail(1)
 data_house_supply %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "navy")+
+            color = "#9D0F6A")+
   geom_text_repel(
     aes(label = price),
     data = data_house_supply_end
   )+
   theme_minimal()+
-  labs(title = "Montly Supply of New Houses in the United States",
+  labs(title = "Montly Supply of New Houses",
       caption = "Soure: FRED")
 
 ```
@@ -470,7 +482,7 @@ data_com_college %>%
                         )+
   theme_minimal()+
   coord_flip()+
-  labs(title = "Geographic Distribution of Community College in U.S." ,
+  labs(title = "Geographic Distribution of Community College" ,
        x = "",
        y = "",
        caption = "Source: US News-2023")
