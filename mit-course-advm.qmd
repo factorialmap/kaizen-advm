@@ -1,5 +1,5 @@
 ---
-title: "MIT courses on Manufacturing"
+title: "Manufacturing-focused courses at MIT"
 bibliography: references.bib
 ---
 
@@ -138,7 +138,7 @@ Source: MIT by y Brian Anthony
 -   Use of laser ultrasound imaging to capture charateristics of object and build digital map for 3D print for example see inside of pipeflows for contaminants. Motion vision make decision base on video in process manufacturing with feedback decision.
 
 | Tools of the day1                                            | Tools of the day2           | Tools of the day3                 | Tools of the day4                                           |
-|--------------------|-----------------|-----------------|-------------------|
+|--------------------------------------------------------------|-----------------------------|-----------------------------------|-------------------------------------------------------------|
 | Machine learning for real time process control and monitorig | Discrete Event Simulation   | Security: Homomorphic Encryptions | Complex Assemblies                                          |
 | Deep reinforcement learning for real-time control            | Synthetic Training          | Inverse Problems                  | Unsupervised learning - assemblies, test, and quality check |
 | Time-series classification with CNN and LSTM                 |                             |                                   | LSTM RNN vs Clustering                                      |

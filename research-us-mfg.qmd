@@ -1,23 +1,21 @@
 ---
-title: "Research about Manufacturing in US"
+title: "Manufacturing Study"
 bibliography: references.bib
 ---
 
 In this space, I share some details about research and studies that I have been working on.
 
-**Semiconductor**
+### [**Semiconductor**]{style="color: #9D0F6A ;"}
 
 -   CHIPS and Science Act provide \$52.7 billion for American semiconductor research, development, manufacturing, and workforce development. This includes \$39 billion in manufacturing incentives @hawkins2024
 
--   Intel has been aawarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. Similar decisions were nade at GE, and were reversed by Larry Culp. What lessons could he provide?
+-   Intel has been awarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. Similar decisions were nade at GE, and were reversed by Larry Culp. What lessons could he provide?
 
-**Battery manufacturing**
+### [**Battery**]{style="color: #9D0F6A ;"}
 
 -   Acording to @manufacturingmit2024, lithium-ion betteries were invented in United States, but never built the needed supply chains, government support was missing, and batteries faced political and industrial opposition.
 
 -   China that has seized the lead in battery technology, leading battery manufacturing, and making technical progress. The firm A123 was bought for a Chinese company that was transferred its significant technology, then scaled these advances, putting them into domestic hybrid then electric vehicles built with massive government support.
-
-**Energy density in electric battery storage manufacturing**
 
 -   **Mujeeb Ijaz** founder, CEO of Our next energy Michigan made cells LFP technolgy, R&D Center in Fremont California and another one in Boston and Bedford shows us the 3 gerenation analysis about energy storage at @mitmobilityinitiative2023
 
@@ -25,21 +23,23 @@ In this space, I share some details about research and studies that I have been 
 
 -   **Yet-Ming Chiang** is professor of material science and engineering at MIT co-founder of A123 Systems, co-founder of Form Energy, and co-founder of 24M technologies.
 
--   What is the limits of energy storage?
+    -   What is the limits of energy storage?
 
--   Energy density
+    -   Energy density
 
--   He talks about Arpa-e energy gov call for proposals propel 1k that refers to on thousand watt hours per kilogram. Today EV's is pushing to 250 watt hours per kilogram. So 1K is about planes, trains and ships. To put in perspective the chemistries that we know of today the top and os about 4 kWh/kg and what we are all trying to do is figure it out how to make those usable low cost enough and by the time you get to a system that exceeds what we're doing today.
+    -   He talks about Arpa-e energy gov call for proposals propel 1k that refers to on thousand watt hours per kilogram. Today EV's is pushing to 250 watt hours per kilogram. So 1K is about planes, trains and ships. To put in perspective the chemistries that we know of today the top and of about 4 kWh/kg and what we are all trying to do is figure it out how to make those usable low cost enough and by the time you get to a system that exceeds what we're doing today.
 
-Obs: Innolith Switzerland-based company with labs in Germany claims it's on path to 1000 wh/kg or (1kWh/kg) battery energy density to enable the production of vehicles with 620 miles range(1000 km). The oth
+    -   Obs: Innolith Switzerland-based company with labs in Germany claims it's on path to 1000 wh/kg or (1kWh/kg) battery energy density to enable the production of vehicles with 620 miles range(1000 km). Meanwhile, in Japan researchers at Yokohama National University have demonstrated different approach using mananese in the anode to create a high-energy density 820 wh/kg with.
+
+<!-- -->
 
 -   **Martin Bazant** professor of chemical engineering and mathematics at MIT director of center for battery sustainability, co-founder of Lithios an advanced lithium extraction from brins using electrochemistry.
 
--   Transition to LFP and mthe scientific problem for the last 20 years such as industrilize, build supply chain, sustainability and circularity of these different materials, how to do all this domestically.
+    -   Transition to LFP and mthe scientific problem for the last 20 years such as industrilize, build supply chain, sustainability and circularity of these different materials, how to do all this domestically.
 
 -   **Chirstina Lampe-Onnerud** founder and CEO of Cadenza Innovation. She talk about basic research with the goal to make safe, lowcost and performance just right, systemitized and data truth.
 
-**SMM's - Small, medium manufacturers**
+### [**SMM's - Small, Medium Manufacturers**]{style="color: #9D0F6A ;"}
 
 The task here is to research the possibilities in the small and medium manufacturing sector considering the market, historic aspects, and the innovation theory of Bonvillian and Paul Romer.
 
@@ -47,7 +47,7 @@ The task here is to research the possibilities in the small and medium manufactu
 
 -   Dev kit's serving as a catalyts for creativity and scientific discovery when the innovators can quickly test and validate their hypoteses, fostering a culture of experimentation and risk-taking. By providing access to cutting-edge hardware, these kits empower people from diverse backgrounds to angage in hands-on experimentation and prototyping @breakingtaps2024. This, in turn, enables the rapid iteration and refinement of design concepts, accelerating the journey from idea to reality. As a result, dev kits have become an essential tool for driving innovation, fueling breakthroughs, and pushing the boundaries of what is possIble while creating an environment for exapanding supply chain capabilities and knowledge base @lgarlati2024
 
-**Pharmaceutical Industry**
+### [**Pharmaceutical**]{style="color: #9D0F6A ;"}
 
 -   Solid dosage products still account for the majority of medicinal products made worldwide, but there are some hurdles to overcome in order to make the tablet of the future. Issues such as patient centricity, solubility, bioavailability conversion of parental products to solid dosage forms are all topics that need to be addressed.
 
@@ -55,7 +55,7 @@ The task here is to research the possibilities in the small and medium manufactu
 
 -   Smart pill such as electronic capsule for tageting drug to delivery system.
 
-**Aviation and Jet Egines manufaturing**
+### [**Aviation and Jet Egines**]{style="color: #9D0F6A ;"}
 
 -   Jet engine is important part of commerial airplane and reparing them has become a \$58 billion business acording to \@cnbc2024. A commercial jet engine is a complex, expensive machine made up of thousands of parts and cost of \$10 million each one or \$6 million for overhaul. The process of overhauling one means disassembling it and replacing all the worn on damaged parts like blades, which can cost up to \$20.000 a piece and HPT( high pressure turbine) costing more then \$30.000 a piece, and one engine aproximately 40 to 60 of them is necessary. Before the supply chain issues, a typical narrowbody engine took 60 to 75 days to overhaul, and that time has gone up, in some cases to over 200 days because it's not sufficient spare parts, labor to do this in normal time.
 
@@ -78,7 +78,7 @@ The task here is to research the possibilities in the small and medium manufactu
 
 -   Supply chain issues are expected to persist in an a airline manufacturing and MRO shops raising concerns about rising maintenance costs.\
 
-**Smartphone manufacturing**
+### [**Smartphone**]{style="color: #9D0F6A ;"}
 
 In 1990, the United States used to be a global leader in manufacturing, but in 2010, China passed the U.S. going from 3.5% in 1990 to 30.5% in 2021.
 
@@ -86,7 +86,7 @@ Apple and Alphabet hire and send thousands of employees abroad to eversea manufa
 
 > The popular conception is that companies come to China because of low labor cost. I'm not sure what part of China they go to, but the truth is China stopped being the low labor cost country many years ago and that is not the reason to come to China from a supply point of view. The reason is because of the skill and the quantity of skill in one location and the type of skill it is.
 >
-> ***- Tim Cook - CEO of Apple***
+> *— Tim Cook - CEO of Apple*
 
 Acording to @helwig2024 , manufacturing is subject to learning effect and making high value-added technology products requires specialized process knowledge and when firms or nations stop producing something, developing that capability again is an uphill battle.
 
@@ -108,7 +108,7 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 >
 > For Beginners and Beyound channel at YouTube
 
-**Car manufacturing**
+### [**Automotive**]{style="color: #9D0F6A ;"}
 
 **Munro Live**
 
@@ -116,39 +116,7 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 
 -   
 
--   
-
 **Schuler Technology**
-
--   
-
--   
-
-**Mississippi Community College and Golden Triangle Development Link Project**
-
--   
-
--   
-
-**PDCA method using AI and machine learning models**
-
--   
-
--   
-
--   
-
-**Economic and Personal Finance Education programs by CEE**
-
--   
-
--   
-
--   
-
-**Robotics Career in Manufacturing by RoboticsCareer org**
-
--   
 
 -   
 

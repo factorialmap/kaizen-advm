@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Science in Manufacturing – Kaizen &amp; Advanced Manufacturing</title>
+<title>Lean principles &amp; Data Science in Manufacturing – Kaizen &amp; Advanced Manufacturing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -110,27 +130,23 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./action-plan-us-advm.html">
- <span class="dropdown-text">Action Plan for U.S. Leadership in Advanced Manufacturing summary</span></a>
+ <span class="dropdown-text">Action Plan for U.S. Leadership in Advanced Manufacturing Summary</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./mit-course-advm.html">
- <span class="dropdown-text">MIT courses on Manufacturing</span></a>
+ <span class="dropdown-text">Manufacturing-focused courses at MIT</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./research-us-mfg.html">
- <span class="dropdown-text">Research about Manufacturing in US</span></a>
+ <span class="dropdown-text">Manufacturing Study</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./data-analysis-mfg.html">
- <span class="dropdown-text">Data Science in Manufacturing</span></a>
+ <span class="dropdown-text">Lean principles &amp; Data Science in Manufacturing</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./macroeconomic.html">
  <span class="dropdown-text">Macro economics</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./three-generations.html">
- <span class="dropdown-text">Past, Present, and Future of Manufacturing in US</span></a>
   </li>  
     </ul>
   </li>
@@ -145,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data-analysis-mfg.html">Data Science in Manufacturing</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./data-analysis-mfg.html">Lean principles &amp; Data Science in Manufacturing</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -170,37 +186,31 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./action-plan-us-advm.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Action Plan for U.S. Leadership in Advanced Manufacturing summary</span></a>
+ <span class="menu-text">Action Plan for U.S. Leadership in Advanced Manufacturing Summary</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./mit-course-advm.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">MIT courses on Manufacturing</span></a>
+ <span class="menu-text">Manufacturing-focused courses at MIT</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./research-us-mfg.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Research about Manufacturing in US</span></a>
+ <span class="menu-text">Manufacturing Study</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./data-analysis-mfg.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Data Science in Manufacturing</span></a>
+ <span class="menu-text">Lean principles &amp; Data Science in Manufacturing</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./macroeconomic.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Macro economics</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./three-generations.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Past, Present, and Future of Manufacturing in US</span></a>
   </div>
 </li>
     </ul>
@@ -213,14 +223,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#predictive-analysis" id="toc-predictive-analysis" class="nav-link active" data-scroll-target="#predictive-analysis"><span style="color: #9D0F6A ;"><strong>Predictive Analysis</strong></span></a></li>
-  <li><a href="#maintenace" id="toc-maintenace" class="nav-link" data-scroll-target="#maintenace"><span style="color: #9D0F6A ;"><strong>Maintenace</strong></span></a></li>
-  <li><a href="#price-reduction" id="toc-price-reduction" class="nav-link" data-scroll-target="#price-reduction"><span style="color: #9D0F6A ;"><strong>Price reduction</strong></span></a></li>
-  <li><a href="#robotization-and-automation" id="toc-robotization-and-automation" class="nav-link" data-scroll-target="#robotization-and-automation"><span style="color: #9D0F6A ;"><strong>Robotization and Automation</strong></span></a></li>
-  <li><a href="#directing-the-supply-chain" id="toc-directing-the-supply-chain" class="nav-link" data-scroll-target="#directing-the-supply-chain"><span style="color: #9D0F6A ;"><strong>Directing the Supply Chain</strong></span></a></li>
-  <li><a href="#inventory-control-and-demand-forecasting" id="toc-inventory-control-and-demand-forecasting" class="nav-link" data-scroll-target="#inventory-control-and-demand-forecasting"><span style="color: #9D0F6A ;"><strong>Inventory Control and Demand Forecasting</strong></span></a></li>
-  <li><a href="#warranty-analysis" id="toc-warranty-analysis" class="nav-link" data-scroll-target="#warranty-analysis"><span style="color: #9D0F6A ;"><strong>Warranty Analysis</strong></span></a></li>
-  <li><a href="#product-authenticity" id="toc-product-authenticity" class="nav-link" data-scroll-target="#product-authenticity"><span style="color: #9D0F6A ;"><strong>Product Authenticity</strong></span></a></li>
+  <li><a href="#pdca-method-and-quality-tools-in-manufacturing" id="toc-pdca-method-and-quality-tools-in-manufacturing" class="nav-link active" data-scroll-target="#pdca-method-and-quality-tools-in-manufacturing"><span style="color: #9D0F6A ;"><strong>PDCA Method and Quality Tools in Manufacturing</strong></span></a></li>
+  <li><a href="#data-science-in-manufacturing" id="toc-data-science-in-manufacturing" class="nav-link" data-scroll-target="#data-science-in-manufacturing"><span style="color: #9D0F6A ;"><strong>Data Science in Manufacturing</strong></span></a></li>
   </ul>
 </nav>
     </div>
@@ -229,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Science in Manufacturing</h1>
+<h1 class="title">Lean principles &amp; Data Science in Manufacturing</h1>
 </div>
 
 
@@ -246,21 +250,62 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="predictive-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="predictive-analysis"><span style="color: #9D0F6A ;"><strong>Predictive Analysis</strong></span></h3>
-<p>Manufacturers make the most of data by employing predictive analysis to monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Data are analyzed to identify and avoid recurrent problems or errors in the future.</p>
+<section id="pdca-method-and-quality-tools-in-manufacturing" class="level3">
+<h3 class="anchored" data-anchor-id="pdca-method-and-quality-tools-in-manufacturing"><span style="color: #9D0F6A ;"><strong>PDCA Method and Quality Tools in Manufacturing</strong></span></h3>
+<ul>
+<li><p>Use of Machine Learning Models and Generative AI in PDCA Method and Quality Tools implementation</p>
+<ul>
+<li><p>What is the basic idea behind PDCA?</p></li>
+<li><p>What is the basic idea behind Lean principles?</p></li>
+<li><p>What is the basic idea behind the quality tools?</p></li>
+<li><p>Why is it essential in Japanese manufaturing and around the globe?</p></li>
+<li><p>Is it possible to use generative AI in the implementation and regular use of these principles in a manufacturing process?</p></li>
+</ul></li>
+<li><p>Mississippi Community College and Golden Triangle Development Link Project</p>
+<ul>
+<li><p>What is the basic idea behind the Golden Triangle Development Link Project</p></li>
+<li><p>What is so important</p></li>
+<li></li>
+</ul></li>
+<li><p>CEE - Council for Economic Education and the Economic and Personal Finance Education programs</p>
+<ul>
+<li><p>What is the basic idea behind the Personal Finance Education?</p></li>
+<li><p>Why is this important in the process of returning manufacturing to the United States?</p></li>
+<li><p>What is the role and impact of CEE on financial education programs?</p></li>
+</ul></li>
+<li><p>Talk about Robotics Career in Manufacturing by RoboticsCareer org</p>
+<ul>
+<li><p>What is the basic idea behind the Robotics in manufacturing?</p></li>
+<li><p>Why is this importnat in the process of returning manufacturing to the United States?</p></li>
+<li><p>What is the role and impact of RoboticsCareer on Robotic Training?</p></li>
+</ul></li>
+</ul>
 </section>
-<section id="maintenace" class="level3">
-<h3 class="anchored" data-anchor-id="maintenace"><span style="color: #9D0F6A ;"><strong>Maintenace</strong></span></h3>
-<p>Data analysis plays a crucial role in predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency.</p>
-<p>Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.</p>
-</section>
-<section id="price-reduction" class="level3">
-<h3 class="anchored" data-anchor-id="price-reduction"><span style="color: #9D0F6A ;"><strong>Price reduction</strong></span></h3>
-<p>Data analysis helping manufaturers to optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must mconsider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques.</p>
-<p>By analyzing pricing and cost data from both internal and external sources, data science anables manufaturers to gain a competitive edge and develop optimized price variants. This data-driven approach allows manufacturers to identify areas of inefficiency, minimize costs, and maximize revenue, ultimately leading to increased profitability and a stronger market presence.</p>
-<p>Manufacturers can make informed pricing decisions that drive business growth, improve profitability, ad enhance customer satisfaction.</p>
-<p>Examples:</p>
+<section id="data-science-in-manufacturing" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-in-manufacturing"><span style="color: #9D0F6A ;"><strong>Data Science in Manufacturing</strong></span></h3>
+<ul>
+<li><p>Basically data science is solving real problems using data to create as much impact as possible for a business or a system. Impacts can be the form of insights, data products or data recomendations. To do this, data scientists need tools like machine learning models, data visualizations, technical reports, dashboards , and more.</p></li>
+<li><p>The principles of data science involves breaking down complex problems into fundamental truths, gathering data from various sources, identifying and correting errors and inconsistencies to ensure its quality, analyzing data visualy and statistically to uncover patterns and insights, transforming and selecting variables and using techniques such as statistics, programming, and machine learning to build descriptive models that are helpful to descrie or illustrate characteristics of data, inferencial models to produce a decision for a research question or to explore a specific hypothesis, and predictive models to produce the most accurate prediction possible for new data <span class="citation" data-cites="kuhn2022">Kuhn and Silge (<a href="#ref-kuhn2022" role="doc-biblioref">2022</a>)</span>.</p></li>
+<li><p>Among the foundations of data science, two stand out as fundamental:</p>
+<ul>
+<li><p><strong>Scientific</strong>, which would basically be asking “why” and demanding a rational answer to que question. It requires abilities such as ask insightful questions, active listening, strong orgazational skills, and effective communication of complex ideas in simple terms. As data science often involves sensitive information, understanding ethical considerations and data privacy is critical. This ensures that data is used responsibly and in compliance with regulations</p></li>
+<li><p><strong>Technical</strong>, which would basically the application of technical or scientific knowledge or both to something with a practical purpose. it requires abilities in statistics and probability such as data distributions and statistical tests, programming like Python and R, ability to represent data visually for communicating findings, and machine learning that involves training models to make predictions or decisions based on data.</p></li>
+</ul></li>
+<li><p>As impact of data science on manufacturing we can mention insights into product performance, identify areas for improvement, and develop targeted solutions to reduce warranty claims and improve customer satisfaction. Some examples of practical application are shown below.</p>
+<ul>
+<li><p>Indetify patterns and trends in warranty claims data.</p></li>
+<li><p>Develop predictive models for forecast potential warranty claims.</p></li>
+<li><p>Analyzie the root cause of product defects and develop corrective actions.</p></li>
+<li><p>Optimize warranty claims processing and reduce costs.</p></li>
+<li><p>Stop a machine in an emergency situation, avoiding accidents.</p></li>
+<li><p>Identify fatigue in equipment and workers based on movements patterns.</p></li>
+</ul></li>
+<li><p>Looking at the history of use of data in manufacturing processes, we cansay that in the past, manufacturing processes relied heavily on manual labor and basic automation. Data collection was limited and carried out manually through notes, and quality control often involved small sampling. Today, advanced sensors, IoT devices, and AI-driven analytics enable real-time monitoring of production lines, predictive maintenance, and quality control. Machine learing algorithms help in identifying patterns and anomalies, leading to proactive decision-making. Looking forward, autonomous decision-making, adaptive manufacturing systems, and personalized production will coexist. Data integration across supply chains and the adoption of digital twins will enable virtual simulations for testing and optimization before physical production begins. Use of cyber-physical systems will reduce the boundaries between the physical and digital, with smart-manufacturings capable of self-otimization, atomic-level vision capability and real-time response to market demand.</p></li>
+<li><p>Some examples os pratical application os data science on manufacturing including:</p>
+<ul>
+<li><p><strong>Predictive Analysis:</strong> To monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Machine learning and deep learning are used to predict energy consumption, mechanical properties, and other performance metrics.</p></li>
+<li><p><strong>Maintenace:</strong> Predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency. Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.</p></li>
+<li><p><strong>Price reduction:</strong> To optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must consider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques. By analyzing pricing and cost data from both internal and external sources, data science anables manufaturers to gain a competitive edge and develop optimized price variants. This data-driven approach allows manufacturers to identify areas of inefficiency, minimize costs, and maximize revenue, ultimately leading to increased profitability and a stronger market presence. Manufacturers can make informed pricing decisions that drive business growth, improve profitability, ad enhance customer satisfaction.</p>
 <ul>
 <li><p>Gain a deeper understanding of their cost structure and identify opportunities for reduction.</p></li>
 <li><p>Analyze market trends and competitor pricing to inform their own pricing strategies.</p></li>
@@ -268,85 +313,67 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Develop targeted pricing models that account for variations in customer demand and market conditions.</p></li>
 <li><p>Optimize their supply chain and logistics to reduce costs and improve efficiency.</p></li>
 <li><p>Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.</p></li>
+</ul></li>
+<li><p><strong>Simulations Digital Twin:</strong> To simulate and predict the behavior of spaces or manufactured parts under various contiditions, enhancing quality assurance and reducing the need for physical testing <span class="citation" data-cites="witherell2024">Witherell (<a href="#ref-witherell2024" role="doc-biblioref">2024</a>)</span>.</p></li>
 </ul>
-</section>
-<section id="robotization-and-automation" class="level3">
-<h3 class="anchored" data-anchor-id="robotization-and-automation"><span style="color: #9D0F6A ;"><strong>Robotization and Automation</strong></span></h3>
-<p>Data analysis is transforming the manufacturing industry by enabling the widespread adoption of automation technologies. Robots are increasingly being used to perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(<strong>Exploring more in this topic in the future</strong>), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs.</p>
-<p>The use of data analysis in automation has made manufacturing robots more accessible and affordable than ever before. As the manufacturing landscape continues t envolve, data analysis will play an incresingly important role in driving the adoption of automation technologies and shaping the future of industry.</p>
-<p>Examples:</p>
+<!-- -->
 <ul>
-<li><p>Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.</p></li>
-<li><p>Identify areas where automation can be improved or expanded, driving further innovation and growth.</p></li>
-<li><p>Streamline robot integration and deployment, reducing downtime increasing productivity and availability.</p></li>
-</ul>
-</section>
-<section id="directing-the-supply-chain" class="level3">
-<h3 class="anchored" data-anchor-id="directing-the-supply-chain"><span style="color: #9D0F6A ;"><strong>Directing the Supply Chain</strong></span></h3>
-<p>Data science could help manufaturers to navigate complex risks and uncertainties, and proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact.</p>
-<p>The supply chain has always been a compex and dynamic system, but the advent of big data analytics has provided manufacturers with the tools they neet to stay ahead of the curve.</p>
-<p>In today’s fast-paced environment, predictive analysis and preventive maintenance are assential for managing the supply chain effectively. Effective supply chain management requires a deep understanding of the complex interplay between different variables, including supplier performance, inventory levels, transportation costs, and customer demand.</p>
-<p>Data analysis provides manufacturers with the visibility and agility they need to respond quickly to changing market conditions and customer needs.</p>
-<p>Examples:</p>
+<li><p><strong>Directing the Supply Chain:</strong> Data science could help manufaturers to navigate risks and uncertainties, providing visibility with the agility they need to respond quickly to changing market conditions and customer needs. Proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact. Supply chain management requires a deep understanding of the complex variables, including supplier performance, inventory levels, transportation costs, and customer demand. Some examples where data science can be helpful in the supply chain are shown below.</p>
 <ul>
 <li><p>Analyze real-time data to identify potential bottlenecks and delays.</p></li>
-<li><p>Assess the likehood of major disruptions ond develop contingency plans</p></li>
+<li><p>Assess the likehood of major disruptions and develop contingency plans.</p></li>
 <li><p>Evaluate the performance of suppliers and identify opportunities for improvement.</p></li>
 <li><p>Optimize inventory management and reduce waste.</p></li>
-</ul>
-</section>
-<section id="inventory-control-and-demand-forecasting" class="level3">
-<h3 class="anchored" data-anchor-id="inventory-control-and-demand-forecasting"><span style="color: #9D0F6A ;"><strong>Inventory Control and Demand Forecasting</strong></span></h3>
-<ul>
-<li>Este precisa ser repensado por que ao meu ver sofrerá grandes mudanças.</li>
-</ul>
-</section>
-<section id="warranty-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="warranty-analysis"><span style="color: #9D0F6A ;"><strong>Warranty Analysis</strong></span></h3>
-<p>Warranty analysis is a critical aspect of product development, and data science plays an important role in helping manufacturers optimize their warranty claims process.</p>
-<p>By analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them.</p>
-<p>Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims.</p>
-<p>with the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:</p>
+</ul></li>
+<li><p><strong>Warranty Analysis:</strong> To optimize warranty claims process by analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them. Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims. With the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:</p>
 <ul>
 <li><p>Product sensor data</p></li>
 <li><p>Customer feedback and complaints</p></li>
 <li><p>Warranty claims and repair data</p></li>
 <li><p>Manufacturing and quality control data</p></li>
-</ul>
-<p>By analyzing this data, manufaturers can gain valuable insights into product performance, identify areas for improvement, and develop targeted solutions to reduce warranty claims and improve customer satisfaction. Data science can help manufaturers:</p>
+</ul></li>
+<li><p><strong>Product Authenticity:</strong> Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health. Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. With the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification of chemical composition, allowing manufacturers to verify the ahthenticity of their products. The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g.&nbsp;PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.</p>
 <ul>
-<li><p>Indetify patterns and trends in warranty claims data.</p></li>
-<li><p>Develop predictive models for forecast potential warranty claims.</p></li>
-<li><p>Analyzie the root cause of product defects and develop corrective actions.</p></li>
-<li><p>Optimize warranty claims processing and reduce costs.</p></li>
-<li><p>Improve product quality and reliability</p></li>
-</ul>
-<p>With data-driven insights, manufacturers can make informed decisions about product development, quality control, and warranty claims management, ultimately driving business growht and success.</p>
-</section>
-<section id="product-authenticity" class="level3">
-<h3 class="anchored" data-anchor-id="product-authenticity"><span style="color: #9D0F6A ;"><strong>Product Authenticity</strong></span></h3>
-<p>Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health.</p>
-<p>Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. XXXXXXXXXX the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification fo chemical composition, allowing manufacturers to verify the ahthenticity of their products.</p>
-<p>Some benefits</p>
-<ul>
-<li><p><strong>Fast</strong>: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.</p></li>
-<li><p><strong>Cost-effective</strong>: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.</p></li>
-<li><p><strong>Non-invasive</strong>: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.</p></li>
-</ul>
-<p>The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g.&nbsp;PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.</p>
-<p>Example:</p>
+<li><p>Examples of use</p>
 <ul>
 <li><p>Verify the identity of raw materials and finished products.</p></li>
 <li><p>Detect adulteration or contamination.</p></li>
 <li><p>Ensure compliance with regulatory requirements.</p></li>
 <li><p>Protect their brand reputation and intellectual property.</p></li>
 <li><p>Prevent financial loesses due to counterfeit products.</p></li>
+</ul></li>
+<li><p>Characteristics of NIRS</p>
+<ul>
+<li><p><strong>Fast</strong>: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.</p></li>
+<li><p><strong>Cost-effective</strong>: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.</p></li>
+<li><p><strong>Non-invasive</strong>: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.</p></li>
+</ul></li>
+</ul></li>
+<li><p><strong>Robotization and Automation:</strong> To perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(<strong>Exploring more in this topic in the future</strong>), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs. Some examples of the pratical application of data science in robotis and automation:</p>
+<ul>
+<li><p>Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.</p></li>
+<li><p>Identify areas where automation can be improved or expanded, driving further innovation and growth.</p></li>
+<li><p>Streamline robot integration and deployment, reducing downtime increasing productivity and availability.</p></li>
+</ul></li>
+</ul></li>
 </ul>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RpgRRIkG_pw?si=tNfCdS7fqKUqOHgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+</center>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-kuhn2022" class="csl-entry" role="listitem">
+Kuhn, Max, and Julia Silge. 2022. <em>Tidy Modeling with r: A Framework for Modeling in the Tidyverse</em>. 1st edition. Sebastopol, CA: O’Reilly Media.
+</div>
+<div id="ref-witherell2024" class="csl-entry" role="listitem">
+Witherell, Paul. 2024. <span>“Advanced Informatics and Artificial Intelligence for Additive Manufacturing.”</span> <em>NIST</em>. <a href="https://www.nist.gov/programs-projects/advanced-informatics-and-artificial-intelligence-additive-manufacturing">https://www.nist.gov/programs-projects/advanced-informatics-and-artificial-intelligence-additive-manufacturing</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

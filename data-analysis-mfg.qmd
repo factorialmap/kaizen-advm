@@ -1,133 +1,153 @@
 ---
-title: "Data Science in Manufacturing"
+title: "Lean principles & Data Science in Manufacturing"
+bibliography: references.bib
 ---
 
-### [**Predictive Analysis**]{style="color: #9D0F6A ;"}
+### [**PDCA Method and Quality Tools in Manufacturing**]{style="color: #9D0F6A ;"}
 
-Manufacturers make the most of data by employing predictive analysis to monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Data are analyzed to identify and avoid recurrent problems or errors in the future.
+-   Use of Machine Learning Models and Generative AI in PDCA Method and Quality Tools implementation
 
-### [**Maintenace**]{style="color: #9D0F6A ;"}
+    -   What is the basic idea behind PDCA?
 
-Data analysis plays a crucial role in predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency.
+    -   What is the basic idea behind Lean principles?
 
-Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.
+    -   What is the basic idea behind the quality tools?
 
-### [**Price reduction**]{style="color: #9D0F6A ;"}
+    -   Why is it essential in Japanese manufaturing and around the globe?
 
-Data analysis helping manufaturers to optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must mconsider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques.
+    -   Is it possible to use generative AI in the implementation and regular use of these principles in a manufacturing process?
 
-By analyzing pricing and cost data from both internal and external sources, data science anables manufaturers to gain a competitive edge and develop optimized price variants. This data-driven approach allows manufacturers to identify areas of inefficiency, minimize costs, and maximize revenue, ultimately leading to increased profitability and a stronger market presence.
+-   Mississippi Community College and Golden Triangle Development Link Project
 
-Manufacturers can make informed pricing decisions that drive business growth, improve profitability, ad enhance customer satisfaction.
+    -   What is the basic idea behind the Golden Triangle Development Link Project
 
-Examples:
+    -   What is so important
 
--   Gain a deeper understanding of their cost structure and identify opportunities for reduction.
+    -   
 
--   Analyze market trends and competitor pricing to inform their own pricing strategies.
+-   CEE - Council for Economic Education and the Economic and Personal Finance Education programs
 
--   Analyze macro economic trends
+    -   What is the basic idea behind the Personal Finance Education?
 
--   Develop targeted pricing models that account for variations in customer demand and market conditions.
+    -   Why is this important in the process of returning manufacturing to the United States?
 
--   Optimize their supply chain and logistics to reduce costs and improve efficiency.
+    -   What is the role and impact of CEE on financial education programs?
 
--   Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.
+-   Talk about Robotics Career in Manufacturing by RoboticsCareer org
 
-### [**Robotization and Automation**]{style="color: #9D0F6A ;"}
+    -   What is the basic idea behind the Robotics in manufacturing?
 
-Data analysis is transforming the manufacturing industry by enabling the widespread adoption of automation technologies. Robots are increasingly being used to perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(**Exploring more in this topic in the future**), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs.
+    -   Why is this importnat in the process of returning manufacturing to the United States?
 
-The use of data analysis in automation has made manufacturing robots more accessible and affordable than ever before. As the manufacturing landscape continues t envolve, data analysis will play an incresingly important role in driving the adoption of automation technologies and shaping the future of industry.
+    -   What is the role and impact of RoboticsCareer on Robotic Training?
 
-Examples:
+### [**Data Science in Manufacturing**]{style="color: #9D0F6A ;"}
 
--   Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.
+-   Basically data science is solving real problems using data to create as much impact as possible for a business or a system. Impacts can be the form of insights, data products or data recomendations. To do this, data scientists need tools like machine learning models, data visualizations, technical reports, dashboards , and more.
 
--   Identify areas where automation can be improved or expanded, driving further innovation and growth.
+-   The principles of data science involves breaking down complex problems into fundamental truths, gathering data from various sources, identifying and correting errors and inconsistencies to ensure its quality, analyzing data visualy and statistically to uncover patterns and insights, transforming and selecting variables and using techniques such as statistics, programming, and machine learning to build descriptive models that are helpful to descrie or illustrate characteristics of data, inferencial models to produce a decision for a research question or to explore a specific hypothesis, and predictive models to produce the most accurate prediction possible for new data @kuhn2022.
 
--   Streamline robot integration and deployment, reducing downtime increasing productivity and availability.
+-   Among the foundations of data science, two stand out as fundamental:
 
-### [**Directing the Supply Chain**]{style="color: #9D0F6A ;"}
+    -   **Scientific**, which would basically be asking "why" and demanding a rational answer to que question. It requires abilities such as ask insightful questions, active listening, strong orgazational skills, and effective communication of complex ideas in simple terms. As data science often involves sensitive information, understanding ethical considerations and data privacy is critical. This ensures that data is used responsibly and in compliance with regulations
 
-Data science could help manufaturers to navigate complex risks and uncertainties, and proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact.
+    -   **Technical**, which would basically the application of technical or scientific knowledge or both to something with a practical purpose. it requires abilities in statistics and probability such as data distributions and statistical tests, programming like Python and R, ability to represent data visually for communicating findings, and machine learning that involves training models to make predictions or decisions based on data.
 
-The supply chain has always been a compex and dynamic system, but the advent of big data analytics has provided manufacturers with the tools they neet to stay ahead of the curve.
+-   As impact of data science on manufacturing we can mention insights into product performance, identify areas for improvement, and develop targeted solutions to reduce warranty claims and improve customer satisfaction. Some examples of practical application are shown below.
 
-In today's fast-paced environment, predictive analysis and preventive maintenance are assential for managing the supply chain effectively. Effective supply chain management requires a deep understanding of the complex interplay between different variables, including supplier performance, inventory levels, transportation costs, and customer demand.
+    -   Indetify patterns and trends in warranty claims data.
 
-Data analysis provides manufacturers with the visibility and agility they need to respond quickly to changing market conditions and customer needs.
+    -   Develop predictive models for forecast potential warranty claims.
 
-Examples:
+    -   Analyzie the root cause of product defects and develop corrective actions.
 
--   Analyze real-time data to identify potential bottlenecks and delays.
+    -   Optimize warranty claims processing and reduce costs.
 
--   Assess the likehood of major disruptions ond develop contingency plans
+    -   Stop a machine in an emergency situation, avoiding accidents.
 
--   Evaluate the performance of suppliers and identify opportunities for improvement.
+    -   Identify fatigue in equipment and workers based on movements patterns.
 
--   Optimize inventory management and reduce waste.
+-   Looking at the history of use of data in manufacturing processes, we cansay that in the past, manufacturing processes relied heavily on manual labor and basic automation. Data collection was limited and carried out manually through notes, and quality control often involved small sampling. Today, advanced sensors, IoT devices, and AI-driven analytics enable real-time monitoring of production lines, predictive maintenance, and quality control. Machine learing algorithms help in identifying patterns and anomalies, leading to proactive decision-making. Looking forward, autonomous decision-making, adaptive manufacturing systems, and personalized production will coexist. Data integration across supply chains and the adoption of digital twins will enable virtual simulations for testing and optimization before physical production begins. Use of cyber-physical systems will reduce the boundaries between the physical and digital, with smart-manufacturings capable of self-otimization, atomic-level vision capability and real-time response to market demand.
 
-### [**Inventory Control and Demand Forecasting**]{style="color: #9D0F6A ;"}
+-   Some examples os pratical application os data science on manufacturing including:
 
--   Este precisa ser repensado por que ao meu ver sofrerá grandes mudanças.
+    -   **Predictive Analysis:** To monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Machine learning and deep learning are used to predict energy consumption, mechanical properties, and other performance metrics.
 
-### [**Warranty Analysis**]{style="color: #9D0F6A ;"}
+    -   **Maintenace:** Predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency. Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.
 
-Warranty analysis is a critical aspect of product development, and data science plays an important role in helping manufacturers optimize their warranty claims process.
+    -   **Price reduction:** To optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must consider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques. By analyzing pricing and cost data from both internal and external sources, data science anables manufaturers to gain a competitive edge and develop optimized price variants. This data-driven approach allows manufacturers to identify areas of inefficiency, minimize costs, and maximize revenue, ultimately leading to increased profitability and a stronger market presence. Manufacturers can make informed pricing decisions that drive business growth, improve profitability, ad enhance customer satisfaction.
 
-By analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them.
+        -   Gain a deeper understanding of their cost structure and identify opportunities for reduction.
 
-Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims.
+        -   Analyze market trends and competitor pricing to inform their own pricing strategies.
 
-with the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
+        -   Analyze macro economic trends
 
--   Product sensor data
+        -   Develop targeted pricing models that account for variations in customer demand and market conditions.
 
--   Customer feedback and complaints
+        -   Optimize their supply chain and logistics to reduce costs and improve efficiency.
 
--   Warranty claims and repair data
+        -   Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.
 
--   Manufacturing and quality control data
+    -   **Simulations Digital Twin:** To simulate and predict the behavior of spaces or manufactured parts under various contiditions, enhancing quality assurance and reducing the need for physical testing @witherell2024.
 
-By analyzing this data, manufaturers can gain valuable insights into product performance, identify areas for improvement, and develop targeted solutions to reduce warranty claims and improve customer satisfaction. Data science can help manufaturers:
+    ```{=html}
+    <!-- -->
+    ```
+    -   **Directing the Supply Chain:** Data science could help manufaturers to navigate risks and uncertainties, providing visibility with the agility they need to respond quickly to changing market conditions and customer needs. Proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact. Supply chain management requires a deep understanding of the complex variables, including supplier performance, inventory levels, transportation costs, and customer demand. Some examples where data science can be helpful in the supply chain are shown below.
 
--   Indetify patterns and trends in warranty claims data.
+        -   Analyze real-time data to identify potential bottlenecks and delays.
 
--   Develop predictive models for forecast potential warranty claims.
+        -   Assess the likehood of major disruptions and develop contingency plans.
 
--   Analyzie the root cause of product defects and develop corrective actions.
+        -   Evaluate the performance of suppliers and identify opportunities for improvement.
 
--   Optimize warranty claims processing and reduce costs.
+        -   Optimize inventory management and reduce waste.
 
--   Improve product quality and reliability
+    -   **Warranty Analysis:** To optimize warranty claims process by analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them. Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims. With the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
 
-With data-driven insights, manufacturers can make informed decisions about product development, quality control, and warranty claims management, ultimately driving business growht and success.
+        -   Product sensor data
 
-### [**Product Authenticity**]{style="color: #9D0F6A ;"}
+        -   Customer feedback and complaints
 
-Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health.
+        -   Warranty claims and repair data
 
-Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. XXXXXXXXXX the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification fo chemical composition, allowing manufacturers to verify the ahthenticity of their products.
+        -   Manufacturing and quality control data
 
-Some benefits
+    -   **Product Authenticity:** Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health. Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. With the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification of chemical composition, allowing manufacturers to verify the ahthenticity of their products. The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
 
--   **Fast**: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.
+        -   Examples of use
 
--   **Cost-effective**: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.
+            -   Verify the identity of raw materials and finished products.
 
--   **Non-invasive**: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.
+            -   Detect adulteration or contamination.
 
-The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
+            -   Ensure compliance with regulatory requirements.
 
-Example:
+            -   Protect their brand reputation and intellectual property.
 
--   Verify the identity of raw materials and finished products.
+            -   Prevent financial loesses due to counterfeit products.
 
--   Detect adulteration or contamination.
+        -   Characteristics of NIRS
 
--   Ensure compliance with regulatory requirements.
+            -   **Fast**: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.
 
--   Protect their brand reputation and intellectual property.
+            -   **Cost-effective**: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.
 
--   Prevent financial loesses due to counterfeit products.
+            -   **Non-invasive**: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.
+
+    -   **Robotization and Automation:** To perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(**Exploring more in this topic in the future**), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs. Some examples of the pratical application of data science in robotis and automation:
+
+        -   Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.
+
+        -   Identify areas where automation can be improved or expanded, driving further innovation and growth.
+
+        -   Streamline robot integration and deployment, reducing downtime increasing productivity and availability.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RpgRRIkG_pw?si=tNfCdS7fqKUqOHgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+</center>

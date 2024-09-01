@@ -7,7 +7,7 @@ execute:
   echo: false
 ---
 
-In this space, I share some details about research and studies that I have been working on.
+In this space I reserved to show some macro economic indicators that I use to support my research and workflow.  
 
 ## 2024 United States
 
@@ -19,28 +19,39 @@ In this space, I share some details about research and studies that I have been 
 
 -   Personal saving was \$686.4 billion in the second quarter. The personal saving rate as a percentage of disposable personal income was 3.3% in the second quarter, compared with 3.8% in the first quarter.
 
--   Personal consumption expenditures: % Change from Proceding Period was 2.3%, compared with 1.4% in the first quarter.
+-   Personal consumption expenditures(% change from proceding period) was 2.9%, compared with 1.5% in the first quarter, according to the second estimate(August 29,2024).
 
--   Gross private domestic investment: % Change from Proceding Period was 8.4% in the second quarter , compared with 4.4% in the first quarter.
+-   Gross private domestic investment(% change from proceding period) was 7.5% in the second quarter , compared with 4.4% in the first quarter, according to the second estimate(August 29,2024)
 
--   Government consumption expenditures and gross investment: % Change from Proceding Period was 3.1% in the second quarter compared with 1.8% in the first quarter.
+-   Government consumption expenditures and gross investment(% change from proceding period) was 2.7% in the second quarter compared with 1.8% in the first quarter.
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ### [**Inflation**]{style="color: #9D0F6A ;"}
 
--   The annual inflation rate for the United Stats was 2.9 for the 12 months ending July, compared to the previius rate increase of 3%, acording to U.S. Labor Departament data published on August 14, 2024.
+-   The annual inflation rate for the United Stats was 2.9 for the 12 months ending July, compared to the previus rate increase of 3%, acording to U.S. Labor Departament data published on August 14, 2024.
 
--   The next inflation update is scheduled for release on September 11, 2024.
+-   The PCE price index for July increased 0.2% from the preceding month, and 2.5% year-over-year.
+
+| Item        | MoM  | YoY  |
+|-------------|------|------|
+| PCE overall | 0.2  | 2.5  |
+| Goods       | -0.1 | -0.1 |
+| Services    | 0.2  | 3.7  |
+| Food        | 0.2  | 1.4  |
+| Energy      | 0.1  | 1.9  |
+
+-   From the same month over year ago, the consumer price index (CPI) for July increased 2.92%.
 
 ![](images/clipboard-2010062285.png)
+
+-   The next inflation update is scheduled for release on September 11, 2024.
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ### [**Interest rates**]{style="color: #9D0F6A ;"}
 
 -   United States Central Bank Rate stands at 5.50%, following the most recent adjustment in july 2023.
--   In Aug-23, 2024 Mr. Jerome Powell
 
 > The time has come for policy to adjust. The direction of travel is clear and the timing and pace of rate cuts will depend on incoming data the envolving outlook and the balance of risks. We will do everything we can to support a strong labor market as we made further progress toward price stability.
 >

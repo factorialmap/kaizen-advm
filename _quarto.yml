@@ -28,7 +28,6 @@ website:
         - href: research-us-mfg.qmd
         - href: data-analysis-mfg.qmd
         - href: macroeconomic.qmd
-        - href: three-generations.qmd
       tools:
       - icon: twitter
         href: https://twitter.com/factorialmap

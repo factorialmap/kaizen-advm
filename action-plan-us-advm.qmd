@@ -1,5 +1,5 @@
 ---
-title: "Action Plan for U.S. Leadership in Advanced Manufacturing summary"
+title: "Action Plan for U.S. Leadership in Advanced Manufacturing Summary"
 bibliography: references.bib
 ---
 
@@ -14,11 +14,56 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 
 -   Driven by demographic shifts, economic growth in emerging markets, climate change, and disruptive technologies, a core set innovations ranging from AI and intelligent robotics to additive manufacturing and digital twins are converging to revolutionize industrial production.
 
--   Integration of machining, networking, sensing, and computation capability.
+-  Integration of machining, networking, sensing, and computation capability.
 
 -   Design and production of physical goods.
 
 -   Ability to adopt and improve these paradigms.
+
+
+### [**Past, Presente and Future**]{style="color: #9D0F6A ;"}
+
+
+**Past**
+
+Industrial revolution 1865, Carnegie, bessemer process etc.
+
+Boston Power lithium ion battery technologies
+
+Ford, Packard, WWII, Inovations, Deming
+
+Exit Zero, American Story, Rust Belt - First Impressions, Rust Belt - City's economic Struggle
+
+Introduction to Lean Six Sigma Methods by MIT Aeronautics Engineering System Division
+
+**Present**
+
+Chips and Science Act and Research and Development, Competition, and Innovation Ac
+
+Inflation Reduction Act
+
+Invest in America
+
+Workforce Education
+
+Action plan for Manufacturing in US
+
+Ambitious of industrialize, build the factories, Supply chain, and vertically integrate those Supply chains together.
+
+Our Next Energy raised capital of 1B+ to generate 20 GWh for battery.
+
+**Future**
+
+Consistence and Competitiveness on Manufacturing
+
+Personal Finance
+
+Manufacturing base
+
+Energy Storage
+
+Consistence and Competitiveness on Manufacturing
+
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
