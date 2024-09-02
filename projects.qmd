@@ -42,7 +42,7 @@ GOVBR is a software development company that provides solutions for improving pu
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-Improve company valuation through transparency in the communication of operational and financial data.
+My job was to help improve the company's valuation by developing a system that helps financial and compliance managers make better decisions using a data-driven approach.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
@@ -56,8 +56,8 @@ Improve company valuation through transparency in the communication of operation
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Redesigned and provided a P&L report format using public company standards and a defined schedule.
--   Enabled teams to communicate results effectively in written and oral formats to various audiences.
+-   Redesigned and provided a P&L report ensure clarity in our indicators by adhering to the highest standards of compliance and transparency in the market. Leveraging business intelligence tools and following financial reporting practices akin to those of private equity firms, and maintain a prefetermined calendar for accuracy and consistency.
+-   We Improve communication strategies, making operational and financial results more practical to report orally and in writing.
 
 ![BSC strategic plan and BI process 2012](img/govbr_1.png)
 
@@ -111,13 +111,13 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 -   Increase revenue from existing customers.
 
-### [**Activities - Strategic position**]{style="color: #9D0F6A ;"}
+### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
 -   Created a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/quotations, market sentiment, and operational performance.
 
 -   Used data to anticipate macroeconomic and market behavior to support the CEO's decisions.
 
-### [**Activities - Tactical and operational positions**]{style="color: #9D0F6A ;"}
+### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
 -   Performed day-to-day tasks, mapped processes, and suggested and implemented improvements.
 -   Documented and trained teams for distribution planning activities, shipments, customer quotes, and communication to maintain a positive relationship with customers and suppliers.

@@ -19,6 +19,7 @@ website:
       - sidebar:research_2024
   sidebar: 
     - id: research_2024
+      style: "docked"
       title: "Research 2024"
       collapse-level: 7
       contents: 
