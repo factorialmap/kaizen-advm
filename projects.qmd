@@ -67,13 +67,11 @@ My job was to help improve the company's valuation by developing a system that h
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Portobello S/A is a high-end ceramic tile manufacturer in Brazil (Tijucas, SC) and the United States of America (Baxter, TN).
+Portobello Group is a high-end ceramic tile manufacturer with industrial plants in Brazil (Tijucas, SC) and the United States (Baxter, TN) generating approximately four thousand jobs.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Open new stores
--   Increase store sales
--   provide better customer service.
+My job was to help achieve the strategy of opening new stores, increasing sales in existing stores, and improving the quality of services offered to consumers.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
@@ -101,9 +99,9 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Improve the company's vision capability, allowing decisions to be made with grater speend and accuracy.
+-   My job was to help with the scale, maintaining the existing quality of fulfillment operations and improving the quality of services. Later, the CEO called me to contribute to the  strategy by using data creating an information system(ERP + Business Intelligence), and the goals expanded to:
 
--   Quickly identify macroeconomic scenarios.
+-   Quickly identify macroeconomic scenarios, protecting capital, and optimizing cash flow to ensure financial stability.
 
 -   Improve the service experience for existing customers.
 
@@ -117,6 +115,10 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 -   Used data to anticipate macroeconomic and market behavior to support the CEO's decisions.
 
+-   Implementation of the ERP system, process design and training.
+
+-   In 2024 we redesign, improved and migrated the business intelligence system to Microsoft Power BI tools, and started testing by adjusting the data pipelines to meet the retrieval augmented generation requirements for automating tasks using generative AI.
+
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
 -   Performed day-to-day tasks, mapped processes, and suggested and implemented improvements.
@@ -126,5 +128,7 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 -   Reduced shipping errors caused by registration problems by 98% and setup time from 1 day to 20 minutes.
 -   Implemented ERP system, Business Intelligence, and a new data collection and analysis structure, and trained staff.
+-   150% increase revenue 2019-2022
+
 
 ![Business Intelligence Project at Delta Brindes Corporativos](img/delta_brindes_action.png)

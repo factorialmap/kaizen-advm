@@ -10,9 +10,9 @@ about:
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Talk about my career as a Business & Process Improvement Analyst.
--   Lean principles, PDCA and quality tools.
+-   Lean principles, PDCA method and quality tools.
 -   Machine learning applied to manufacturing.
--   Data analysis in advanced manufacturing.
+-   Data science in advanced manufacturing.
 -   Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
@@ -22,12 +22,12 @@ about:
 
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
--   Process improvement
--   Statistic
+-   Process Improvement
+-   Statistics
 -   Machine Learning Models
--   R programming language
+-   R Programming Language
 -   Business Intelligence
--   Data Analysis
+-   Data Science
 :::
 
 > Despite years of experience, maintain humility and intellectual curiosity. Approach learning with the openness and hunger of a child
