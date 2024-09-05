@@ -12,12 +12,15 @@ Bertin S/A was a meat processing company that manufactures beef-based proteins t
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-The goal was to build a tool that would help in decision-making to reduce COGS(cost of good sold) by 2%. COGS, in turn, represented 80% of the company's revenue.
+
+My job was to visiti 12 manufacturing plants to find opportunities of process improvements, and appluing improvement procedures. I participated in more than 50 improvement projects in 7 different states of the country, building teams, training managers, supervisors, production line operators in topics such as safety, computer systems, lean manufacturing principles, pdca method and quality tools, strategic planning, production planning and optimization procedures.
+
+
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
 -   Create a low-latency business intelligence structure and deploy it on the factory floor in 9 manufacturing plants.
--   Develop an intergrated planning system using linear programming to assist in strategic decisions.
+-   Develop an intergrated planning system using linear programming to assist in strategic decisions creating a tool that would help in decision-making to reduce COGS(cost of good sold) that represented 80% of the company's revenue.
 -   Train teams of operators, supervisors, managers in lean manufacturing principles and businesss intelligence tools.
 -   Coordinate 15 kaizen project in the areas of energy, production processes, slaughter, deboning, and logistics.
 
@@ -42,7 +45,7 @@ GOVBR is a software development company that provides solutions for improving pu
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My job was to help improve the company's valuation by developing a system that helps financial and compliance managers make better decisions using a data-driven approach.
+My job was to help increase the company's valuation for subsequent merger and aquisition by creating a transparency and compliance area. To do this, I mapped the financial area, creating a Business Intelligence system to help managers have data-driven information to guide their decisions.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
@@ -71,7 +74,7 @@ Portobello Group is a high-end ceramic tile manufacturer with industrial plants 
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My job was to help achieve the strategy of opening new stores, increasing sales in existing stores, and improving the quality of services offered to consumers.
+My job was to help achieve strategic goals like open new stores, increase revenue in existing stores, and improve the quality of services provided to franchisees and other customers.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
@@ -99,7 +102,7 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   My job was to help with the scale, maintaining the existing quality of fulfillment operations and improving the quality of services. Later, the CEO called me to contribute to the  strategy by using data creating an information system(ERP + Business Intelligence), and the goals expanded to:
+-   Initially, I was responsible for scaling up supply chain operations, ensuring high-quality service delivery, implementing digital solutions(including ERP and Business Intelligence systems), process mapping, documentation, and training personnel to support theses initiatives. Later, I was invited to participate in the company's strategic discussion using data to enable them to make fine-tuned judgments, and the goals expanded to:
 
 -   Quickly identify macroeconomic scenarios, protecting capital, and optimizing cash flow to ensure financial stability.
 

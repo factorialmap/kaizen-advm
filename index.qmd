@@ -9,25 +9,25 @@ about:
 ::: {#me}
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Talk about my career as a Business & Process Improvement Analyst.
+-   Writing about my career as a Business & Process Improvement Analyst.
 -   Lean principles, PDCA method and quality tools.
 -   Machine learning applied to manufacturing.
 -   Data science in advanced manufacturing.
--   Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Okinawa Japan.
+-   Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Japan.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
--   Agro-industrial production and management - MS
--   Business Administration - BA
+-   Master's Degree - Agro-industrial production & Management
+-   Bachelor's Degree - Business Administration
 
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
--   Process Improvement
+-   Process Improvement and Lean principles
 -   Statistics
 -   Machine Learning Models
--   R Programming Language
 -   Business Intelligence
 -   Data Science
+-   Strategic Planning
 :::
 
 > Despite years of experience, maintain humility and intellectual curiosity. Approach learning with the openness and hunger of a child

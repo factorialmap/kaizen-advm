@@ -3,7 +3,7 @@ title: "Action Plan for U.S. Leadership in Advanced Manufacturing Summary"
 bibliography: references.bib
 ---
 
-In this space, I share some details about research and studies that I have been working on.
+In this space I make notes about reading these ideas to better understand their importance and impact on the country's development.
 
 This summary is based on @helwig2024 and is intended to help me enhance my writing skills and deepen my understanding of the English language, all while engaging in what I enjoy most: Business Analysis and Process Improvement.
 
@@ -16,9 +16,9 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 
 -  Integration of machining, networking, sensing, and computation capability.
 
--   Design and production of physical goods.
+-  Design and production of physical goods.
 
--   Ability to adopt and improve these paradigms.
+-  Ability to adopt and improve these paradigms.
 
 
 ### [**Past, Presente and Future**]{style="color: #9D0F6A ;"}

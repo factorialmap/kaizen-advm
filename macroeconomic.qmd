@@ -246,7 +246,7 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
 
 -   Looking for agricultural prices, they are still not good. The expectation is not for a bad year, but it will not be as good as 2023. Sales of new equipment have fallen, making it necessary to adjust costs and expenses in companies such as John Deer and CNH industrial.
 
-### [**Auto maker**]{style="color: #9D0F6A ;"}
+### [**Automotive**]{style="color: #9D0F6A ;"}
 
 -   The automotive industry faces many challenges in 2024. Slowing growth, increased competition, supply chain disruptions generated during the pandemic and business decisions caused distortions in costs and prices that grew way above the population's income and general inflation rates. This process may take a few years to stabilize.
 
@@ -467,7 +467,7 @@ data_invest %>%
 
     -   **Clean Energy Manufacturing:** Boom Supersonic(Greensboro, NC), Electric Hydrogen(Devens, MA), Siemens Gamesa(Port of Coeuumans, NY)
 
--   Looking to training and labor force, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
+-   In the training and labor force perspective, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
 
 -   In 2023, there are approximately 1,476 community colleges in the United States. These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers @wellington2023. Community college students also are among the more diverse in postsecondary education acording to @education2024
 
