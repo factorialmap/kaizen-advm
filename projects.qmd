@@ -102,7 +102,7 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Initially, I was responsible for scaling up supply chain operations, ensuring high-quality service delivery, implementing digital solutions(including ERP and Business Intelligence systems), process mapping, documentation, and training personnel to support theses initiatives. Later, I was invited to participate in the company's strategic discussion using data to enable them to make fine-tuned judgments, and the goals expanded to:
+Initially, I was responsible for scaling up supply chain operations, ensuring high-quality service delivery, implementing digital solutions(including ERP and Business Intelligence systems), process mapping, documentation, and training personnel to support theses initiatives. Later, I was invited to participate in the company's strategic discussion using data to enable them to make fine-tuned judgments, and the goals expanded to:
 
 -   Quickly identify macroeconomic scenarios, protecting capital, and optimizing cash flow to ensure financial stability.
 

@@ -8,6 +8,8 @@ execute:
 ### [Calendar 2024]{style="color: #9D0F6A ;"}
 
 ```{r}
+#| fig-width: 8
+#| fig-height: 6
 
 library(tidyverse)
 library(ganttrify)
@@ -22,7 +24,8 @@ ganttrify(
   spots = data_spot,
   spot_size_text_relative = 1,
   spot_fill = ggplot2::alpha(c("white"), 0.1),
-  spot_padding = unit(0.6, "lines"),
+  spot_padding = unit(0.1, "lines"),
+  spot_border = NA,
   project_start_date = "2024-01",
   #hide_wp = TRUE,
   alpha_wp = 0.5,
@@ -31,12 +34,12 @@ ganttrify(
   line_end_activity = "round",
   size_text_relative = .9,
   mark_quarters = TRUE,
-  font_family = "sans"
+  font_family = "Roboto Condensed",
+  axis_text_align = "left"
 ) +
   labs(title = "Immigration process and ongoing activities",
        subtitle = "2024 - Marcelo Carvalho",
        caption = "@carvalhoribeiro | USCIS/NVC data")
-
 ```
 
 ### [Activity details]{style="color: #9D0F6A ;"}
@@ -78,3 +81,5 @@ ganttrify(
 -   **4.3. Collect civil documents:** Request and collection of civil documents
 
 -   **4.4. Contacting NVC:**
+
+-   **4.5. Civil docs were sent:**
