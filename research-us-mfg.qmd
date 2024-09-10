@@ -1,5 +1,8 @@
 ---
 title: "Manufacturing Study"
+execute: 
+  warning: false
+  message: false
 bibliography: references.bib
 ---
 
@@ -110,11 +113,150 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 
 ### [**Automotive**]{style="color: #9D0F6A ;"}
 
-**Munro Live**
+**Tesla Manufacturing by Munro Live and Lars Moravy**
 
--   
+-   Stamping building
 
--   
+    -   three five-stage tandem stainless presses
+
+    -   few transfer presses
+
+    -   hot stamping presses
+
+    -   stainless steel straightening and forming land
+
+    -   Separate scrapyard for stainless and 80% utilization (is usually 67% and 45/50% in legacy industry)
+
+-   The plate stock are bringin in coils, and recycle everything making a separate scrapyard
+
+-   Get coils and feed them in one side and out on the other side comes micron precision level blanks
+
+    -   **Laser blanking** line that it takes coils unwinds them and it's taking out the internal stresses from the raw material it's passing them through somethin called a leveler
+
+    -   **Leveler or Straghtener** got a work rolls and they're moving up and down and they're flattening the part we want to be careful that we don't work the material too much because you do something called work hardening
+
+    -   **The material have two thicknesses**, the doors are 1.8 mm thicks and all the other parts like the sails the hoods are 1.4 mm thick. (The original were about 2.53 thick, after the increase the strength of the HSF over time.
+
+    -   **Overview of the line** videoscreen showing critical control points such as uncoiler, leveler, laser boot, airtight & light tight bacause of emissions and what no, two lasers working in tandem it cuts up to 30 microns it's a first laser of its kind to do that speacilly design with Tesla and Schuler (Evaluate the possibility of adding sensors and computer vision solutions for product control). To improve the scrap utilization the coils are tuned to the parts(optimization system), that's why we don't have to weld anything together.
+
+    -   **Transfer presses** that the small one make a small parts there we actually insourced about 70% of stampings for model Y and Cybertruck
+
+    -   **Part separation section** where the good parts are separated by suction machines while the scrap is sent to the scrap house through gravity and conveyor belt.
+
+    -   **Stack parts:** Overhead conveyor belts where parts actually come through and drops. It's very important we don't the only thing that really can't screatch HFS is HFS. So we got to be careful when we put it down that we're not rubbing it againt each other.
+
+    -   **Storage parts:** Different blanks all within accuracy tailgate, face hood, doors
+
+    -   **Measurement system:** Basically we have a periodic quality check, take the part put it on a 2d light scanner machine (giant optical comparator) that compare the cut the we're cutting to in relation to what we're actually measuring. The results is a level of micron precision that it's very important for the Elon perspective (japanese uniformity cpk 1.67/2.00). Below is the attention mentioned by the engineer. I also made a graph using the R programing language to illustrate the idea of uniformity @kume1987
+
+        -   <div>
+
+            > We got to be careful because we're doing periodic checks to be to make sure this machine has a good CP or CPK or repeatability as what we call it.
+
+            </div>
+
+```{r}
+#| label: measure_process_capability
+#| fig-width: 9
+#| fig-height: 7
+
+library(tidyverse)
+library(ggQC)
+library(patchwork)
+
+#plot a data
+set.seed(1221)
+data_norm_dist <- 
+  data.frame(process_id = 1:1000,
+             sub_group = rep(1:20, each = 5),
+             process_value = rnorm(n = 1000, mean = 10, sd = .5))
+
+#Capability plot
+a <- data_norm_dist %>% 
+  ggplot(aes(x = process_value ))+
+  geom_histogram(bins = 30)+
+  geom_vline(aes(xintercept = mean(process_value)),
+             linetype = "dashed")+
+  stat_QC_Capability(LSL = 8,
+                     USL = 12,
+                     show.cap.summary = c("Cp","Cpk"),
+                     cap.summary.size = 3,
+                     method = "XmR")+
+  scale_x_continuous(expand = expansion(mult = c(.15,.6)))+
+  labs(subtitle = "Maintenace of the present state is all that is needed",
+       x = "")
+
+
+#plot b data
+set.seed(1230)
+data_dist_lim <- 
+  data.frame(process_id = 1:1000,
+             sub_group = rep(1:20, each = 5),
+             process_value = rnorm(1000,10,.5658713))
+
+b <- 
+  data_dist_lim %>% 
+  ggplot(aes(x = process_value))+
+  geom_histogram(bins=30)+
+  geom_vline(aes(xintercept = mean(process_value)),
+             linetype = "dashed")+
+  stat_QC_Capability(LSL = 8,
+                     USL = 12,
+                     show.cap.summary = c("Cp","Cpk"),
+                     cap.summary.size = 3,
+                     method = "XmR")+
+  scale_x_continuous(expand = expand_scale(mult = c(.15,1)))+
+  labs(subtitle = "The spec is satisfied, but there is no extra margin",
+       x = "")
+
+#plot c data
+set.seed(1223)
+data_dist_out <- 
+  data.frame(process_id = 1:1000,
+             sub_group = rep(1:20, each = 5),
+             process_value = rnorm(1000,8.9,.5))
+
+c <- 
+  data_dist_out |>
+  ggplot(aes(x = process_value))+
+  geom_histogram(bins = 30)+
+  geom_vline(aes(xintercept = mean(process_value)),
+             linetype = "dashed")+
+  stat_QC_Capability(LSL = 8,
+                     USL = 12,
+                     show.cap.summary = c("Cp","Cpk"),
+                     cap.summary.size = 3,
+                     method = "XmR"
+  )+
+  scale_x_continuous(expand = expand_scale(mult = c(.15,.6)))+
+  labs(subtitle = "It is necessary to take measures to bring the mean closer to the middle",
+       x = "")
+
+#plot d data
+set.seed(1224)
+data_dist_amp <- 
+  data.frame(process_id = 1:1000,
+             sub_group = rep(1:20, each = 5),
+             process_value = rnorm(1000,10,2))
+d <- 
+  data_dist_amp %>% 
+  ggplot(aes(x = process_value))+
+  geom_histogram(bins = 30)+
+  geom_vline(aes(xintercept = mean(process_value)),
+             linetype = "dashed")+
+  stat_QC_Capability(LSL = 8,
+                     USL = 12,
+                     show.cap.summary = c("Cp","Cpk"),
+                     cap.summary.size = 3,
+                     method ="XmR")+
+  scale_x_continuous(expand = expand_scale(mult = c(.15,.6)))+
+  labs(subtitle = "This requires action to reduce the variation",
+       x = "")
+
+#show all plots
+#a + b + c + d + plot_annotation(tag_levels = "A", tag_prefix = "Plot:")
+a + b + c + d
+```
 
 **Schuler Technology**
 
