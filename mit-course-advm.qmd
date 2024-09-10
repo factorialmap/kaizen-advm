@@ -109,21 +109,47 @@ Source: MIT by by William Bonvillian
 
 ### [**Smart Manufacturing: Moving From Static to Dynamic Manufacturing Operations**]{style="color: #9D0F6A ;"}
 
--   
+-   Interactive 10-week course for modeling to manufacturing systems, advanced data analytics, involves instruments and techniques to monitor and control physical systems through mechanical, electrical, and optical engineering along with computer science and optimization.
 
--   
+-   Technologies like AI, IoT and automation together create a highly connected intelligent sysmtes and implementing this practices anables factories become more efficient, more flexible, and more responsiveness changes in demand.
 
--   
+-   Smart manufacture facilitates more informed decision making and improved sustainability.
+
+-    The course is centered in FrED, fiber extrusion device created by MIT to test conceps, methods and new manufacturing innovations. Applying knowledge from FrED give up practical experience with advanced manufacturing
 
 Source: MIT by by Brian Anthony
 
 ### [**Industrial Internet of Things: From Theory to Applications**]{style="color: #9D0F6A ;"}
 
--   
+-   Work with embedded and beyong IoT systems and sensors
 
--   
+-   Design beyond IoT products and platforms using hardware and software.
 
--   
+-   Solve problems with machine learning
+
+-   Devise solutions for industrial cases in transportation, healthcare, agriculture, wellness, the environment using beyond IoT principles.
+
+-   A few examples of how IoT(Internet of Things) is applied in smart manufacturing
+
+    -   Predictive maintenance: IoT sensors embedded in manufacturing equipment collect data on performance metrics like temperature, vibration, and usage patterns. This data is analyzed in real-time to predict when maintenanced is needed, reducing downtime and optimizing equipment lifespan.
+
+    -   Inventory management: IoT devices track inventory levels in real-time. This includes raw materials, work-in-process(WIP), and finish goods. Manufacturers can use this data to automate reordering processes, optimize storage and reduces waste.
+
+    -   Quality control: IoT enabled sensors monitor product quality during manufacturing processes. They can detect defects early, ensuring that only high-quality products reach customers. This improves overall product uniformity and reduces waste.
+
+    -   Supply chain optimization: real time tracking of goods throughout the supply chain. Manufacturers gain visibility into the movement of raw materials, components, and fished producs. This helps in optimization logistics, reducing lead times, and improving overall supply chain efficienty.
+
+    -   Energy Management: Sensors monitor energy consumption across manufacturing facilities. This data is analyzed to identify energy-saving opportunities, optimize usae patterns, and reduce overall energy costs.
+
+    -   Worker safety and Efficiency: Wearable sensors track worker movements and environmental conditions. This helps in ensuring worker safety by detecting potential hazards and optimizing workflow efficiency.
+
+    -   Remote Monitoring and control: For managing multiple facilities or accessing critical data from off-site locations.
+
+-   Type of sensors
+
+    -   Proximity sensors
+
+        -   
 
 Source: MIT by y Brian Anthony
 
@@ -138,7 +164,7 @@ Source: MIT by y Brian Anthony
 -   Use of laser ultrasound imaging to capture charateristics of object and build digital map for 3D print for example see inside of pipeflows for contaminants. Motion vision make decision base on video in process manufacturing with feedback decision.
 
 | Tools of the day1                                            | Tools of the day2           | Tools of the day3                 | Tools of the day4                                           |
-|--------------------------------------------------------------|-----------------------------|-----------------------------------|-------------------------------------------------------------|
+|---------------------|----------------|----------------|---------------------|
 | Machine learning for real time process control and monitorig | Discrete Event Simulation   | Security: Homomorphic Encryptions | Complex Assemblies                                          |
 | Deep reinforcement learning for real-time control            | Synthetic Training          | Inverse Problems                  | Unsupervised learning - assemblies, test, and quality check |
 | Time-series classification with CNN and LSTM                 |                             |                                   | LSTM RNN vs Clustering                                      |
