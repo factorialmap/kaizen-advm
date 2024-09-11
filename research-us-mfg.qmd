@@ -115,6 +115,8 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 
 **Tesla Manufacturing by Munro Live and Lars Moravy**
 
+Tour of the Giga Factory in Austin Texas by Lars Moravy and Sandy Munro @munrolive2023 and show how to build the panels for the Tesla Cybertruck. The process is called Hard Freaking Stainless or HFS.
+
 -   Stamping building
 
     -   three five-stage tandem stainless presses
@@ -137,7 +139,7 @@ A smartphone made in America cost \$2.000 dollars but the same product made in C
 
     -   **The material have two thicknesses**, the doors are 1.8 mm thicks and all the other parts like the sails the hoods are 1.4 mm thick. (The original were about 2.53 thick, after the increase the strength of the HSF over time.
 
-    -   **Overview of the line** videoscreen showing critical control points such as uncoiler, leveler, laser boot, airtight & light tight bacause of emissions and what no, two lasers working in tandem it cuts up to 30 microns it's a first laser of its kind to do that speacilly design with Tesla and Schuler (Evaluate the possibility of adding sensors and computer vision solutions for product control). To improve the scrap utilization the coils are tuned to the parts(optimization system), that's why we don't have to weld anything together.
+    -   **Overview of the line** videoscreen showing critical control points such as uncoiler, leveler, laser booth, airtight & light tight bacause of emissions and what no, two lasers working in tandem it cuts up to 30 microns it's a first laser of its kind to do that speacilly design with Tesla and Schuler (Evaluate the possibility of adding sensors and computer vision solutions for product control). To improve the scrap utilization the coils are tuned to the parts(optimization system), that's why we don't have to weld anything together.
 
     -   **Transfer presses** that the small one make a small parts there we actually insourced about 70% of stampings for model Y and Cybertruck
 
