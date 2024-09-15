@@ -56,6 +56,8 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 > — Jerome Powell
 
 ```{r}
+#| label: fed_funds
+#| fig-align: center
 
 library(tidyverse)
 library(tidyquant)
@@ -98,6 +100,8 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 ![](images/clipboard-465393918.png)
 
 ```{r}
+#| label: continued_claims
+#| fig-align: center
 
 library(tidyverse)
 library(tidyquant)
@@ -134,6 +138,9 @@ data_continuos_claims %>%
 -   Another importat labor market indicator is Aggregate hours worked. The chart below shows the average weekly hours of all employees, total private from FRED. The first thing you see when the economy is slowing down is a reduction in job openings. That is the first wave. The secong wave that you see is the number of hours worked. And that is a very important metric because when you're cutting hours, the next step is to actually cut positions.
 
 ```{r}
+#| label: weekly_hours_work
+#| fig-align: center
+
 
 #Average weekly hours of all employees, total private ()
 #Table B-2. Average weekly hours and overtime of all employees on private nonfarm payrolls by industry sector, seasonally adjusted
@@ -172,6 +179,7 @@ Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.go
 
 ```{r}
 #| label: bonds_10y
+#| fig-align: center
 
 data_10y_bonds <- tq_get("DGS10", 
                          get = "economic.data",
@@ -203,6 +211,7 @@ Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouis
 
 ```{r}
 #| label: yield_curve
+#| fig-align: center
 
 data_yield_curve <- tq_get("T10Y3M", 
                            get = "economic.data",
@@ -257,6 +266,9 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
     -   The age of the vehicles on the road in the United States is 12.6 years acording to @parekh2024
 
 ```{r}
+#| label: vehicles
+#| fig-align: center
+
 
 library(tidyverse)
 library(scales)
@@ -311,6 +323,8 @@ There was overcapacity in carrier population during the period from 2020 to 2023
 -   Factors such as macroeconomic, geopolitical environment, and intense competition influence the adoption of technology as alternatives to improve operational efficiency in business.
 
 ```{r}
+#| label: machine_learning
+#| fig-align: center
 
 library(tidyverse)
 
@@ -395,6 +409,7 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 ```{r}
 #| label: house_mkt
+#| fig-align: center
 
 data_house_supply <- tq_get("MSACSR", 
                             get = "economic.data",
@@ -428,6 +443,7 @@ data_house_supply %>%
 
 ```{r}
 #| label: invest_america
+#| fig-align: center
 
 library(waterfalls)
 
@@ -472,6 +488,8 @@ data_invest %>%
 -   In 2023, there are approximately 1,476 community colleges in the United States. These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers @wellington2023. Community college students also are among the more diverse in postsecondary education acording to @education2024
 
 ```{r}
+#| label: comm_college
+#| fig-align: center
 
 library(tidyverse)
 

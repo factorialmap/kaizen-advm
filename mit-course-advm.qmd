@@ -147,9 +147,9 @@ Source: MIT by by Brian Anthony
 
 -   Type of sensors
 
-    -   Proximity sensors
+![Sensors](img/mit0003.png)
 
-        -   
+    
 
 Source: MIT by y Brian Anthony
 
