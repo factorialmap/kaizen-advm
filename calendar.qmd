@@ -83,3 +83,7 @@ ganttrify(
 -   **4.4. Contacting NVC:**
 
 -   **4.5. Civil docs were sent:**
+
+-   **4.6. Additional info requested:** Full birth certificate (inteiro teor)
+
+-   **4.7. Full BC requested for civil registry office:**
