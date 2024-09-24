@@ -49,7 +49,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
 
--   United States Central Bank Rate stands at 5.50%, following the most recent adjustment in july 2023.
+-   United States Central Bank Rate stands at 5.0%, following the most recent adjustment in August 2023.
 
 > The time has come for policy to adjust. The direction of travel is clear and the timing and pace of rate cuts will depend on incoming data the envolving outlook and the balance of risks. We will do everything we can to support a strong labor market as we made further progress toward price stability.
 >
