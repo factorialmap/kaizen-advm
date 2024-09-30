@@ -57,13 +57,15 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 >
 > — Jerome Powell
 
--   There was a signal in the sppech at Jackson Hole, which marked the edn of the four-year cycle where there was an increase in interest rates by the FED.
+-   There was a signal in the Jackson Hole's speech, which marked the end of the four-year cycle of increase in the interest rates by the FED.
 
--   The new cycle try to normalize ultil the economy going back to normal interest rates curver looks like in the U.S. for hundred years.
+-   The new cycle attempts to normalize economy, including indicators like the U.S. interest rate curve, according to the averages of the last hundred years.
 
-> Normancy is a positivly sloped yield curve and we think the terminal rate in FED funds is 3%. Where should 10 years be if we're at 3%? We should at least be 100 to 150 basis point positively sloped.
+-   The decision demonstrates FED's concern for the lower end of the labor market, while de high end of the labor market is still very tight.
+
+> Normality is a positively sloped yield curve and we think the terminal rate in FED funds is 3%. Where should 10 years be if we're at 3%? We should at least be 100 to 150 basis point positively sloped.
 >
-> — Gary Cohn
+> — Gary Cohn, VP of IBM
 
 -   Some indicators that may be evaluated during the next three months are:
 
