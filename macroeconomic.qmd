@@ -115,10 +115,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
--   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims for the week ending Aug 3, 2024 is 1.864 million. That is slightly more than the four-week moving average of 1.862 million. Meanwhile the number of initial claims for the week ending Aug. 3, 2024 is 233.000 lower than the four-week moving average of 240.750. The chart created by @dimartino2024 shows more details about the indicator.
-
-![](images/clipboard-465393918.png)
-
+-   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims for the week ending September 21, 2024 is 1.826 million. Less than the four-week moving average of 1.829 million. Meanwhile the number of initial claims for the week ending sep. 21, 2024 was 225.000 very close the four-week moving average of 224,250. 
 ```{r}
 #| label: continued_claims
 #| fig-align: center
