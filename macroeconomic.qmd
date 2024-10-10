@@ -27,19 +27,19 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ## [**Inflation**]{style="color: #9D0F6A ;"}
 
--   The annual inflation rate for the United States was 2.5% for the 12 months ending August, compared to the previus rate increase of 2.9%, acording to U.S. Labor Departament data published on August 14, 2024.
+-   The annual inflation rate for the United States was 2.4% for the 12 months ending September, compared to the previus rate increase of 2.5%, acording to U.S. Labor Departament data published on October 10, 2024.
 
--   The PCE price index for August increased 0.2% from the preceding month, and 2.5% year-over-year.
+-   The CPI price index for September increased 0.2% from the preceding month, and 2.4% year-over-year.
 
 | Item        | MoM  | YoY  |
 |-------------|------|------|
-| PCE overall | 0.3  | 2.5  |
-| Services    | 0.4  | 4.9  |
-| Food        | 0.1  | 2.1  |
-| Energy      | -0.8 | -4.0 |
-| Shelter     | 0.5  | 5.2  |
+| CPI overall | 0.2  | 2.4  |
+| Services    | 0.4  | 4.7  |
+| Food        | 0.4  | 2.3  |
+| Energy      | -1.9 | -6.8 |
+| Shelter     | 0.2  | 4.9  |
 
--   From the same month over year ago, the consumer price index (CPI) for August increased 2.59%, acording to Federal Reserve Economic Data.
+-   From the same month over year ago, the consumer price index (CPI) for September increased 2.41%, acording to Federal Reserve Economic Data.
 
 ![](images/clipboard-2010062285.png)
 
