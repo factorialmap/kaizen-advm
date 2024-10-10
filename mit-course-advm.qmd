@@ -149,31 +149,29 @@ Source: MIT by by Brian Anthony
 
 ![Sensors](img/mit0003.png)
 
-    
-
 Source: MIT by y Brian Anthony
 
 ### [**Advanced Data Analytics For IIOT and Smart Manufacturing**]{style="color: #9D0F6A ;"}
 
--   This course is on Campus, and is closed. Course length: 4 days
+-   This course is on Campus, and is closed. Course length: 4 days @mitcorporaterelations2023
 
--   This course is structured based on industrial case driving with cases on optical fiber continuous extrusion, preform fabrication, coffe roasting(Nescafe), packaging beverages(tetrapack), engine manufacturing(Nissan), human monitoring and observation factory and clinic for improve quality(BMW), among others.
+-   This course is structured based on industrial case driving with cases on optical fiber continuous extrusion, preform fabrication, coffe roasting(Nescafe), packaging beverages(tetrapack), engine manufacturing(Nissan), human monitoring and observation factory and clinic for improve quality(BMW), among others. The idea is to use consolidated techniques such as data distribution, probability, fourier transform @oficiencia2019 and machine learning to perform spectral analysis for predictive maintenance for example.
 
 -   Machine learning base twins on the factory floor process control with real time feedback for quality control.The idea is to expose to IoT(feedback control) data, using statistical trends to identify anormally and automatically improve the process using machine learning models for SPC beyond "normal".
 
 -   Use of laser ultrasound imaging to capture charateristics of object and build digital map for 3D print for example see inside of pipeflows for contaminants. Motion vision make decision base on video in process manufacturing with feedback decision.
 
-| Tools of the day1                                            | Tools of the day2           | Tools of the day3                 | Tools of the day4                                           |
-|--------------------------------------------------------------|-----------------------------|-----------------------------------|-------------------------------------------------------------|
-| Machine learning for real time process control and monitorig | Discrete Event Simulation   | Security: Homomorphic Encryptions | Complex Assemblies                                          |
-| Deep reinforcement learning for real-time control            | Synthetic Training          | Inverse Problems                  | Unsupervised learning - assemblies, test, and quality check |
-| Time-series classification with CNN and LSTM                 |                             |                                   | LSTM RNN vs Clustering                                      |
-| **Cases of the Day1**                                        | **Cases of the Day2**       | **Cases of the Day3**             | **Cases of the Day4**                                       |
-| Food processing                                              | Automotive                  | Imaging                           | Packaging                                                   |
-| Ambient Sensing in the Home                                  | Fiber                       | Inverse Design                    | Automotive                                                  |
-| Fiber                                                        |                             |                                   |                                                             |
-| **Themes**                                                   | **Themes**                  | **Themes**                        | **Themes**                                                  |
-| Continuous processing                                        | Systems/Lin/Batch processes | Design and Inverse problems       | Complex Assembly and Test                                   |
+| Tools of the day1 | Tools of the day2 | Tools of the day3 | Tools of the day4 |
+|---------------------|----------------|----------------|---------------------|
+| Machine learning for real time process control and monitorig | Discrete Event Simulation | Security: Homomorphic Encryptions | Complex Assemblies |
+| Deep reinforcement learning for real-time control | Synthetic Training | Inverse Problems | Unsupervised learning - assemblies, test, and quality check |
+| Time-series classification with CNN and LSTM |  |  | LSTM RNN vs Clustering |
+| **Cases of the Day1** | **Cases of the Day2** | **Cases of the Day3** | **Cases of the Day4** |
+| Food processing | Automotive | Imaging | Packaging |
+| Ambient Sensing in the Home | Fiber | Inverse Design | Automotive |
+| Fiber |  |  |  |
+| **Themes** | **Themes** | **Themes** | **Themes** |
+| Continuous processing | Systems/Lin/Batch processes | Design and Inverse problems | Complex Assembly and Test |
 
 : Calendar
 
