@@ -109,7 +109,11 @@ Research \> Development \> Prototype \> Demo \> Test \> Production \> Market
 
 -   Innovation: Built on scientific discovery and breakthrough invention \* commercialization
 
+-   System: Bunch of components working together to achieve some type of goal @alithedazzling2024
+
 -   Innovation system: Ecosystem for developing innovation operates at two levels: institution actors and face-to-face groups.
+
+![Systems](img/system.png)
 
 -   Innovation wave: 40/50 year cycle of innovation based on radical breakthrough, disruptive invention, and then application piled on this, productivity rises, then long period of incremental invention(effect spread around the system)
 
@@ -210,7 +214,6 @@ Source: MIT by y Brian Anthony
 Source: MIT by Brian Anthony
 
 ### [**Advanced Additive Manufacturing**]{style="color: #9D0F6A ;"}
-
 
 **What is it ?**
 
