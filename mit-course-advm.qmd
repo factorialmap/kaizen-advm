@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing-focused courses at MIT"
+title: "MIT Courses in Advanced Manufacturing "
 bibliography: references.bib
 ---
 
@@ -198,7 +198,7 @@ Source: MIT by y Brian Anthony
 -   Use of laser ultrasound imaging to capture charateristics of object and build digital map for 3D print for example see inside of pipeflows for contaminants. Motion vision make decision base on video in process manufacturing with feedback decision.
 
 | Tools of the day1 | Tools of the day2 | Tools of the day3 | Tools of the day4 |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Machine learning for real time process control and monitorig | Discrete Event Simulation | Security: Homomorphic Encryptions | Complex Assemblies |
 | Deep reinforcement learning for real-time control | Synthetic Training | Inverse Problems | Unsupervised learning - assemblies, test, and quality check |
 | Time-series classification with CNN and LSTM |  |  | LSTM RNN vs Clustering |
@@ -219,9 +219,8 @@ Source: MIT by Brian Anthony
 
 -   12 weeks course (on line) about Advanced Additive Manufacturing for Innovative Design and Production, published by MIT and presented by professor John Hart, Wojciech Matusik, Emanuel "Ely" Sachs and others.
 
--   
+-   Learn the fundamentals, applications, and business implications of 3D printing for desing and manufacturing.
 
--   
 
 **Summary**
 

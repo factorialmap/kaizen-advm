@@ -10,10 +10,9 @@ about:
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Writing about my career as a Business & Process Improvement Analyst.
--   Lean principles, PDCA method and quality tools.
--   Machine learning applied to manufacturing.
--   Data science in advanced manufacturing.
--   Produce bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Japan.
+-   How to create solutions to improve manufacturing processes by incorporating lean principles, PDCA method and quality tools in machine learning models and GenAI.
+-   How to improve advanced manufacturing using data science.
+-   Create bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Japan.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
@@ -23,25 +22,22 @@ about:
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
 -   Process Improvement and Lean principles
--   Statistics
--   Machine Learning Models
 -   Business Intelligence
--   Data Science
 -   Strategic Planning
+-   Data Science
+-   Statistics and Machine Learning Models
 
 ### [**Who are my teachers**]{style="color: #9D0F6A ;"}
 
-Here are some people who have helped light my path, helped me make new friends, discuss ideas and apply those ideas in practice throughout my career, whether through lectures, books, scientific articles and classes.
+Here are some people who have helped me light my path. They have helped me meet new friends, discuss ideas and apply them in practice throughout my career, whether through lectures, books, scientific articles and classes.
 
-
-W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Rubens Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa,  Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
+W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Rubens Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
 
 ### [**Some books that may be helpful in process improvement**]{style="color: #9D0F6A ;"}
 
 Some books that help me deal with day-to-day challenges in my career.
 
 ![Books](img/books.png)
-
 
 ### [**Inspirations and long term purpose**]{style="color: #9D0F6A ;"}
 
@@ -61,10 +57,11 @@ Complex problems that require in-depth investigation in search of cause-and-effe
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 </center>
-
 :::
 
 > Despite years of experience, maintain humility and intellectual curiosity. Approach learning with the openness and hunger of a child

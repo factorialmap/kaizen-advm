@@ -1,5 +1,5 @@
 ---
-title: "Lean principles & Data Science in Manufacturing"
+title: "Lean Principles & Data Science in Manufacturing"
 bibliography: references.bib
 ---
 
