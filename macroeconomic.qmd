@@ -43,13 +43,13 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ![](images/clipboard-2010062285.png)
 
--   September 2024 CPI data are scheduled to be released on October 10, 2024, at 08:30AM.
+-   The CPI for October 2024 is scheduled to be released on November 13, 2024, at 08:30 a.m. (ET).
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
 
--   United States Central Bank Rate stands at 5.0%, following the most recent adjustment in August 2023.
+-   United States Central Bank Rate stands at 5.0%, following the most recent adjustment in August 2024.
 
 > As inflation has declined and the labor market has cooled, the upside risks to inflation have diminished and the downside risks to employment have increased. We now see the risks to achieving our employment and inflation goals as roughly in balance, and we are attentive to the risks to both sides of our dual mandate.
 >
@@ -61,7 +61,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 -   The new cycle attempts to normalize economy, including indicators like the U.S. interest rate curve, according to the averages of the last hundred years.
 
--   The decision demonstrates FED's concern for the lower end of the labor market, while de high end of the labor market is still very tight.
+-   The decision demonstrates FED's concern for the lower end of the labor market, while de high end is still very tight.
 
 > Normality is a positively sloped yield curve and we think the terminal rate in FED funds is 3%. Where should 10 years be if we're at 3%? We should at least be 100 to 150 basis point positively sloped.
 >
@@ -115,7 +115,8 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
--   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims for the week ending September 21, 2024 is 1.826 million. Less than the four-week moving average of 1.829 million. Meanwhile the number of initial claims for the week ending sep. 21, 2024 was 225.000 very close the four-week moving average of 224,250. 
+-   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims for the week ending September 21, 2024 is 1.826 million. Less than the four-week moving average of 1.829 million. Meanwhile the number of initial claims for the week ending sep. 21, 2024 was 225.000 very close the four-week moving average of 224,250.
+
 ```{r}
 #| label: continued_claims
 #| fig-align: center
@@ -147,12 +148,13 @@ data_continuos_claims %>%
   )+
   theme_minimal()+
   labs(title = "Continued Claims (Insured Unemployment)",
-       caption = "Source: FRED")
+       caption = "Source: FRED",
+       y = "Value")
 
 
 ```
 
--   Another importat labor market indicator is Aggregate hours worked. The chart below shows the average weekly hours of all employees, total private from FRED. The first thing you see when the economy is slowing down is a reduction in job openings. That is the first wave. The secong wave that you see is the number of hours worked. And that is a very important metric because when you're cutting hours, the next step is to actually cut positions.
+-   Another importat labor market indicator is aggregate hours worked. The chart below shows the average weekly hours of all employees, total private. The first thing you see when the economy is slowing down is a reduction in job openings. That is the first wave. The secong wave that you see is the number of hours worked. And that is a very important metric because when you're cutting hours, the next step is to actually cut positions.
 
 ```{r}
 #| label: weekly_hours_work
@@ -182,7 +184,8 @@ data_wk_hours %>%
   )+
   theme_minimal()+
   labs(title = "Average weekly hours of all employees, total private",
-       caption = "Source: FRED")
+       caption = "Source: FRED",
+       y = "Hours")
 
 
 ```
@@ -191,8 +194,9 @@ Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.go
 
 ## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
--   United States Central Bank Rate stands at 5.50%, following the most recent adjustment in july 2023.
--   The chart below shows the United States 10-Year Government Bond yield
+-   United States Central Bank Rate stands at 5.0%, following the most recent adjustment in August 2024.
+
+-   The chart below shows the United States 10-Year Government Bond yield.
 
 ```{r}
 #| label: bonds_10y
@@ -217,33 +221,40 @@ data_10y_bonds %>%
   )+
   theme_minimal()+
   labs(title = "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
+      y = "Rate" ,
       caption = "Soure: FRED")
 
 ```
 
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
-## [**10Y3M curve**]{style="color: #9D0F6A ;"}
-
--   The spread between United States 10-Year and 3-Months is -136.6 basis points(bp)
+## [**Yield Curve**]{style="color: #9D0F6A ;"}
 
 ```{r}
 #| label: yield_curve
 #| fig-align: center
+#| code-line-numbers: true
 
 data_yield_curve <- tq_get("T10Y3M", 
                            get = "economic.data",
                            from = "1970-01-01",
                            to = "2025-01-01")
 
+data_yield_spread <- data_yield_curve %>% tail(1)
+
 
 data_yield_curve %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = .5,
             color = "#9D0F6A")+
+  geom_text_repel(
+    aes(label = price),
+    data = data_yield_spread,
+    nudge_x = 1)+
   geom_hline(yintercept = 0, linewidth = 1, color = "red")+
   theme_minimal()+
-  labs(title = "Yield Curve 10-year bonds vs T-bills 13 weeks")
+  labs(title = "Yield Curve 10-year bonds vs T-bills 13 weeks",
+       y = "Value")
 
 ```
 
@@ -253,11 +264,11 @@ Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
 ### [**Overall**]{style="color: #9D0F6A ;"}
 
-Revenue's cash flow is a challenge which has a short-term effect on supply chains, labor market, and debt costs as some of them are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes searching for efficiency. Other behaviors:
+Revenue's cash flow is a challenge which has a short-term effect on supply chains, labor market, and debt costs as some of them are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes striving for efficiency. Other behaviors:
 
 -   Temporary rise in unemployment rates, however withour sudden moviments. The job losses begin at the lowest rungs in terms of skills, educational attainment, income making capacity. This indicators are being closely monitored by FED officials and the signals can be seen in Mr. Powell's statements.
 
--   Actions to efficiency improvement of costs(COGS) and operating expenses(SG&A) by the companies.
+-   Decisions by companies towards reducing costs(COGS) and operating expenses(SG&A).
 
 -   Temporary increase in the cost of capital for privet debt.
 
@@ -269,7 +280,7 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
 
 -   2023 was an incredible year for agriculture, with high productivity for wheat and corn. In 2024, the harvest is a little late(e.g South Dakota area). There was high intensity of rainfall at the beginning of planting with mild temperatutes, causing the crop not to develop as much as in 2023. During the wheat harvest, usually in August, the corn needs more rain to fill the grain, but this year there was not so much during this period.
 
--   The distortions generated during the pandemic make 2024 a year of adjusments that are being faced by growers, agricultural auto manufacturing, and sale of machinery and equipment temporarily affeting jobs.
+-   The distortions generated during the pandemic is make 2024 a year of adjusments that are being faced by growers, agricultural auto manufacturing, and machinery and equipment sales, temporarily affeting jobs.
 
 -   Looking for agricultural prices, they are still not good. The expectation is not for a bad year, but it will not be as good as 2023. Sales of new equipment have fallen, making it necessary to adjust costs and expenses in companies such as John Deer and CNH industrial.
 
@@ -277,7 +288,7 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
 
 -   The automotive industry faces many challenges in 2024. Slowing growth, increased competition, supply chain disruptions generated during the pandemic and business decisions caused distortions in costs and prices that grew way above the population's income and general inflation rates. This process may take a few years to stabilize.
 
--   Another data observed is that the volume of new car sales does not follow the same trend as population growth. It requires a deeper analysis to identify cause-and-effect relationships, but for now, the hypotheses raised are accessibility and the durability of the vehicles @autolinenetwork2024.
+-   The volume of new car sales does not follow the same trend as population growth. It requires a deeper analysis to identify cause-and-effect relationships, but for now, the hypotheses raised are accessibility and the durability of the vehicles @autolinenetwork2024.
 
     -   From a price perspective, historically, it takes 25 weeks of average household income to buy a new vehicle. The average household income in 2024 is \$75.000(\$1.400 per week) which would be enough to buy a vehicle worth \$36.000 dollars.
 
@@ -316,7 +327,7 @@ data_us_pop %>%
     caption = "Source: ww.census.gov | FRED ")
 ```
 
--   Financial data from the second quarter of 2024.
+-   Financial data from auto industry in the second quarter of 2024.
 
 ![Auto sales by brand 2Q24](img/auto_results_24.jpg)
 
@@ -324,15 +335,15 @@ data_us_pop %>%
 
 ### [**Transportation**]{style="color: #9D0F6A ;"}
 
-There was overcapacity in carrier population during the period from 2020 to 2023 due to demand that has been inconsistent over time and is currently undergoing adjustments. However, capacity still presents high values in relation to valumes and demand, pressuring agents to adjust their operations in search for efficiency gains. Some of those carriers are contracting reducing their fleets sizes in order to move forward. On the other side the carriers population are reduced in 32.500 from december of 2022 to june of 2024.
+There was overcapacity in carrier population during the period from 2020 to 2023 due to demand that has been inconsistent over time and is currently undergoing adjustments. However, capacity still presents high values in relation to volumes pressuring agents to adjust their operations in striving for efficiency gains. Some of those carriers are contracting and reducing their fleets sizes in order to move forward. On the other side the carriers population are reduced in 32.500 from december of 2022 to june of 2024.
 
 -   Tender rejections are currently in 4.5%, and diesel prices are \$3.81 per gallon on average.
 
--   Dry van in spot market currently \$1.96 per mile 0.2% YoY and -11.5% over five years. Overcapacity more concentrated in Atlanta, GA.
+-   Dry van in spot market currently \$1.96 per mile 0.2% YoY and -11.5% over five years(2019).
 
--   Reefer in spot market currently \$2.30 per mile -1% YoY and -9% over five years.
+-   Reefer in spot market currently \$2.30 per mile -1% YoY and -9% over five years(2019).
 
--   Flat bed in spot market currently \$2.34 per mile -1% YoY and -7% over five years.
+-   Flat bed in spot market currently \$2.34 per mile -1% YoY and -7% over five years(2019).
 
 ### [**Technology**]{style="color: #9D0F6A ;"}
 
@@ -361,7 +372,7 @@ data_ml %>%
   geom_text(label = data_ml$ml_models, vjust = -.6)+
   theme_minimal()+
   expand_limits(y = c(0,70))+
-  labs(title = "Number of machine learning models",
+  labs(title = "Number of big machine learning models",
        subtitle = "qty by country 2023",
        x = "",
        y = "",
@@ -443,11 +454,13 @@ data_house_supply %>%
             color = "#9D0F6A")+
   geom_text_repel(
     aes(label = price),
-    data = data_house_supply_end
+    data = data_house_supply_end,
+    nudge_x = 1
   )+
   theme_minimal()+
-  labs(title = "Montly Supply of New Houses",
-      caption = "Soure: FRED")
+  labs(title = "Monthly Supply of New Houses",
+      caption = "Soure: FRED",
+      y = "new houses for sale/new houses sold")
 
 ```
 
