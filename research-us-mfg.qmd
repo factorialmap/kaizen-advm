@@ -260,8 +260,97 @@ d <-
 a + b + c + d
 ```
 
-**Schuler Technology**
+### [**Robotics**]{style="color: #9D0F6A ;"}
 
--   
+**General idea**
 
--   
+- Robots becoming increasingly prevalent in almost every industry, from healthcare and manufacturing to defense and education. 
+
+  -   Welding
+  -   Teaching
+  -   Assemling cars
+  -   Performing surgery
+  
+**Robots Manufacturing**
+
+- Kuka: 
+
+- Durr: Paint robots and paint machines. Also software and controllers.
+
+- Fanuc Corp: Oshino-mura, Yamanashi, operates in the supply of factory automation, robots, and root machines. The company offers products of the CNC series, servo motors, lasers, injection molding machins, wire-cut discharge machines, and ultra-precision machines.
+
+- ABB: Zurich, Switzerland, provide machine automation solutions, including robots, controllers, software, function packages, cells, programmable logic controllers, industrial PCS, and collaborative robot solutions.
+
+- Yaskawa Electric(YASKY):  Kitakyushu, Fukuoka makes AC inverters, motors, and industrial robots. The company operates in sectors of robotcics,system engineering, and motion control.
+
+- Kawasaki
+
+- Nachi:
+
+- Staubli:
+
+- Rockwell Automation(ROK): Milwaukee, Wisconsin provide systems, motor control equipment, sensors, and industrial control panels.
+
+- Kion Group: frankfurt Germany: Develops industrial trucks, warehouse technology, related services, and supply chain solutions.
+
+- Humard:
+
+- ESA:
+
+- Distalmotion:
+
+- Astes:
+
+- Paradox:
+
+- Hamilton:
+
+- Medacta:
+
+- Neura Robotics:
+
+- Anduril:
+
+- Diligent Robotics:
+
+- Intuitive:
+
+- Starship Robotics:
+
+- Nuro:
+
+- Vecna Robotics:
+
+- Boston Dynamics: Waltham, MA makes robots that have  human and animal like dexterity.
+
+- RightHand Robotics: Somerville, MA develops adaptable robotic technology that reduces the challenges in tradition e-commerce order fulfillment.
+
+- IRobot(IRBT): Bedford, MA makes smart homes products like smart vacumming, floor-scrubbing and mopping devices. Products include the Roomba and Braava, and STEM education for kids.
+
+- Vecna Robotics: Walthman, MA makes robotics used in manufacturing, warehousing fulfillment, transporting, lifting and conveying all types of materials in human-centric enribonments.
+
+- Zebra(ZBRA): Loncolnshire, Illinois offers a retail robots solving problems like out of stock products, incorrect pricing, and high labor costs. Also provide barcode technology, RFID readers, printers, and real-time data capture machines.
+
+**Humanoids Manufacturing**
+
+- Tesla Optimus G2(USA)
+
+- Nvidia Project GR00T(USA)
+
+- 1X NEO(Norway)
+
+- Fourier GR-1(SG)
+
+- Sanctuary AI Phoenix(CAN)
+
+- Apptronik Apollo(USA)
+
+- Agility Digit(USA)
+
+- Boston Dynamics Atlas(USA)
+
+- Unitree H1(CH)
+
+- Mentee MenteeBot(Israel)
+
+
