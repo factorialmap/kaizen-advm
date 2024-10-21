@@ -293,23 +293,17 @@ a + b + c + d
 
 - Kion Group: frankfurt Germany: Develops industrial trucks, warehouse technology, related services, and supply chain solutions.
 
-- Humard Switzerland: AGVs, 
+- Humard  Delémont, Switzerland: AGVs, 
 
-- ESA:
+- Distalmotion Epalinges Switzerland: Robots for surgery for medical areas such as urology, genecology, and general surgery. Dexter robot.
 
-- Distalmotion:
+- Astrobotic Pittsburg Pennsylvania: developing space robotics technology for lunar and planetary missions.
 
-- Astes:
+- Hamilton Robotics Reno Nevada USA: Liquid handling systems for fully automated workflows for assays, ranging from low-throughput pipetting protocols to high-thorughput systems.
 
-- Paradox:
+- Medacta Group: Surgical robots, opthopedic robots.
 
-- Hamilton:
-
-- Medacta:
-
-- Neura Robotics:
-
-- Anduril:
+- Neura Robotics Stuttgart Germany: Collaborative robots, cognitive capabilities. MaiRA, MiPA robots models.
 
 - Diligent Robotics:
 
