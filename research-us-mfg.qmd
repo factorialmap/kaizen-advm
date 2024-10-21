@@ -273,27 +273,27 @@ a + b + c + d
   
 **Robots Manufacturing**
 
-- Kuka: 
+- Kuka Augsburg, Germany: Industrial robots and factory automation systems. In 2016, the company was acquired by the chinese appliance manufacturer Midea Group. 
 
-- Durr: Paint robots and paint machines. Also software and controllers.
+- Durr Stuttgart, Germany: Paint robots, paint machines and final assembly systems like automated guided vehicle(agv).
 
-- Fanuc Corp: Oshino-mura, Yamanashi, operates in the supply of factory automation, robots, and root machines. The company offers products of the CNC series, servo motors, lasers, injection molding machins, wire-cut discharge machines, and ultra-precision machines.
+- Fanuc Corp: Oshino-mura, Yamanashi, operates in the supply of factory automation, robots, and root machines. The company offers products of the CNC series, servo motors, lasers, injection molding machines, wire-cut discharge machines, and ultra-precision machines.
 
 - ABB: Zurich, Switzerland, provide machine automation solutions, including robots, controllers, software, function packages, cells, programmable logic controllers, industrial PCS, and collaborative robot solutions.
 
-- Yaskawa Electric(YASKY):  Kitakyushu, Fukuoka makes AC inverters, motors, and industrial robots. The company operates in sectors of robotcics,system engineering, and motion control.
+- Yaskawa Electric(YASKY):  Kitakyushu, Fukuoka makes AC inverters, servos, motion controllers, ac motors drivers, and industrial robots. The company operates in sectors of robotcics,system engineering, and motion control.
 
-- Kawasaki
+- Kawasaki Tokyo Japan: Automation systems, industrial robots for handling, welding, paiting, picking(y-series) and sealing. In 2019 evolved the humanoid kaleido and Bex Capricorn.
 
-- Nachi:
+- Nachi-Fujikoshi Toyama Japan: Industrial robots, machining tools, precision machinery and systems.
 
-- Staubli:
+- Staubli Pfäffikon Switzerland: Electrical connectors(e.g MC4), fluid connectors(e.g.MCS), robots, AGVS, quick mold change, robot tools.
 
 - Rockwell Automation(ROK): Milwaukee, Wisconsin provide systems, motor control equipment, sensors, and industrial control panels.
 
 - Kion Group: frankfurt Germany: Develops industrial trucks, warehouse technology, related services, and supply chain solutions.
 
-- Humard:
+- Humard Switzerland: AGVs, 
 
 - ESA:
 
@@ -353,4 +353,4 @@ a + b + c + d
 
 - Mentee MenteeBot(Israel)
 
-
+- kaleido Kawazaki(Japan):
