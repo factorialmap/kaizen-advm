@@ -264,87 +264,84 @@ a + b + c + d
 
 **General idea**
 
-- Robots becoming increasingly prevalent in almost every industry, from healthcare and manufacturing to defense and education. 
+-   Robots becoming increasingly prevalent in almost every industry, from healthcare and manufacturing to defense and education.
 
-  -   Welding
-  -   Teaching
-  -   Assemling cars
-  -   Performing surgery
-  
+    -   Welding
+    -   Teaching
+    -   Assemling cars
+    -   Performing surgery
+    -   
+
 **Robots Manufacturing**
 
-- Kuka Augsburg, Germany: Industrial robots and factory automation systems. In 2016, the company was acquired by the chinese appliance manufacturer Midea Group. 
+-   **Kuka Augsburg, Germany**: Industrial robots and factory automation systems. In 2016, the company was acquired by the chinese appliance manufacturer Midea Group.
 
-- Durr Stuttgart, Germany: Paint robots, paint machines and final assembly systems like automated guided vehicle(agv).
+-   **Durr Stuttgart, Germany**: Paint robots, paint machines and final assembly systems like automated guided vehicle(agv).
 
-- Fanuc Corp: Oshino-mura, Yamanashi, operates in the supply of factory automation, robots, and root machines. The company offers products of the CNC series, servo motors, lasers, injection molding machines, wire-cut discharge machines, and ultra-precision machines.
+-   **Fanuc Corp Yamanashi, Japan**: operates in the supply of factory automation, robots, and root machines. The company offers products of the CNC series, servo motors, lasers, injection molding machines, wire-cut discharge machines, and ultra-precision machines.
 
-- ABB: Zurich, Switzerland, provide machine automation solutions, including robots, controllers, software, function packages, cells, programmable logic controllers, industrial PCS, and collaborative robot solutions.
+-   **ABB Zurich, Switzerland**:, provide machine automation solutions, including robots, controllers, software, function packages, cells, programmable logic controllers, industrial PCS, and collaborative robot solutions.
 
-- Yaskawa Electric(YASKY):  Kitakyushu, Fukuoka makes AC inverters, servos, motion controllers, ac motors drivers, and industrial robots. The company operates in sectors of robotcics,system engineering, and motion control.
+-   **Yaskawa Electric(YASKY) Fukuoka, Japan**: makes AC inverters, servos, motion controllers, ac motors drivers, and industrial robots. The company operates in sectors of robotcics,system engineering, and motion control.
 
-- Kawasaki Tokyo Japan: Automation systems, industrial robots for handling, welding, paiting, picking(y-series) and sealing. In 2019 evolved the humanoid kaleido and Bex Capricorn.
+-   **Kawasaki Tokyo, Japan**: Automation systems, industrial robots for handling, welding, paiting, picking(y-series) and sealing. In 2019 evolved the humanoid kaleido and Bex Capricorn.
 
-- Nachi-Fujikoshi Toyama Japan: Industrial robots, machining tools, precision machinery and systems.
+-   **Nachi-Fujikoshi Toyama, Japan**: Industrial robots, machining tools, precision machinery and systems.
 
-- Staubli Pfäffikon Switzerland: Electrical connectors(e.g MC4), fluid connectors(e.g.MCS), robots, AGVS, quick mold change, robot tools.
+-   **Staubli Pfäffikon, Switzerland**: Electrical connectors(e.g MC4), fluid connectors(e.g.MCS), robots, AGVS, quick mold change, robot tools.
 
-- Rockwell Automation(ROK): Milwaukee, Wisconsin provide systems, motor control equipment, sensors, and industrial control panels.
+-   **Rockwell Automation(ROK) Milwaukee, WI**: provide systems, motor control equipment, sensors, and industrial control panels.
 
-- Kion Group: frankfurt Germany: Develops industrial trucks, warehouse technology, related services, and supply chain solutions.
+-   **Kion Group frankfurt, Germany**: Develops industrial trucks, warehouse technology, related services, and supply chain solutions.
 
-- Humard  Delémont, Switzerland: AGVs, 
+-   **Humard Delémont, Switzerland**: AGVs,
 
-- Distalmotion Epalinges Switzerland: Robots for surgery for medical areas such as urology, genecology, and general surgery. Dexter robot.
+-   **Distalmotion Epalinges, Switzerland**: Robots for surgery for medical areas such as urology, genecology, and general surgery. Dexter robot.
 
-- Astrobotic Pittsburg Pennsylvania: developing space robotics technology for lunar and planetary missions.
+-   **Astrobotic Pittsburg, PA**: developing space robotics technology for lunar and planetary missions.
 
-- Hamilton Robotics Reno Nevada USA: Liquid handling systems for fully automated workflows for assays, ranging from low-throughput pipetting protocols to high-thorughput systems.
+-   **Hamilton Robotics Reno, NV:** Liquid handling systems for fully automated workflows for assays, ranging from low-throughput pipetting protocols to high-thorughput systems.
 
-- Medacta Group: Surgical robots, opthopedic robots.
+-   **Medacta Group Castel San Pietro, Switzerland**: Surgical robots, opthopedic robots.
 
-- Neura Robotics Stuttgart Germany: Collaborative robots, cognitive capabilities. MaiRA, MiPA robots models.
+-   **Neura Robotics Stuttgart, Germany**: Collaborative robots, cognitive capabilities. MaiRA, MiPA robots models.
 
-- Diligent Robotics:
+-   **Diligent Robotics Austin, TX**: robotic products to work collaboratively with humans. Moxi robot is a assistant to help the clinical staff working in a hospital environment gathering supplies, delivering lab samples etc.
 
-- Intuitive:
+-   **Starship Robotics San Francisco, CA**: Autonomous deliveries vehicle.
 
-- Starship Robotics:
+-   **Nuro Mountain View, CA**: Develops autonomous delivery vehicles. R1 1500 pounds vehicle.
 
-- Nuro:
+-   **Boston Dynamics Waltham, MA**: makes robots that have human and animal like dexterity.
 
-- Vecna Robotics:
+-   **RightHand Robotics Somerville, MA**: develops adaptable robotic technology that reduces the challenges in tradition e-commerce order fulfillment.
 
-- Boston Dynamics: Waltham, MA makes robots that have  human and animal like dexterity.
+-   **IRobot(IRBT) Bedford, MA**: makes smart homes products like smart vacumming, floor-scrubbing and mopping devices. Products include the Roomba and Braava, and STEM education for kids.
 
-- RightHand Robotics: Somerville, MA develops adaptable robotic technology that reduces the challenges in tradition e-commerce order fulfillment.
+-   **Vecna Robotics Waltham, MA**: Specalized in automated material handlig (Autonomous Forklift), makes robotics used in manufacturing, warehousing fulfillment, transporting, lifting and conveying all types of materials, workflow optimization for industrial applications. Products Co-bot Pallet Jack, RC20 Conveyor, RL350 Lifter, RL3600 Pallet Truck, RT4500 Tugger and the Tote Retrieval System (TRS)
 
-- IRobot(IRBT): Bedford, MA makes smart homes products like smart vacumming, floor-scrubbing and mopping devices. Products include the Roomba and Braava, and STEM education for kids.
-
-- Vecna Robotics: Walthman, MA makes robotics used in manufacturing, warehousing fulfillment, transporting, lifting and conveying all types of materials in human-centric enribonments.
-
-- Zebra(ZBRA): Loncolnshire, Illinois offers a retail robots solving problems like out of stock products, incorrect pricing, and high labor costs. Also provide barcode technology, RFID readers, printers, and real-time data capture machines.
+-   **Zebra(ZBRA) Loncolnshire, IL**: offers a retail robots solving problems like out of stock products, incorrect pricing, and high labor costs. Also provide barcode technology, RFID readers, printers, and real-time data capture machines.
 
 **Humanoids Manufacturing**
 
-- Tesla Optimus G2(USA)
+-   Tesla Optimus G2(USA)
 
-- Nvidia Project GR00T(USA)
+-   Nvidia Project GR00T(USA)
 
-- 1X NEO(Norway)
+-   1X NEO(Norway)
 
-- Fourier GR-1(SG)
+-   Fourier GR-1(SG)
 
-- Sanctuary AI Phoenix(CAN)
+-   Sanctuary AI Phoenix(CAN)
 
-- Apptronik Apollo(USA)
+-   Apptronik Apollo(USA)
 
-- Agility Digit(USA)
+-   Agility Digit(USA)
 
-- Boston Dynamics Atlas(USA)
+-   Boston Dynamics Atlas(USA)
 
-- Unitree H1(CH)
+-   Unitree H1(CH)
 
-- Mentee MenteeBot(Israel)
+-   Mentee MenteeBot(Israel)
 
-- kaleido Kawazaki(Japan):
+-   Kawazaki kaleido (Japan):
