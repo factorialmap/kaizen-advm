@@ -11,6 +11,7 @@ about:
 
 -   Writing about my career as a Business & Process Improvement Analyst.
 -   How to create solutions to improve manufacturing processes by incorporating lean principles, PDCA method and quality tools in machine learning models and GenAI.
+-   Training data scince using R and Python code.
 -   How to improve advanced manufacturing using data science.
 -   Create bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Japan.
 
