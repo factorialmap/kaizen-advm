@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 18px;
+
+/*-- scss:rules --*/
+
+#quarto-document-content {
+  font-family: Ubuntu, Arial, sans-serif;
+  font-size: 10pt;
+  margin-bottom: -50pt !important;
+  
+  body {
+  background-color: #fefbd8;
+}
+
+div {
+  background-color: #F0E8E4;
+}
+
+
+  a {
+    color: #2F4F4F;
+  }
+}
+
+.cr-section {
+  
+  .narrative-col {
+    background-color: #F0E8E4;
+    color: #2F4F4F;
+    min-width: 400px;
+    
+  }
+}
+
+.cr-section .sticky-col {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* mobile sizing (bootstrap: xs) is always overlay-center */
+//@media (max-width: 575.98px) {
+@media (max-width: 575.98px) {
+  .cr-section.sidebar-left,
+  .cr-section.sidebar-right,
+  .cr-section.overlay-left,
+  .cr-section.overlay-right,
+  .cr-section.overlay-center {
+    
+    .narrative-col {
+      background-color: #F0E8E4;
+      
+      .narrative {
+        
+        > * {
+          background-color: white;
+          padding: 5px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+
+.cr-section.overlay-left,
+.cr-section.overlay-center,
+.cr-section.overlay-right {
+  .narrative-col {
+    background-color: #F0E8E4;
+    
+    .narrative {
+      background-color: #F0E8E4;
+    }
+  }
+}

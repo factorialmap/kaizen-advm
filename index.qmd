@@ -10,27 +10,28 @@ about:
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Writing about my career as a Business & Process Improvement Analyst.
--   How to create solutions to improve manufacturing processes by incorporating lean principles, PDCA method and quality tools in machine learning models and GenAI.
--   Training data scince using R and Python code.
--   How to improve advanced manufacturing using data science.
--   Create bibliographic content for my niece Alexis and nephew Noah who are currently studying robotics in Japan.
+-   How to use machine learning models and GenAI to incorporate lean principles, PDCA method and statistical tools into solutions for process improvement in manufacturing .
+-   Solve real problems in data science field using Python, R and other business intelligence tools.
+-   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
+-   Build the foundations for my PhD research that investigates the factors that impact competitiveness, personal development, and management capacity in manufacturing during changing economic cycles.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
 -   Master's Degree - Agro-industrial Production & Management
 -   Bachelor's Degree - Business Administration
 
+
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
+-   Strategic Planning
 -   Process Improvement and Lean principles
 -   Business Intelligence
--   Strategic Planning
 -   Data Science
 -   Statistics and Machine Learning Models
 
-### [**Who are my teachers**]{style="color: #9D0F6A ;"}
+### [**Who do I learn from?**]{style="color: #9D0F6A ;"}
 
-Here are some people who have helped me light my path. They have helped me meet new friends, discuss ideas and apply them in practice throughout my career, whether through lectures, books, scientific articles and classes.
+People from whom I learn through books, lectures, classes, scientific papers, and thoughts.
 
 W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Rubens Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
 
@@ -39,6 +40,31 @@ W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvilli
 Some books that help me deal with day-to-day challenges in my career.
 
 ![Books](img/books.png)
+
+[**Foundations**]{style="color:#9D0F6A;"}
+-   Why statistics is important?
+-   Data does help me to see the world differently?
+-   Is difficult to use software for data science?
+-   R programing language help me to work with data science?
+-   Python language help me to work with data science?
+-   Agriculture experiment to practice statistics ? 
+
+[**Machine learning models**]{style="color:#9D0F6A;"}
+-   How can I build machine learning models
+-   How cai I create feature engineering
+-   Where can I get solid foundations for building models?
+
+[**Process improvement and engineering**]{style="color:#9D0F6A;"} 
+-   How to apply statistics and probability in engineering process?
+-   How to use statistical methods for quality improvement?
+-   How to use statistical methods in health care?
+-   How to use statistical methods in social science?
+-   How to use data science in long term strategy?
+
+[**New world**]{style="color:#9D0F6A;"}
+-   Different points os view about the future
+-   Different points os view about Artificial Intelligence
+
 
 ### [**Inspirations and long term purpose**]{style="color: #9D0F6A ;"}
 
@@ -65,7 +91,7 @@ Complex problems that require in-depth investigation in search of cause-and-effe
 </center>
 :::
 
-> Despite years of experience, maintain humility and intellectual curiosity. Approach learning with the openness and hunger of a child
+> Embody a growth mindset by combiniing humility with intellectual curiosity, approaching learning with the openness and eagerness of a child, regardless of experience or expertise.
 >
 > — Marcelo Carvalho dos Anjos
 
