@@ -41,7 +41,7 @@ website:
 
 format:
   html:
-    theme: [sandstone]
+    theme: [flatly]
     toc: true
     code-fold: true
     
