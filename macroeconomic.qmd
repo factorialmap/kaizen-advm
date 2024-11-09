@@ -7,7 +7,8 @@ execute:
   echo: false
 ---
 
-In this space I reserved to show some macro economic indicators that I use to support my research and workflow.
+**What economic cycle are we in?**
+
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 

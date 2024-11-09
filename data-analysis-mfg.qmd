@@ -3,6 +3,9 @@ title: "Lean Principles & Data Science in Manufacturing"
 bibliography: references.bib
 ---
 
+**What concepts and practices are being used in this process?**
+
+
 ### [**PDCA Method and Quality Tools in Manufacturing**]{style="color: #9D0F6A ;"}
 
 -   Use of Machine Learning Models and Generative AI in PDCA Method and Quality Tools implementation

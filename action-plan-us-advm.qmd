@@ -1,7 +1,9 @@
 ---
-title: "Summary of U.S. Advanced Manufacturing Action Plan"
+title: "U.S. Advanced Manufacturing Action Plan"
 bibliography: references.bib
 ---
+
+**What  are the guidelines that support this research project?**
 
 This summary is based on @helwig2024 and is intended to help me enhance my writing skills and deepen my understanding of business analysis and process improvement in the United States of America.
 

@@ -6,7 +6,8 @@ execute:
 bibliography: references.bib
 ---
 
-In this space, I share some details about research and studies that I have been working on.
+**What projects are underway and how can I contribute to this change?**
+
 
 ### [**Semiconductor**]{style="color: #9D0F6A ;"}
 

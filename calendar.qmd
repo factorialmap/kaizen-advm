@@ -7,6 +7,8 @@ execute:
 
 ### [Calendar 2024]{style="color: #9D0F6A ;"}
 
+**What am I doing to support this research project?**
+
 ```{r}
 #| fig-width: 8
 #| fig-height: 6

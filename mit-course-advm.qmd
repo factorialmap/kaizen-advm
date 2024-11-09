@@ -3,7 +3,8 @@ title: "MIT Courses in Advanced Manufacturing "
 bibliography: references.bib
 ---
 
-In this space, I share some details about research and studies that I have been working on.
+**What are the innovations that scale-up manufacturing and change the world in a profound ways?**
+
 
 ### [**Lean Six Sigma**]{style="color: #9D0F6A ;"}
 
