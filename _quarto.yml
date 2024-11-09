@@ -38,9 +38,10 @@ website:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Marcelo Carvalho  dos Anjos"
 
+
 format:
   html:
-    theme: flatly
+    theme: [sandstone]
     toc: true
     code-fold: true
     
