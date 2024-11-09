@@ -1,9 +1,8 @@
 ---
 title: "MIT Courses in Advanced Manufacturing "
+subtitle: "What are the innovations that scale-up manufacturing and change the world in a profound ways?"
 bibliography: references.bib
 ---
-
-**What are the innovations that scale-up manufacturing and change the world in a profound ways?**
 
 
 ### [**Lean Six Sigma**]{style="color: #9D0F6A ;"}

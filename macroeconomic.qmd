@@ -1,13 +1,12 @@
 ---
 title: "U.S. Economic Data at a Glance"
+subtitle: "What economic cycle are we in?"
 bibliography: references.bib
 execute: 
   warning: false
   message: false
   echo: false
 ---
-
-**What economic cycle are we in?**
 
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}

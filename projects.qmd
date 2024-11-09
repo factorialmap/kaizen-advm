@@ -1,8 +1,7 @@
 ---
 title: "Projects"
+subtitle: "Some projects I was able to contribute to"
 ---
-
-Some projects I've worked on during my career
 
 ## Bertin S/A - 1999 to 2009
 

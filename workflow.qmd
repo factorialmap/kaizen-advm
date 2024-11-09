@@ -1,8 +1,7 @@
 ---
 title: "Workflow"
+subtitle: "This is the approach and some steps that I usually use in the projects I work on"
 ---
-
-This is the approach and some steps that I usually use in the projects I work on.
 
 ### [**Fase 1 - Define business & process improvement project approach**]{style="color: #9D0F6A ;"}
 
