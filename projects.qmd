@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-subtitle: "Some projects I was able to contribute"
+subtitle: "Some projects I've worked on"
 ---
 
 ## Bertin S/A - 1999 to 2009
@@ -12,20 +12,20 @@ Bertin S/A was a meat processing company that manufactures beef-based proteins t
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
 
-My job was to visit 12 manufacturing plants to find opportunities of process improvements, and appluing improvement procedures. I participated in more than 50 improvement projects in 7 different states of the country, building teams, training managers, supervisors, production line operators in topics such as safety, computer systems, lean manufacturing principles, pdca method and quality tools, strategic planning, production planning and optimization procedures.
+My job was to visit twelve manufacturing plants to find opportunities for process improvements and apply improvement procedures. I participated in more than fifty improvement projects in seven different states of the country, building teams, training managers, supervisors, production line operators in topics such as safety, computer systems, Lean manufacturing principles, PDCA method and quality tools, strategic planning, production planning and optimization procedures.
 
 
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Create a low-latency business intelligence structure and deploy it on the factory floor in 9 manufacturing plants.
--   Develop an intergrated planning system using linear programming to assist in strategic decisions creating a tool that would help in decision-making to reduce COGS(cost of good sold) that represented 80% of the company's revenue.
--   Train teams of operators, supervisors, managers in lean manufacturing principles and businesss intelligence tools.
--   Coordinate 15 kaizen project in the areas of energy, production processes, slaughter, deboning, and logistics.
+-   Create a low-latency business intelligence structure and deploy it on the factory floor in nine manufacturing plants.
+-   Develop an integrated planning system using linear programming to assist in strategic decisions, creating a tool that would help in decision-making to reduce COGS (cost of goods sold) that represented 80% of the company's revenue.
+-   Train teams of operators, supervisors, managers in Lean manufacturing principles and business intelligence tools.
+-   Coordinate fifteen kaizen projects in the areas of energy, production processes, slaughter, deboning, and supply chain.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Reduced cost of good sold(COGS) by 2%, around 27 million dollars in 2007.
+-   Reduced cost of goods sold (COGS) by 2%, around 27 million dollars in 2007.
 -   Supported the commercial team in demonstrating the best product mix.
 -   Improved operational performance by controlling costs and increasing revenue.
 -   Energy efficiency: Reduced by 10% the energy consumption from 90kWh/ton to 81Kwh/ton in 2009.
@@ -44,22 +44,20 @@ GOVBR is a software development company that provides solutions for improving pu
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My job was to help increase the company's valuation for subsequent merger and aquisition by creating a transparency and compliance area. To do this, I mapped the financial area, creating a Business Intelligence system to help managers have data-driven information to guide their decisions.
+My job was help to increase the company's valuation for merger and acquisition process by creating area of compliance and transparency. To do this, I created a business intelligence system to help managers to fine tune their decisions throught data-driven approach.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Carry out process mapping and gathering information about internal financial statement communications.
-
+-   Mapping the process of financial area gathering data about information flows, requirements, times, constraints, and statements communications.
 -   Structured the business intelligence area, focusing on the controllership process involving five business group companies.
-
--   Created a new SQL Server database to store financial and operation data history.
-
--   Created dashboards using QlikView tools to monitor results. - Analyzed balance sheets and financial statements, looking for improvements and implementing changes.
+-   Created a new SQL Server database to store financial and operation historical data.
+-   Created dashboards using QlikView tools to monitor results. 
+-   Analyzed balance sheets and financial statements, looking for improvements and implementing changes.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Redesigned and provided a P&L report ensure clarity in our indicators by adhering to the highest standards of compliance and transparency in the market. Leveraging business intelligence tools and following financial reporting practices akin to those of private equity firms, and maintain a prefetermined calendar for accuracy and consistency.
--   We Improve communication strategies, making operational and financial results more practical to report orally and in writing.
+-   Provided a contemporary design P&L report to ensure clarity in key performance indicators by adhering to the highest standards of compliance and transparency in the market. Leveraging business intelligence tools and following financial reporting practices akin to those of private equity firms and maintaining a predetermined calendar for accuracy and consistency.
+-   Improved communication strategies, making operational and financial results more practical to report orally and in writing.
 
 ![BSC strategic plan and BI process 2012](img/govbr_1.png)
 
