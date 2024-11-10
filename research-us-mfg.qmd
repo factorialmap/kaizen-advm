@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Industry Outlook"
+title: "Manufacturing Outlook"
 subtitle: "What projects are underway, and how can I contribute?"
 execute: 
   warning: false
@@ -11,7 +11,7 @@ bibliography: references.bib
 
 -   CHIPS and Science Act provide \$52.7 billion for American semiconductor research, development, manufacturing, and workforce development. This includes \$39 billion in manufacturing incentives @hawkins2024
 
--   Intel has been awarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. Similar decisions were nade at GE, and were reversed by Larry Culp. What lessons could he provide?
+-   Intel has been awarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. Similar decisions were made at GE, and were reversed by Larry Culp. What lessons could he provide?
 
 ### [**Battery**]{style="color: #9D0F6A ;"}
 
