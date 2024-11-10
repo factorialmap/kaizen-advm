@@ -1,6 +1,6 @@
 ---
 title: "Manufacturing Industry Outlook"
-subtitle: "What projects are underway and how can I contribute to this change?"
+subtitle: "What projects are underway, and how can I contribute?"
 execute: 
   warning: false
   message: false

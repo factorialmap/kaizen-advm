@@ -41,7 +41,8 @@ website:
 
 format:
   html:
-    theme: [flatly]
+    theme: [sandstone]
+    linkcolor: "#5AC8BE"
     toc: true
     code-fold: true
     

@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-subtitle: "Some projects I was able to contribute to"
+subtitle: "Some projects I was able to contribute"
 ---
 
 ## Bertin S/A - 1999 to 2009

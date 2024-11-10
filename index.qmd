@@ -13,7 +13,7 @@ about:
 -   How to use machine learning models and GenAI to incorporate lean principles, PDCA method and statistical tools into solutions for process improvement in manufacturing .
 -   Solve real problems in data science field using Python, R and other business intelligence tools.
 -   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
--   Build the foundations for my PhD research that investigates the factors that impact competitiveness, personal development, and management capacity in manufacturing during changing economic cycles.
+-   Build the foundations for my PhD research that investigates **the factors that impact competitiveness, personal development, and management capacity in manufacturing during changing economic cycles.**
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
