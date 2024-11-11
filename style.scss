@@ -1,76 +1,23 @@
 /*-- scss:defaults --*/
-$bgcolor: lightblue;
-$textcolor: darkblue;
-$fontsize: 18px;
+
+/*-- Define colors for later use --*/
+
+$white: #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black: #000;
+$primary: #13263a;
+$secondary: #5AC8BE;
+$tertiary: #9D0F6A;
 
 /*-- scss:rules --*/
-
-#quarto-document-content {
-  font-family: Ubuntu, Arial, sans-serif;
-  font-size: 10pt;
-  margin-bottom: -50pt !important;
-  
-  body {
-  background-color: #fefbd8;
-}
-
-div {
-  background-color: #F0E8E4;
-}
-
-
-  a {
-    color: #2F4F4F;
-  }
-}
-
-.cr-section {
-  
-  .narrative-col {
-    background-color: #F0E8E4;
-    color: #2F4F4F;
-    min-width: 400px;
-    
-  }
-}
-
-.cr-section .sticky-col {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-/* mobile sizing (bootstrap: xs) is always overlay-center */
-//@media (max-width: 575.98px) {
-@media (max-width: 575.98px) {
-  .cr-section.sidebar-left,
-  .cr-section.sidebar-right,
-  .cr-section.overlay-left,
-  .cr-section.overlay-right,
-  .cr-section.overlay-center {
-    
-    .narrative-col {
-      background-color: #F0E8E4;
-      
-      .narrative {
-        
-        > * {
-          background-color: white;
-          padding: 5px;
-          border-radius: 5px;
-        }
-      }
-    }
-  }
-}
-
-.cr-section.overlay-left,
-.cr-section.overlay-center,
-.cr-section.overlay-right {
-  .narrative-col {
-    background-color: #F0E8E4;
-    
-    .narrative {
-      background-color: #F0E8E4;
-    }
-  }
-}
+$navbar-hl: $secondary;
+$sidebar-hl: $secondary;
+$dropdown-link-color: $secondary;

@@ -41,7 +41,9 @@ website:
 
 format:
   html:
-    theme: [sandstone]
+    theme: 
+      - sandstone
+      - style.scss
     linkcolor: "#5AC8BE"
     toc: true
     code-fold: true
