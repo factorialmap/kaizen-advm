@@ -25,16 +25,16 @@ My job was to visit twelve manufacturing plants to find opportunities for proces
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Reduced cost of goods sold (COGS) by 2%, around 27 million dollars in 2007.
+-   Reduced cost of goods sold (COGS) by 2%, around twenty-seven million dollars in 2007.
 -   Supported the commercial team in demonstrating the best product mix.
 -   Improved operational performance by controlling costs and increasing revenue.
 -   Energy efficiency: Reduced by 10% the energy consumption from 90kWh/ton to 81Kwh/ton in 2009.
 -   Reduced average loading time per truck by 17%.
--   Carcass weight loss during the chilling: Reduced loss by 0.42%, around 2 million dollars per plant in 2009.
+-   Carcass weight loss during the chilling: Reduced loss by 0.42%, around two million dollars per plant in 2009.
 
 ![Model for strategic decision support - summarized](img/bertin_sno_1.png)
 
-![Model for strategic decision support - Expanded one plant and one process](img/bertin_sno_2.png)
+![Model for strategic decision support - Expanded in one plant and one process](img/bertin_sno_2.png)
 
 ## GovBR - 2011-2012
 
@@ -44,11 +44,11 @@ GOVBR is a software development company that provides solutions for improving pu
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My job was help to increase the company's valuation for merger and acquisition process by creating area of compliance and transparency. To do this, I created a business intelligence system to help managers to fine tune their decisions throught data-driven approach.
+My job was helping to increase the company's valuation for merger and acquisition process by creating an areas of compliance and transparency. To do this, I created a business intelligence system to help managers to fine tune their decisions through a data-driven approach.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Mapping the process of financial area gathering data about information flows, requirements, times, constraints, and statements communications.
+-   Mapping the process of financial area, gathering data about information flows, requirements, times, constraints, and statements communications.
 -   Structured the business intelligence area, focusing on the controllership process involving five business group companies.
 -   Created a new SQL Server database to store financial and operation historical data.
 -   Created dashboards using QlikView tools to monitor results. 
@@ -71,12 +71,12 @@ Portobello Group is a high-end ceramic tile manufacturer with industrial plants 
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My job was to help achieve strategic goals like open new stores, increase revenue in existing stores, and improve the quality of services provided to franchisees and other customers.
+My job was helping to achieve three strategic goals, open new stores, increase revenue in existing stores, and improve the quality of services provided to franchisees and other customers.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Mapping internal processes, running, monitoring, looking for improvements, and implementing changes.
--   Improved data quality and user interface for Neoway Radar, a big data tool used to increase external sales.
+-   Mapping internal processes, running it, monitoring, looking for improvements, and implementing changes.
+-   Improved data quality and user interface for Neoway Radar, a third-party big data tool used to increase external sales.
 -   Developed manual and trained support teams on the use of new software tools.\
 -   Supported the business intelligence area and created indicators and dashboards for strategic goals.
 
@@ -95,17 +95,15 @@ My job was to help achieve strategic goals like open new stores, increase revenu
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil
+Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-Initially, my job was on scaling up fullfilment operations, ensuring consistent high-quality service levels, and implementing digital transformation through the introduction of enterprise resource planning(ERP) and business intelligence systems. I also mapped and documented processes to enhance efficiency, and provided training to staff to develop their skills and capabilities.
+Initially, my job was on scaling up fulfillment operations, ensuring consistent high-quality service levels, and implementing digital transformation through the introduction of enterprise resource planning (ERP) and business intelligence systems. I also mapped and documented processes to enhance efficiency, and training staff to develop their skills and capabilities.
 
-Subsequently, I was invited to discussions about the company's strategic planning process where I contributed on macroeconomic trends and their impact on business growth that helped shape scenarios for capital protection, efficient resouce allocation, product diversification, and long-term business sustainability.
+Subsequently, I was invited to participate in the company's strategic discussions using data to fine-tuned judgments of the CEO and the board members, and the goals expanded to:
 
-Subsequently, I was invited to participate in the company's strategic discussions using data to enable them to make fine-tuned judgments, and the goals expanded to:
-
--   Quickly identify macroeconomic trends and shape scenarios, protecting capital, and optimizing cash flow to ensure financial stability.
+-   Quickly identify macroeconomic trends and shape scenarios for protecting capital, resources allocation efficiency, diversification, optimizing cash flow to ensure sustainability of the family business in the long run.
 
 -   Improve the service experience for existing customers.
 

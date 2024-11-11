@@ -94,7 +94,7 @@ data_end_interest_rate <- data_interest_rate %>% tail(1)
 data_interest_rate %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "#9D0F6A")+
+            color = "#adb5bd")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -137,7 +137,7 @@ data_end <- data_continuos_claims %>% tail(1)
 data_continuos_claims %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "#9D0F6A")+
+            color = "#adb5bd")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -174,7 +174,7 @@ data_end_wk_hours <- data_wk_hours %>% tail(1)
 data_wk_hours %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5, 
-            color = "#9D0F6A")+
+            color = "#adb5bd")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -213,7 +213,7 @@ data_10y_end <- data_10y_bonds %>% tail(1)
 data_10y_bonds %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "#9D0F6A")+
+            color = "#adb5bd")+
   geom_text_repel(
     aes(label = price),
     data = data_10y_end,
@@ -246,12 +246,12 @@ data_yield_spread <- data_yield_curve %>% tail(1)
 data_yield_curve %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = .5,
-            color = "#9D0F6A")+
+            color = "#adb5bd")+
   geom_text_repel(
     aes(label = price),
     data = data_yield_spread,
     nudge_x = 1)+
-  geom_hline(yintercept = 0, linewidth = 1, color = "red")+
+  geom_hline(yintercept = 0, linewidth = 0.7, color = "#9D0F6A")+
   theme_minimal()+
   labs(title = "Yield Curve 10-year bonds vs T-bills 13 weeks",
        y = "Value")
@@ -316,7 +316,7 @@ data_us_pop %>%
                names_to = "indicator",
                values_to = "value") %>% 
   ggplot(aes(x = year, y = value))+
-  geom_line(color = "#9D0F6A")+
+  geom_line(color = "#adb5bd")+
   facet_wrap(~indicator, scales = "free" )+
   scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))+
   theme_minimal()+
@@ -368,9 +368,9 @@ data_ml <- tribble(~country, ~ml_models,
 data_ml %>% 
   ggplot(aes(x = fct_reorder(country, ml_models, .desc = TRUE), 
              y  = ml_models))+
-  geom_col(fill = "#9D0F6A")+
+  geom_col(fill = "#adb5bd")+
   geom_text(label = data_ml$ml_models, vjust = -.6)+
-  theme_minimal()+
+  theme_classic()+
   expand_limits(y = c(0,70))+
   labs(title = "Number of big machine learning models",
        subtitle = "qty by country 2023",
@@ -451,7 +451,7 @@ data_house_supply_end <- data_house_supply %>% tail(1)
 data_house_supply %>% 
   ggplot(aes(x = date, y = price))+
   geom_line(linewidth = 0.5,
-            color = "#9D0F6A")+
+            color = "#adb5bd")+
   geom_text_repel(
     aes(label = price),
     data = data_house_supply_end,
@@ -497,7 +497,7 @@ data_invest %>%
     calc_total = TRUE,
     total_rect_color = "#9D0F6A"
   )+
-  theme_minimal()+
+  theme_classic()+
   labs(title = "Distribution of manufacturing investments by sector",
        caption = "Source: White House",
        y = "Billion US dollar",
@@ -553,7 +553,7 @@ data_com_college %>%
                         rect_width = .7,
                         scale_y_to_waterfall = TRUE
                         )+
-  theme_minimal()+
+  theme_classic()+
   coord_flip()+
   labs(title = "Geographic Distribution of Community College" ,
        x = "",
