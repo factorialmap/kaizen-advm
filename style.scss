@@ -2,7 +2,9 @@
 
 /*-- Define colors for later use --*/
 
-$white: #fff;
+$white: #fff !default;
+$black: #000 !default;
+
 $gray-100: #f8f9fa;
 $gray-200: #e9ecef;
 $gray-300: #dee2e6;
@@ -12,12 +14,48 @@ $gray-600: #6c757d;
 $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
-$black: #000;
 $primary: #13263a;
 $secondary: #5AC8BE;
 $tertiary: #9D0F6A;
 
+
+$sandstone-blue: #13263a !default;
+$bluegray: #c7d3e0 !default;
+$darker-green: #5AC8BE !default;
+$light-gray: #f1f3f5 !default;
+$mid-gray: #75776d !default;
+$darker-gray: #687178 !default;
+
+// Navbar
+$navbar-bg: $sandstone-blue !default;
+$navbar-fg: $bluegray !default;
+$navbar-hl: $white !default;
+
+// Links
+$link-color: $darker-green !default;
+
+// Code blocks
+$code-block-bg: $light-gray !default;
+
+
+
 /*-- scss:rules --*/
-$navbar-hl: $secondary;
-$sidebar-hl: $secondary;
-$dropdown-link-color: $secondary;
+
+:root {
+  --link-color: $secondary; /* Define the CSS variable for link color */
+}
+
+div.sidebar-item-container .active {
+  font-weight: bold;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active{
+  font-weight: bold;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+  color: $secondary !important;
+  background-color: snow;
+  font-weight: bold;
+}
+
