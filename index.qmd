@@ -9,15 +9,11 @@ about:
 ::: {#me}
 ### [**Welcome**]{style="color: #9D0F6A ;"}
 
--   My names is Marcelo Carvalho dos Anjos. 
--   I am a Business & Process Improvement Analyst focused on optimizing day-to-day processes through methods like PDCA, Lean, 5S etc. 
--   I use tools such R, Python, Power BI, and GenAI to create solutions and enhance operational efficiency. 
+-   My names is Marcelo Carvalho dos Anjos and I am a Business & Process Improvement Analyst focused on optimizing day-to-day processes through methods like PDCA, Lean, 5S using tools like R, Python, Power BI, and GenAI. 
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Writing about Business & Process Improvement Analysis.
--   How to use machine learning models and GenAI to incorporate lean principles, PDCA method and statistical tools into solutions for process improvement in manufacturing .
--   Solve real problems in data science field using Python, R and other business intelligence tools.
+-   Writing about Business & Process Improvement Analysis and how to apply machine learning and GenAi to integrate lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
 -   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
 -   Build the foundations for my PhD research that investigates **the factors that impact competitiveness, personal development, and management capacity in manufacturing during changing economic cycles.**
 
@@ -39,7 +35,7 @@ about:
 
 Below are some people from whom I continually learn through books, lectures, classes, scientific papers, and thoughts.
 
-W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro, 
+W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Warren McCulloch, Miguel Nocolelis, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro, 
 
 ### [**Some books that may be helpful in process improvement**]{style="color: #9D0F6A ;"}
 

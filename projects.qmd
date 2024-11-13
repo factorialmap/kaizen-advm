@@ -99,21 +99,21 @@ Delta is a corporate gifts manufacturing and distribution that sells and ships p
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-Initially, my job was on scaling up fulfillment operations, ensuring consistent high-quality service levels, and implementing digital transformation through the introduction of enterprise resource planning (ERP) and business intelligence systems. I also mapped and documented processes to enhance efficiency, and training staff to develop their skills and capabilities.
+Initially, my job was on scaling up fulfillment operations, ensuring consistent high-quality service levels, and implementing digital systems (e.g enterprise resource planning (ERP) and business intelligence). I also mapped and documented processes to enhance efficiency, and training staff to develop their skills and capabilities.
 
-Subsequently, I was invited to participate in the company's strategic discussions using data to fine-tuned judgments of the CEO and the board members, and the goals expanded to:
+Subsequently, I was invited to contribute in the company's strategic discussions using data to fine-tuned judgments of the CEO, and the goals expanded to:
 
 -   Quickly identify macroeconomic trends and shape scenarios for protecting capital, resources allocation efficiency, diversification, optimizing cash flow to ensure sustainability of the family business in the long run.
 
 -   Improve the service experience for existing customers.
 
--   Better understand who our potential customers are and how to attract them.
+-   Better understand who our potential customers are located and how to attract them.
 
 -   Increase revenue from existing customers.
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   Created a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/quotations, market sentiment, and operational performance.
+-   Created a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/ price quotations, market sentiment, and operational performance.
 
 -   Used data to anticipate macroeconomic and market behavior to support the CEO's decisions.
 
@@ -124,7 +124,7 @@ Subsequently, I was invited to participate in the company's strategic discussion
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
 -   Performed day-to-day tasks, mapped processes, and suggested and implemented improvements.
--   Documented and trained teams for distribution planning activities, shipments, customer quotes, and communication to maintain a positive relationship with customers and suppliers.
+-   Documented and trained teams for distribution planning activities, shipments, customer price quotes, and communication to maintain a positive relationship with customers and suppliers.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
@@ -139,40 +139,40 @@ Subsequently, I was invited to participate in the company's strategic discussion
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil and studies the  opportunities to expansion for the United States.
+Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil and studies the  opportunities for expansion to the United States.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Evaluate new business opportunities in United States and Brazil.
 
--   Analyze the fit between the company's business versus market opportunities (What incredible benefits can we give to the customer? Where can we take the customer?)
+-   Analyze the fitness between the company business and market opportunities (What incredible benefits can we give to the customer? Where can we take the customer?)
 
 -   Create and learn to operationalize an information system that integrates data, strategic planning methods, and generative artificial intelligence tools.
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   Experiments were performed using AS-IS databases and the results evaluated.
+-   AS-IS databases were used to conduct experiments and evaluate results.
 
--   The RAG(retrieval augmented generation) process was developed to fine-tune the LLMs that will be used.
+-   The retrieval augmented generation(RAG) process was developed to fine-tune the LLMs that will be used.
 
--   Defined agent spectrums(e.g. retrieval, task, autonomous), quantities and types of agents.
+-   Agent spectrums(e.g., retrieval, task, autonomous), quantities and types of agents have been defined.
 
--   Documented the mistakes and successes along the way.
+-   Documentation of successes and failures was done.
 
--   A/B tests were performed along the way.
+-   A/B tests were executed to validate the solutions using the agents.
 
--   The Knowledge base and data-driven decisions were periodic evaluated to validate the consistency of expected productivity gains.
+-   The Knowledge base and data-driven decisions were periodically evaluated to validate the consistency of expected productivity gains and value-added product.
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
--   An GenAI agent was created to assist in preparing price quotes for the customers, reducing response time.(work in progress)
+-   One assistant agent has been created to assist in customer price quotations, reducing response time.(work in progress)
 
--   An GenAI agent was created to improve the product traceability task. (work in progress)
+-   One assistant agent has been created to improve the product traceability task. (work in progress)
 
--   An GenAI agent was created to improve the issuing of labels, and invoices. (work in progress)
+-   One assistant agent has been created to process and print address labels and issue invoices. (work in progress)
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Improved customer service, reducing waiting times and improving the experience.
+-   Improved customer service, reducing waiting times, improving experience.
 
 ![Systems integration process and challenges](img/delta_brindes_2025.png)
