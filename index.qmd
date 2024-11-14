@@ -70,10 +70,10 @@ Some books that help me deal with day-to-day challenges in my career.
 
 Learn with enthusiam, strive for excellence, and share knowledge to create opportunities for others.
 
-<div class="video-wrap">
+<div class='wrap'>
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </center>
 </div>
@@ -84,10 +84,11 @@ Learn with enthusiam, strive for excellence, and share knowledge to create oppor
 Complex problems that require in-depth investigation in search of cause-and-effect relationships.
 
 
-<div class="video-wrap">
+<div class='wrap'>
+
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" rameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" rameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </center>
 </div>

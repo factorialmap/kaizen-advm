@@ -1,19 +1,14 @@
-/* Container/Wrapper Styles */
-.video-wrap {
-    position: relative; 
-    padding-bottom: 56.25%; 
-    height: 0; 
-    overflow: hidden; 
-    max-width: 100%; 
-} 
+.wrap {
+  width: 640px;
+  height: 480px;
+  overflow: hidden;
+}
 
-/* Actual Video Styles */
-.video-wrap iframe, 
-.video-wrap object, 
-.video-wrap embed { 
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 100%; 
-    height: 100%; 
+.iframe {
+  width: 76.92% !important;
+  height: 76.92% !important;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
 }
