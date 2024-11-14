@@ -1,17 +1,19 @@
-.container{
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 62.5%; /* 16:9 aspect ration  = 0.5625 */
-}
+/* Container/Wrapper Styles */
+.video-wrap {
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+} 
 
-/* create iframe to fit in the containetr div width full height and width */
-.responsive-iframe{
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
+/* Actual Video Styles */
+.video-wrap iframe, 
+.video-wrap object, 
+.video-wrap embed { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
 }
