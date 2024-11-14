@@ -70,30 +70,27 @@ Some books that help me deal with day-to-day challenges in my career.
 
 Learn with enthusiam, strive for excellence, and share knowledge to create opportunities for others.
 
-<div class = "container">
+<div class="video-wrap">
 
 <center>
-<iframe class = "responsive-iframe" src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </center>
-
 </div>
+
 
 ### [**What challenges do I enjoy working on?**]{style="color: #9D0F6A ;"}
 
 Complex problems that require in-depth investigation in search of cause-and-effect relationships.
 
 
-<div class = "container">
+<div class="video-wrap">
 <center>
 
-<iframe class = "responsive-iframe" src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" rameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </center>
 </div>
-
 :::
 
 > Embody a growth mindset by combiniing humility with intellectual curiosity, approaching learning with the openness and eagerness of a child, regardless of experience or expertise.
