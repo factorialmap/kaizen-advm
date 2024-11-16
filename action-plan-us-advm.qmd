@@ -4,69 +4,142 @@ subtitle: "What  are the guidelines that support this research project?"
 bibliography: references.bib
 ---
 
-This summary is based on @helwig2024 and is intended to help me enhance my writing skills and deepen my understanding of business analysis and process improvement in the United States of America.
+Based on @helwig2024, this summary aims to improve my writing skills and understanding of U.S. business analysis and manufacturing process improvement.
 
 The texts may contain typos, imcomplete thoughts, and will be subject to ongoing revision and development. In addition to the primary document used to create this summary, I have also drawn upon the reference documents cited within.
 
 ### [**Advanced Manufacturing**]{style="color: #9D0F6A ;"}
 
--   Advanced manufacturing refers to the use of innovative technology, process and methods(e.g. intelligent robotics, additive manufacturing, digital twins, and lean principles) to accelerate the design and production of physical goods in the material world. As a result, scale that was previously impossible, cost reduction, and value-added products in shorter cycles
+-   Advanced manufacturing refers to the use of innovative technology, process and methods like intelligent robotics, additive manufacturing, digital twins, and lean principles to accelerate the design and production of physical goods in the material world. As a result, scale and possibilities that was previously impossible, cost reduction, and value-added products in shorter cycles.
 
--   This approach depends on the close integration of machining, networking, sensing, and computational capabilities (e.g automation, robotics, 3D printing, artificial intelligence, and internet of things(IoT) devices into the manufacturing process.
+-   This approach depends on the close integration of human capital, machining, networking, sensing, and computational capabilities for example automation, robotics, 3D printing, artificial intelligence, and internet of things(IoT) devices into the manufacturing process.
 
 ### [**What is the impact ?**]{style="color: #9D0F6A ;"}
 
--   **Increase productivity**: Automation can streamline production processes,reducing cycle times and labor cost.
-
--   **Cost reduction**: By optimizing processes and reducing waste.
-
--   **Supply Chain Optimization**: IoT and data analytics can improve visibility and efficiency, reducing lead times and inventory costs.
-
+-   **Productivity**: Streamline production processes by automation, reducing cycle times and labor cost.
+-   **Costs**: By optimizing processes and reducing waste.
+-   **Supply Chain**: IoT and data analytics can improve visibility and efficiency, reducing lead times and inventory costs.
 -   **Jobs and skill requirements**: New opportunities in fields like robotics programming, data analysis, and maintenance of advanced machinery.
-
--   **Quality improvement**: High precision, uniformity and consistency in production.
-
+-   **Quality**: High precision, uniformity and consistency in production.
 -   **Customization and Flexibility**: 3D printing enable on-demand manufacturing of highly customizable products without retooling.
-
 -   **Environmental Impact**: By reducing material waste, energy consumption, and gas emissions.
 
 ### [**Past, Present and Future**]{style="color: #9D0F6A ;"}
 
--   **Past**
+The central idea is to explore past experiences, the present moment, and future possibilities to estimulate our ability of mental time travel. This ability is essential for survival and adaptation, as it helps predict outcomes, learn from mistakes, and build a sense of identity.
 
-    -   Shorten the distance, improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Erie Canal navigable waterway connecting the great lakes to the atlantic ocean completed in 1825 @dpla1821 . The objective was to develop the city of New York, which was a point of communication with the world (e.g. port of trade hub), and opened up the MidWest for settlement and agricultural expansion, impacting the marginal product of labor @kaiman2024. The canal also had profound societal impacts shaping the nation's economic development in the 19th century:
+**Past** Studying the past helps identify how experiences shape the history and influence memory formation, learning, and can aid in trauma treament. But excessive focus on the past can lead to rumination and depressive states.
 
-        -   It spurred westward migration, enhance commercial trade between regions.
+         
+-   Shorten the distance, improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Erie Canal navigable waterway connecting the great lakes to the atlantic ocean completed in 1825 @dpla1821 . The objective was to develop the city of New York, which was a point of communication with the world (e.g. port of trade hub), and opened up the MidWest for settlement and agricultural expansion, impacting the marginal product of labor @kaiman2024. The canal also had profound societal impacts shaping the nation's economic development in the 19th century:
 
-        -   It contibuted to the rise of new towns along its route.
+    -   It spurred westward migration, enhance commercial trade between regions.\
+    -   It contibuted to the rise of new towns along its route.\
+    -   It facilitated cultural and political unity between the Northest and the expanding western territories.\
 
-        -   It facilitated cultural and political unity between the Northest and the expanding western territories.
+-   New processes: Making better products, faster and cheaper. The idea of the the Bessemer process was observed and described by a german adventurer Johan Mandelsio in 1669 during a trip to Japan, was patented by Henry Bessemer in 1855 in U.S., and pupularized by Andrew Carnegie a business visionary in 1870s, which allowed creation of time machines(e.g. bridges, ships, trains, elevators, pipes for oil and water, and vertical buldings). This process cuts the manufacturing time of single steel rail from two weeks to 15 minutes.
 
-    -   New processes: Making better products, faster and cheaper. The idea of the the Bessemer process was observed and described by a german adventurer Johan Mandelsio in 1669 during a trip to Japan, was patented by Henry Bessemer in 1855 in U.S., and pupularized by Andrew Carnegie a business visionary in 1870s, which allowed creation of time machines(e.g. bridges, ships, trains, elevators, pipes for oil and water, and vertical buldings). This process cuts the manufacturing time of single steel rail from two weeks to 15 minutes.
+-   Knowledge base, science, and data: Improvements in the petroleum refining process using scientific methods, commercial partnerships striving for efficiency in operations, along with product standardization and uniformity. These factors enhanced Rockefeller's natural leadership capabilities.
 
-    -   Knowledge base, science, and data: Improvements in the petroleum refining process using scientific methods, commercial partnerships striving for efficiency in operations, along with product standardization and uniformity. These factors enhanced Rockefeller's natural leadership capabilities.
+-   Redefine customer values: Ford, Packard, Apple, Netflix and Tesla are some examples that creates a new damand, delivering an experience previously unknown to consumers.
 
-    -   Redefine customer values: Ford, Packard, Apple, Netflix and Tesla are some examples that creates a new damand, delivering an experience previously unknown to consumers.
+-   Low levels of stress and anxiety: There is a potential association between consistently low levels of stress and anxiety (particularly when individuals or organizations remain in their confort zones) and a loss of economic competitiveness. While confort zone is beneficial for maintaining mental and physical health, can also lead to complacency. Moderate stressors encourage problem-solving, innovation, and adoption of new technologies. In the long term a lack of challenge and growth opportunities can lead to decreased motivation and creativity. Stress is a know driver of cognitive adaptation which is crucial for maintaining productivity in dynamic economic environments. This type of behavior and its consequences could be observed in the 1980s in the United States @justarandomchannel2019 @petersantenello2024 @frontlinepbs2024b and currently in 2024 in Germany @dwnews2024.
 
-    -   Low levels of stress and anxiety: There is a potential association between consistently low levels of stress and anxiety (particularly when individuals or organizations remain in their confort zones) and a loss of economic competitiveness. While confort zone is beneficial for maintaining mental and physical health, can also lead to complacency. Moderate stressors encourage problem-solving, innovation, and adoption of new technologies. In the long term a lack of challenge and growth opportunities can lead to decreased motivation and creativity. Stress is a know driver of cognitive adaptation which is crucial for maintaining productivity in dynamic economic environments. This type of behavior and its consequences could be observed in the 1980s in the United States @justarandomchannel2019 @petersantenello2024 @frontlinepbs2024b and currently in 2024 in Germany @dwnews2024.
 
--   **Present**
+**Present** Focusing on the present helps us undertand how we process information in real time, essential for responding to stimuli quickly and performing daily activities with mindfulness, which reduce stress and enhance well-being. One of the challenges of staying focused on the present is dealing with digital and physical distractions that are present in abundant quantities.
 
-    -   Disruptive technologies: New ideas and old ones that could be explored by integration with emerging technology such as computational capability, genAI, atomic computer vision.
+**Challenges** 
 
-    -   Demographic shifts around the world: People are getting older and more urban.
+-   Disruptive technologies: New ideas and old ones that could be explored by integration with emerging technology such as computational capability, genAI, atomic computer vision.\
+-   Demographic shifts around the world: People are getting older and more urban.\
+-   Economic activities in emerging markets: Many countries are emerging from poverty, creating opportunities and threats for example new demands, and lower labor costs.\
+-   Climate change: New rules to take care of the environment, improving the capacity to adapt and interact with the environment by creating new products and services.\
+-   Erosion fo U.S. industrial capacity: Over the past few decades, the U.S. has experienced a significant decline in its industrial capacity. In 1980, the U.S. manufactured over 40 percent of global high-technology goods, facing 18 percent today. This decline poses a threat to both economic competitiveness and national security.\
+-   PRC's Dominance: China has emerged as a formidable competitor, cultivation substantial high-tech industrial production capacity and accounting for nearly 30 percent of global manufacturing output. China has strategically prioritized advanced manufacturing as a cornestone of its national rejuvenation strategy.\
+-   Skills Gap and Workforce Shortages: Outsourcing production has led to a skills gap in the U.S. workforce. This is compounded by a persistent labor shortage in the manufacturing sector, with a projected shortfall of 2.1 million unfilled jobs by 2030. This shortage hinders the adoption and implementation of advanced manufacturing technologies.\
+-   Small and Medium Manufacturing Adoption Barriers: Small and medium-sized manufacturers contribute the majority of the U.S. manufacturing ecosystem and they face significant obstacles in adopting advanced manufacturing technologies. These include a lacka of access to capital, expertise, and resources for system upgrades and integration.\
+-   Underinvestment in R&D: The U.S. lag as behind other advanced economies in terms of manufacturing-related R&D spending as a percentage of GDP. This underinvestment hampers innovation and the development of cutting-edge manufacturing processes.\
 
-    -   Economic activities in emerging markets: Many countries are emerging from poverty, creating opportunities and threats for example new demands, and lower labor costs.
+```{r}
+#| message: false
+#| echo: false
+#| warning: false
+#| fig-align: center
 
-    -   Climate change: New rules to take care of the environment, improving the capacity to adapt and interact with the environment by creating new products and services.
 
--   **Future**
+library(tidyverse)
+library(ggrepel)
+library(scales)
+library(ggthemes)
 
-    -   Consistence and Competitiveness on Manufacturing
+data_rnd <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_kaizen-advm.xlsx")
 
-    -   Personal Finance
+data_rnd_trans <- 
+  data_rnd %>% 
+  pivot_longer(-country,
+               names_to = "year",
+               values_to = "rnd_perc_gdp") %>% 
+  mutate(year = as.Date(year, "%Y"),
+         year = year(year)) 
 
-    -   Manufacturing base
+
+data_rnd_trans %>%
+  mutate(label = 
+           if_else(
+             year == "2021",
+             glue::glue("{country}: {rnd_perc_gdp}%"),
+             NA_character_)) %>% 
+  ggplot(aes(x = year, y = rnd_perc_gdp, group = country, colour = country)) + 
+  geom_smooth(method = "loess", span= 0.9, se = FALSE, linewidth=3)+
+  scale_color_manual(
+    values =c("#bccad6",
+              "#667292",
+              "#D5DBDB",
+              "#ffcaca",
+              "#8d9db6",
+              "#eeac99",
+              "#bdcebe",
+              "#34495e",
+              "#b8a9c9",
+              "#c4b7a6",
+              "#50394c"))+
+  geom_text_repel(
+    aes(label = label ),
+    nudge_x = 3,
+    na.rm = TRUE
+  )+
+  theme_hc()+
+  theme(legend.position = "none")+
+  scale_y_continuous(labels = label_percent(scale = 1))+
+  scale_x_continuous(n.breaks = 8)+
+  labs(title = "Research and development expenditure (% of GDP)",
+       x = "",
+       y = "",
+       caption = "Source: OECD data")
+
+```
+
+**Opportunities**
+
+-   Reconceptualize the workforce: The changing nature of manufacturing requires a new approach to workforce development, with a focus on training "technologists" skilled in both engineering and operation of advanced machinery.\
+-   Leverage existing programs: The United States can build upon succesful programs like the manufacturing USA program and the Manufacturing Externsion Partnetship(MEP) to accelerate workforce development initiatives.
+-   Focus on cyber skills: The increasing integration of digital technologies in manufacturing requires a workforce with strong cyber skills.
+-   Develop a national talent marketplace: A centralized platform connectiong job seekers with advanced manufacturing opportunities can help to adress workforce shortages.
+-   Leveraging U.S. Strenths in AI and Software: The U.S. enjoys a significant lead in generative AI, a technology with the potential to transform various facets of advanced manufacturing(e.g.GenAI can creates copilots to helps workers interpret complex factory data and enhance AI-driven design tools that can create product designs from natural language descriptions)
+-   Rebuilding Domestic Production Capacity:
+-   Public and Private Investments:
+-   Collaboration with Allies and Partners:
+-   Reshoring and Scaling Up Production:
+
+**Future** Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. Imagining alternate possibilities encourages mental flexibility, stimulating creativity and innovation. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
+
+
+-   Consistence and Competitiveness on Manufacturing
+
+-   Personal Finance
+
+-   Manufacturing base
+
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
@@ -133,3 +206,17 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 -   Talk about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
 
 -   Talk about cognitive bias, principles and examples. from A Neural Network Framework for Cognitive Bias paper at ncbi
+
+-   Financial Planning and Security: Emphasizes the benefits of financial literacy, including reduced debt, informed college financing, and earlier retirement savings. These aspects suggest that individuals with higher financial literacy are likely to have better financial planning and a stronger sense of financial security. These attributes could be crucial during job loss, providing a cushion to navigate the period of unemployment and explore new career options.
+
+-   Informed Decision-making: Financial education can lead to smarter financial decisions. This suggests that financially literate individuals might be better equipped to assess their financial situations, explore different career paths, and make informed decisions regarding retraining or relocation, which are often necessary during career transitions.
+
+-   Adaptability and resilience: The sources on advanced manufacturing highlight the importance of adaptability and resilience for workers in the face of rapid techological advancedments and evolving job markets. Financial literacy, could be enhanced by a strong understanding of personal finances. For exemple, a financially literate worker may be more likely to sabe for unexpected events, invest in their own training and development, or take calculated risks to pursue new opportunities, making them more adaptable to changing circunstances.
+
+Researchs
+
+1.  The role of financial literacy in career transitions: Studies the specifically examine how financial literacy affects workes ability to cope with job loss, retrain for new careers, and achieve financial stability after job displacement would be beneficial.
+
+2.  Finacial well-being and resilience in deindustrialized communities: Research focusing on the financial outcomes and coping mechaninsms of individuals and families in areas affected by factory closures, ad how financial literacy plays a role, coudl offer valuable insights
+
+3.  The intersection of financial liberacy, workforce development, and economic policy: Analyzing how policy initiatives can integrate financial literacy training into brader workforce development programs, particularly for industries undergoing significant change, could provide relevant information.

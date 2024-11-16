@@ -222,7 +222,7 @@ data_10y_bonds %>%
   theme_minimal()+
   labs(title = "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
       y = "Rate" ,
-      caption = "Soure: FRED")
+      caption = "Source: FRED")
 
 ```
 
@@ -485,12 +485,12 @@ data_house_supply %>%
 library(waterfalls)
 
 data_invest <- tribble(~sector, ~value,
-                       "Semiconductor", 395,
-                       "Ev & batteries", 177,
-                       "Clean power", 160,
-                       "Clean energy mfg", 80,
-                       "Bio mfg",42,
-                       "Heavy industry",42)
+                       "Semiconductor", 446,
+                       "Ev & batteries", 180,
+                       "Clean power", 184,
+                       "Clean energy mfg", 84,
+                       "Bio mfg",46,
+                       "Heavy industry",48)
 
 data_invest %>% 
   waterfalls::waterfall(
