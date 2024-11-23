@@ -93,31 +93,33 @@ Sorce: MIT by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen
 
 **Innovation pipeline**
 
-Research \> Development \> Prototype \> Demo \> Test \> Production \> Market
+Research \> Development \> Prototype \> Demo \> Testbed \> Production \> Market
 
 **Basic concepts**
 
--   Data: Fragments that can be analyzed and/or used in the effort to acquire knowledge or make decisions.
+-   **Data:** Fragments that can be analyzed and/or used in the effort to acquire knowledge or make decisions. Potential information that requires processing unit to generate value.
 
--   Science: Observe and understand the natural world
+-   **Science:** Observe and understand the natural world
 
--   Technology: System to organize scientific and technical knowledge or both to achieve a practical purpose.
+-   **Technology:** System to organize scientific and technical knowledge or both to achieve a practical purpose.
 
--   Research: Increasing scientific or technical knowledge or both.
+-   **Research:** Increasing scientific or technical knowledge or both.
 
--   Invention: Applying research knowledge to create a practical idea or device.
+-   **Invention:** Applying research knowledge to create a practical idea or device.
 
--   Innovation: Built on scientific discovery and breakthrough invention \* commercialization
+-   **Innovation:** Built on scientific discovery and breakthrough invention \* commercialization
 
--   System: Bunch of components working together to achieve some type of goal @alithedazzling2024
+-   **System:** Bunch of components working together to achieve some type of goal @alithedazzling2024
 
--   Innovation system: Ecosystem for developing innovation operates at two levels: institution actors and face-to-face groups.
+-   **Innovation system:** Ecosystem for developing innovation operates at two levels: institution actors and face-to-face groups.
 
 ![Systems](img/system.png)
 
--   Innovation wave: 40/50 year cycle of innovation based on radical breakthrough, disruptive invention, and then application piled on this, productivity rises, then long period of incremental invention(effect spread around the system)
+-   **Process innovation:** 
 
--   Valley of death: Where innovation and invention usually dies, gap between research and development, institutions often not in place to bridge this gap, and move idea into dev prototyping and production, then invention into innovation @osawa2006.
+-   **Innovation wave:** 40/50 year cycle of innovation based on radical breakthrough (aviation, electronics, space, nuclear power, computing, internet), disruptive invention, and then application piled on this, productivity rises, then long period of incremental invention(effect spread around the system)
+
+-   **Valley of death:** Where innovation and invention usually dies, gap between research and development, institutions often not in place to bridge this gap, and move idea into dev prototyping and production, then invention into innovation @osawa2006.
 
 ![Valley of death](img/osawa.png)
 

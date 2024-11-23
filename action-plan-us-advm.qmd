@@ -59,6 +59,8 @@ The central idea is to explore past experiences, the present moment, and future 
 -   Skills Gap and Workforce Shortages: Outsourcing production has led to a skills gap in the U.S. workforce. This is compounded by a persistent labor shortage in the manufacturing sector, with a projected shortfall of 2.1 million unfilled jobs by 2030. This shortage hinders the adoption and implementation of advanced manufacturing technologies.\
 -   Small and Medium Manufacturing Adoption Barriers: Small and medium-sized manufacturers contribute the majority of the U.S. manufacturing ecosystem and they face significant obstacles in adopting advanced manufacturing technologies. These include a lacka of access to capital, expertise, and resources for system upgrades and integration.\
 -   Underinvestment in R&D: The U.S. lag as behind other advanced economies in terms of *manufacturing-related* R&D spending as a percentage of GDP. This underinvestment hampers innovation and the development of cutting-edge manufacturing processes.\
+-   Need the key actors working together: Industry, universities and governments\
+
 
 ```{r}
 #| message: false
@@ -168,11 +170,90 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
 
 
+PLOT CHART REAL GROSS DOMESTIC PRODUCT - GDPC1
+
+```{r}
+#| label: real_gdp
+#| echo: false
+#| warning: false
+#| fig-align: center
+
+
+library(tidyverse)
+library(tidyquant)
+library(scales)
+library(ggrepel)
+
+#real gdp
+data_real_gdp <-  tq_get("GDPC1", 
+                         get = "economic.data",
+                         from = "1970-01-01",
+                         to = "2025-01-01")
+
+data_real_gdp_end <- data_real_gdp %>% tail(1)
+
+data_real_gdp %>% 
+  ggplot(aes(x = date, y = price))+
+  geom_line(linewidth = 0.5,
+            color = "#adb5bd")+
+  scale_y_continuous(
+    labels = label_number(scale_cut = cut_short_scale())
+  )+
+  geom_text_repel(
+    aes(label = price,
+        hjust = 1),
+    data = data_real_gdp_end
+  )+
+  theme_minimal()+
+  labs(title = "Real GDP",
+       caption = "Source: FRED",
+       y = "Value")
+
+```
+
+```{r}
+#| label: us_mfg_construction
+#| echo: false
+#| warning: false
+#| fig-align: center
+
+
+#us manufacturing construction
+data_mfg_construct <-  tq_get("C307RC1Q027SBEA", 
+                         get = "economic.data",
+                         from = "1970-01-01",
+                         to = "2025-01-01")
+
+data_mfg_construct_end <- data_mfg_construct %>% tail(1)
+
+data_mfg_construct %>% 
+  ggplot(aes(x = date, y = price))+
+  geom_line(linewidth = 0.5,
+            color = "#adb5bd")+
+  scale_y_continuous(
+    labels = label_number(scale_cut = cut_short_scale())
+  )+
+  geom_text_repel(
+    aes(label = price,
+        hjust = 1),
+    data = data_mfg_construct_end
+  )+
+  theme_minimal()+
+  labs(title = "Overall U.S. Manufacturing construction",
+       caption = "Source: FRED",
+       y = "Billion of Dollars")
+
+```
+
+
+
 ### [**Action Plan at a Glance**]{style="color: #9D0F6A ;"}
 
--   Chips and Science Act and Research and Development, Competition, and Innovation Ac:
+-   Chips and Science Act: Semiconductors 
 
--   Inflation Reduction Act:
+-   Inflation Reduction Act: Energy technologies
+
+-   Infraestructure Act: Thenology demonstrations
 
 -   Invest in America:
 
