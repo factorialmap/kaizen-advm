@@ -170,44 +170,37 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
 
 
-PLOT CHART REAL GROSS DOMESTIC PRODUCT - GDPC1
-
 ```{r}
 #| label: real_gdp
 #| echo: false
 #| warning: false
 #| fig-align: center
 
-
 library(tidyverse)
 library(tidyquant)
+library(fredr)
 library(scales)
 library(ggrepel)
 
-#real gdp
-data_real_gdp <-  tq_get("GDPC1", 
-                         get = "economic.data",
-                         from = "1970-01-01",
-                         to = "2025-01-01")
+data_real_gdp_yoy <- fredr(series_id = "GDPC1",
+                           observation_start = as.Date("1970-01-01"),
+                           observation_end = as.Date("2025-01-01"),
+                           frequency = "a",
+                           units = "pc1")
 
-data_real_gdp_end <- data_real_gdp %>% tail(1)
 
-data_real_gdp %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
-  scale_y_continuous(
-    labels = label_number(scale_cut = cut_short_scale())
-  )+
-  geom_text_repel(
-    aes(label = price,
-        hjust = 1),
-    data = data_real_gdp_end
-  )+
+data_real_gdp_yoy %>% 
+  ggplot(aes(x = date, y = value))+
+  geom_col(fill = "#1abc9c", alpha = 0.4 )+
+  geom_text(aes(label = round(value,1)), size = 3)+
+  scale_x_date(breaks = pretty_breaks(n=10), labels = label_date_short())+
+  scale_y_continuous(labels = label_percent(scale = 1))+
   theme_minimal()+
-  labs(title = "Real GDP",
-       caption = "Source: FRED",
-       y = "Value")
+  labs(title = "U.S. Real GDP Growth",
+       subtitle = "Annual perncentage change",
+       x = "",
+       y = "",
+       caption = "Source: FRED")
 
 ```
 
