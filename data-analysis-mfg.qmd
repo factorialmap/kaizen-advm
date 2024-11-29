@@ -8,23 +8,29 @@ bibliography: references.bib
 
 -   Use of Machine Learning Models and Generative AI in PDCA Method and Quality Tools implementation
 
-    -   What is the basic idea behind PDCA?
+    -   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during problem-solving. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
 
-    -   What is the basic idea behind Lean principles?
+        ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
 
-    -   What is the basic idea behind the quality tools?
+    -   The basic idea of Lean principles is to focus on the customer. That requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. Value in this case, is how much the customer is willing to pay for something.
 
-    -   Why is it essential in Japanese manufaturing and around the globe?
+        -   Value-added activity: transforms or shape materials, and the customer wants it
 
-    -   Is it possible to use generative AI in the implementation and regular use of these principles in a manufacturing process?
+        -   Non-value added activity necessary waste: No value is created, but cannot be eliminated based on current technology, policy or thinking for example regulatory procedures, inspections, invoices etc.
+
+        -   Non-value added activity pure waste: No value is created and concumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
+
+    -   The basic idea of the quality tools is reduce the waste (e.g. time, effort, unnecessary movement) during performing a value-added task or process.
+
+    -   How generative AI tools can be useful in developing lean culture in business?
+
+    -   How to incorporate lean principles, PDCA method nad quality tools into an AI agent and make it useful in solving problems in manufacturing?
+
+        ![RAG Application Pipeline](img/rag_application.png)
 
 -   Mississippi Community College and Golden Triangle Development Link Project
 
     -   What is the basic idea behind the Golden Triangle Development Link Project
-
-    -   What is so important
-
-    -   
 
 -   CEE - Council for Economic Education and the Economic and Personal Finance Education programs
 
@@ -92,9 +98,8 @@ bibliography: references.bib
 
     -   **Simulations Digital Twin:** To simulate and predict the behavior of spaces or manufactured parts under various contiditions, enhancing quality assurance and reducing the need for physical testing @witherell2024.
 
-    ```{=html}
     <!-- -->
-    ```
+
     -   **Directing the Supply Chain:** Data science could help manufaturers to navigate risks and uncertainties, providing visibility with the agility they need to respond quickly to changing market conditions and customer needs. Proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact. Supply chain management requires a deep understanding of the complex variables, including supplier performance, inventory levels, transportation costs, and customer demand. Some examples where data science can be helpful in the supply chain are shown below.
 
         -   Analyze real-time data to identify potential bottlenecks and delays.
