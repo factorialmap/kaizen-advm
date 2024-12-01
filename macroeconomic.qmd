@@ -42,7 +42,7 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
--   From the same month over year ago, the consumer price index (CPI) for September increased 2.58%, acording to Federal Reserve Economic Data.
+-   From the same month over year ago, the consumer price index (CPI) for October increased 2.58%, acording to Federal Reserve Economic Data.
 
 ![](images/clipboard-2010062285.png)
 
