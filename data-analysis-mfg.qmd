@@ -6,47 +6,25 @@ bibliography: references.bib
 
 ### [**PDCA Method and Quality Tools in Manufacturing**]{style="color: #9D0F6A ;"}
 
--   Use of Machine Learning Models and Generative AI in PDCA Method and Quality Tools implementation
+-   How AI tools (e.g predictive, generative, and agentic) can support implementation of lean culture in business?
 
-    -   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during problem-solving. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
+-   How to incorporate lean principles, PDCA method and quality tools into an AI agent and make it useful in solving manufacturing problems?
 
-        ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
+    ![RAG Application Pipeline](img/rag_application.png)
 
-    -   The basic idea of Lean principles is to focus on the customer. That requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. Value in this case, is how much the customer is willing to pay for something.
+-   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during the problem-solving process. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
 
-        -   Value-added activity: transforms or shape materials, and the customer wants it
+    ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
 
-        -   Non-value added activity necessary waste: No value is created, but cannot be eliminated based on current technology, policy or thinking for example regulatory procedures, inspections, invoices etc.
+-   The basic idea of Lean principles is to focus on the customer that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
 
-        -   Non-value added activity pure waste: No value is created and concumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
+    -   Value-added activity: transforms or shape materials, and the customer wants it
 
-    -   The basic idea of the quality tools is reduce the waste (e.g. time, effort, unnecessary movement) during performing a value-added task or process.
+    -   Non-value added activity necessary waste: No value is created, but cannot be eliminated based on current technology, policy or thinking for example regulatory procedures, inspections, invoices etc.
 
-    -   How generative AI tools can be useful in developing lean culture in business?
+    -   Non-value added activity pure waste: No value is created and consumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
 
-    -   How to incorporate lean principles, PDCA method nad quality tools into an AI agent and make it useful in solving problems in manufacturing?
-
-        ![RAG Application Pipeline](img/rag_application.png)
-
--   Mississippi Community College and Golden Triangle Development Link Project
-
-    -   What is the basic idea behind the Golden Triangle Development Link Project
-
--   CEE - Council for Economic Education and the Economic and Personal Finance Education programs
-
-    -   What is the basic idea behind the Personal Finance Education?
-
-    -   Why is this important in the process of returning manufacturing to the United States?
-
-    -   What is the role and impact of CEE on financial education programs?
-
--   Talk about Robotics Career in Manufacturing by RoboticsCareer org
-
-    -   What is the basic idea behind the Robotics in manufacturing?
-
-    -   Why is this importnat in the process of returning manufacturing to the United States?
-
-    -   What is the role and impact of RoboticsCareer on Robotic Training?
+-   The basic idea of the quality tools is reduce waste during performing a value-added task or process, for example time, effort, unnecessary movement etc.
 
 ### [**Data Science in Manufacturing**]{style="color: #9D0F6A ;"}
 
@@ -56,7 +34,7 @@ bibliography: references.bib
 
 -   Among the foundations of data science, two stand out as fundamental:
 
-    -   **Scientific**, which would basically be asking "why" and demanding a rational answer to que question. It requires abilities such as ask insightful questions, active listening, strong orgazational skills, and effective communication of complex ideas in simple terms. As data science often involves sensitive information, understanding ethical considerations and data privacy is critical. This ensures that data is used responsibly and in compliance with regulations
+    -   **Scientific**, which would basically be asking "why" and demanding a rational answer to que question. It requires abilities such as ask insightful questions, active listening, strong orgazational skills, and effective communication of complex ideas in simple terms. As data science often involves sensitive information, understanding ethical considerations and data privacy is critical. This ensures that data is used responsibly and in compliance with regulations.
 
     -   **Technical**, which would basically the application of technical or scientific knowledge or both to something with a practical purpose. it requires abilities in statistics and probability such as data distributions and statistical tests, programming like Python and R, ability to represent data visually for communicating findings, and machine learning that involves training models to make predictions or decisions based on data.
 

@@ -18,10 +18,10 @@ My job was to visit twelve manufacturing plants to find opportunities for proces
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Create a low-latency business intelligence structure and deploy it on the factory floor in nine manufacturing plants.
--   Develop an integrated planning system using linear programming to assist in strategic decisions, creating a tool that would help in decision-making to reduce COGS (cost of goods sold) that represented 80% of the company's revenue.
--   Train teams of operators, supervisors, managers in Lean manufacturing principles and business intelligence tools.
--   Coordinate fifteen kaizen projects in the areas of energy, production processes, slaughter, deboning, and supply chain.
+-   Created a low-latency business intelligence structure and deployed it on the factory floor in nine manufacturing plants.
+-   Developed an integrated planning system using linear programming to assist in strategic dedcisions, creating a tool that would help in decision-making to reduce COGS (cost of goods sold) that represented 80% of the company's revenue.
+-   Trained teams of operators, supervisors, managers in Lean manufacturing principles and business intelligence tools.
+-   Coordinated fifteen kaizen projects in the areas of energy, production processes, slaughter, deboning, and supply chain.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
