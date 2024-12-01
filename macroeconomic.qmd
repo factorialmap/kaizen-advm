@@ -291,9 +291,9 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
 
 -   The automotive industry faces many challenges in 2024. Slowing growth, increased competition, supply chain disruptions generated during the pandemic and business decisions caused distortions in costs and prices that grew way above the population's income and general inflation rates. This process may take a few years to stabilize.
 
--   The volume of new car sales does not follow the same trend as population growth. It requires a deeper analysis to identify cause-and-effect relationships, but for now, the hypotheses raised are accessibility and the durability of the vehicles @autolinenetwork2024.
+-   The volume of new car sales does not follow the same trend as population growth. It requires a deeper analysis to identify cause-and-effect relationships, but for now, the hypotheses raised are accessibility and the durability of the vehicles acording to @autolinenetwork2024.
 
-    -   From a price perspective, historically, it takes 25 weeks of average household income to buy a new vehicle. The average household income in 2024 is \$75.000(\$1.400 per week) which would be enough to buy a vehicle worth \$36.000 dollars.
+    -   From a price perspective, historically, it takes 25 weeks of average household income to buy a new vehicle. The average household income in 2024 is \$75.000 (\$1.400 per week) which would be enough to buy a vehicle worth \$36.000 dollars.
 
     -   The age of the vehicles on the road in the United States is 12.6 years acording to @parekh2024
 
@@ -399,7 +399,7 @@ data_ml %>%
 
 Horizontal AI refers to AI systems that have a broad range of capabilities and can be applied across multiple industries, domais, or tasks. These systems are often more general-purpose and can be trained on a wide range of data sources(e.g. natural language processing in virtual assistant, general purpose machine learning frameworks like pytorch or tensorflow, cognitive architectures etc.)
 
--   **AI commpanions(autonomous agents):** Adept e Inflection(msft, nvda), Cognosys e graft(goog), Imbue(amzn, nvda)
+-   **AI commpanions(autonomous agents and worflows):** Adept e Inflection(msft, nvda), Cognosys e graft(goog), Imbue(amzn, nvda)
 
 -   **Digital Twins:** blackshark.ai (msft), Siemens TeamCenter X, Autodesk Revit @nvidia2024
 
@@ -409,7 +409,7 @@ Horizontal AI refers to AI systems that have a broad range of capabilities and c
 
 -   **Marketing and sales:** Outreach(msft), Speedy(goog)
 
--   **Search:** perplexity and twelve labs(nvda)
+-   **Search:** perplexity, twelve labs(nvda)
 
 -   **Stell tech:** osmo(goog)
 
