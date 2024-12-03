@@ -133,8 +133,29 @@ data_rnd_trans %>%
 -   Collaboration with Allies and Partners:
 -   Reshoring and Scaling Up Production:
 
+**Recent Development in U.S. Industrial Policy** 
+
+-   CHIPS
+
+-   Science: The basic ida was to identify 10 strategic tecnologies like quantum autonomous systems, AI, biotech, etc. and then give funding to National Science Fundation but for slightly later TRL research more focus on commercialization and partnership with industry.
+
+-   Regional Innovation Hubs: Program that recognized that almost all of the really advanced innovation and job growth was in five methopolitan areas in the U.S. (Silicon Valleym, Boston, Seattle) and that there was this big regional gap in the heartland if you will so this
+
+-   Related Manufacturing
+
+-   IRA Energy
+
+-   Buy America
+
+
 **Future** Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. Imagining alternate possibilities encourages mental flexibility, stimulating creativity and innovation. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
 
+
+-   Analytical Capabilities: We have in BLS  for every year from 1980 to 2021 data such as productivity growth amout of labor, labor cost, capital investment ready to analyse for example does wage levels correlate to lagged capex? Does capex correlate to lagged productivity? What sectors are doing the most?
+
+-   GDP Growth: 
+
+-   Embrace of National Developmentalism as America's Guide:
 
 -   Consistence and Competitiveness on Manufacturing
 
