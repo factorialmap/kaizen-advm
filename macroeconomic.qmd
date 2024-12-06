@@ -118,6 +118,12 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
+-   Total nonnfarm payroll employment rose by 227k in November trended up in hearth care, leisure and hospitality, government, and social assistance, meanwhile retail trade are down.
+
+-   Unemployment rate in November, 2024 is 4.2% or 7.1 million people a little higher than a year earlier when jobless rate was 3.7% and number of unemployed people was 6.3 million. The long-term unemployed(\>27 weeks) was 1.7 million up ffrom 1.2 million a year earlier that represents 23.2% of all unemployed people.
+
+-   The labor force participation rate was 62.5%
+
 -   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims for the week ending September 21, 2024 is 1.826 million. Less than the four-week moving average of 1.829 million. Meanwhile the number of initial claims for the week ending sep. 21, 2024 was 225.000 very close the four-week moving average of 224,250.
 
 ```{r}
@@ -269,7 +275,7 @@ Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
 Revenue's cash flow is a challenge which has a short-term effect on supply chains, labor market, and debt costs as some of them are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes striving for efficiency. Other behaviors:
 
--   Temporary rise in unemployment rates, however withour sudden moviments. The job losses begin at the lowest rungs in terms of skills, educational attainment, income making capacity. This indicators are being closely monitored by FED officials and the signals can be seen in Mr. Powell's statements.
+-   Temporary rise in unemployment rates, however without sudden moviments. The job losses begin at the lowest rungs in terms of skills, educational attainment, income making capacity. This indicators are being closely monitored by FED officials and the signals can be seen in Mr. Powell's statements.
 
 -   Decisions by companies towards reducing costs(COGS) and operating expenses(SG&A).
 
@@ -338,7 +344,6 @@ data_us_pop %>%
 
 -   Some car manufacturers are discovering and applying new materials that that awaken the perception of confort and refinement in consumers and this has been reflected in their choices.
 
-
 ### [**Transportation**]{style="color: #9D0F6A ;"}
 
 There was overcapacity in carrier population during the period from 2020 to 2023 due to demand that has been inconsistent over time and is currently undergoing adjustments. However, capacity still presents high values in relation to volumes pressuring agents to adjust their operations in striving for efficiency gains. Some of those carriers are contracting and reducing their fleets sizes in order to move forward. On the other side the carriers population are reduced in 32.500 from december of 2022 to october of 2024.
@@ -352,7 +357,6 @@ There was overcapacity in carrier population during the period from 2020 to 2023
 -   Reefer in spot market currently \$2.30 per mile -1% YoY and -9% over five years(2019).
 
 -   Flat bed in spot market currently \$2.21 per mile -1% YoY and -12% over five years(2019).
-
 
 ### [**Technology**]{style="color: #9D0F6A ;"}
 

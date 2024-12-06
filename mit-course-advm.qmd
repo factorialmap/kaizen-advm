@@ -44,7 +44,7 @@ bibliography: references.bib
 
     -   Perfection: Continuously strive for perfection by eliminating waste and improving processes.
 
--   Lean's succes hinges on a strong social contract between employees and the company, fostering a cultura of continuous improvement. Without this mutual trust and commitment, lean initiatives crumble.
+-   Lean's succes hinges on a strong social contract between employees and the company, fostering a cultura of continuous improvement. Workers will only contribute ideas if they feel the arrangement is fair and mutually beneficial. Employees are commited to dedicate themselves to their jobs, while the company is commited to provide opportunities for skill development, enabling employees to defend their jobs. This creates a resilient system when functioning correctly, but one that becomes fragile when trust erodes. 
 
 -   Lean focused on reduce waste and six sigma focused on reduced variation. Enterprises usually adopt their own name (e.g Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
 
