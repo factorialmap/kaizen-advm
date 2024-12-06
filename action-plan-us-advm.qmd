@@ -28,6 +28,7 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 
 The central idea is to explore past experiences to estimulate our ability of mental time travel. This ability is essential for survival and adaptation, as it helps predict outcomes, learn from mistakes, and build a sense of identity. Studying the past helps identify how experiences shape the history and influence memory formation, and learning. 
 
+**Process Innovation History**
 
 -   Shorten the distance, improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Erie Canal navigable waterway connecting the great lakes to the atlantic ocean completed in 1825 @dpla1821 . The objective was to develop the city of New York, which was a point of communication with the world (e.g. port of trade hub), and opened up the MidWest for settlement and agricultural expansion, impacting the marginal product of labor @kaiman2024. The canal also had profound societal impacts shaping the nation's economic development in the 19th century:
 
@@ -132,7 +133,7 @@ data_rnd_trans %>%
 -   Collaboration with Allies and Partners:
 -   Reshoring and Scaling Up Production:
 
-**Recent Development in U.S. Industrial Policy** 
+**Process Innovation and Recent Development in U.S. Industrial Policy** 
 
 -   CHIPS: High bandwidth memory chips, chipmaking equipment and software to develop advanced AI systems to improve manufacturing capabilities.
 
@@ -150,6 +151,10 @@ data_rnd_trans %>%
 
 Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
 
+**Process Innovation of the future** 
+
+-   Shorten the distance, returning supersonic trips more affordable for passengers, profitable for companies, cleaner, quieter, and dramatically more fuel efficient. Speed of sound making the world feel smaller for example Tokio-Seattle in 4.4 hours, New York to London in 3.4 hours. The overture synphony engine runs with a 100% sustainable aviation fuel making supersonic flights more efficient than subsonic flights in terms of carbon emissions.
+
 -   Analytical Capabilities: We have in BLS  for every year from 1980 to 2021 data such as productivity growth amout of labor, labor cost, capital investment ready to analyse for example does wage levels correlate to lagged capex? Does capex correlate to lagged productivity? What sectors are doing the most?
 
 -   GDP Growth: 
@@ -163,6 +168,65 @@ Studying the future to understand decision-making processes, planning, and expec
 -   Manufacturing base
 
 -   Modular Assembly or Unboxed Manufacturing Process: Process innovation created by Tesla that setting a new standard in the automotive industry. A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
+
+
+```{r}
+
+library(tidyverse)
+library(ggrepel)
+library(scales)
+library(ggthemes)
+library(ggsankey)
+
+data_robots <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/asset_alocation.xlsx", sheet = "robots")
+
+data_robots_trans <-  
+  data_robots %>% 
+  pivot_longer(-c(country, status),
+               names_to = "year",
+               values_to = "value") %>% 
+  mutate(year = as.Date(year, "%Y"),
+         year = year(year)) 
+
+
+data_robots_trans %>% 
+  filter(status == "y") %>% 
+  mutate(label = 
+         if_else(
+           year == "2023",
+           glue::glue("{country}: {value}"),
+           NA_character_)) %>% 
+  ggplot(aes(x = year, y = value, group = country, colour = country)) + 
+  geom_smooth(method = "loess", 
+              span= 0.9, 
+              se = FALSE, 
+              linewidth=2)+
+  scale_color_manual(
+    values =c("#bccad6",
+              "#667292",
+              "#D5DBDB",
+              "#ffcaca",
+              "#8d9db6",
+              "#eeac99",
+              "#bdcebe",
+              "#34495e",
+              "#b8a9c9",
+              "#c4b7a6",
+              "#50394c"))+
+  geom_text_repel(
+    aes(label = label ),
+    nudge_x = 1,
+    na.rm = TRUE
+  )+
+  theme_hc()+
+  theme(legend.position = "none")+
+  labs(title = "Global average robot density in 2023",
+       subtitle = "Units per 10,000 employees",
+       x = "",
+       y = "",
+       caption = "Source: International Federation of Robotics(IFR)")
+```
+
 
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
@@ -201,6 +265,7 @@ library(fredr)
 library(scales)
 library(ggrepel)
 
+fredr_set_key("d7900ba6687aa8209d5f7a7e82dcc7f1")
 
 data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                            observation_start = as.Date("1970-01-01"),

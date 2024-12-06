@@ -343,15 +343,16 @@ data_us_pop %>%
 
 There was overcapacity in carrier population during the period from 2020 to 2023 due to demand that has been inconsistent over time and is currently undergoing adjustments. However, capacity still presents high values in relation to volumes pressuring agents to adjust their operations in striving for efficiency gains. Some of those carriers are contracting and reducing their fleets sizes in order to move forward. On the other side the carriers population are reduced in 32.500 from december of 2022 to october of 2024.
 
--   Tender rejections are currently in 5.7% in November compare to 4.5% in June 2024.
+-   Tender rejections are currently in 6.20% in December compare to 4.5% in June 2024.
 
--   Diesel prices are \$3.59 per gallon in November -5.8% compare to \$3.81 per gallon on average in june 2024.
+-   Diesel prices are \$3.58 per gallon in December -6.04% compare to \$3.81 per gallon in june 2024.
 
 -   Dry van in spot market currently \$1.96 per mile 0.2% YoY and -11.5% over five years(2019).
 
 -   Reefer in spot market currently \$2.30 per mile -1% YoY and -9% over five years(2019).
 
 -   Flat bed in spot market currently \$2.21 per mile -1% YoY and -12% over five years(2019).
+
 
 ### [**Technology**]{style="color: #9D0F6A ;"}
 
@@ -440,7 +441,7 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 ### [**Housing market**]{style="color: #9D0F6A ;"}
 
--   The U.S. median home price in 2Q24 is \$412.300 compared to \$418.500 last year a decrease of 1.48%.
+-   The U.S. median home price in 3Q24 is \$420.400 compared to \$435.400 last year a decrease of 3.4%.
 
 -   When observed from the perspective of supply and demand, the plot below shows the behaviors in more detail.
 
@@ -467,7 +468,7 @@ data_house_supply %>%
   )+
   theme_minimal()+
   labs(title = "Monthly Supply of New Houses",
-      caption = "Soure: FRED",
+      caption = "Sourre: Federal Reserve Economic Data",
       y = "new houses for sale/new houses sold")
 
 ```
@@ -479,6 +480,8 @@ data_house_supply %>%
     -   Mortgage rates, increasing inventories, listing price drops, time homes are on market.
     -   Net new home orders that represent the number of new sales contracts that have been finalized and signed by buyers minus customer home order cancellations booked.
     -   Companies financial guidance such as Lennar, Toll Brothers, D.R. Horton, Pultegroup and KB Home.
+
+Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
 
 ### [**Manufacturing**]{style="color: #9D0F6A ;"}
 
