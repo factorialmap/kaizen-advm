@@ -171,6 +171,11 @@ Studying the future to understand decision-making processes, planning, and expec
 
 
 ```{r}
+#| message: false
+#| echo: false
+#| warning: false
+#| fig-align: center
+
 
 library(tidyverse)
 library(ggrepel)
