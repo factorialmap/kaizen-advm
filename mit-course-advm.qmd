@@ -18,51 +18,25 @@ bibliography: references.bib
 
 -   Overview about productivity, quality defects, training hours between North American and Japanese manufacturing in 1990.
 
--   Lean thinking, knowledge-driven, and customer focused process through which all people in a defined enterprise continuously eliminate waste and create value.
+-   Lean thinking, knowledge-driven, and customer focused process through which all people in a defined enterprise continuously eliminate waste and create value. Enterprises usually adopt their own name (e.g Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
 
 -   Lean thinking is a way of thinking and a set of practices focused o creating more value with less rosources. It involves constantly experimenting and improving to eliminate waste and optimize the entire value stream, from wao materials to the customer.
 
--   Types of value in process steps.
+**Types of value in process steps**
 
-    -   Value added process steps
+-   Value added process steps
 
-    -   Necessary waste process steps
+-   Necessary waste process steps
 
-    -   Pure waste process steps
+-   Pure waste process steps
 
-![Example of value-added](img/muda_example.png){alt="Example of value-added"}
+![Example of value-added](img/muda_example.png) **Key principles of Lean Thinking**
 
--   Key principles of Lean thinking
+-   **Value**: define value from the customer's perspective.
 
-    -   Value: define value from the customer's perspective
+-   **Value stream**: Identify all the steps involved in delivering value and eliminate non-value-adding activities.
 
-    -   Value stream: Identify all the steps involved in delivering value and eliminate non-value-adding activities.
-
-    -   Flow: Ensure a smooth and continuous flow of work through the value stream
-
-    -   Pull: Produce onl what is needed, when it is needed
-
-    -   Perfection: Continuously strive for perfection by eliminating waste and improving processes.
-
--   Lean's succes hinges on a strong social contract between employees and the company, fostering a cultura of continuous improvement. Workers will only contribute ideas if they feel the arrangement is fair and mutually beneficial. Employees are commited to dedicate themselves to their jobs, while the company is commited to provide opportunities for skill development, enabling employees to defend their jobs. This creates a resilient system when functioning correctly, but one that becomes fragile when trust erodes. 
-
--   Lean focused on reduce waste and six sigma focused on reduced variation. Enterprises usually adopt their own name (e.g Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
-
-![Example of basic stability](img/process_stability.png)
-
--   Evolution of Lean Implementation that has shifted from a consultant-driven. "quick-fix" approach to a coaching model that empowers employees to identify and solve problems themselves.
-
-![Example of waste](img/muda_types.png)
-
--   Shifting from KPIs to Problem-Solving or instead of giving orders and say do that, do this, they say "Okay, here's the problem, here is the gap that we're trying to close, what are you going to do, how can I help?" That is a different conversation than "make your numbers".
-
--   Tesla vs Toyota: Toyota started in 1935 and they only got their system perfected by the mid-1960s. It took them 30 years of experiments and they've struggled across the world to maintain the standard as they've grown.
-
--   Cost price relationship
-
-![Illustration of Cost price relationship - adapted from MIT lectures](img/cost_value_relationship.png)
-
--   Elements of a process, process map, value in a process, five fundamental lean principles, concepts and tools for implementing lean principles.
+    -   Elements of a process, process map, value in a process, five fundamental lean principles, concepts and tools for implementing lean principles.
 
     -   Process is a series of actions, changes, or functions which transform inputs to outputs.
 
@@ -71,6 +45,36 @@ bibliography: references.bib
     -   Process mapping is a graphical representation of an idea or steps using texts, illustrations, ideograms or greometric figures. The idea is to provide a clear vision of the whole thing, the flow of elements in the drawing, and the direction they go @anjos2024
 
 ![Illustration of a mapping process for opening stores at Portobello](img/ptbl_open_store_map.png)
+
+-   **Flow**: Ensure a smooth and continuous flow of work through the value stream.
+
+-   **Pull**: Produce only what is needed, when it is needed.
+
+-   **Perfection**: Continuously strive for perfection by eliminating waste and improving processes.
+
+-   **Social contract or contancy of purpose** Lean's succes hinges on a strong social contract between employees and the company, supporting a culture of continuous improvement with the aim to become competitive and to stay in business, and to provide jobs. Workers will only contribute ideas if they feel the arrangement is fair and mutually beneficial. Employees are commited to dedicate themselves to their jobs, while the company is commited to provide opportunities for skill development, enabling employees to defend their jobs.
+
+-   Hosing Kanri focuses on aligning the entire organization around a few critical strategic objectives. It involves setting clear goals, developing action plans, and monitoring progress towards those goals.
+
+![Example of Strategy-driven processes](img/process_guided_strat_goals.png)
+
+-   **Basic stability** Lean focused on reduce waste and six sigma focused on reduced variation creating a basic estability preparing the environment for implementation of Lean.
+
+![Example of basic stability](img/process_stability.png)
+
+-   **Continuous improvement** Evolution of Lean Implementation that has shifted from a consultant-driven. "quick-fix" approach to a coaching model that empowers employees to identify and solve problems themselves. Every day, everyone is involved in eliminating waste, making their jobs easier and taking pride in their work.
+
+-   Genchi genbutsu principles, relying on data and observations produced by others does not give a complete understanding. This meaning go to the actual place, talk to the actual people, doing the actual work
+
+![Example of waste](img/muda_types.png)
+
+**Cost price relationship**
+
+-   Toyota started in 1935 and they only got their system perfected by the mid-1960s. It took them 25+ years of experiments and they've struggled across the world to maintain the standard as they've grown.
+
+-   Shifting from KPIs to Problem-Solving or instead of giving orders and say do that, do this, they say "Okay, here's the problem, here is the gap that we're trying to close, what are you going to do, how can I help?" That is a different conversation than "make your numbers".
+
+![Illustration of Cost price relationship - adapted from MIT lectures](img/cost_value_relationship.png)
 
 According to @jamesp.womack2022, reducing inventory should not be the primary focus, but rather a result of improving capability and reducing variability. He emphasizes that simply decreasing inventory reduction without addressing underlying issues will lead to stockouts and dissatisfied customers.
 
@@ -102,20 +106,7 @@ It requires meticulous and systematic study of cause-and-effect relationship to 
 Professor Earll Murman at @mitopencourseware2014 compares the hours of training in the industry in Japan(380.3) to the United States(46.4). The value of training is difficult to measure in the short term, but studies such as the Ebbinghaus fogetting curve could provide relevant information for understanding the cause-and-effect relationships between consistent training and long-term expertise.
 :::
 
--   Hosing Kanri focuses on aligning the entire organization around a few critical strategic objectives. It involves setting clear goals, developing action plans, and monitoring progress towards those goals.
--   Strategy-driven processes
-
-![Process model guided by strategic goals](img/process_guided_strat_goals.png)
-
--   Genchi genbutsu principles, relying on data and observations produced by others does not give a complete understanding.
-
-    -   Go to the actual place
-
-    -   Talk to the actual people
-
-    -   Doing the actual work
-
--   Why mapping process is important?
+**Why mapping process is important ?**
 
 ![Process design throughout the business life cycle](img/why_process.png)
 
