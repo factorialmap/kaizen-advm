@@ -48,7 +48,11 @@ bibliography: references.bib
 
 -   Lean focused on reduce waste and six sigma focused on reduced variation. Enterprises usually adopt their own name (e.g Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
 
+![Example of basic stability](img/process_stability.png)
+
 -   Evolution of Lean Implementation that has shifted from a consultant-driven. "quick-fix" approach to a coaching model that empowers employees to identify and solve problems themselves.
+
+![Example of waste](img/muda_types.png)
 
 -   Shifting from KPIs to Problem-Solving or instead of giving orders and say do that, do this, they say "Okay, here's the problem, here is the gap that we're trying to close, what are you going to do, how can I help?" That is a different conversation than "make your numbers".
 

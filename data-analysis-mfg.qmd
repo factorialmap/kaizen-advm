@@ -6,7 +6,7 @@ bibliography: references.bib
 
 ### [**PDCA Method and Quality Tools in Manufacturing**]{style="color: #9D0F6A ;"}
 
--   How AI tools (e.g predictive, generative, and agentic) can support implementation of lean culture in business?
+-   How AI tools (e.g predictive, generative, and agentic models) could support implementation of lean culture in business?
 
 -   How to incorporate lean principles, PDCA method and quality tools into an AI agent and make it useful in solving manufacturing problems?
 
@@ -14,17 +14,19 @@ bibliography: references.bib
 
 -   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during the problem-solving process. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
 
+-   The basic idea of the quality tools is reduce waste during performing a value-added task or process, for example time, effort, unnecessary movement etc.
+
     ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
 
--   The basic idea of Lean principles is to focus on the customer that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
+-   The basic idea of Lean principles is to focus on the customer value that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
 
-    -   Value-added activity: transforms or shape materials, and the customer wants it
+-   Value-added activity: transforms or shape materials, and the customer wants it
 
-    -   Non-value added activity necessary waste: No value is created, but cannot be eliminated based on current technology, policy or thinking for example regulatory procedures, inspections, invoices etc.
+-   Non-value added activity necessary waste: No value is created, but cannot be eliminated based on current technology, policy or thinking for example regulatory procedures, inspections, invoices etc.
 
-    -   Non-value added activity pure waste: No value is created and consumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
+-   Non-value added activity pure waste: No value is created and consumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
 
--   The basic idea of the quality tools is reduce waste during performing a value-added task or process, for example time, effort, unnecessary movement etc.
+![Example of value-added activity](img/muda_example.png)
 
 ### [**Data Science in Manufacturing**]{style="color: #9D0F6A ;"}
 
