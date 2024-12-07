@@ -24,6 +24,8 @@ on the conceptual side, and foundries handle the physical production.
 
 -   China that has seized the lead in battery technology, leading battery manufacturing, and making technical progress. The firm A123 was bought for a Chinese company that was transferred its significant technology, then scaled these advances, putting them into domestic hybrid then electric vehicles built with massive government support.
 
+-   Dry-process maufacturing with its electrode printing eliminates the use of solvents and enables the use of new process in battery manufacturing that will enable cost-effective, higher performance batteries that are also environmentally friendly. 
+
 -   **Mujeeb Ijaz** founder, CEO of Our next energy Michigan made cells LFP technolgy, R&D Center in Fremont California and another one in Boston and Bedford shows us the 3 gerenation analysis about energy storage at @mitmobilityinitiative2023
 
 ![Evolution of energy storage adapted from Mujeeb Ijaz's presentation](img\one_our_next_energy.png)
@@ -38,7 +40,6 @@ on the conceptual side, and foundries handle the physical production.
 
     -   Obs: Innolith Switzerland-based company with labs in Germany claims it's on path to 1000 Wh/kg or (1kWh/kg) battery energy density to enable the production of vehicles with 620 miles range(1000 km). Meanwhile, in Japan researchers at Yokohama National University have demonstrated different approach using manganese in the anode to create a high-energy density 820 Wh/kg with.
 
-<!-- -->
 
 -   **Martin Bazant** professor of chemical engineering and mathematics at MIT director of center for battery sustainability, co-founder of Lithios an advanced lithium extraction from brins using electrochemistry.
 

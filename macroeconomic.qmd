@@ -525,7 +525,7 @@ data_invest %>%
 
     -   **Semiconductor:** TSMC (Phenix, AZ:TSM) , Wolfspeed(Pittsboro,NC:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
 
-    -   **Batteries:** Toyota (Liberty, NC), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS), Ford SK (Stanton, TN)
+    -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS), Ford SK (Stanton, TN)
 
     -   **Biomanufacturing:** Moderna(Marlborough,MA), Pfizer(Peral River, NY), Thermo Fisher(Greenville, NC), Novo Nordisk(Clayton, NC), Fujifilm(Holly Springs, NC), Genentech(Oceanside, CA)
 
