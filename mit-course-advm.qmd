@@ -66,6 +66,8 @@ bibliography: references.bib
 
 -   Genchi genbutsu principles, relying on data and observations produced by others does not give a complete understanding. This meaning go to the actual place, talk to the actual people, doing the actual work
 
+Some examples of waste
+
 ![Example of waste](img/muda_types.png)
 
 **Cost price relationship**
