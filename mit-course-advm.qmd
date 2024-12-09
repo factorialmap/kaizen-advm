@@ -12,23 +12,23 @@ bibliography: references.bib
 
 -   Book that may be useful: Kaizen Express: Fundamentals for Your Lean Journey by Toshiko Narusawa and John Shook
 
--   Videos that may be useful: Industry Talks E11: James P. Womack on YouTube
+-   Additional videos that may be useful: Industry Talks E11: James P. Womack on YouTube
 
 **Summary**
 
--   Overview about productivity, quality defects, training hours between North American and Japanese manufacturing in 1990.
+-   Overview about productivity, quality defects, and training hours. Differences between North American and Japanese manufacturing in 1990.
 
 -   Lean thinking, knowledge-driven, and customer focused process through which all people in a defined enterprise continuously eliminate waste and create value. Enterprises usually adopt their own name (e.g Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
 
--   Lean thinking is a way of thinking and a set of practices focused o creating more value with less rosources. It involves constantly experimenting and improving to eliminate waste and optimize the entire value stream, from wao materials to the customer.
+-   Lean thinking is a way of thinking and a set of practices focused o creating more value with less rosources. It involves constantly experimenting and improving to eliminate waste and optimize the entire value stream, from raw materials to the customer.
 
 **Types of value in process steps**
 
--   Value added process steps
+-   Value added process steps: Transform or shape materials
 
--   Necessary waste process steps
+-   Necessary waste process steps: Regulatory, project coordinations
 
--   Pure waste process steps
+-   Pure waste process steps: Excess moviment, inventory, wait time, rework.
 
 ![Example of value-added](img/muda_example.png) **Key principles of Lean Thinking**
 
