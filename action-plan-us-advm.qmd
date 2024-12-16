@@ -131,10 +131,10 @@ data_rnd_trans %>%
 -   **Focus on cyber skills**: The increasing integration of digital technologies in manufacturing requires a workforce with strong cyber skills.
 -   **Develop a national talent marketplace**: A centralized platform connecting job seekers with advanced manufacturing opportunities can help to adress workforce shortages.
 -   **Leveraging U.S. Strenths in AI and Software**: The U.S. enjoys a significant lead in generative AI, a technology with the potential to transform various facets of advanced manufacturing (e.g.GenAI can creates copilots to helps workers interpret complex factory data and enhance AI-driven design tools that can create product designs from natural language descriptions)
--   \*\*Rebuilding Domestic Production Capacity:
--   Public and Private Investments:
--   Collaboration with Allies and Partners:
--   Reshoring and Scaling Up Production:
+-   **Rebuilding Domestic Production Capacity**:
+-   **Public and Private Investments**:
+-   **Collaboration with Allies and Partners**:
+-   **Reshoring and Scaling Up Production**:
 
 **Process Innovation and Recent Development in U.S. Industrial Policy**
 
@@ -156,7 +156,7 @@ Studying the future to understand decision-making processes, planning, and expec
 
 **Process Innovation of the future**
 
--   Shorten the distance, returning supersonic trips more affordable for passengers, profitable for companies, cleaner, quieter, and dramatically more fuel efficient. Speed of sound making the world feel smaller for example Tokio-Seattle in 4.4 hours, New York to London in 3.4 hours. The overture synphony engine runs with a 100% sustainable aviation fuel making supersonic flights more efficient than subsonic flights in terms of carbon emissions.
+-   **Shorten the distance**, Improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Returning supersonic trips more affordable for passengers, profitable for companies, cleaner, quieter, and dramatically more fuel efficient. Speed of sound making the world feel smaller for example Tokio-Seattle in 4.4 hours, New York to London in 3.4 hours. The overture synphony engine runs with a 100% sustainable aviation fuel making supersonic flights more efficient than subsonic flights in terms of carbon emissions.
 
 -   Analytical Capabilities: We have in BLS for every year from 1980 to 2021 data such as productivity growth amout of labor, labor cost, capital investment ready to analyse for example does wage levels correlate to lagged capex? Does capex correlate to lagged productivity? What sectors are doing the most?
 
@@ -172,7 +172,7 @@ Studying the future to understand decision-making processes, planning, and expec
 
 -   Modular Assembly or Unboxed Manufacturing Process: Process innovation created by Tesla that setting a new standard in the automotive industry. A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
 
--   **Shorten the distance**: Improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country.
+-   **Shorten the distance**:
 
 -   **New processes**: Making better products, faster and cheaper.
 
