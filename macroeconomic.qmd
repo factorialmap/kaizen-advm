@@ -10,23 +10,46 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
--   Real gross domestic product increased at an annual rate of 2.8% in the third quarter of 2024, compared with 3% in the second quarter, accordind to the second estimate(November 27,2024). Drivers are consumer spending, exports, federal government spending, and nonresidential fixed investment.
+-   Real gross domestic product increased at an annual rate of 3.1% in the third quarter of 2024, compared with 3% in the second quarter, accordind to the third estimate(December 19,2024). Drivers are consumer spending, exports, nonresidential fixed investment federal, and government spending.
 
--   Personal consumption expenditures increased 3.5%, compared with 2.8% in the second quarter, according to the second estimate(November 27,2024:T1).
+-   Personal consumption expenditures increased 3.7%, compared with 2.8% in the second quarter, according to the third estimate(December 19,2024:T1).
 
--   Disposable personal income increased \$122.9 billion, or 2.3%, in the third quarter, compared with an increase of \$120.1 billion in the second quarter. Real disposable personal income increase 0.8%.
+-   Disposable personal income increased \$141.5 billion, or 2.7%, in the third quarter, compared with an increase of \$120.1 billion in the second quarter. Real disposable personal income increase 1.1%.
 
--   Personal saving was \$934.4 billion in the third quarter. The personal saving rate as a percentage of disposable personal income was 4.3% in the third quarter , compared with 4.9% in the second quarter, according to the second estimate(November 27,2024:T8)
+-   Personal saving was \$936.6 billion in the third quarter. The personal saving rate as a percentage of disposable personal income was 4.3% in the third quarter , compared with 4.9% in the second quarter, according to the third estimate(December 19,2024:T8)
 
--   Gross private domestic investment(% change from proceding period) increased 1.1% in the third quarter, compared with 8.3% in the second quarter, according to the second estimate(November 27,2024:T1). There was a 10.6% increase in equipment in the third quarter, compared to 9.8% in the second quarter.
+-   Gross private domestic investment(% change from proceding period) increased 0.8% in the third quarter, compared with 8.3% in the second quarter, according to the third estimate(December 19,2024:T1). There was a 10.8% increase in equipment in the third quarter, compared to 9.8% in the second quarter.
 
--   Government consumption expenditures and gross investment(% change from proceding period) was 5% in the third quarter compared with 3.1% in the second quarter.
+-   Government consumption expenditures and gross investment(% change from proceding period) was 5.1% in the third quarter compared with 3.1% in the second quarter.
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ## [**Inflation**]{style="color: #9D0F6A ;"}
 
+The United States uses various measures to track inflation, and understanding the differences between them is important. 
+
+
+**PCE Inflation**
+
+-   PCE price index for November 2024 increased 2.4% compared to the same month of 2023.The Federal Reserve targets PCE inflation at 2% over longer run.
+
+-   PCE inflation measures prices of goods and services consumed by households and nonprofit institutions, includes food, energy, housing etc and is more comprehensive than CPI(consume price index). Includes spending directly by households(you pay), and on behalf of households(someone pays for you exemple your employer provides health insurance, government provides medicare etc.)
+
+Souce: [Bureau of Economic Analysis](https://www.bea.gov)
+
+**Core PCE Inflation**
+
+-   Core PCE index  for November 2024 increased 2.8 compared to the same month of 2023.
+
+-   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
+
+Souce: [Bureau of Economic Analysis](https://www.bea.gov)
+
+**CPI (Consumer Price Index)**
+
 -   The annual inflation rate for the United States was 2.7% for the 12 months ending November, compared to the previus rate increase of 2.6%, acording to U.S. Bureau of Labor Statistics data published on December 11, 2024.
+
+-   CPI measures the average change in prics of a basket of good and services and often used for cost of living adjustments, wage negotiations, social security benefits. Only counts out-of-pocket expenditures(you pay directly)
 
 -   The CPI price index for October increased 0.2% from the preceding month.
 

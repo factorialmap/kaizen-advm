@@ -130,7 +130,7 @@ Sorce: MIT by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen
 
 -   Paul Romer Stanford: Human capital engaged in research (talent base) to drive economic growth.
 
--   Dale Jorgenson Harvard: Core technology + deflationary factor driven the economic growth and innovation.
+-   Dale Jorgenson Harvard: Core technology +  driven the economic growth and innovation.
 
 -   Merryl Linch: Venture capital. Investor understand value of technology breakthroughs, but only support short term development.
 
