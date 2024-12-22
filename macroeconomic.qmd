@@ -10,7 +10,7 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
--   Real gross domestic product increased at an annual rate of 3.1% in the third quarter of 2024, compared with 3% in the second quarter, accordind to the third estimate(December 19,2024). Drivers are consumer spending, exports, nonresidential fixed investment federal, and government spending.
+-   Real gross domestic product increased at an annual rate of 3.1% in the third quarter of 2024, compared with 3% in the second quarter, accordind to the third estimate(December 19,2024). Drivers are consumer spending, exports, nonresidential fixed investment, and government spending.
 
 -   Personal consumption expenditures increased 3.7%, compared with 2.8% in the second quarter, according to the third estimate(December 19,2024:T1).
 
