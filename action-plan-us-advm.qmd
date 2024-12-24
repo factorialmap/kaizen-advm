@@ -4,9 +4,9 @@ subtitle: "What  are the guidelines that support this research project?"
 bibliography: references.bib
 ---
 
-Based on @helwig2024, this summary aims to improve my writing skills, business analysis, and manufacturing process improvement skills in the U.S. market.
+This summary is based on @helwig2024, and aims to improve my writing skills, business analysis, and process improvement in the U.S. market.
 
-The texts may contain typos, imcomplete thoughts, and will be subject to ongoing revision and development. In addition to the primary document used to create this summary, I have also drawn upon the reference documents cited within.
+The texts may contain typos, imcomplete thoughts, and will be subject to ongoing revision and development. In addition to the main document, I also used reference documents, books, videos and news to complement this work.
 
 ### [**Advanced Manufacturing**]{style="color: #9D0F6A ;"}
 
@@ -282,6 +282,7 @@ library(fredr)
 library(scales)
 library(ggrepel)
 
+fredr_set_key("d7900ba6687aa8209d5f7a7e82dcc7f1")
 
 data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                            observation_start = as.Date("1970-01-01"),
