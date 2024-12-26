@@ -48,7 +48,7 @@ Explore the past experiences estimulate our ability of mental time travel that e
 
 -   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
 
-### [**The present**]{style="color: #9D0F6A ;"}
+### [**The Present**]{style="color: #9D0F6A ;"}
 
 Focusing on the present helps us undertand how we process information in real time, essential for responding to stimuli quickly and performing daily activities with mindfulness. One of the challenges of staying focused on the present is dealing with digital and physical distractions that are present in abundant quantities.
 
@@ -138,51 +138,9 @@ data_rnd_trans %>%
 -   **Collaboration with Allies and Partners**:
 -   **Reshoring and Scaling Up Production**:
 
-**Process Innovation and Recent Development in U.S. Industrial Policy**
+**Industrial Policy for Process Innovation and Recent Development in U.S.**
 
--   CHIPS: High bandwidth memory chips, chipmaking equipment and software to develop advanced AI systems to improve manufacturing capabilities.
-
--   Science: The basic ida was to identify 10 strategic tecnologies like quantum autonomous systems, AI, biotech, etc. and then give funding to National Science Fundation but for slightly later TRL research more focus on commercialization and partnership with industry.
-
--   Regional Innovation Hubs: Program that recognized that almost all of the really advanced innovation and job growth was in five methopolitan areas in the U.S. (Silicon Valleym, Boston, Seattle) and that there was this big regional gap in the heartland if you will so this
-
--   Related Manufacturing
-
--   IRA Energy
-
--   Buy America
-
-### [**The future**]{style="color: #9D0F6A ;"}
-
-Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
-
-**Process Innovation of the future**
-
--   **Shorten the distance**, Improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Returning supersonic trips more affordable for passengers, profitable for companies, cleaner, quieter, and dramatically more fuel efficient. Speed of sound making the world feel smaller for example Tokio-Seattle in 4.4 hours, New York to London in 3.4 hours. The overture synphony engine runs with a 100% sustainable aviation fuel making supersonic flights more efficient than subsonic flights in terms of carbon emissions.
-
--   Analytical Capabilities: We have in BLS for every year from 1980 to 2021 data such as productivity growth amout of labor, labor cost, capital investment ready to analyse for example does wage levels correlate to lagged capex? Does capex correlate to lagged productivity? What sectors are doing the most?
-
--   GDP Growth:
-
--   Embrace of National Developmentalism as America's Guide:
-
--   Consistence and Competitiveness on Manufacturing
-
--   Personal Finance
-
--   Manufacturing base
-
--   Modular Assembly or Unboxed Manufacturing Process: Process innovation created by Tesla that setting a new standard in the automotive industry. A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
-
--   **Shorten the distance**:
-
--   **New processes**: Making better products, faster and cheaper.
-
--   **Knowledge base, science, and data**: Improvements of efficiency in the
-
--   **Redefine customer values**: Create new damand by delivering a previously unknown experience to consumers. They built powerful, cohesive business systems that could deliver more of this value than their competitors. They raised customer expectations beyond what their competitors could reach.
-
--   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
+-   CHIPS Act: The U.S.manufacturing share of GDP down 16% since 2012, share of semiconductor production declined from 37% in 1990 to 12% in 2022, and produced no cutting-edge advanced chips. Also, \$205B trade deficit in advanced tech products, and the Hamilton Index @atkinson2022 showing gaps with comparison to another countries. To reduce theses gaps, U.S. Congress passed Chips Act to incentivize U.S. and allied country firms to build or expand advanced-industry R&D and production sites in the United States. The focus on quantum computing, robotics, 6G equipments, gene edititing, high bandwidth memory chips, chipmaking equipment and software to develop advanced AI systems to improve manufacturing capabilities. Not only invent in U.S. but manufacture in U.S.
 
 ```{r}
 #| label: robots
@@ -192,119 +150,75 @@ Studying the future to understand decision-making processes, planning, and expec
 #| fig-align: center
 
 
-library(tidyverse)
-library(ggrepel)
-library(scales)
-library(ggthemes)
-library(ggsankey)
+    library(tidyverse)
+    library(ggrepel)
+    library(scales)
+    library(ggthemes)
+    library(ggsankey)
 
-data_robots <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/asset_alocation.xlsx", sheet = "robots")
+    data_robots <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/asset_alocation.xlsx", sheet = "robots")
 
-data_robots_trans <-  
-  data_robots %>% 
-  pivot_longer(-c(country, status),
-               names_to = "year",
-               values_to = "value") %>% 
-  mutate(year = as.Date(year, "%Y"),
-         year = year(year)) 
-
-
-data_robots_trans %>% 
-  filter(status == "y") %>% 
-  mutate(label = 
-         if_else(
-           year == "2023",
-           glue::glue("{country}: {value}"),
-           NA_character_)) %>% 
-  ggplot(aes(x = year, y = value, group = country, colour = country)) + 
-  geom_smooth(method = "loess", 
-              span= 0.9, 
-              se = FALSE, 
-              linewidth=2)+
-  scale_color_manual(
-    values =c("#bccad6",
-              "#667292",
-              "#D5DBDB",
-              "#ffcaca",
-              "#8d9db6",
-              "#eeac99",
-              "#bdcebe",
-              "#34495e",
-              "#b8a9c9",
-              "#c4b7a6",
-              "#50394c"))+
-  geom_text_repel(
-    aes(label = label ),
-    nudge_x = 1,
-    na.rm = TRUE
-  )+
-  theme_hc()+
-  theme(legend.position = "none")+
-  labs(title = "Global average robot density in 2023",
-       subtitle = "Units per 10,000 employees",
-       x = "",
-       y = "",
-       caption = "Source: International Federation of Robotics(IFR)")
-```
-
-### [**Goals**]{style="color: #9D0F6A ;"}
-
-![Illustration of processes guided by objectives and strategy](img/us_mfg_goals.png)
-
-### [**Principles**]{style="color: #9D0F6A ;"}
-
--   **Learning by doing**: When companies or countries cease production something, it becomes difficult to redevelop that capability. This is due to the speciallized process knowledge required to manufacture high-value-added technology products. Here are some examples of historical process innovations and how they illustrate the importance of learning by doing.
-
-    -   The Watt Process for power generation from steam: James Watt's improvements to the steam engine in the 18th centry weren't solely based on theoretical knowledge. He continuously experimented and refined his designs through practical application, gradually increasing the engine's efficiency and paving the way for the Industrial Revolution.
-
-    -   The Bessemer Process for Steel Production: In the 19th century, Henry Bessemer developed a process for mass-producing steel. This involved blowing air tinto molten iron to remove impurities. While the initial concept was based on scientific principles, the actual implementation required extensive trial and error to perfect. The continuous refinement of the Bessemer process through practical experience led to a significant reduction in steel prices, fueling advancements in construction, transportation, and other industries.
-
-    -   The Planar Process for Microelectronics: Developed in the late 1950s, the plannar process revolutionized the manufacturing of transistors and integrated circuits. This method involved building layers of semiconductor material on a flat substrate. While the scientific understanding of semiconductor was essential, mastering the intricate steps of the planar process required practical experience and continuous improvement through learning by doing. This innovation enabled the miniaturization fo electronics and paved the way for the digital innovation wave.
-
-    -   Fordism: Pioneered by Henry Ford in the early 20th century, revolutionized manufacturing through mass production, vertical integration, experimentation and innovation (e.g. introduced the moving assembly line, a radical innovation that significantly accelerated production)
-
-Theses cases emphasize that the United States must regain its learning by doing advantage in advanced manufacturing to compete effectively in the global technology landscape.
-
--   Talk about data standards
-
--   Talk about R&D
-
--   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
-
-```{r}
-#| label: real_gdp
-#| echo: false
-#| warning: false
-#| fig-align: center
-
-library(tidyverse)
-library(tidyquant)
-library(fredr)
-library(scales)
-library(ggrepel)
+    data_robots_trans <-  
+      data_robots %>% 
+      pivot_longer(-c(country, status),
+                   names_to = "year",
+                   values_to = "value") %>% 
+      mutate(year = as.Date(year, "%Y"),
+             year = year(year)) 
 
 
-data_real_gdp_yoy <- fredr(series_id = "GDPC1",
-                           observation_start = as.Date("1970-01-01"),
-                           observation_end = as.Date("2025-01-01"),
-                           frequency = "a",
-                           units = "pc1")
-
-
-data_real_gdp_yoy %>% 
-  ggplot(aes(x = date, y = value))+
-  geom_col(fill = "#1abc9c", alpha = 0.4 )+
-  geom_text(aes(label = round(value,1)), size = 3)+
-  scale_x_date(breaks = pretty_breaks(n=10), labels = label_date_short())+
-  scale_y_continuous(labels = label_percent(scale = 1))+
-  theme_minimal()+
-  labs(title = "U.S. Real GDP Growth",
-       subtitle = "Annual perncentage change",
-       x = "",
-       y = "",
-       caption = "Source: FRED")
+    data_robots_trans %>% 
+      filter(status == "y") %>% 
+      mutate(label = 
+             if_else(
+               year == "2023",
+               glue::glue("{country}: {value}"),
+               NA_character_)) %>% 
+      ggplot(aes(x = year, y = value, group = country, colour = country)) + 
+      geom_smooth(method = "loess", 
+                  span= 0.9, 
+                  se = FALSE, 
+                  linewidth=2)+
+      scale_color_manual(
+        values =c("#bccad6",
+                  "#667292",
+                  "#D5DBDB",
+                  "#ffcaca",
+                  "#8d9db6",
+                  "#eeac99",
+                  "#bdcebe",
+                  "#34495e",
+                  "#b8a9c9",
+                  "#c4b7a6",
+                  "#50394c"))+
+      geom_text_repel(
+        aes(label = label ),
+        nudge_x = 1,
+        na.rm = TRUE
+      )+
+      theme_hc()+
+      theme(legend.position = "none")+
+      labs(title = "Global average robot density in 2023",
+           subtitle = "Units per 10,000 employees",
+           x = "",
+           y = "",
+           caption = "Source: International Federation of Robotics(IFR)")
 
 ```
+
+-   Science: The basic idea was to identify 10 strategic tecnologies like quantum autonomous systems, AI, biotech, etc. and then give funding to National Science Fundation but for slightly later TRL research more focus on commercialization and partnership with industry.
+
+-   Regional Innovation Hubs: Program that recognized that almost all of the really advanced innovation and job growth was in five methopolitan areas in the U.S. (Silicon Valleym, Boston, Seattle) and that there was this big regional gap in the heartland if you will so this
+
+-   Related Manufacturing: The manufacturing extension partnership at the National Institute of Standards and Technology it's basically extension services for SMMs(Small and medium-sized manufacturers).
+
+-   IRA(Inflation reduction Act): During the COVID-19 pandemic in 2020, the U.S. has experienced 40-year record-high inflation that has just now started to cool down over the past serveral months. Inflation Reduction Act was sined into law in 2022. Key provisions of the bill are directly aimed at improving the lives of the American middle class and easing financial burdens in a post-pandemic economy. This includes up to \$600 per year toward energy-efficient skylights, and up to \$500 per year for two doors.
+
+Establish an economic initiative commiting the U.S. to increase its relative level of advanced-industry concentration by 20% poonts in a decade.
+
+According to @atkinson2024 , Assuming a 3% growth rate in the rest of the economy, doing so could add nearly \$2.5T to advanced-industry output over 10 years. It would also reduce U.S. supply chain vulnerability, create millions of good jobs, could adjust imbalances in home prices, reduce trade deficit, waken China's advanced economy, and shore up dual-use industries critical to U.S. National Defense.
+
+According to @bonvillian2024 , different approaches were applied such as top down, bottom up, direct production support, demonstration projects, supply chain support, and regional implementation. The impact can be seen in the chart below (Overall U.S. Manufacturing construction), and also in the growth of investment in machinery and equipment(by brekdown of GDP).
 
 ```{r}
 #| label: us_mfg_construction
@@ -312,6 +226,10 @@ data_real_gdp_yoy %>%
 #| warning: false
 #| fig-align: center
 
+library(tidyverse)
+library(tidyquant)
+library(scales)
+library(ggrepel)
 
 #us manufacturing construction
 data_mfg_construct <-  tq_get("C307RC1Q027SBEA", 
@@ -339,6 +257,99 @@ data_mfg_construct %>%
        y = "Billion of Dollars")
 
 ```
+
+### [**The Future**]{style="color: #9D0F6A ;"}
+
+Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
+
+**Process Innovation of the future**
+
+-   **Shorten the distance**, Improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Returning supersonic trips more affordable for passengers, profitable for companies, cleaner, quieter, and dramatically more fuel efficient. Speed of sound making the world feel smaller for example Tokio-Seattle in 4.4 hours, New York to London in 3.4 hours. The overture synphony engine runs with a 100% sustainable aviation fuel making supersonic flights more efficient than subsonic flights in terms of carbon emissions.
+
+-   Analytical Capabilities: U.S. have in BLS website which has 400 digitis nakes codes manufacturing sectors with every year like productivity growth, amount of labor, labor cost, capital investment. For example uuse this data to correlate wage levels to capex. Does Capex correlate to lagged productivity? What sectors doing the most? Today don't also have any analysis of the causes for example why is our car production sector so weak?
+
+-   GDP Growth: According to Gary Cohn, increase in GDP growth could substantially reduce debt/GDP ratio, which could consequently improve investors's long-term planning.
+
+```{r}
+#| label: real_gdp
+#| echo: false
+#| warning: false
+#| fig-align: center
+
+    library(tidyverse)
+    library(tidyquant)
+    library(fredr)
+    library(scales)
+    library(ggrepel)
+
+
+    data_real_gdp_yoy <- fredr(series_id = "GDPC1",
+                               observation_start = as.Date("1970-01-01"),
+                               observation_end = as.Date("2025-01-01"),
+                               frequency = "a",
+                               units = "pc1")
+
+
+    data_real_gdp_yoy %>% 
+      ggplot(aes(x = date, y = value))+
+      geom_col(fill = "#1abc9c", alpha = 0.4 )+
+      geom_text(aes(label = round(value,1)), size = 3)+
+      scale_x_date(breaks = pretty_breaks(n=10), labels = label_date_short())+
+      scale_y_continuous(labels = label_percent(scale = 1))+
+      theme_minimal()+
+      labs(title = "U.S. Real GDP Growth",
+           subtitle = "Annual perncentage change",
+           x = "",
+           y = "",
+           caption = "Source: FRED")
+```
+
+-   Embrace of National Developmentalism as America's Guide:
+
+-   Consistence and Competitiveness on Manufacturing
+
+-   Personal Finance:
+
+-   Manufacturing base:
+
+-   Modular Assembly or Unboxed Manufacturing Process: Process innovation created by Tesla that setting a new standard in the automotive industry. A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
+
+-   **Shorten the distance**:
+
+-   **New processes**: Making better products, faster and cheaper.
+
+-   **Knowledge base, science, and data**: Improvements of efficiency in the
+
+-   **Redefine customer values**: Create new damand by delivering a previously unknown experience to consumers. They built powerful, cohesive business systems that could deliver more of this value than their competitors. They raised customer expectations beyond what their competitors could reach.
+
+-   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
+
+```         
+```
+
+### [**Goals**]{style="color: #9D0F6A ;"}
+
+![Illustration of processes guided by objectives and strategy](img/us_mfg_goals.png)
+
+### [**Principles**]{style="color: #9D0F6A ;"}
+
+-   **Learning by doing**: When companies or countries cease production something, it becomes difficult to redevelop that capability. This is due to the speciallized process knowledge required to manufacture high-value-added technology products. Here are some examples of historical process innovations and how they illustrate the importance of learning by doing.
+
+    -   The Watt Process for power generation from steam: James Watt's improvements to the steam engine in the 18th centry weren't solely based on theoretical knowledge. He continuously experimented and refined his designs through practical application, gradually increasing the engine's efficiency and paving the way for the Industrial Revolution.
+
+    -   The Bessemer Process for Steel Production: In the 19th century, Henry Bessemer developed a process for mass-producing steel. This involved blowing air tinto molten iron to remove impurities. While the initial concept was based on scientific principles, the actual implementation required extensive trial and error to perfect. The continuous refinement of the Bessemer process through practical experience led to a significant reduction in steel prices, fueling advancements in construction, transportation, and other industries.
+
+    -   The Planar Process for Microelectronics: Developed in the late 1950s, the plannar process revolutionized the manufacturing of transistors and integrated circuits. This method involved building layers of semiconductor material on a flat substrate. While the scientific understanding of semiconductor was essential, mastering the intricate steps of the planar process required practical experience and continuous improvement through learning by doing. This innovation enabled the miniaturization fo electronics and paved the way for the digital innovation wave.
+
+    -   Fordism: Pioneered by Henry Ford in the early 20th century, revolutionized manufacturing through mass production, vertical integration, experimentation and innovation (e.g. introduced the moving assembly line, a radical innovation that significantly accelerated production)
+
+Theses cases emphasize that the United States must regain its learning by doing advantage in advanced manufacturing to compete effectively in the global technology landscape.
+
+-   Talk about data standards
+
+-   Talk about R&D
+
+-   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
 
 ### [**Action Plan**]{style="color: #9D0F6A ;"}
 

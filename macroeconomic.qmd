@@ -104,17 +104,13 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
     -   Shelter 2025 (new tenant rents vs old tenant rents).
 
-
 Chair Powell on a question from Elizabeth Schulze of ABC News. Why do you think it is that inflation is proving to be more stubborn than you'd expected?
-
 
 > I think people are feeling right now is the effect of high prices, not high inflation. So we understand very well that prices went up by a great deal and people really feel that. And it's prices of food and transportation, and heating your home, and things like that, so there's tremendous pain in that burst of inflation that was very global. This was everywhere in all the advanced economies at the same time. So now we have inflation itself is way down but people are still feeling high prices and that is really what people are feeling. The best we can do for them, and that's who we work for, is to get inflation back down to its target and keep it there so that people are earning big, real wage increase so that their wages are going up, their compensation is going up faster than inflation year upon year upon year, and that's what will restore people's good feeling about the economy.
 >
 > That's what it will take, and that's what we're aiming for.
 >
 > — Jerome Powell
-
-
 
 ```{r}
 #| label: fed_funds
@@ -156,7 +152,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
--   Total nonnfarm payroll employment rose by 227k in November trended up in hearth care, leisure and hospitality, government, and social assistance, meanwhile retail trade are down.
+-   Total nonnfarm payroll employment rose by 227k in November 2024 trended up in hearth care, leisure and hospitality, government, and social assistance, meanwhile retail trade are down.
 
 -   Unemployment rate in November, 2024 is 4.2% or 7.1 million people a little higher than a year earlier when jobless rate was 3.7% and number of unemployed people was 6.3 million. The long-term unemployed(\>27 weeks) was 1.7 million up ffrom 1.2 million a year earlier that represents 23.2% of all unemployed people.
 
@@ -177,7 +173,7 @@ library(ggrepel)
 data_continuos_claims <-  tq_get("CCSA", 
                                  get = "economic.data",
                                  from = "1970-01-01",
-                                 to = "2025-01-01")
+                                 to = "2026-01-01")
 
 data_end <- data_continuos_claims %>% tail(1)
 
@@ -239,9 +235,9 @@ data_wk_hours %>%
 
 Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
 
-## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
+## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"} 
 
--   United States Central Bank Rate stands at 4.75%, following the most recent adjustment in November 2024.
+-   The 10-year Treasury bond yield is a key indicator of investor sentiment about economic conditions. Is the interest rate the U.S. government pays to borrow money for a decade, serving as a benchmark for other interest rates, influences borrowing costs, impacts the valuation of financial assets, and signals expectations about inflation and economic growth.
 
 -   The chart below shows the United States 10-Year Government Bond yield.
 
@@ -406,6 +402,10 @@ There was overcapacity in carrier population during the period from 2020 to 2023
 
 library(tidyverse)
 
+
+#https://aiindex.stanford.edu/vibrancy/
+#https://aiindex.stanford.edu/report/
+#
 data_ml <- tribble(~country, ~ml_models,
                    "United States", 61,
                    "China", 15,
@@ -549,7 +549,7 @@ data_invest %>%
     total_rect_color = "#9D0F6A"
   )+
   theme_classic()+
-  labs(title = "Distribution of manufacturing investments by sector",
+  labs(title = "Distribution of manufacturing private investments by sector",
        caption = "Source: White House",
        y = "Billion US dollar",
        x =  "")+
@@ -571,9 +571,21 @@ data_invest %>%
 
     -   **Clean Energy Manufacturing:** Boom Supersonic(Greensboro, NC), Electric Hydrogen(Devens, MA), Siemens Gamesa(Port of Coeuumans, NY)
 
--   In the training and labor force perspective, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
+**Training and education**
 
--   In 2023, there are approximately 1,476 community colleges in the United States. These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers @wellington2023. Community college students also are among the more diverse in postsecondary education acording to @education2024
+-   **Training programs** In the training and labor force perspective, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
+
+-   **Community college** are crucial in preparing young people for entry-level positions in U.S. manufacturing. In 2023, there are approximately 1,476 community colleges in the United States according to @wellington2023 . These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers. Community college students also are among the more diverse in postsecondary education acording to @education2024
+
+Some stats about community colleges that I find at @parker2024
+
+-   51% of students are 21 years old or younger
+
+-   80% of college students who begin their education aspire to attain a bachelor's degree or higher.
+
+-   Community colleges generate 16.6 billion dollars in revenue from tuition fees.
+
+-   2/3 of undergraduate students attended a community college after high school
 
 ```{r}
 #| label: comm_college
@@ -594,7 +606,7 @@ data_com_college <- tribble(~state, ~num_comm_college,
                             "Virginia",41,
                             "Washington",39,
                             "Arizona",36,
-                            "Others 46", 625)
+                            "Others 46",625)
 
 
 data_com_college %>% 
@@ -606,7 +618,7 @@ data_com_college %>%
                         )+
   theme_classic()+
   coord_flip()+
-  labs(title = "Geographic Distribution of Community College" ,
+  labs(title = "Geographic Distribution of Community College in U.S." ,
        x = "",
        y = "",
        caption = "Source: US News-2023")
