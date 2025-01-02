@@ -329,24 +329,39 @@ a + b + c + d
 
 **Humanoids Manufacturing**
 
--   Tesla Optimus G2(USA)
+::: {.panel-tabset}
 
--   Nvidia Project GR00T(USA)
+## Optimus G2
+![Tesla Optimus G2 - USA](img/robot_optimus.png)
 
--   1X NEO(Norway)
+## GR00T
+![Nvidia Project GR00T - USA](img/robot_groot.png)
 
--   Fourier GR-1(SG)
+## 1X NEO
+![1X NEO - Norway](img/robot_1xneo.png)
 
--   Sanctuary AI Phoenix(CAN)
+## GR-1
+![Fourier GR-1 - SG](img/robot_gr1.png)
 
--   Apptronik Apollo(USA)
+## Phoenix
+![Sanctuary AI Phoenix - CAN](img/robot_phoenix.png)
 
--   Agility Digit(USA)
+## Apollo
+![Apptronik Apollo - USA](img/robot_apollo.png)
 
--   Boston Dynamics Atlas(USA)
+## Digit
+![Agility Digit - USA](img/robot_digit.png)
 
--   Unitree H1(CH)
+## Atlas
+![Boston Dynamics Atlas - USA](img/robot_atlas.png)
 
--   Mentee MenteeBot(Israel)
+## H1
+![Unitree H1 - CH](img/robot_h1.png)
 
--   Kawazaki kaleido (Japan):
+## MenteeBot
+![Mentee MenteeBot - Israel](img/robot_menteebot.png)
+
+## Kaleido
+![Kawazaki Kaleido - Japan](img/robot_kaleido.png)
+
+:::
