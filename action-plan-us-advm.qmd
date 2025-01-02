@@ -56,41 +56,43 @@ Focusing on the present helps us undertand how we process information in real ti
 
 -   **Disruptive technologies**: New ideas and old ones that could be explored by integration with emerging technology such as computational capability, genAI, atomic computer vision.\
 
--   **Demographic shifts around the world**: People are getting older and more urban.\
-    Below is an example of the demographic transition in some countries where:
+-   **Demographic shifts around the world**: People are getting older and more urban. Below is an example of the demographic transition in some countries where:
 
-    -   **P** is a pencentage of the population in each group
-
-    -   **T** is total population in million in each group
-
-    -   **AS** is Adults to Senior
-
-    -   **AY** is Adults to Young
+    -   **P** pencentage of the population in each group
+    -   **T** total population in million in each group
+    -   **AS** number of Adults to each Senior (65+ years)
+    -   **AY** number of Adults to each Young (0-19 years)
 
 ![](img\demograph_legend.png)
 
 ::: panel-tabset
 ## India
+
 ![Demographic transition - India](img/demograph_india.png)
 
 ## China
+
 ![Demographic transition - China](img/demograph_china.png)
 
 ## Indonesia
+
 ![Demographic transition - Indonesia](img/demograph_indonesia.png)
 
 ## United States
+
 ![Demographic transition - USA](img/demograph_usa.png)
 
 ## Brazil
+
 ![Demographic transition - Brazil](img/demograph_br.png)
 
 ## Japan
+
 ![Demographic transition - Japan](img/demograph_japan.png)
 
 ## Germany
-![Demographic transition - Germany](img/demograph_germany.png)
 
+![Demographic transition - Germany](img/demograph_germany.png)
 :::
 
 -   **Economic activities in emerging markets**: Many countries are emerging from poverty, creating opportunities and threats for example new demands, and lower labor costs.\
@@ -320,11 +322,11 @@ Studying the future to understand decision-making processes, planning, and expec
 #| warning: false
 #| fig-align: center
 
-    library(tidyverse)
-    library(tidyquant)
-    library(fredr)
-    library(scales)
-    library(ggrepel)
+library(tidyverse)
+library(tidyquant)
+library(fredr)
+library(scales)
+library(ggrepel)
 
     data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),
