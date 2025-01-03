@@ -20,7 +20,7 @@ website:
   sidebar: 
     - id: research_2024
       style: "docked"
-      title: "Research 2024"
+      title: "Research 2024-2025"
       collapse-level: 7
       contents: 
         - href: calendar.qmd

@@ -15,21 +15,20 @@ about:
 
 -  Write about Business & Process Improvement Analysis and how to apply machine learning and GenAi to integrate lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
 -   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
--   Build the foundations for my PhD research that investigates **the factors that impact competitiveness, personal development, and management capacity in manufacturing during changing economic cycles.**
+-   Build the foundations for my PhD research that investigates **Factors impacting manufacturing competitiveness, personal development, and management capacity during economic shifts.**
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
 -   Master's Degree - Agro-industrial Production & Management
 -   Bachelor's Degree - Business Administration
-
+-   Trade School - Technical in Agriculture
 
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
--   Strategic Planning
 -   Process Improvement and Lean principles
--   Business Intelligence
--   Data Science
+-   Data Science and Business Intelligence 
 -   Statistics and Machine Learning Models
+-   Strategic Planning
 
 ### [**Who do I learn from?**]{style="color: #9D0F6A ;"}
 
@@ -63,7 +62,7 @@ Some books that help me deal with day-to-day challenges in my career.
 -   How to use data science in long term strategy?
 
 [**New world**]{style="color:#9D0F6A;"}
--   Different thoughts on artificial intelligence
+-   Different thoughts on artificial intelligence, economic challenges and innovation policies.
 
 
 ### [**Inspirations and long term purpose**]{style="color: #9D0F6A ;"}
