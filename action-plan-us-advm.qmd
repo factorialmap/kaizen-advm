@@ -10,13 +10,13 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 
 ### [**Advanced Manufacturing**]{style="color: #9D0F6A ;"}
 
--   Advanced manufacturing refers to the use of innovative technology, process and methods like intelligent robotics, additive manufacturing, digital twins, and lean principles to accelerate the design and production of physical goods in the material world. As a result, it is possible to achieve scale and possibilities that was previously impossible such as cost reduction, and value-added products in shorter cycles.
+-   Advanced manufacturing refers to the use of innovative technology, process and methods like intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles to accelerate the design and production of physical goods. As a result, it is possible to achieve scale and possibilities that was previously impossible like cost reduction, and value-added products in shorter cycles.
 
--   This approach depends on the close integration of human capital, machining, networking, sensing, and computational capabilities like automation, robotics, 3D printing, artificial intelligence, and internet of things devices(IoT) into the manufacturing process.
+-   Advanced manufacturing combines human capital with outomation, robotics, AI, IoT, and 3D printing to drive innovation and efficiency.
 
 ### [**Impacts**]{style="color: #9D0F6A ;"}
 
-The impacts of advanced manufacturing range from income balancing, market risk reduction, competitiveness, balancing the drivers of GDP growth, and maintenance of skills. Other examples of impacts are:
+Adcanced manufacturing drives economic stability, competitiveness, and growth, while maintaining skills and mitigating market risks. Key impacts also include:
 
 -   **Productivity**: Streamline production processes by automation, reducing cycle times and labor cost.
 -   **Costs**: By optimizing processes and reducing waste.
@@ -43,9 +43,9 @@ Explore the past experiences estimulate our ability of mental time travel that e
 
 ![Erie Canal Map](img/erie_canal_map.png)
 
-## Erie Canal Results
+## Erie Canal Impacts
 
-![By 1855 cross-state travel went from six weeks to six days, and freight costs fell from \$100 to \$5 per ton - ](img/erie_canal.png)
+![By 1855 cross-state travel went from six weeks to six days, and freight costs fell from \$100 to \$5 per ton - Old Newarks' Main Street Bridge ](img/erie_canal.png)
 :::
 
 -   **New processes**: Making better products, faster and cheaper. The idea of the the Bessemer process was observed and described by a german adventurer Johan Mandelsio in 1669 during a trip to Japan, was patented by Henry Bessemer in 1855 in U.S., and popularized by visionary and entrepreneur Andrew Carnegie in 1870s, which allowed the creation of time machines like bridges, ships, trains, elevators, oil and water pipes, and vertical buldings. This process cuts the manufacturing time of single steel rail from two weeks to fifteen minutes.
@@ -118,6 +118,8 @@ Focusing on the present helps us undertand how we process information in real ti
 :::
 
 -   **Economic activities in emerging markets**: Many countries are emerging from poverty, creating opportunities and threats for example new demands, and lower labor costs.\
+
+![Electricity consumption by country](img/electricity_consumption.png)
 
 -   **Climate change**: New rules to take care of the environment, improving the capacity to adapt and interact with the environment by creating new products and services.\
 
@@ -362,7 +364,6 @@ library(tidyquant)
 library(fredr)
 library(scales)
 library(ggrepel)
-
 
     data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),
