@@ -119,13 +119,15 @@ Focusing on the present helps us undertand how we process information in real ti
 
 -   **Economic activities in emerging markets**: Many countries are emerging from poverty, creating opportunities and threats for example new demands, and lower labor costs.\
 
-![Electricity consumption by country](img/electricity_consumption.png)
+![PCA: Principal Component Analysis between countries](img/country_power_index.png)
 
 -   **Climate change**: New rules to take care of the environment, improving the capacity to adapt and interact with the environment by creating new products and services.\
 
+![Electricity consumption by country](img/electricity_consumption.png)
+
 -   **Erosion fo U.S. industrial capacity**: Over the past few decades, the U.S. has experienced a significant decline in its industrial capacity. In 1980, the U.S. manufactured over 40 percent of global high-technology goods, facing 18 percent today. This decline poses a threat to both economic competitiveness and national security.\
 
--   **PRC's Dominance**: China has emerged as a formidable competitor, cultivation substantial high-tech industrial production capacity and accounting for nearly 30 percent of global manufacturing output. China has strategically prioritized advanced manufacturing as a cornestone of its national rejuvenation strategy.\
+-   **PRC's Dominance**: China has emerged as a potential competitor, cultivation substantial high-tech industrial production capacity and accounting for nearly 30 percent of global manufacturing output. China has strategically prioritized advanced manufacturing as a cornestone of its national rejuvenation strategy.\
 
 -   **Skills Gap and Workforce Shortages**: Outsourcing production has led to a skills gap in the U.S. workforce. This is compounded by a persistent labor shortage in the manufacturing sector, with a projected shortfall of 2.1 million unfilled jobs by 2030. This shortage hinders the adoption and implementation of advanced manufacturing technologies.\
 
@@ -341,9 +343,6 @@ Studying the future to understand decision-making processes, planning, and expec
 -   **Knowledge base, science, and data**: (insert Lip-Bu Tan here, What are the limitation of scientists today?What are your questions? Insert the schematic process of the beagle sensors and processing here )
 
 There a five generations waves happening at the same time including AI Machine learning, Industry 4.0, Autonomous driving, and cloud computing.
-
-
-
 
 U.S. have in BLS website which has 400 digitis nakes codes manufacturing sectors with every year like productivity growth, amount of labor, labor cost, capital investment. For example use this data to correlate wage levels to capex. Does Capex correlate to lagged productivity? What sectors doing the most? Today don't also have any analysis of the causes for example why is our car production sector so weak?
 
