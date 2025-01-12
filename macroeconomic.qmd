@@ -124,7 +124,7 @@ library(ggrepel)
 data_interest_rate <-  tq_get("DFF", 
                               get = "economic.data",
                               from = "1970-01-01",
-                              to = "2025-01-01")
+                              to = "2026-01-01")
 
 data_end_interest_rate <- data_interest_rate %>% tail(1)
 
@@ -210,7 +210,7 @@ data_continuos_claims %>%
 data_wk_hours <-  tq_get("AWHAETP", 
                          get = "economic.data",
                          from = "1970-01-01",
-                         to = "2025-01-01")
+                         to = "2026-01-01")
 
 data_end_wk_hours <- data_wk_hours %>% tail(1)
 
@@ -248,7 +248,7 @@ Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.go
 data_10y_bonds <- tq_get("DGS10", 
                          get = "economic.data",
                          from = "1970-01-01",
-                         to = "2025-01-01")
+                         to = "2026-01-01")
 
 data_10y_end <- data_10y_bonds %>% tail(1)
 
@@ -281,7 +281,7 @@ Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouis
 data_yield_curve <- tq_get("T10Y3M", 
                            get = "economic.data",
                            from = "1970-01-01",
-                           to = "2025-01-01")
+                           to = "2026-01-01")
 
 data_yield_spread <- data_yield_curve %>% tail(1)
 
@@ -405,7 +405,7 @@ Last update jan/2025
 library(tidyverse)
 
 
-#https://aiindex.stanford.edu/vibrancy/
+#https://aiindex.stanford.edu/vibrancy/   ai metrics over time>R&D>notable ML models
 #https://aiindex.stanford.edu/report/
 #
 data_ml <- tribble(~country, ~ml_models,
@@ -413,6 +413,7 @@ data_ml <- tribble(~country, ~ml_models,
                    "China", 15,
                    "France", 8,
                    "Germany", 5,
+                   "Israel",4,
                    "Canada",4)
 
 
@@ -538,12 +539,12 @@ Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
 library(waterfalls)
 
 data_invest <- tribble(~sector, ~value,
-                       "Semiconductor", 446,
-                       "Ev & batteries", 180,
-                       "Clean power", 184,
-                       "Clean energy mfg", 84,
-                       "Bio mfg",46,
-                       "Heavy industry",48)
+                       "Semiconductor", 449,
+                       "Ev & batteries", 184,
+                       "Clean power", 215,
+                       "Clean energy mfg", 93,
+                       "Bio mfg",63,
+                       "Heavy industry",51)
 
 data_invest %>% 
   waterfalls::waterfall(

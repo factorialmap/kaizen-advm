@@ -344,7 +344,11 @@ Studying the future to understand decision-making processes, planning, and expec
 
     -   **Hyperloop** is a technology has the potential to offering faster, more efficient, and sustainable logistics solutions. It can transport cargo at speeds of up to 700 mph, significantly reducing travel times, reducing downtime and incresing overall efficiency. some ot the challenges of this technology today are maintaining a vaccum seal in the tubes, propulsion, and levitation systems. Despite thise challenges, several companies, including HyperloopTT, Hardt B.V., and Transpod, are actively working on developing hyperloop technology for cargo transportation.
 
--   **New processes**: Making better products, faster and cheaper. (Innovation economic book here, tesla unbox here, example based tactile simulation and sim-to-real applications, )
+-   **New processes**: Making better products, faster and cheaper. (Innovation economic book here, tesla unbox here, example based tactile simulation and sim-to-real applications )
+
+    -   **Battery manufacturing process** Advancing dry-process battery technology enable to dry print anodes and varios cathodes(e.g lithium iron phospate-LFP, nickel manganese cobalt-NMC, soduim ion etc) with no metal or liquid inside saving weight(23% from today standards), space in the packaging, costs(7% from today standards), more easely to recycling, more safe because no risk of thermal runaway, and 30% more energy density(from today standards 272 Wh/kg).
+
+    -   **Modular Assembly or Unboxed Manufacturing Process** A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
 
 -   **Knowledge base, science, and data**: (insert Lip-Bu Tan here, What are the limitation of scientists today?What are your questions? Insert the schematic process of the beagle sensors and processing here )
 
@@ -373,10 +377,6 @@ Studying the future to understand decision-making processes, planning, and expec
         Example fully autonomous ADT or Dusty manufacture in Devenport Iowa that machine leverages starts with hihg performance eletronics, designed and tested by John Deere for over 30 years to operate in Earth's toughest environments the ruggedized component stack includes satellite internet advanced controls, starfire gps, 360 view cameras and sensors, and high performance GPU's which enable us to deliver real autonomy into the and dirty world of construction.
 
 -   **Redefine customer values**: Create new damand by delivering a previously unknown experience to consumers. They built powerful, cohesive business systems that could deliver more of this value than their competitors. They raised customer expectations beyond what their competitors could reach. According to Gary Cohn, increase in GDP growth could substantially reduce debt/GDP ratio, which could consequently improve investors's long-term planning.
-
--   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
-
-    **Intelligent management grid** Electric vehicle charging management according to variables such as demand, time, and avaiability. The vehicle would make the decision based on data analysis with focus on system avaiability.
 
 ```{r}
 #| label: real_gdp
@@ -412,39 +412,9 @@ library(ggrepel)
            caption = "Source: FRED")
 ```
 
--   Embrace of National Developmentalism as America's Guide:
+-   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
 
--   Consistence and Competitiveness on Manufacturing
-
--   Personal Finance:
-
--   Manufacturing base:
-
--   Modular Assembly or Unboxed Manufacturing Process: Process innovation created by Tesla that setting a new standard in the automotive industry. A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
-
-### [**Goals**]{style="color: #9D0F6A ;"}
-
-![Illustration of processes guided by objectives and strategy](img/us_mfg_goals.png)
-
-### [**Principles**]{style="color: #9D0F6A ;"}
-
--   **Learning by doing**: When companies or countries cease production something, it becomes difficult to redevelop that capability. This is due to the speciallized process knowledge required to manufacture high-value-added technology products. Here are some examples of historical process innovations and how they illustrate the importance of learning by doing.
-
-    -   The Watt Process for power generation from steam: James Watt's improvements to the steam engine in the 18th centry weren't solely based on theoretical knowledge. He continuously experimented and refined his designs through practical application, gradually increasing the engine's efficiency and paving the way for the Industrial Revolution.
-
-    -   The Bessemer Process for Steel Production: In the 19th century, Henry Bessemer developed a process for mass-producing steel. This involved blowing air tinto molten iron to remove impurities. While the initial concept was based on scientific principles, the actual implementation required extensive trial and error to perfect. The continuous refinement of the Bessemer process through practical experience led to a significant reduction in steel prices, fueling advancements in construction, transportation, and other industries.
-
-    -   The Planar Process for Microelectronics: Developed in the late 1950s, the plannar process revolutionized the manufacturing of transistors and integrated circuits. This method involved building layers of semiconductor material on a flat substrate. While the scientific understanding of semiconductor was essential, mastering the intricate steps of the planar process required practical experience and continuous improvement through learning by doing. This innovation enabled the miniaturization fo electronics and paved the way for the digital innovation wave.
-
-    -   Fordism: Pioneered by Henry Ford in the early 20th century, revolutionized manufacturing through mass production, vertical integration, experimentation and innovation (e.g. introduced the moving assembly line, a radical innovation that significantly accelerated production)
-
-Theses cases emphasize that the United States must regain its learning by doing advantage in advanced manufacturing to compete effectively in the global technology landscape.
-
--   Talk about data standards
-
--   Talk about R&D
-
--   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
+    -   **Intelligent management grid** Electric vehicle charging management according to variables such as demand, time, and avaiability. The vehicle would make the decision based on data analysis with focus on system avaiability.
 
 ### [**Action Plan**]{style="color: #9D0F6A ;"}
 
@@ -468,7 +438,33 @@ Theses cases emphasize that the United States must regain its learning by doing 
 
 -   Talk about Central e South America
 
+![Illustration of processes guided by objectives and strategy](img/us_mfg_goals.png)
+
+### [**Principles**]{style="color: #9D0F6A ;"}
+
+-   **Learning by doing**: When companies or countries cease production something, it becomes difficult to redevelop that capability. This is due to the speciallized process knowledge required to manufacture high-value-added technology products. Here are some examples of historical process innovations and how they illustrate the importance of learning by doing.
+
+    -   The Watt Process for power generation from steam: James Watt's improvements to the steam engine in the 18th centry weren't solely based on theoretical knowledge. He continuously experimented and refined his designs through practical application, gradually increasing the engine's efficiency and paving the way for the Industrial Revolution.
+
+    -   The Bessemer Process for Steel Production: In the 19th century, Henry Bessemer developed a process for mass-producing steel. This involved blowing air tinto molten iron to remove impurities. While the initial concept was based on scientific principles, the actual implementation required extensive trial and error to perfect. The continuous refinement of the Bessemer process through practical experience led to a significant reduction in steel prices, fueling advancements in construction, transportation, and other industries.
+
+    -   The Planar Process for Microelectronics: Developed in the late 1950s, the plannar process revolutionized the manufacturing of transistors and integrated circuits. This method involved building layers of semiconductor material on a flat substrate. While the scientific understanding of semiconductor was essential, mastering the intricate steps of the planar process required practical experience and continuous improvement through learning by doing. This innovation enabled the miniaturization fo electronics and paved the way for the digital innovation wave.
+
+    -   Fordism: Pioneered by Henry Ford in the early 20th century, revolutionized manufacturing through mass production, vertical integration, experimentation and innovation (e.g. introduced the moving assembly line, a radical innovation that significantly accelerated production)
+
+Theses cases emphasize that the United States must regain its learning by doing advantage in advanced manufacturing to compete effectively in the global technology landscape.
+
+-   Talk about data standards
+
+-   Talk about R&D
+
+-   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
+
 ### [**Value Chain**]{style="color: #9D0F6A ;"}
+
+**Business Model and Cultural transformation**
+
+-   Acording @treacy1993 to becoming an industry leader requires to choose a value discipline that takes into account its capabilities and culture as well as competitors's strengths .
 
 -   Redefined value, create new experiences and perception of benefit For example the value I got from this new electric vehicle.
 
@@ -478,13 +474,15 @@ Theses cases emphasize that the United States must regain its learning by doing 
 
 -   How to deliver superior customer value in line with one of the three value disciplines - operational excellence, customer intimacy or product leadership - in a world where populations are getting older @anjos2024 , more urban, new tehnologies are emerging rapidly, economic activity in emerging markets is expanding rapidly all this without forgetting climate change ?
 
+::: panel-tabset
+## Value Chain
+
 ![Illustration of value chain](img/new_world_value_chain.png)
 
-**Business Model and Cultural transformation**
-
--   Acording @treacy1993 to becoming an industry leader requires to choose a value discipline that takes into account its capabilities and culture as well as competitors's strengths .
+## Customer value
 
 ![Illustration of the idea of value discipline](img/prod_pred_stratg.png)
+:::
 
 -   Talk about relationship between small manufacturing and advanced manufacturing (pag 24)
 
@@ -510,4 +508,4 @@ Researchs
 
 2.  Finacial well-being and resilience in deindustrialized communities: Research focusing on the financial outcomes and coping mechaninsms of individuals and families in areas affected by factory closures, ad how financial literacy plays a role, coudl offer valuable insights
 
-3.  The intersection of financial liberacy, workforce development, and economic policy: Analyzing how policy initiatives can integrate financial literacy training into brader workforce development programs, particularly for industries undergoing significant change, could provide relevant information. ::::
+3.  The intersection of financial liberacy, workforce development, and economic policy: Analyzing how policy initiatives can integrate financial literacy training into brader workforce development programs, particularly for industries undergoing significant change, could provide relevant information.
