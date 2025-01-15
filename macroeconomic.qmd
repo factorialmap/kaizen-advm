@@ -46,25 +46,25 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
--   The annual inflation rate for the United States was 2.7% for the 12 months ending November, compared to the previus rate increase of 2.6%, acording to U.S. Bureau of Labor Statistics data published on December 11, 2024.
+-   The annual inflation rate for the United States was 2.9% for the 12 months ending December, compared to the previus rate increase of 2.7%, acording to U.S. Bureau of Labor Statistics data published on January 15, 2024.
 
 -   CPI measures the average change in prics of a basket of good and services and often used for cost of living adjustments, wage negotiations, social security benefits. Only counts out-of-pocket expenditures(you pay directly)
 
--   The CPI price index for October increased 0.2% from the preceding month.
+-   The CPI price index for December increased 0.4% from the preceding month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | 0.3 | 2.7  |
-| Food        | 0.4 | 2.4  |
-| Energy      | 0.2 | -3.2 |
-| Services    | 0.3 | 4.6  |
-| Shelter     | 0.3 | 4.7  |
+| CPI overall | 0.4 | 2.9  |
+| Food        | 0.3 | 2.5  |
+| Energy      | 2.6 | -0.5 |
+| Services    | 0.3 | 4.4  |
+| Shelter     | 0.3 | 4.6  |
 
--   The CPI for November 2024 is scheduled to be released on January 15, 2025, at 08:30 a.m. (ET).
+-   The CPI for January 2025 is scheduled to be released on February 12, 2025, at 08:30 a.m. (ET).
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
--   From the same month over year ago, the consumer price index (CPI) for October increased 2.73%, acording to Federal Reserve Economic Data.
+-   From the same month over year ago, the consumer price index (CPI) for December increased 2.9%, acording to Federal Reserve Economic Data.
 
 ![](images/clipboard-2010062285.png)
 
