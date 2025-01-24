@@ -69,12 +69,11 @@ The task here is to research the possibilities in the small and medium manufactu
 
 -   Jet engine manufacturing is dominated by GE Aerospace(12.81%), CFM/Safran(44.77%), Rools-Royce(19.57%) and Pratt & Whitney (22.85%). More than 70% of GE's commercial engine revenue comes from partes and service, and first two quarters of 2024 GE reported over \$15 billion in MRO(maintenance, repair and overhaul) versus \$8 billion for new engines.
 
-```{r}
-
-#get stock retursn for GE, RYCEY, SAF.PA, RTX, AIR.PA, BA
-
-
-```
+> 	GE Aerospece delivered a strong finish to 2024 given robust demand for our services and products with fourth quarter orders up 48%, EPS more than doubling, and free cash flow increasing over 20%. 
+>	
+> 	Looking to 2025, we expect double-digit revenue and EPS growth wth greather than 100% free cash flow conversion. Guided by **Flight Deck, our proprietary lean operating model**, I'm confident in **our ability to accelerate output and deliver for our customers**
+>
+> — Larry Culp - GE Aerospace Chairman and CEO
 
 -   In U.S. there are over three thousand aircraft repair shops, and the most commonly flown jet engine is CFM56 that 80 to 85% part commonality between engines resulting in a very good reuse capability. The engine has parts which are life time limited and the safe operation of the engine is guaranteed up to 25 to 30 thousand cycles. In the hottest part of a jet engine in 2024, the temperature surrounding the turbine blade is several hundred degrees above the melting point of the material of the turbine blade. Aproximately 1200 parts per engine and many stages for overhauling.
 
