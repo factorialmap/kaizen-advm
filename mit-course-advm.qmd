@@ -113,8 +113,19 @@ Lean focused on reduce waste and six sigma focused on reduced variation creating
 ## Basic stability - prcess control
 ![Example of basic stability](img/process_stability.png)
 
-## Process control
+## Process Control and Capability
 ![Process Control and Process Capability](img/process_control.png)
+## Process control charts
+![Control variability](img/tools_control_charts.png)
+
+## Five S
+![Five S](img/tools_five_s_png)
+
+## Five Whys
+![Five Whys](img/tools_five_whys.png)
+
+## Ishikawa diagram
+![cause and Effect diagram](img/tools_ishikawa.png)
 
 :::
 

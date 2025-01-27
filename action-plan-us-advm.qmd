@@ -392,6 +392,7 @@ library(fredr)
 library(scales)
 library(ggrepel)
 
+
     data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),
                                observation_end = as.Date("2025-01-01"),
@@ -420,28 +421,15 @@ library(ggrepel)
 ### [**Action Plan**]{style="color: #9D0F6A ;"}
 
 -   Chips and Science Act: Semiconductors
-
 -   Inflation Reduction Act: Energy technologies
-
--   Infraestructure Act: Thenology demonstrations
-
--   Invest in America:
-
+-   Infraestructure Act: Technology demonstrations
+-   3-3-3 plan: Involve cutting the budget deficit to 3% of GDP by 2028, boosting GDP growth to 3% through deregulation and other pro-growth policies, and increasing U.S. energy production to the equivalent of an additional 3 million barrels of oil per day.
 -   Workforce Education:
-
--   Ambitious of industrialize, build the factories, Supply chain, and vertically integrate those Supply chains together.
-
--   Our Next Energy raised capital of 1B+ to generate 20 GWh for battery.
-
--   Talk about project China 2025 and 2030
-
--   Talk about South Asia countries
-
--   Talk about Central e South America
+-   Ambitious of industrialize: Build the factories, Supply chain, and vertically integrate those Supply chains together.
 
 ![Illustration of processes guided by objectives and strategy](img/us_mfg_goals.png)
 
-### [**Principles**]{style="color: #9D0F6A ;"}
+### [**Challenges**]{style="color: #9D0F6A ;"}
 
 -   **Learning by doing**: When companies or countries cease production something, it becomes difficult to redevelop that capability. This is due to the speciallized process knowledge required to manufacture high-value-added technology products. Here are some examples of historical process innovations and how they illustrate the importance of learning by doing.
 
@@ -455,11 +443,6 @@ library(ggrepel)
 
 Theses cases emphasize that the United States must regain its learning by doing advantage in advanced manufacturing to compete effectively in the global technology landscape.
 
--   Talk about data standards
-
--   Talk about R&D
-
--   Talk about quality, variation, uniformity, deming cycle, shewhart chart etc.
 
 ### [**Value Chain**]{style="color: #9D0F6A ;"}
 
@@ -485,28 +468,7 @@ Theses cases emphasize that the United States must regain its learning by doing 
 ![Illustration of the idea of value discipline](img/prod_pred_stratg.png)
 :::
 
--   Talk about relationship between small manufacturing and advanced manufacturing (pag 24)
-
--   Talk about lean manufacturing( pag 25) and Earl Murman(MIT) papers and classes.
-
--   Talk about capital access gaps for small medium manufacturing (pag 26)
-
--   Talks about supply chain system with Allies and Partners (pag31,35)
-
--   Talk about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
-
--   Talk about cognitive bias, principles and examples. from A Neural Network Framework for Cognitive Bias paper at ncbi
-
--   Financial Planning and Security: Emphasizes the benefits of financial literacy, including reduced debt, informed college financing, and earlier retirement savings. These aspects suggest that individuals with higher financial literacy are likely to have better financial planning and a stronger sense of financial security. These attributes could be crucial during job loss, providing a cushion to navigate the period of unemployment and explore new career options.
-
--   Informed Decision-making: Financial education can lead to smarter financial decisions. This suggests that financially literate individuals might be better equipped to assess their financial situations, explore different career paths, and make informed decisions regarding retraining or relocation, which are often necessary during career transitions.
-
--   Adaptability and resilience: The sources on advanced manufacturing highlight the importance of adaptability and resilience for workers in the face of rapid techological advancedments and evolving job markets. Financial literacy, could be enhanced by a strong understanding of personal finances. For exemple, a financially literate worker may be more likely to sabe for unexpected events, invest in their own training and development, or take calculated risks to pursue new opportunities, making them more adaptable to changing circunstances.
-
-Researchs
-
-1.  The role of financial literacy in career transitions: Studies the specifically examine how financial literacy affects workes ability to cope with job loss, retrain for new careers, and achieve financial stability after job displacement would be beneficial.
-
-2.  Finacial well-being and resilience in deindustrialized communities: Research focusing on the financial outcomes and coping mechaninsms of individuals and families in areas affected by factory closures, ad how financial literacy plays a role, coudl offer valuable insights
-
-3.  The intersection of financial liberacy, workforce development, and economic policy: Analyzing how policy initiatives can integrate financial literacy training into brader workforce development programs, particularly for industries undergoing significant change, could provide relevant information.
+-   What is relationship between small manufacturing and advanced manufacturing? (pag 24)
+-   What about capital access gaps for small medium manufacturing (pag 26)
+-   What about supply chain system with Allies and Partners (pag31,35)
+-   What about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
