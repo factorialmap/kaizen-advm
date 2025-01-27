@@ -6,14 +6,13 @@ about:
   image: img/profile.png
 ---
 
-::: {#me}
 ### [**Welcome**]{style="color: #9D0F6A ;"}
 
 -   My names is Marcelo Carvalho dos Anjos and I am a Business & Process Improvement Analyst focused on optimizing day-to-day processes using methods like PDCA, Lean, 5S and tools like R, Python, Power BI, and AI models. I have been researching in this area since 1995 and working professionally since 2002.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--  Write about Business & Process Improvement Analysis and how to apply machine learning and GenAi to integrate lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
+-   Write about Business & Process Improvement Analysis and how to apply machine learning and GenAi to integrate lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
 -   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
 -   Build the foundations for my PhD research that investigates **Factors impacting manufacturing competitiveness, personal development, and management capacity during economic shifts.**
 
@@ -26,7 +25,7 @@ about:
 ### [**Experience**]{style="color: #9D0F6A ;"}
 
 -   Process Improvement and Lean principles
--   Data Science and Business Intelligence 
+-   Data Science and Business Intelligence
 -   Statistics and Machine Learning Models
 -   Strategic Planning
 
@@ -34,63 +33,56 @@ about:
 
 Below are some people from whom I continually learn through books, lectures, classes, scientific papers, and thoughts.
 
-W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Robert Atkinson, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, James Womack, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, Susan Sheehy, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Warren McCulloch, Miguel Nocolelis, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro, 
+W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Robert Atkinson, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, James Womack, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, Susan Sheehy, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Warren McCulloch, Miguel Nocolelis, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
 
 ### [**Some books that may be helpful in process improvement**]{style="color: #9D0F6A ;"}
 
 Some books that help me deal with day-to-day challenges in my career.
 
-![Books](img/books_ds.png)
+::: panel-tabset
+## Data Science
 
-[**Foundations**]{style="color:#9D0F6A;"}
--   Why is statistics important?
--   Can data help me see the world differently?
--   Is difficult to use software for data science?
--   How do I use R and Python for data science?
--   Is there agricultural data that I can use to practice experiments? 
+![Why is statistics important? Can data help me see the world differently? Is difficult to use software for data science? How do I use R and Python for data science? Is there agricultural data that I can use to practice experiments?](img/book_data_science.png)
 
-[**Machine learning models**]{style="color:#9D0F6A;"}
--   How can I build machine learning models?
--   How can I create feature engineering?
--   Where can I get solid foundations for building models?
+## Machine Learning Models
 
-[**Process improvement and engineering**]{style="color:#9D0F6A;"} 
--   How to apply statistics and probability in engineering process?
--   How to use statistical methods for quality improvement?
--   How to use statistical methods in health care?
--   How to use statistical methods in social science?
--   How to use data science in long term strategy?
+![How can I build machine learning models?,How can I create feature engineering?, Where can I get solid foundations for building models?](img/book_feature_engineering.png)
 
-[**New world**]{style="color:#9D0F6A;"}
--   Different thoughts on artificial intelligence, economic challenges and innovation policies.
+## Process improvement and engineering
 
+![How to apply statistics and probability in engineering process? How to use statistical methods for quality improvement? How to use statistical methods in health care? How to use statistical methods in social science? How to use data science in long term strategy?](img/book_engineering.png)
+
+## New World
+
+![Different thoughts on artificial intelligence, economic challenges and innovation policies](img/book_future.png)
+:::
 
 ### [**Inspirations and long term purpose**]{style="color: #9D0F6A ;"}
 
 Learn with enthusiam, strive for excellence, and share knowledge to create opportunities for others.
 
-<div class='wrap'>
-
+::: wrap
 <center>
-<iframe src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+
+</iframe>
 
 </center>
-</div>
-
+:::
 
 ### [**What challenges do I enjoy working on?**]{style="color: #9D0F6A ;"}
 
 Complex problems that require in-depth investigation in search of cause-and-effect relationships.
 
-
-<div class='wrap'>
-
+::: wrap
 <center>
 
-<iframe src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" rameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" rameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+
+</iframe>
 
 </center>
-</div>
 :::
 
 > Embody a growth mindset by combiniing humility with intellectual curiosity, approaching learning with the openness and eagerness of a child, regardless of experience or expertise.
