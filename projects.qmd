@@ -11,10 +11,7 @@ Bertin S/A was a meat processing company that manufactures beef-based proteins t
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-
 My job was to visit twelve manufacturing plants to find opportunities for process improvements and apply improvement procedures. I participated in more than fifty improvement projects in seven different states of the country, building teams, training managers, supervisors, production line operators in topics such as safety, computer systems, Lean manufacturing principles, PDCA method and quality tools, strategic planning, production planning and optimization procedures.
-
-
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
@@ -32,9 +29,11 @@ My job was to visit twelve manufacturing plants to find opportunities for proces
 -   Reduced average loading time per truck by 17%.
 -   Carcass weight loss during the chilling: Reduced loss by 0.42%, around two million dollars per plant in 2009.
 
+::: carousel
 ![Model for strategic decision support - summarized](img/bertin_sno_1.png)
 
 ![Model for strategic decision support - Expanded in one plant and one process](img/bertin_sno_2.png)
+:::
 
 ## GovBR - 2011-2012
 
@@ -51,7 +50,7 @@ My job was helping to increase the company's valuation for merger and acquisitio
 -   Mapping the process of financial area, gathering data about information flows, requirements, times, constraints, and statements communications.
 -   Structured the business intelligence area, focusing on the controllership process involving five business group companies.
 -   Created a new SQL Server database to store financial and operation historical data.
--   Created dashboards using QlikView tools to monitor results. 
+-   Created dashboards using QlikView tools to monitor results.
 -   Analyzed balance sheets and financial statements, looking for improvements and implementing changes.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
@@ -132,14 +131,13 @@ Subsequently, I was invited to contribute in the company's strategic discussions
 -   Implemented ERP system, Business Intelligence, and a new data collection and analysis structure, and trained staff.
 -   150% increase revenue 2019-2022
 
-
 ![Business Intelligence Project at Delta Brindes Corporativos](img/delta_brindes_action.png)
 
 ## Delta Brindes - 2024/2025
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil and studies the  opportunities for expansion to the United States.
+Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil and studies the opportunities for expansion to the United States.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 

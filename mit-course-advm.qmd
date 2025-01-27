@@ -33,7 +33,7 @@ Identify all the steps involved in delivering value and eliminate non-value-addi
 -   Customers also drive the inputs to a process through their needs and requirements.
 
 **Continuous flow**
-    
+
 -   **Flow**: Ensure a smooth and continuous flow of work through the value stream.
 -   **Pull**: Produce only what is needed, when it is needed.
 -   **Perfection**: Continuously strive for perfection by eliminating waste and improving processes.
@@ -52,8 +52,7 @@ According to @jamesp.womack2022, reducing inventory should not be the primary fo
 
 **Standard Inventory**
 
-In the Lean world, standard inventory is the necessary amout to protect the customer
-and maintain a smooth production flow that includes:
+In the Lean world, standard inventory is the necessary amout to protect the customer and maintain a smooth production flow that includes:
 
 -   Safety stock: To buffer againg process incapability
 -   Buffer stock: To absorb variations in uptream processes
@@ -67,9 +66,9 @@ and maintain a smooth production flow that includes:
 
 **Inventory as a consequence**
 
-When capability improves and variability decreases, the need for standard inventory naturally diminishes, leading to lower inventory levels.  In a high-interest-rate environment, reducing inventory becomes even more crucial, as excess inventory ties up capital. In world war 2, Toyota focus on minimizing inventory due to the high cost of money in Japan.
+When capability improves and variability decreases, the need for standard inventory naturally diminishes, leading to lower inventory levels. In a high-interest-rate environment, reducing inventory becomes even more crucial, as excess inventory ties up capital. In world war 2, Toyota focus on minimizing inventory due to the high cost of money in Japan.
 
-**Continuous improvement** 
+**Continuous improvement**
 
 Evolution of Lean Implementation that has shifted from a consultant-driven. "quick-fix" approach to a coaching model that empowers employees to identify and solve problems themselves. Every day, everyone is involved in eliminating waste, making their jobs easier and taking pride in their work.
 
@@ -77,58 +76,67 @@ Genchi genbutsu principles, relying on data and observations produced by others 
 
 ::: panel-tabset
 ## Value and Muda(Waste)
+
 ![Value-added and Waste](img/muda_example.png)
 
 ## Types of Muda(Waste)
+
 ![Example of Muda(Waste)](img/muda_types.png)
 
 ## Value Stream Map
+
 ![Value Stream Map](img/vsm.png)
 
 ## Cost price relationship
-![Illustration of Cost price relationship - adapted from MIT lectures](img/cost_value_relationship.png)
 
+![Illustration of Cost price relationship - adapted from MIT lectures](img/cost_value_relationship.png)
 :::
 
 **Tools of Lean principles**
 
 **Process mapping** is a graphical representation of an idea or steps using texts, illustrations, ideograms or greometric figures. The idea is to provide a clear vision of the whole thing, the flow of elements in the drawing, and the direction they go @anjos2024
 
-**Basic stability** 
+**Basic stability**
 
 Lean focused on reduce waste and six sigma focused on reduced variation creating a basic estability preparing the environment for implementation of Lean.
 
-
 ::: panel-tabset
-
 ## Process mapping
+
 ![Illustration of a mapping process for opening stores at Portobello](img/ptbl_open_store_map.png)
 
 ## Process guided by strategy
+
 ![Example of Strategy-driven processes](img/process_guided_strat_goals.png)
 
 ## Why mapping process?
+
 ![Process design throughout the business life cycle](img/why_process.png)
 
 ## Basic stability - prcess control
+
 ![Example of basic stability](img/process_stability.png)
 
 ## Process Control and Capability
+
 ![Process Control and Process Capability](img/process_control.png)
-## Process control charts
+
+## Process control charts 
+
 ![Control variability](img/tools_control_charts.png)
 
 ## Five S
-![Five S](img/tools_five_s_png)
+
+![Five S](img/tools_five_s.png)
 
 ## Five Whys
+
 ![Five Whys](img/tools_five_whys.png)
 
 ## Ishikawa diagram
+
 ![cause and Effect diagram](img/tools_ishikawa.png)
-
 :::
-
 
 ::: callout-important
 ## Defining cause-and-effect- research and evidence-based approach
