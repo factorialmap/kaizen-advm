@@ -29,10 +29,16 @@ My job was to visit twelve manufacturing plants to find opportunities for proces
 -   Reduced average loading time per truck by 17%.
 -   Carcass weight loss during the chilling: Reduced loss by 0.42%, around two million dollars per plant in 2009.
 
-::: carousel
+::: panel-tabset
+
+## Model Summary
+
 ![Model for strategic decision support - summarized](img/bertin_sno_1.png)
 
+## Model Detail
+
 ![Model for strategic decision support - Expanded in one plant and one process](img/bertin_sno_2.png)
+
 :::
 
 ## GovBR - 2011-2012
@@ -58,9 +64,18 @@ My job was helping to increase the company's valuation for merger and acquisitio
 -   Provided a contemporary design P&L report to ensure clarity in key performance indicators by adhering to the highest standards of compliance and transparency in the market. Leveraging business intelligence tools and following financial reporting practices akin to those of private equity firms and maintaining a predetermined calendar for accuracy and consistency.
 -   Improved communication strategies, making operational and financial results more practical to report orally and in writing.
 
+::: panel-tabset
+
+## Business process map
+
 ![BSC strategic plan and BI process 2012](img/govbr_1.png)
 
+## Dimentional modeling
+
 ![Multidimensional modeling - business intelligence](img/govbr_2.png)
+
+:::
+
 
 ## Portobello Shop - 2014 - 2016
 
@@ -86,9 +101,19 @@ My job was helping to achieve three strategic goals, open new stores, increase r
 -   Improved the company’s web portal, providing better information support for customers and internal staff.
 -   Increased by 44% the number of stores using the big data tool Neoway Radar.
 
+::: panel-tabset
+
+## Quantitative results
+
 ![Partial results of the radar market intelligence tool in stores](img/portobello_2.png)
 
+
+## Improvements
+
 ![Improvement projects underway in 2016](img/portobello_3.png)
+
+:::
+
 
 ## Delta Brindes - 2019 - 2024
 
