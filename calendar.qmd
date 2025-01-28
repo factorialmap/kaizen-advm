@@ -6,8 +6,8 @@ execute:
   echo: false
 ---
 
-### [Calendar 2024]{style="color: #9D0F6A ;"}
-
+::: panel-tabset
+## Calendar 2024
 
 ```{r}
 #| fig-width: 8
@@ -45,7 +45,7 @@ ganttrify(
        caption = "@carvalhoribeiro | USCIS/NVC data")
 ```
 
-### [Activity details]{style="color: #9D0F6A ;"}
+## Activity details
 
 **1.1. Additive Mfg MIT - Intro:** Classes about design and 3D printing using metal, plastics among other materials\
 **1.2. Advanced Data Analytics MIT - Intro:** Classes about industry driven problem solving sing IoT, data, machine learning/deep learning models and statistical process control.\
@@ -65,9 +65,10 @@ ganttrify(
 **4.1. Notification NVC:** Important Notification\
 **4.2. DS260 completed:** Submission of documents\
 **4.3. Collect civil documents:** Request and collection of civil documents\
-**4.4. Contacting NVC:** \
+**4.4. Contacting NVC:**\
 **4.5. Civil docs were sent:**\
 **4.6. Additional info requested:** Full birth certificate (inteiro teor)\
-**4.7. Full BC requested for civil registry office:** \
+**4.7. Full BC requested for civil registry office:**\
 **4.8. Full BC were sent:**\
-**4.9. Document Qualified Status:** Ok \
+**4.9. Document Qualified Status:** Ok\
+:::

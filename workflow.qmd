@@ -3,26 +3,23 @@ title: "Workflow"
 subtitle: "The approach and some steps I usually use in projects I work on"
 ---
 
-### [**Fase 1: Approach**]{style="color: #9D0F6A ;"}
+::: panel-tabset
 
-Define business & process improvement project approach
+## Fase 1: Approach
 
-![](img/fase_1.png)
+![Define business & process improvement project approach](img/fase_1.png)
 
-### [**Fase 2: Investigation**]{style="color: #9D0F6A ;"}
+## Fase 2: Investigation
 
-Problem investigation from different points of view
+![Problem investigation from different points of view](img/fase_2.png)
 
-![](img/fase_2.png)
+## Fase 3: Analysis of impact
 
-### [**Fase 3: Analysis of impact.**]{style="color: #9D0F6A ;"}
+![Relationship between tools that will be used and impacts in finance and sustainability](img/fase_3.png)
 
-Relationship between tools that will be used and impacts in finance and sustainability
 
-![](img/fase_3.png)
+## Fase 4: Execution
 
-### [**Fase 4: Execution**]{style="color: #9D0F6A ;"}
+![Scheduling, deployment, and monitoring](img/fase_4.png)
 
-Scheduling, deployment, and monitoring
-
-![](img/fase_4.png)
+:::
