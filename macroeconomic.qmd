@@ -10,17 +10,20 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
--   Real gross domestic product increased at an annual rate of 3.1% in the third quarter of 2024, compared with 3% in the second quarter, accordind to the third estimate(December 19,2024). Drivers are consumer spending, exports, nonresidential fixed investment, and government spending.
+-   Real gross domestic product increased at an annual rate of 2.3% in the fourth quarter of 2024 accordind to the advance estimate(January 30,2025).Drivers are consumer spending, and government spending. In the third quarter, real GPD increased 3.1%.
 
--   Personal consumption expenditures increased 3.7%, compared with 2.8% in the second quarter, according to the third estimate(December 19,2024:T1).
+-   Personal consumption expenditures increased 4.2%, compared with 3.7% in the third quarter, according to the advance estimate(January 30,2025:T1).
 
--   Disposable personal income increased \$141.5 billion, or 2.7%, in the third quarter, compared with an increase of \$120.1 billion in the second quarter. Real disposable personal income increase 1.1%.
+-   Personal saving was \$896.4 billion in the fourth quarter. The personal saving rate as a percentage of disposable personal income was 4.1% in the fourth quarter, compared with 4.3% in the third quarter, according to the advance estimate(January 30,2025:T8)
 
--   Personal saving was \$936.6 billion in the third quarter. The personal saving rate as a percentage of disposable personal income was 4.3% in the third quarter , compared with 4.9% in the second quarter, according to the third estimate(December 19,2024:T8)
+-   Gross private domestic investment was -5.6% in the fourth quarter of 2024, compared with 0.8% in the third quarter, according to the advance estimate(January 30,2025:T1). There was a -7.8% decrease in equipment in the fourth quarter, compared to 10.8% in the third quarter.
 
--   Gross private domestic investment(% change from proceding period) increased 0.8% in the third quarter, compared with 8.3% in the second quarter, according to the third estimate(December 19,2024:T1). There was a 10.8% increase in equipment in the third quarter, compared to 9.8% in the second quarter.
+-   Government consumption expenditures and gross investment was 2.5% in the fourth quarter compared with 5.1% in the third quarter of 2024.
 
--   Government consumption expenditures and gross investment(% change from proceding period) was 5.1% in the third quarter compared with 3.1% in the second quarter.
+**GPD for 2024**
+
+Real GDP increased 2.8 percent in 2024, compared with an increase of 2.9 percent in 2023(% change from  preceding year). Drivers are consumer spending, investment, government spending, and exports.
+
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
@@ -30,7 +33,7 @@ The United States uses various measures to track inflation, and understanding th
 
 **PCE Inflation**
 
--   PCE price index for November 2024 increased 2.4% compared to the same month of 2023.The Federal Reserve targets PCE inflation at 2% over longer run.
+-   PCE price index in 2024 increased 2.5% compared with increase of 3.8% in 2023.The Federal Reserve targets PCE inflation at 2% over longer run.
 
 -   PCE inflation measures prices of goods and services consumed by households and nonprofit institutions, includes food, energy, housing etc, and is more comprehensive than CPI(consume price index). Includes spending directly by households(you pay), and on behalf of households(someone pays for you, for exemple when your employer provides health insurance, government provides medicare etc.)
 
@@ -38,10 +41,12 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **Core PCE Inflation**
 
--   Core PCE index for November 2024 increased 2.8 compared to the same month of 2023.
+-   Core PCE index for in 2024 increased 2.8 compared with an increase of 4.1 in 2023.
 
 -   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
+
+Last update: January, 2025.
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
@@ -72,19 +77,17 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
 
--   United States Central Bank Rate stands at 4.50%, following the most recent adjustment in December 2024.
+-   United States Central Bank Rate stands at 4.50%, following the most recent adjustment in January 2025.
 
 > Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. We see the risks to achieving our employment and inflation goals as being roughly in balance, and we're attentive to the risks to both sides of our mandate.
 >
-> At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point, to 4-1/4 percent to 4-1/2 percent. We have been moving policy toward a more neutral setting in order to maintain the strength of the economy and the labor market while enabling further progress on inflation.
+> Longer-term inflation expectations appear to remain well anchored, as reflected in a broad range of surveys of households, business, and forecasters, as well as measures from financial markets.
 >
-> With today's action, we have lowered our policy rate by a full percentage point from its peak, and our policy stance is now significantly less restrictive. We can therefore be more cautious as we consider further adjustments to our policy rate.
+> Over the course of our three previous meetings, we lowered our policy rate by a full percentage point from its peak. That recalibration of our policy stance was appropriate in light of the progress on inflation and the rebalancing in the labor market. With our policy stance significantly less restrictive than it had been, and the economy remaining strong, we do need to be in a hurry to adjust our policy stance. At today's meeting, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent.
 >
-> We know that reducing policy restraint too fast or too much could hinder progress on inflation. At the same time, reducing policy restraint too slowly or too little could unduly weaken economic activity and employment.
+> We know that reducing policy restraint too fast or too much could hinder progress on inflation. At the same time, reducing policy restraint too slowly or too little could unduly weaken economic activity and employment. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will assess incoming data, the evolving outlook, and the balance of risks. We are not on any preset course.
 >
-> In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will assess incoming data, the evolving outlook, and the balance of risks. We are not on any preset course.
->
-> — Jerome Powell
+> — Jerome Powell, January 29, 2025.
 
 -   There was a signal in the Jackson Hole's speech, which marked the end of the four-year cycle of increase in the interest rates by the FED.
 
@@ -96,21 +99,21 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 >
 > — Gary Cohn, VP of IBM
 
--   Some indicators that may be evaluated during the next three months are:
+-   Some indicators that may be evaluated during 2025 are:
 
     -   Oil.
 
     -   Commodities.
 
-    -   Shelter 2025 (new tenant rents vs old tenant rents).
+    -   Shelter (new tenant rents vs old tenant rents).
 
-Chair Powell on a question from Elizabeth Schulze of ABC News. Why do you think it is that inflation is proving to be more stubborn than you'd expected?
+Chair Powell on a question from Elizabeth Schulze of ABC News(December meeting, 2024). Why do you think it is that inflation is proving to be more stubborn than you'd expected?
 
 > I think people are feeling right now is the effect of high prices, not high inflation. So we understand very well that prices went up by a great deal and people really feel that. And it's prices of food and transportation, and heating your home, and things like that, so there's tremendous pain in that burst of inflation that was very global. This was everywhere in all the advanced economies at the same time. So now we have inflation itself is way down but people are still feeling high prices and that is really what people are feeling. The best we can do for them, and that's who we work for, is to get inflation back down to its target and keep it there so that people are earning big, real wage increase so that their wages are going up, their compensation is going up faster than inflation year upon year upon year, and that's what will restore people's good feeling about the economy.
 >
 > That's what it will take, and that's what we're aiming for.
 >
-> — Jerome Powell
+> — Jerome Powell, December meeting 2024
 
 ```{r}
 #| label: fed_funds
