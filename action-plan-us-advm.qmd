@@ -306,7 +306,7 @@ library(ggrepel)
 #us manufacturing construction
 data_mfg_construct <-  tq_get("C307RC1Q027SBEA", 
                          get = "economic.data",
-                         from = "1970-01-01",
+                         from = "1979-01-01",
                          to = "2026-01-01")
 
 data_mfg_construct_end <- data_mfg_construct %>% tail(1)
@@ -316,13 +316,12 @@ data_mfg_construct %>%
   geom_line(linewidth = 0.5,
             color = "#adb5bd")+
   scale_y_continuous(
-    labels = label_number(scale_cut = cut_short_scale())
-  )+
-  geom_text_repel(
-    aes(label = price,
-        hjust = 1),
-    data = data_mfg_construct_end
-  )+
+    labels = label_number(scale_cut = cut_short_scale()))+
+  scale_x_date(date_breaks = "4 years",
+                 labels = label_date_short())+
+  geom_text_repel(aes(label = price,
+                      hjust = 1),
+                  data = data_mfg_construct_end)+
   theme_minimal()+
   labs(title = "Overall U.S. Manufacturing construction",
        caption = "Source: FRED",
@@ -391,6 +390,7 @@ library(tidyquant)
 library(fredr)
 library(scales)
 library(ggrepel)
+
 
     data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),

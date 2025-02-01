@@ -4,6 +4,10 @@ about:
   id: me
   template: marquee
   image: img/profile.png
+format:
+  html:
+    includes:
+      - google-analytics.html
 ---
 
 ### [**Welcome**]{style="color: #9D0F6A ;"}
