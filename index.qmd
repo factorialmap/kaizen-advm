@@ -6,7 +6,7 @@ about:
   image: img/profile.png
 format:
   html:
-    includes:
+    include-in-header: 
       - google-analytics.html
 ---
 
