@@ -37,6 +37,8 @@ website:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Marcelo Carvalho  dos Anjos"
+  google-analytics: 
+    tracking-id: "G-YQPR1KZE4G"
 
 
 format:
@@ -50,5 +52,3 @@ format:
     
 editor: source
 
-google-analytics:
-  measurement_id: "G-YQPR1KZE4G"
