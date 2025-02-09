@@ -63,6 +63,9 @@ The task here is to research the possibilities in the small and medium manufactu
 
 -   Smart pill such as electronic capsule for tageting drug to delivery system.
 
+
+-   The world cancer incidence is increasing from 15 million cases every year to probably +30 million in 2050 reflecting a demographic shifts around the world, people live longer, risk factors and better ways to detecting cancer. The mortality rate actually going down in the last 30 years. The goals is treatment such as target therapy to be targeting cancer cells only that express some specific proteins that attract the antibody like GPS system process.
+
 ### [**Aviation and Jet Egines**]{style="color: #9D0F6A ;"}
 
 -   Jet engine is important part of commerial airplane and reparing them has become a \$58 billion business acording to \@cnbc2024. A commercial jet engine is a complex, expensive machine made up of thousands of parts and cost of \$10 million each one or \$6 million for overhaul. The process of overhauling one means disassembling it and replacing all the worn on damaged parts like blades, which can cost up to \$20.000 a piece and HPT( high pressure turbine) costing more then \$30.000 a piece, and one engine aproximately 40 to 60 of them is necessary. Before the supply chain issues, a typical narrowbody engine took 60 to 75 days to overhaul, and that time has gone up, in some cases to over 200 days because it's not sufficient spare parts, labor to do this in normal time.

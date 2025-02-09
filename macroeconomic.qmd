@@ -252,13 +252,12 @@ Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.go
 #| label: bonds_10y
 #| fig-align: center
 
-data_10y_bonds <- tq_get("DGS10", 
+data_10y_bonds <- tq_get("DGS10",
                          get = "economic.data",
                          from = "1970-01-01",
                          to = "2026-01-01")
 
 data_10y_end <- data_10y_bonds %>% tail(1)
-
 
 data_10y_bonds %>% 
   ggplot(aes(x = date, y = price))+
@@ -275,6 +274,35 @@ data_10y_bonds %>%
       caption = "Source: FRED")
 
 ```
+
+```{r}
+#| label: spread_10y_corp
+#| fig-align: center
+
+data_spread <- tq_get("BAA10Y",
+                         get = "economic.data",
+                         from = "1970-01-01",
+                         to = "2026-01-01")
+
+data_spread_end <- data_spread %>% tail(1)
+
+data_spread %>% 
+  ggplot(aes(x = date, y = price))+
+  geom_line(linewidth = 0.5,
+            color = "#adb5bd")+
+  geom_text_repel(
+    aes(label = price),
+    data = data_spread_end,
+    nudge_x = 1
+  )+
+  theme_minimal()+
+  labs(title = "Corporate Bond Yield vs 10 Year",
+      y = "Rate" ,
+      caption = "Source: FRED")
+
+```
+
+
 
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
@@ -569,9 +597,9 @@ data_invest %>%
 
 -   Looking at the manufacturing plants construction sites.
 
-    -   **Semiconductor:** TSMC (Phenix, AZ:TSM:Production pilot dec24) , Wolfspeed(Pittsboro,NC:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
+    -   **Semiconductor:** TSMC (Phenix, AZ:TSM:Production pilot Dec24) , Wolfspeed(Pittsboro,NC:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
 
-    -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS), Ford SK (Stanton, TN)
+    -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC:Production pilot Apr25), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS:WIP Start production in Spring25), Ford SK (Stanton, TN:WIP Delay until 2027)
 
     -   **Biomanufacturing:** Moderna(Marlborough,MA), Pfizer(Peral River, NY), Thermo Fisher(Greenville, NC), Novo Nordisk(Clayton, NC), Fujifilm(Holly Springs, NC), Genentech(Oceanside, CA)
 
@@ -581,9 +609,46 @@ data_invest %>%
 
     -   **Clean Energy Manufacturing:** Boom Supersonic(Greensboro, NC), Electric Hydrogen(Devens, MA), Siemens Gamesa(Port of Coeuumans, NY)
 
+```{r}
+#| label: mfg_workers
+#| fig-align: center
+
+library(tidyverse)
+library(tidyquant)
+
+data_mfg_workers <- tq_get("MANEMP",
+                           get = "economic.data",
+                           from = "1960-01-01",
+                           to = "2026-01-01")
+
+data_end_mfg_workers <- 
+  data_mfg_workers %>%
+  tail(1)
+
+
+data_mfg_workers %>% 
+  ggplot(aes(x = date, y = price*1000))+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
+  geom_text_repel(
+    aes(label = price,
+        hjust = 1),
+    data = data_end_mfg_workers
+  )+
+  theme_minimal()+
+  scale_y_continuous(labels = label_number(scale_cut = cut_si("")))+
+  labs(title = "Total Employees in Manufacturing",
+       x = "",
+       y = "Employees")
+```
+
+  
+
 **Training and education**
 
 -   **Training programs** In the training and labor force perspective, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
+
+- Partnership between Toyota battery plant and Randolph and other Community Colleges to provide initial training(Jan2025).
 
 -   **Community college** are crucial in preparing young people for entry-level positions in U.S. manufacturing. In 2023, there are approximately 1,476 community colleges in the United States according to @wellington2023 . These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers. Community college students also are among the more diverse in postsecondary education acording to @education2024
 
