@@ -6,17 +6,7 @@ bibliography: references.bib
 
 ### [**PDCA Method and Quality Tools in Manufacturing**]{style="color: #9D0F6A ;"}
 
--   How AI tools (e.g predictive, generative, and agentic models) could support implementation of lean culture in business?
-
--   How to incorporate lean principles, PDCA method and quality tools into an AI agent and make it useful in solving manufacturing problems?
-
-    ![RAG Application Pipeline](img/rag_application.png)
-
--   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during the problem-solving process. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
-
--   The basic idea of the quality tools is reduce waste during performing a value-added task or process, for example time, effort, unnecessary movement etc.
-
-    ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
+**Lean Principles**
 
 -   The basic idea of Lean principles is to focus on the customer value that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
 
@@ -26,7 +16,65 @@ bibliography: references.bib
 
 -   Non-value added activity pure waste: No value is created and consumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
 
-![Example of value-added activity](img/muda_example.png)
+::: panel-tabset
+## Background
+
+![Types of waste](img/type_of_waste.png)
+
+## Genshi genbutsu
+
+![Gemba Walk](img/gemba_walk.png)
+
+## Action
+
+![Five S](img/tools_five_s.png)
+
+## Basic Stability1
+
+![Process Stability](img/process_stability.png)
+
+## Basic Stability2
+
+![Process Variability](img/process_variability.png)
+
+## Basic Stability3
+
+![Process Control](img/process_control.png)
+
+## Process mapping
+
+![Value Stream Map](img/vsm.png)
+
+## Muda
+
+![Example of muda](img/muda_example.png)
+
+## Training1
+
+![Training](img/training_factor1.png)
+
+## Training2
+
+![Training](img/training_factor2.png)
+:::
+
+**Artificial Intelligence**
+
+Sensors, Computer Vision, Spectroscopy, Variability Control, Optimization,
+
+-   How AI tools (e.g predictive, generative, and agentic models) could support implementation of lean culture in business?
+
+-   How to incorporate lean principles, PDCA method and quality tools into an AI agent and make it useful in solving manufacturing problems?
+
+    ![RAG Application Pipeline](img/rag_application.png)
+
+**Plan-Do-Check-Action- PDCA**
+
+-   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during the problem-solving process. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
+
+-   The basic idea of the quality tools is reduce waste during performing a value-added task or process, for example time, effort, unnecessary movement etc.
+
+    ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
 
 ### [**Data Science in Manufacturing**]{style="color: #9D0F6A ;"}
 
