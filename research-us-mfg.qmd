@@ -18,7 +18,7 @@ here
 In Dec 2, 2024 CFO David Zinsner and Michelle Holthaus will serve as interim CEOs of Intel while the board searches for a sucessor for Mr. Gelsinger. Chip design involves creating the specifications and architecture of semiconductor chips, while foundries are specialized manufacturing facilities that produce these chips based on the designs provided by companies. Essentially, chip designers focus
 on the conceptual side, and foundries handle the physical production.
 
-### [**Battery**]{style="color: #9D0F6A ;"}
+### [**Battery and electricity**]{style="color: #9D0F6A ;"}
 
 -   Acording to @manufacturingmit2024, lithium-ion betteries were invented in United States, but never built the needed supply chains, government support was missing, and batteries faced political and industrial opposition.
 
@@ -46,6 +46,7 @@ on the conceptual side, and foundries handle the physical production.
     -   Transition to LFP is the scientific problem for the last 20 years such as industrilize, build supply chain, sustainability and circularity of these different materials, how to do all this domestically.
 
 -   **Chirstina Lampe-Onnerud** founder and CEO of Cadenza Innovation. She talks about basic research with the goal to make safe, low cost and performance just right, systemitized and data truth.
+
 
 ### [**SMM's - Small, Medium Manufacturers**]{style="color: #9D0F6A ;"}
 

@@ -392,7 +392,7 @@ library(scales)
 library(ggrepel)
 
 
-    data_real_gdp_yoy <- fredr(series_id = "GDPC1",
+data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),
                                observation_end = as.Date("2025-01-01"),
                                frequency = "a",

@@ -8,7 +8,7 @@ bibliography: references.bib
 
 **Lean Principles**
 
--   The basic idea of Lean principles is to focus on the customer value that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
+-   The basic idea of Lean principles is to focus on the customer value that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g design, engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
 
 -   Value-added activity: transforms or shape materials, and the customer wants it
 
@@ -60,7 +60,9 @@ bibliography: references.bib
 
 **Artificial Intelligence**
 
-Sensors, Computer Vision, Spectroscopy, Variability Control, Optimization,
+Artificial Intelligence is a set of powerful general-purpose tools. Some of these tools include machine learning models used in prediction and recomendation, large language models that enhance knowledge dissemination and task automation, computer vision that allows the capture, processing, and action of manufacturing processes,  digital twins that allow the simulation of virtual environments with real-time data, and autonomous agents that can perform tasks in productions. For this to work, elements are needed such as labeled data, synthetic data, sensors, variation control, optimizations, engineering, desing, and a multitude of other components that are developed by humans.
+
+As our focus is manufacturing, we continue with the following questions:
 
 -   How AI tools (e.g predictive, generative, and agentic models) could support implementation of lean culture in business?
 
