@@ -6,17 +6,17 @@ bibliography: references.bib
 
 This summary is based on @helwig2024, and aims to improve my writing skills, business analysis, and process improvement in the U.S. market.
 
-The texts may contain typos, imcomplete thoughts, and will be subject to ongoing revision and development. In addition to the main document, I also used reference documents, books, videos and news to complement this work.
+The texts may contain typos, imcomplete thoughts, and will be subject to ongoing revision and development. In addition to the main document, I also used reference documents, books, videos and articles to complement this work.
 
 ### [**Advanced Manufacturing**]{style="color: #9D0F6A ;"}
 
 -   Advanced manufacturing refers to the use of innovative technology, process and methods like intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles to accelerate the design and production of physical goods. As a result, it is possible to achieve scale and possibilities that was previously impossible like cost reduction, and value-added products in shorter cycles.
 
--   Advanced manufacturing combines human capital with outomation, robotics, AI, IoT, and 3D printing to drive innovation and efficiency.
+-   Advanced manufacturing combines human capital with automation, robotics, AI(e.g, machine learning, large language models, computer vision, autonomous agents), IoT, and 3D printing to drive innovation and efficiency.
 
 ### [**Impacts**]{style="color: #9D0F6A ;"}
 
-Adcanced manufacturing drives economic stability, competitiveness, and growth, while maintaining skills and mitigating market risks. Key impacts also include:
+Adcanced manufacturing drives economic stability, competitiveness, and growth, while maintaining fundamental skills, and mitigating market risks. Key impacts also include:
 
 -   **Productivity**: Streamline production processes by automation, reducing cycle times and labor cost.
 -   **Costs**: By optimizing processes and reducing waste.
@@ -32,10 +32,10 @@ Explore the past experiences estimulate our ability of mental time travel that e
 
 **Process Innovation History**
 
--   **Shorten the distance**: Improving the flow of traded goods transforming trade, industry, agriculture, and communication in the region and across the country. Erie Canal navigable waterway connecting the great lakes to the atlantic ocean completed in 1825 according to @dpla1821 . The objective was to develop the city of New York, which was a point of communication with the world (e.g. port of trade hub), and opened up the MidWest for settlement and agricultural expansion, impacting the marginal product of labor according to @kaiman2024. The canal also had profound societal impacts shaping the nation's economic development in the 19th century:
+-   **Shorten the distance**: Enhancing the movement of goods to boost trade, industry, agriculture, and communication regionally and across the country. Erie Canal navigable waterway connecting the great lakes to the atlantic ocean completed in 1825 according to @dpla1821 . The objective was to develop the city of New York, which was a point of communication with the world (e.g. port of trade hub), and opened up the MidWest for settlement and agricultural expansion, impacting the marginal product of labor according to @kaiman2024. The canal also had profound societal impacts shaping the nation's economic development in the 19th century:
 
     -   It spurred westward migration, enhance commercial trade between regions.\
-    -   It contibuted to the rise of new towns along its route.\
+    -   It contributed to the rise of new towns along its route.\
     -   It facilitated cultural and political unity between the Northest and the expanding western territories.\
 
 ::: panel-tabset
@@ -346,6 +346,11 @@ Studying the future to understand decision-making processes, planning, and expec
 -   **New processes**: Making better products, faster and cheaper. (Innovation economic book here, tesla unbox here, example based tactile simulation and sim-to-real applications )
 
     -   **Battery manufacturing process** Advancing dry-process battery technology that enable to dry print anodes and varios cathodes(e.g lithium iron phospate-LFP, nickel manganese cobalt-NMC, sodium ion etc) with no metal or liquid inside it, saving weight(23% from today standards), space in the packaging, costs(7% from today standards), more easely to recycling, more safe because no risk of thermal runaway, and 30% more energy density(from today standards 272 Wh/kg).
+    
+> Sakuú revolutionary dry-electrode printing technology enables more advanced and sustainable battery manufacturing at scale, including elimination of toxic materials and solvents, reduction in cost complexity, and ability to work with a very range of both current and future active materials and battery chemistries. It's enable battery producers and original equipment manufacturer(OEMs) to successfully meet this incredible surge in demand and do it more sustainably.
+> That's why we are the world's first manufacturing platfform for printing battery electrodes?
+
+> — Mr. Robert Bagheri, founder and CEO of Sakuú
 
     -   **Modular Assembly or Unboxed Manufacturing Process** A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
 
@@ -390,7 +395,6 @@ library(tidyquant)
 library(fredr)
 library(scales)
 library(ggrepel)
-
 
 data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),

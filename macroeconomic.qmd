@@ -22,8 +22,7 @@ execute:
 
 **GPD for 2024**
 
-Real GDP increased 2.8 percent in 2024, compared with an increase of 2.9 percent in 2023(% change from  preceding year). Drivers are consumer spending, investment, government spending, and exports.
-
+Real GDP increased 2.8 percent in 2024, compared with an increase of 2.9 percent in 2023(% change from preceding year). Drivers are consumer spending, investment, government spending, and exports.
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
@@ -45,9 +44,7 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 -   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
-
-Last update: January, 2025.
-Souce: [Bureau of Economic Analysis](https://www.bea.gov)
+Last update: January, 2025. Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
@@ -67,15 +64,11 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 -   The CPI for January 2025 is scheduled to be released on February 12, 2025, at 08:30 a.m. (ET).
 
-
-Last update: January, 2025.
-Source: [Bureau of Labor Statistics](https://www.bls.gov/)
+Last update: January, 2025. Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
 -   From the same month over year ago, the consumer price index (CPI) for December increased 2.9%, acording to Federal Reserve Economic Data.
 
-![](images/clipboard-2010062285.png)
-Last update: January, 2025.
-Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
+![](images/clipboard-2010062285.png) Last update: January, 2025. Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
 
@@ -153,8 +146,7 @@ data_interest_rate %>%
 
 ```
 
-Last update: January, 2025.
-Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
+Last update: January, 2025. Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
@@ -164,7 +156,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 -   The labor force participation rate in December 2024 was 62.5%, was unchanged over the month and has remained in a narrow range of 62.5% to 62.7% since December 2023.
 
--   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims in December, 2024 is 1.86 million. 
+-   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims in December, 2024 is 1.86 million.
 
 ```{r}
 #| label: continued_claims
@@ -239,10 +231,9 @@ data_wk_hours %>%
 
 ```
 
-Last update: January, 2025.
-Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
+Last update: January, 2025. Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
 
-## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"} 
+## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
 -   The 10-year Treasury bond yield is a key indicator of investor sentiment about economic conditions. Is the interest rate the U.S. government pays to borrow money for a decade, serving as a benchmark for other interest rates, influences borrowing costs, impacts the valuation of financial assets, and signals expectations about inflation and economic growth.
 
@@ -302,8 +293,6 @@ data_spread %>%
 
 ```
 
-
-
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
 ## [**Yield Curve**]{style="color: #9D0F6A ;"}
@@ -342,7 +331,7 @@ Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
 ### [**Overall**]{style="color: #9D0F6A ;"}
 
-Revenue's cash flow is a challenge which has a short-term effect on supply chains, labor market, and debt costs as some of them are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes striving for efficiency. Other behaviors:
+Revenue cash flow remains a challenge that has effect on supply chains, labor market and debt costs, as some of these are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes striving for efficiency. Other behaviors:
 
 -   Temporary rise in unemployment rates, however without sudden moviments. The job losses begin at the lowest rungs in terms of skills, educational attainment, income making capacity. This indicators are being closely monitored by FED officials and the signals can be seen in Mr. Powell's statements.
 
@@ -369,6 +358,8 @@ Revenue's cash flow is a challenge which has a short-term effect on supply chain
     -   From a price perspective, historically, it takes 25 weeks of average household income to buy a new vehicle. The average household income in 2024 is \$75.000 (\$1.400 per week) which would be enough to buy a vehicle worth \$36.000 dollars.
 
     -   The age of the vehicles on the road in the United States is 12.6 years acording to @parekh2024
+
+    -   The average cost of car ownership in 2024 was around \$12,000 annually according to BLS (vehicle purchase 46%, fuels 22%, finance charges 3%, repairs 8%, insurance 15%, others 6%)
 
 ```{r}
 #| label: vehicles
@@ -477,7 +468,7 @@ data_ml %>%
 
 -   **AI Software Service:** Palantir
 
--   **Synthetic data:** Hazy(Microsoft), Sogeti, Epistemix, Mostly AI, Facteus, Sythesis AI, Datavant, Statice, TonicAI, SBX Robotics. 
+-   **Synthetic data:** Hazy(Microsoft), Sogeti, Epistemix, Mostly AI, Facteus, Sythesis AI, Datavant, Statice, TonicAI, SBX Robotics.
 
 -   **Data Annotation:** Scale AI, Appen, Openxcell, SuperAnnotate, iMerit, Labelbox, Cogitobox, CloudFactory, Hive
 
@@ -523,14 +514,18 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 ### [**Housing market**]{style="color: #9D0F6A ;"}
 
--   The U.S. median home price in 3Q24 is \$420.400 compared to \$435.400 last year a decrease of 3.4%.
+-   The U.S. median home price in 4Q24 is \$419.200 compared to \$423.200 last year a decrease of 0.95% and -5.3% compared to the price peak in 4Q22.
 
--   When observed from the perspective of supply and demand, the plot below shows the behaviors in more detail.
+-   Spring is busiest time for the housing market in U.S. starting in April and peaks in June when the average number of existing homes sold per day increases significantly, and historically home prices tend to rise during this period. On the other hand, home prices prices rose 16.7% and 13% in 2021 and 2022 respectively way above the income and this factor may change the effect of this year season. With builders facing challenges in passing on costs to consumers, improving proceses can be a relevant factor in avoiding or minimizing the effects on margins.
+
+-   The plot below shows the behaviors from the perspective of supply and demand.
 
 ```{r}
 #| label: house_mkt
 #| fig-align: center
 
+
+#median home price 
 data_house_supply <- tq_get("MSACSR", 
                             get = "economic.data",
                             from = "2000-01-01",
@@ -555,15 +550,43 @@ data_house_supply %>%
 
 ```
 
--   In 2024 home buyers are looking for better prices and interest rates, home offices continuing a popular feature, two family homes with smarter technologies and other factors that may be relevant such as a laundry room, ceilling fans, energy star rated windows, patio, hardwood floors in the living areas, and side-by-side kitchen sink, and close to fun and public transportation.
+-   In 2025 home buyers are looking for better prices and interest rates, two family homes with smarter technologies and other factors that may be relevant such as a gyms, ceilling fans, energy star rated windows, patio, hardwood floors in the living areas, and side-by-side kitchen sink, and close to fun and public transportation.
+
+-   One modality that has been gaining traction is built-to-rent commnunities driving for some factors:
+
+    -   **Affordability constraints:** Rising home prices and higher mortgage rates have priced many out of homeownership.
+    -   **Desire for flexibility and amenities:** Renters increasingly seek convenient, maintenance-coworking facilities.
+    -   **Demographics:** Millenials, GenZ, and retirees are opting for rental lifestyles.
+    -   **Changing household dynamics:** The growing number of single-person households. The share of people living alone increased every decade from 1940 to 2020 according to @bureau2023. In 2020 was 27.6% compared to 26.7% in 2010.
 
 -   Some indicators that may be evaluated during the next three months are:
 
-    -   Mortgage rates, increasing inventories, listing price drops, time homes are on market.
+    -   Mortgage rates, increasing inventories, listing price, time homes are on market.
     -   Net new home orders that represent the number of new sales contracts that have been finalized and signed by buyers minus customer home order cancellations booked.
     -   Companies financial guidance such as Lennar, Toll Brothers, D.R. Horton, Pultegroup and KB Home.
+    
+```{r}
+#| label: housing
+#| fig-align: center
 
-Source: [Federal Reserve Economic Data](https://fred.stlouisfed.org/)
+library(tidyverse)
+library(tidyquant)
+
+data_house_stock <- 
+  tq_get(c("TOL","DHI","KBH"),
+         get = "stock.prices")
+
+data_house_stock %>% 
+  ggplot(aes(x = date, y = adjusted))+
+  geom_line()+
+  facet_wrap(~symbol, scales = "free_y", nrow =1)+
+  theme_minimal()+
+  labs(x = "",
+       y = "")
+```
+
+
+**Source:** [Federal Reserve Economic Data](https://fred.stlouisfed.org/) ;[US Census Bureau](https://www.census.gov/)
 
 ### [**Manufacturing**]{style="color: #9D0F6A ;"}
 
@@ -646,13 +669,11 @@ data_mfg_workers %>%
        y = "Employees")
 ```
 
-  
-
 **Training and education**
 
 -   **Training programs** In the training and labor force perspective, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
 
-- Partnership between Toyota battery plant and Randolph and other Community Colleges to provide initial training(Jan2025).
+-   Partnership between Toyota battery plant and Randolph and other Community Colleges to provide initial training(Jan2025).
 
 -   **Community college** are crucial in preparing young people for entry-level positions in U.S. manufacturing. In 2023, there are approximately 1,476 community colleges in the United States according to @wellington2023 . These institutions offer two-year programs, vocational training, and pathways to four-year universities. California, Texas, and New York hosting the largest numbers. Community college students also are among the more diverse in postsecondary education acording to @education2024
 

@@ -12,11 +12,11 @@ format:
 
 ### [**Welcome**]{style="color: #9D0F6A ;"}
 
--   My names is Marcelo Carvalho dos Anjos and I am a Business & Process Improvement Analyst focused on optimizing day-to-day processes using methods like PDCA, Lean, 5S and tools like R, Python, Power BI, and AI models. I have been researching in this area since 1995 and working professionally since 2002.
+-   My names is Marcelo Carvalho dos Anjos and I am a Business & Process Improvement Analyst focused on optimizing day-to-day manufacturing business using Lean principles, PDCA method, 5S and computational tools like R, Python, Power BI, and AI models. I have been researching in this area since 1995 and working professionally since 2002.
 
-### [**Goals**]{style="color: #9D0F6A ;"}
+### [**Goals with this website**]{style="color: #9D0F6A ;"}
 
--   Write about Business & Process Improvement Analysis and how to apply machine learning and GenAi to integrate lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
+-   Writing about business and process improvement analysis and how to apply machine learning and large language models to facilitate the adoption and execution of lean principles, the PDCA method and statistical tools for process improvement in manufacturing.
 -   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
 -   Build the foundations for my PhD research that investigates **Factors impacting manufacturing competitiveness, personal development, and management capacity during economic shifts.**
 
@@ -37,11 +37,11 @@ format:
 
 Below are some people from whom I continually learn through books, lectures, classes, scientific papers, and thoughts.
 
-W. Edwards Deming, Max Kuhn, Irene Haas do Amaral, Lex Fridman, William Bonvillian, Robert Atkinson, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, James Womack, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, Susan Sheehy, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Warren McCulloch, Miguel Nocolelis, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
+W. Edwards Deming, Max Kuhn, Irene Haas Amaral, Lex Fridman, William Bonvillian, Robert Atkinson, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, James Womack, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, Susan Sheehy, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Warren McCulloch, Miguel Nocolelis, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Steve Jurvetson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
 
 ### [**Some books that may be helpful in process improvement**]{style="color: #9D0F6A ;"}
 
-Some books that help me deal with day-to-day challenges in my career.
+Some books with fundamentals that help me deal with the daily challenges of my career.
 
 ::: panel-tabset
 ## Data Science
