@@ -237,6 +237,45 @@ data_wk_hours %>%
 
 ```
 
+The labor market tightness is the number of job vacancies per unemployed worker, which is a key factor in monetary policymakers' decisions.
+
+The graph, below sugested by Mick Dueholm and Serdar Ozkan on FRED Blog, show labor market tighness as the ratio of job openings to unemployment. This captures how many job opportunities there are for each person seeking a job.
+
+```{r}
+#| label: labor_mkt_tightness
+#| fig-align: center
+
+data_labor_tidht <- 
+  tq_get(c("JTSJOR","UNRATE"),
+         get = "economic.data",
+         from = "2000-01-01",
+         to = "2026-01-01") %>% 
+  pivot_wider(names_from = symbol,
+              values_from = price) %>% 
+  drop_na() %>% 
+  mutate(rate  = JTSJOR/UNRATE)
+
+data_labor_tidht_end <-  data_labor_tidht %>% tail(1)  
+
+data_labor_tidht %>% 
+  ggplot(aes(x = date,  y= rate))+
+  geom_line(linewidth = 0.5, 
+            color = "#adb5bd")+
+  scale_y_continuous(
+    labels = label_number(scale_cut = cut_short_scale())
+  )+
+  geom_text_repel(
+    aes(label = round(rate,1)),
+    data = data_labor_tidht_end
+  )+
+  theme_minimal()+
+  labs(title = "Labor Market Tightness",
+       caption = "Source: FRED",
+       x = "",
+       y = "Job opport for each person seek a job")
+```
+
+
 **Last update:** January, 2025. Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
 
 ## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
