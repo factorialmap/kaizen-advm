@@ -11,12 +11,17 @@ bibliography: references.bib
 
 -   CHIPS and Science Act provide \$52.7 billion for American semiconductor research, development, manufacturing, and workforce development. This includes \$39 billion in manufacturing incentives @hawkins2024
 
--   Intel has been awarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. Similar decisions were made at GE, and were reversed by Larry Culp. What lessons could he provide?
-
-here
+-   Intel has been awarded \$8.5 billion in grants and \$11 billion on loan guarantees for new chip fab construction under the CHPS Act acording to @manufacturingmit2024. Pat Gelsinger CEO of the company is in 3 years into a turn-around strategy to get back to advanced chip production leadership, and argued the cutbacks were necessary to generate funding for his strategy of building a foundry business to achieve 5 nodes in 4 years. Bad decisions are made along the way such as make gpu chips for AI, adopting advanced lithography, and expand beyond its very profitable x86-based desktop and server chip business. 
 
 In Dec 2, 2024 CFO David Zinsner and Michelle Holthaus will serve as interim CEOs of Intel while the board searches for a sucessor for Mr. Gelsinger. Chip design involves creating the specifications and architecture of semiconductor chips, while foundries are specialized manufacturing facilities that produce these chips based on the designs provided by companies. Essentially, chip designers focus
 on the conceptual side, and foundries handle the physical production.
+
+In Mar 12, 2024 Intel announced Lip-Bu Tan as a new CEO.
+
+-  In Oct, 2025 Wolfspeed received $750 million in grant money from the federal chips act. There is a big transition in products and building a new giant plant for silicon carbide materials in Siler City(Chatham County) and other in Upstate New York. Wolfspeed is also partening with local community colleges to offer courses to people who would want to work at the factory that they called TCP or technician certification progam.
+
+-  In Mar 4, 2025 TSMC announces \$100 billion more in Phoenix, AZ manufacture site.  At total now of \$165 billion investing in more three fullscale fabrication facilities, two new packaging plants, and one R&D center.
+
 
 ### [**Battery and electricity**]{style="color: #9D0F6A ;"}
 

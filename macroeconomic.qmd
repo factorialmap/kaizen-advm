@@ -78,17 +78,17 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
 
--   United States Central Bank Rate stands at 4.50%, following the most recent adjustment in January 2025.
+-   United States Central Bank Rate stands at 4.50%, following the most recent adjustment in March 2025.
 
-> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. We see the risks to achieving our employment and inflation goals as being roughly in balance, and we're attentive to the risks to both sides of our mandate.
+> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to maintain the target range for the federal funds rate at 4.25-4.50 percent.
 >
-> Longer-term inflation expectations appear to remain well anchored, as reflected in a broad range of surveys of households, business, and forecasters, as well as measures from financial markets.
+> Looking ahead, the new Administration is in the process of implementing significant policy changes in four distinct areas:**trade, immigration, fiscal policy, and regulation**.
+> It is net effect of these policy changes that will matter for the economy and for the path of monetary policy.
+> While there have been recent developments in some of these areas, especially trade policy, uncertainty around the changes and their effects on the economic outlook is high. As we parse the incoming information, we are focused on separating the signal from the nouse as the outlook evolves.
 >
-> Over the course of our three previous meetings, we lowered our policy rate by a full percentage point from its peak. That recalibration of our policy stance was appropriate in light of the progress on inflation and the rebalancing in the labor market. With our policy stance significantly less restrictive than it had been, and the economy remaining strong, we do need to be in a hurry to adjust our policy stance. At today's meeting, the Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent.
+> As we say in our statement, in considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will assess incoming data, the evolving outlook,and the balance of risks. We do not need to be in a hurry to adjust our policy stance, and we are well positioned to wait for greater clarity.
 >
-> We know that reducing policy restraint too fast or too much could hinder progress on inflation. At the same time, reducing policy restraint too slowly or too little could unduly weaken economic activity and employment. In considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will assess incoming data, the evolving outlook, and the balance of risks. We are not on any preset course.
->
-> — Jerome Powell, January 29, 2025.
+> — Jerome Powell, March 19, 2025.
 
 -   There was a signal in the Jackson Hole's speech, which marked the end of the four-year cycle of increase in the interest rates by the FED.
 
@@ -669,7 +669,7 @@ data_invest %>%
 
 -   Looking at the manufacturing plants construction sites.
 
-    -   **Semiconductor:** TSMC (Phenix, AZ:TSM:Production pilot Dec24) , Wolfspeed(Pittsboro,NC:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
+    -   **Semiconductor:** TSMC (Phenix, AZ:TSM:Production pilot Dec24) , Wolfspeed(Siler City Chatham County,NC and Mohawk Valley,NY:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
 
     -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC:Production pilot Apr25), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS:WIP Start production in Spring25), Ford SK (Stanton, TN:WIP Delay until 2027)
 
@@ -694,16 +694,15 @@ data_mfg_workers <- tq_get("MANEMP",
                            to = "2026-01-01")
 
 data_end_mfg_workers <- 
-  data_mfg_workers %>%
-  tail(1)
-
+  data_mfg_workers %>%  
+  tail(1) 
 
 data_mfg_workers %>% 
   ggplot(aes(x = date, y = price*1000))+
   geom_line(linewidth = 1,
             color = "#abd5db")+
   geom_text_repel(
-    aes(label = price,
+    aes(label = round(price/1000,1),
         hjust = 1),
     data = data_end_mfg_workers
   )+
