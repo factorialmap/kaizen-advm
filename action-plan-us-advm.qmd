@@ -14,6 +14,9 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 
 -   Advanced manufacturing combines human capital with automation, robotics, AI(e.g, machine learning, large language models, computer vision, autonomous agents), IoT, and 3D printing to drive innovation and efficiency.
 
+
+![Advanced Manufacturing](img/advanced_mfg_network.png)
+
 ### [**Impacts**]{style="color: #9D0F6A ;"}
 
 Adcanced manufacturing drives economic stability, competitiveness, and growth, while maintaining fundamental skills, and mitigating market risks. Key impacts also include:
@@ -290,7 +293,7 @@ Establish an economic initiative commiting the U.S. to increase its relative lev
 
 According to @atkinson2024 , Assuming a 3% growth rate in the rest of the economy, doing so could add nearly \$2.5T to advanced-industry output over 10 years. It would also reduce U.S. supply chain vulnerability, create millions of good jobs, could adjust imbalances in home prices, reduce trade deficit, waken China's advanced economy, and shore up dual-use industries critical to U.S. National Defense.
 
-According to @bonvillian2024 , different approaches were applied such as top down, bottom up, direct production support, demonstration projects, supply chain support, and regional implementation. The impact can be seen in the chart below (Overall U.S. Manufacturing construction), and also in the growth of investment in machinery and equipment(by brekdown of GDP).
+According to @bonvillian2024 , different approaches were applied such as `top down, bottom up, direct production support, demonstration projects, supply chain support, and regional implementation`. The impact can be seen in the chart below (Overall U.S. Manufacturing construction), and also in the growth of investment in machinery and equipment(by brekdown of GDP).
 
 ```{r}
 #| label: us_mfg_construction
@@ -423,9 +426,9 @@ data_real_gdp_yoy <- fredr(series_id = "GDPC1",
 
 ### [**Action Plan**]{style="color: #9D0F6A ;"}
 
--   Chips and Science Act: Semiconductors
--   Inflation Reduction Act: Energy technologies
--   Infraestructure Act: Technology demonstrations
+-   **Semiconductors**: Chips and Science Act, focus on increasing US competitiveness in the semiconductor industry, incentive for creating research and development centers in semiconductor techonologies.
+-   **Energy Technologies**: Inflation Reduction Act, incentives for the production of electric vehicles, batteries electricity, and tax credits for companies investing in clean technologies.
+-   **Technology Demonstrations**: Infraestructure Act, focus on infrastructure projects that promote innovation and sustainability, incentives for the adoption of clean and efficient techonologies in infrastructure project.
 -   3-3-3 plan: Involve cutting the budget deficit to 3% of GDP by 2028, boosting GDP growth to 3% through deregulation and other pro-growth policies, and increasing U.S. energy production to the equivalent of an additional 3 million barrels of oil per day.
 -   Workforce Education:
 -   Ambitious of industrialize: Build the factories, Supply chain, and vertically integrate those Supply chains together.
