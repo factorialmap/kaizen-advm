@@ -10,21 +10,21 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
--   Real gross domestic product increased at an annual rate of 2.3% in the fourth quarter of 2024 accordind to the second estimate(February 28,2025:T1).Drivers are consumer spending, and government spending. In the third quarter, real GPD increased 3.1%.
+-   Real gross domestic product increased at an annual rate of 2.4% in the fourth quarter of 2024 accordind to the third estimate(March 27,2025:T1).Drivers are consumer spending, and government spending. In the third quarter, real GPD increased 3.1%.
 
--   Personal consumption expenditures increased 4.2%, compared with 3.7% in the third quarter, according to the second estimate(February 28,2025:T1).
+-   Personal consumption expenditures increased 4.0%, compared with 3.7% in the third quarter, according to the third estimate(March 27,2025:T1).
 
--   Personal saving was \$828.6 billion in the fourth quarter. The personal saving rate as a percentage of disposable personal income was 3.8% in the fourth quarter, compared with 4.1% in the third quarter, according to the second estimate(February 28,2025:T8)
+-   Personal saving was \$802.8 billion in the fourth quarter. The personal saving rate as a percentage of disposable personal income was 3.7% in the fourth quarter, compared with 4.1% in the third quarter, according to the third estimate(March 27, 2025:T8)
 
--   Gross private domestic investment was -5.7% in the fourth quarter of 2024, compared with 0.8% in the third quarter, according to the second estimate(February 28,2025:T1). There was a -9% decrease in equipment in the fourth quarter, compared to +10.8% in the third quarter.
+-   Gross private domestic investment was -5.6% in the fourth quarter of 2024, compared with 0.8% in the third quarter, according to the third estimate(March 27,2025:T1). There was a -8.7% decrease in equipment in the fourth quarter, compared to +10.8% in the third quarter.
 
--   Government consumption expenditures and gross investment was 2.9% in the fourth quarter, according to the second estimate(February, 28, 2025:T1), compared with 5.1% in the third quarter of 2024.
+-   Government consumption expenditures and gross investment was 3.1% in the fourth quarter, according to the third estimate(March 27, 2025:T1), compared with 5.1% in the third quarter of 2024.
 
 **GPD for 2024**
 
-Real GDP increased 2.8 percent in 2024, compared with an increase of 2.9 percent in 2023(% change from preceding year), according to the second estimate(February 28, 2025). Drivers are consumer spending, investment, government spending, and exports.
+Real GDP increased 2.8 percent in 2024, compared with an increase of 2.9 percent in 2023, according to the third estimate(March 27, 2025). Drivers are consumer spending, investment, government spending, and exports.
 
-**Last update**: February, 2025
+**Last update**: March 27, 2025
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ## [**Inflation**]{style="color: #9D0F6A ;"}
@@ -37,7 +37,7 @@ The United States uses various measures to track inflation, and understanding th
 
 -   PCE inflation measures prices of goods and services consumed by households and nonprofit institutions, and includes food, energy, housing etc. The PCE inflation is more comprehensive than CPI(consume price index). The PCE inflation includes spending directly by households(you pay), and on behalf of households(someone pays for you). For example: When your employer provides health insurance, government provides medicare etc.
 
-**Last update**: February, 2025
+**Last update**: March, 2025
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **Core PCE Inflation**
@@ -46,7 +46,7 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 -   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
-**Last update**: February, 2025
+**Last update**: March, 2025
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
