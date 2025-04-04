@@ -364,7 +364,7 @@ a + b + c + d
 ![Boston Dynamics Atlas - USA](img/robot_atlas.png)
 
 ## H1
-![Unitree H1 - CH](img/robot_h1.png)
+![Unitree Dex5 - China](img/robot_dx5.png)
 
 ## MenteeBot
 ![Mentee MenteeBot - Israel](img/robot_menteebot.png)
