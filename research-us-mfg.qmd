@@ -363,7 +363,7 @@ a + b + c + d
 ## Atlas
 ![Boston Dynamics Atlas - USA](img/robot_atlas.png)
 
-## H1
+## Dex5
 ![Unitree Dex5 - China](img/robot_dx5.png)
 
 ## MenteeBot
