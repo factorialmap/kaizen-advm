@@ -31,13 +31,17 @@ My job was to visit twelve manufacturing plants to find opportunities for proces
 
 ::: panel-tabset
 
-## Model Summary
+## Strategic Model Summary
 
 ![Model for strategic decision support - summarized](img/bertin_sno_1.png)
 
-## Model Detail
+## Strategic Model Detail
 
 ![Model for strategic decision support - Expanded in one plant and one process](img/bertin_sno_2.png)
+
+## Operational Kaizen Projects
+
+![continuous Improvement Process using Lean priciples](img/kaizen_jbs_bertin.png)
 
 :::
 
