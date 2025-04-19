@@ -25,23 +25,24 @@ ganttrify(
   project = data_gantt,
   spots = data_spot,
   by_date = TRUE,
+  colour_palette = c("#96ceb4","#525e75","#cfa093","#e06377","#a3b7ca"),            #wesanderson::wes_palette("IsleofDogs2"),
   spot_size_text_relative = 1,
   spot_fill = ggplot2::alpha(c("white"), 0.1),
   spot_padding = unit(0.1, "lines"),
   spot_border = NA,
   project_start_date = data_gantt$start_date ,
   #hide_wp = TRUE,
-  alpha_wp = 0.5,
-  alpha_activity = 0.8,
+  alpha_wp = 0.8,
+  alpha_activity = 1,
   line_end_wp = "round",
   line_end_activity = "round",
   size_text_relative = .9,
   mark_quarters = TRUE,
-  font_family = "Roboto Condensed",
+  #font_family = "TT Arial",
   axis_text_align = "left"
 ) +
   labs(title = "Immigration process and ongoing activities",
-       subtitle = "2024 - Marcelo Carvalho",
+       subtitle = "2025 - Marcelo Carvalho",
        caption = "@carvalhoribeiro | USCIS/NVC data")
 ```
 
