@@ -7,7 +7,7 @@ execute:
 ---
 
 ::: panel-tabset
-## Calendar 2024
+## Calendar 2025
 
 ```{r}
 #| fig-width: 8
