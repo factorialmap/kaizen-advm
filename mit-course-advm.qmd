@@ -294,6 +294,31 @@ Source: MIT by y Brian Anthony
 
 Source: MIT by Brian Anthony
 
+### [**Fundamentals of Autonomous Robots**]{style="color: #9D0F6A ;"}
+
+**What is it ?**
+
+-   4 days course (on campus) about Advanced Data Analytics For IIOT and Smart Manufacturing, published by MIT and presented by professor Brian Anthony.
+
+-   This course is on Campus, and is closed. Course length: 4 days @mitcorporaterelations2023
+
+-   This course is structured based on industrial case driving with cases on optical fiber continuous extrusion, preform fabrication, coffe roasting(Nescafe), packaging beverages(tetrapack), engine manufacturing(Nissan), human monitoring and observation factory and clinic for improve quality(BMW), among others. The idea is to use consolidated techniques such as data distribution, probability, fourier transform @oficiencia2019 and machine learning to perform spectral analysis for predictive maintenance for example.- .
+
+**Summary**
+
+-   Identify the key components and tupes of autonomous robots.
+
+-   Describe basic principles.
+
+-   Recognize the main elements of robotics systems and architecture.
+
+-   List the primary sensors and perception techniques use in robotics, and more.
+
+-   Identify current trends and challenges in robotics, including the use of foundation models.
+
+Source: Nvidia Deep Learning Stitute
+
+
 ### [**Advanced Additive Manufacturing**]{style="color: #9D0F6A ;"}
 
 **What is it ?**
