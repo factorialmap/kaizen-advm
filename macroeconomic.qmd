@@ -616,16 +616,19 @@ data_house_supply %>%
 
 library(tidyverse)
 library(tidyquant)
+library(scales)
 
 data_house_stock <- 
   tq_get(c("TOL","DHI","KBH"),
          get = "stock.prices")
 
+
 data_house_stock %>% 
   ggplot(aes(x = date, y = adjusted))+
   geom_line(linewidth = 0.5,color = "#adb5bd")+
   facet_wrap(~symbol, scales = "free_y", nrow =1)+
-  theme_minimal()+
+  theme_get()+
+  scale_y_continuous(position = "right")+
   labs(x = "",
        y = "")
 ```
