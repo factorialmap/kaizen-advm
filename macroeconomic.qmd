@@ -10,11 +10,13 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
--   Real gross domestic product decreased at an annual rate of 0.3% in the first quarter of 2025 accordind to the advance estimate(April 30,2025:T1).Drivers are the increase in imports and decrease in government spending.These movements were partly offset by increases in investment, consumer spending, and exports.In the fourth quarter, real GPD increased 2.4%.
+**Last update**: May 2, 2025
+
+-   Real gross domestic product decreased at an annual rate of 0.3% in the first quarter of 2025 accordind to the advance estimate(April 30,2025:T1).Drivers are the increases in investment, consumer spending, and exports.These movements were partly offset by increase in imports and decrease in government spending. In the fourth quarter of 2024, real GPD increased 2.4%.
 
 -   Personal consumption expenditures increased 1.8%, compared with 4% in the fourth quarter of 2024, according to the advance estimate(April 30,2025:T1).
 
--   Personal saving was \$883.6 billion in the first quarter. The personal saving rate as a percentage of disposable personal income was 4% in the first quarter, compared with 3.7% in the fourth quarter, according to the advance estimate(April 30, 2025:T8)
+-   Personal saving was \$883.6 billion in the first quarter. The personal saving rate as a percentage of disposable personal income was 4% in the first quarter according to the advance estimate(April 30, 2025:T8), compared with 3.7% in the fourth quarter of 2024. 
 
 -   Gross private domestic investment was 21.9% in the first quarter of 2025, compared with -5.6% in the fourth quarter of 2024, according to the advance estimate(April 30,2025:T1). There was a 22.5% increased in equipment in the first quarter of 2025, compared to -8.7% in the fourth quarter of 2024.
 
@@ -24,32 +26,37 @@ execute:
 
 Real GDP increased 2.8 percent in 2024, compared with an increase of 2.9 percent in 2023, according to the third estimate(March 27, 2025). Drivers are consumer spending, investment, government spending, and exports.
 
-**Last update**: May 2, 2025
+
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ## [**Inflation**]{style="color: #9D0F6A ;"}
+
+**Last update**: May, 2025
 
 The United States uses various measures to track inflation, and understanding the differences between them is important.
 
 **PCE Inflation**
 
--   For January 2025, the PCE price index increased 2.5% from the same month one year ago, compared with increase of 3.8% in 2023:T6. The Federal Reserve aims for a 2% PCE inflation rate in the long term.
+-   Compared to the same month last year, the PCE price index for March 2025:T7 rose by 2.3%. The Federal Reserve targets a long-term PCE inflation rate of 2%
 
 -   PCE inflation measures prices of goods and services consumed by households and nonprofit institutions, and includes food, energy, housing etc. The PCE inflation is more comprehensive than CPI(consume price index). The PCE inflation includes spending directly by households(you pay), and on behalf of households(someone pays for you). For example: When your employer provides health insurance, government provides medicare etc.
 
-**Last update**: March, 2025
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **Core PCE Inflation**
 
--   For January 2025, the Core PCE price index increased 2.6% from the same month one year ago, compared with an increase of 4.1 in 2023:T7.
+**Last update**: May, 2025
+
+-   For March 2025, the Core PCE price index increased 2.6% from the same month one year ago.
 
 -   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
-**Last update**: March, 2025
+
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
+
+**Last update:** April, 2025. 
 
 -   The annual inflation rate for the United States was 2.4% for the 12 months ending March 2025, compared to the previus rate of 2.8%, acording to U.S. Bureau of Labor Statistics data.
 
@@ -67,28 +74,30 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 -   The CPI for April 2025 is scheduled to be released on May 13, 2025, at 08:30 a.m. (ET).
 
-**Last update:** April, 2025. 
+
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
--   From the same month over year ago, the consumer price index (CPI) for February increased 2.41%, acording to Federal Reserve Economic Data.
+**Last update:** April, 2025. 
+
+-   According to Federal Reserve Economic Data, the consumer price index (CPI) for March 2025 increased 2.41% compared the same month over year ago.
+
 
 ![](images/clipboard-2010062285.png) 
-**Last update:** March, 2025. 
+
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
 
--   United States Central Bank Rate stands at 4.50%, following the most recent adjustment in March 2025.
+-   United States Central Bank Rate stands at 4.50%, following the most recent adjustment in May 2025.
 
-> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to maintain the target range for the federal funds rate at 4.25-4.50 percent.
+> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to maintain the target range for the federal funds rate at 4.25-4.50 percent and to continue reducing the size of our balance sheet.
 >
-> Looking ahead, the new Administration is in the process of implementing significant policy changes in four distinct areas:**trade, immigration, fiscal policy, and regulation**.
-> It is net effect of these policy changes that will matter for the economy and for the path of monetary policy.
-> While there have been recent developments in some of these areas, especially trade policy, uncertainty around the changes and their effects on the economic outlook is high. As we parse the incoming information, we are focused on separating the signal from the nouse as the outlook evolves.
+> The new Administration is in the process of implementing substantial policy changes in four distinct areas:**trade, immigration, fiscal policy, and regulation**.
+> The tariff increases annouced so far have significantly larger than anticipated. All os  these policies are still evolving, however, and their effects on the economy remain highly uncertain.
 >
-> As we say in our statement, in considering the extent and timing of additional adjustments to the target range for the federal funds rate, the Committee will assess incoming data, the evolving outlook,and the balance of risks. We do not need to be in a hurry to adjust our policy stance, and we are well positioned to wait for greater clarity.
+> As economic conditions evolve, we will continue to determine the appopriate stance of monetary policy based on the incoming data, the outlook, and the balance of risks.
 >
-> — Jerome Powell, March 19, 2025.
+> — Jerome Powell, May 7, 2025.
 
 -   There was a signal in the Jackson Hole's speech, which marked the end of the four-year cycle of increase in the interest rates by the FED.
 
@@ -107,6 +116,9 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
     -   Commodities.
 
     -   Shelter (new tenant rents vs old tenant rents).
+
+
+**Last update:** January, 2025.
 
 Chair Powell on a question from Elizabeth Schulze of ABC News(December meeting, 2024). Why do you think it is that inflation is proving to be more stubborn than you'd expected?
 
@@ -152,17 +164,20 @@ data_interest_rate %>%
 
 ```
 
-**Last update:** January, 2025. Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
+Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
--   Total nonnfarm payroll employment rose by 256k in December 2024 trended up in hearth care, government,and social assistance. Retail trade added jobs in December, following a job loss in Novermber 2024.
+**Last update:** May, 2025
 
--   Unemployment rate in December, 2024 is 4.1% or 6.9 million people. The long-term unemployed(\>27 weeks or more) was 1.6 million up by 278 thousand from a year earlier that represents 22.4% of all unemployed people.
+-   Total nonnfarm payroll employment increased by 177 thousand in April 2025, and the unemployment rate was unchanged at 4.2%.
+Employment continued to trended up in health care, transportation and warehousing, financial ectivities, and social assistance. Federal government employment declined.
 
--   The labor force participation rate in December 2024 was 62.5%, was unchanged over the month and has remained in a narrow range of 62.5% to 62.7% since December 2023.
+-   Unemployment rate in Apri 2025 is 4.2% or 7.2 million people. The long-term unemployed(\>27 weeks or more) was 1.7 million up by 179 thousand from a year earlier that represents 23.5% of all unemployed people.
 
--   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. The number of continuing claims in December, 2024 is 1.86 million.
+-   The labor force participation rate in April 2025 was 62.6%.
+
+-   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. 
 
 ```{r}
 #| label: continued_claims
@@ -275,10 +290,11 @@ data_labor_tidht %>%
        y = "Job opport for each person seek a job")
 ```
 
-
-**Last update:** January, 2025. Source: Federal Reserve and [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
+Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
 
 ## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
+
+**Last update:** May, 2025
 
 -   The 10-year Treasury bond yield is a key indicator of investor sentiment about economic conditions. Is the interest rate the U.S. government pays to borrow money for a decade, serving as a benchmark for other interest rates, influences borrowing costs, impacts the valuation of financial assets, and signals expectations about inflation and economic growth.
 
@@ -375,6 +391,8 @@ Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 ## [**Sectors 2Q24**]{style="color: #9D0F6A ;"}
 
 ### [**Overall**]{style="color: #9D0F6A ;"}
+
+**Last update:** January, 2025
 
 Revenue cash flow remains a challenge that has effect on supply chains, labor market and debt costs, as some of these are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes striving for efficiency. Other behaviors:
 
@@ -620,7 +638,8 @@ library(scales)
 
 data_house_stock <- 
   tq_get(c("TOL","DHI","KBH"),
-         get = "stock.prices")
+         get = "stock.prices",
+         from = "2017-01-01")
 
 
 data_house_stock %>% 
