@@ -56,30 +56,30 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** April, 2025. 
+**Last update:** May, 2025. 
 
--   The annual inflation rate for the United States was 2.4% for the 12 months ending March 2025, compared to the previus rate of 2.8%, acording to U.S. Bureau of Labor Statistics data.
+-   The annual inflation rate for the United States was 2.3% for the 12 months ending April 2025, compared to the previus rate of 2.4% in March 2025, acording to U.S. Bureau of Labor Statistics data.
 
 -   CPI measures the average change in prices of a basket of goods and services and often used for cost of living adjustments, wage negotiations, social security benefits. Only counts out-of-pocket expenditures(you pay directly)
 
--   The CPI price index for March 2025 decreased -0.1% from the preceding month.
+-   The CPI price index for April 2025 increased 0.2% from the preceding month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | -0.1 | 2.4  |
-| Food        | 0.4 | 3.0  |
-| Energy      | -2.4 | -3.3  |
-| Services    | 0.1 | 3.7  |
-| Shelter     | 0.2 | 4.0  |
+| CPI overall | 0.2 | 2.3  |
+| Food        | -0.1 | 2.8  |
+| Energy      | 0.7 | -3.7  |
+| Services    | 0.3 | 3.6  |
+| Shelter     | 0.3 | 4.0  |
 
--   The CPI for April 2025 is scheduled to be released on May 13, 2025, at 08:30 a.m. (ET).
+-   The CPI for May 2025 is scheduled to be released on Jun 11, 2025, at 08:30 a.m. (ET).
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** April, 2025. 
+**Last update:** May, 2025. 
 
--   According to Federal Reserve Economic Data, the consumer price index (CPI) for March 2025 increased 2.41% compared the same month over year ago.
+-   According to Federal Reserve Economic Data, the consumer price index (CPI) for April 2025 increased 2.33% compared the same month over year ago.
 
 
 ![](images/clipboard-2010062285.png) 
