@@ -692,9 +692,9 @@ data_invest %>%
 
 -   Looking at the manufacturing plants construction sites.
 
-    -   **Semiconductor:** TSMC (Phenix, AZ:TSM:Production pilot Dec24) , Wolfspeed(Siler City Chatham County,NC and Mohawk Valley,NY:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
+    -   **Semiconductor:** TSMC (Phenix, AZ:TSM: fab1 production pilot Dec24, fab2 under construction, fab3 2nm chips next 10 years) , Wolfspeed(Siler City Chatham County,NC and Mohawk Valley,NY:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
 
-    -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC:Production pilot Apr25), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS:WIP Start production in Spring25), Ford SK (Stanton, TN:WIP Delay until 2027), SK on/Nissan (Canton, MS: Start 2028)
+    -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC:Production pilot Apr25 300k EV, 150K PHEV, 800K HEV annual production, 10 lines for EV and 14 lines for Hybrids), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS:WIP Start production in Spring25), Ford SK (Stanton, TN:WIP Delay until 2027), SK on/Nissan (Canton, MS: Start 2028)
 
     -   **Biomanufacturing:** Moderna(Marlborough,MA), Pfizer(Peral River, NY), Thermo Fisher(Greenville, NC), Novo Nordisk(Clayton, NC), Fujifilm(Holly Springs, NC), Genentech(Oceanside, CA)
 
