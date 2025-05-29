@@ -10,17 +10,18 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
-**Last update**: May 2, 2025
+**Last update**: May 29, 2025
 
--   Real gross domestic product decreased at an annual rate of 0.3% in the first quarter of 2025 accordind to the advance estimate(April 30,2025:T1).Drivers are the increases in investment, consumer spending, and exports.These movements were partly offset by increase in imports and decrease in government spending. In the fourth quarter of 2024, real GPD increased 2.4%.
+-   Real gross domestic product decreased at an annual rate of 0.2% in the first quarter of 2025 accordind to the second etimate(May 29,2025:T1).Drivers are the increases in investment, consumer spending and exports.These movements were partly offset by increse in imports and decreases in government spending. In the fourth quarter of 2024, real GPD increased 2.4%.
 
--   Personal consumption expenditures increased 1.8%, compared with 4% in the fourth quarter of 2024, according to the advance estimate(April 30,2025:T1).
+-   Personal consumption expenditures increased 1.2%, compared with 4% in the fourth quarter of 2024, according to the second estimate(May 29,2025:T1).
 
--   Personal saving was \$883.6 billion in the first quarter. The personal saving rate as a percentage of disposable personal income was 4% in the first quarter according to the advance estimate(April 30, 2025:T8), compared with 3.7% in the fourth quarter of 2024. 
+-   Gross private domestic investment was 24.4% in the first quarter of 2025, compared with -5.6% in the fourth quarter of 2024, according to the second estimate(May 29,2025:T1). There was a 24.8% increased in equipment in the first quarter of 2025, compared to -8.7% in the fourth quarter of 2024.
 
--   Gross private domestic investment was 21.9% in the first quarter of 2025, compared with -5.6% in the fourth quarter of 2024, according to the advance estimate(April 30,2025:T1). There was a 22.5% increased in equipment in the first quarter of 2025, compared to -8.7% in the fourth quarter of 2024.
+-   Government consumption expenditures and gross investment was -0.7% in the first quarter of 2025, according to the second estimate(May 29, 2025:T1), compared with 3.1% in the fourth quarter of 2024.
 
--   Government consumption expenditures and gross investment was -1.4% in the first quarter of 2025, according to the advance estimate(April 30, 2025:T1), compared with 3.1% in the fourth quarter of 2024.
+-   Personal saving was \$952.9 billion in the first quarter of 2025. The personal saving rate as a percentage of disposable personal income was 4.3% in the first quarter according to the second estimate(May 29, 2025:T8), compared with 3.8% in the fourth quarter of 2024. 
+
 
 **GPD for 2024**
 
@@ -712,8 +713,8 @@ library(tidyquant)
 
 data_mfg_workers <- tq_get("MANEMP",
                            get = "economic.data",
-                           from = "1960-01-01",
-                           to = "2026-01-01")
+                           from = "1970-01-01",
+                           to = "2027-01-01")
 
 data_end_mfg_workers <- 
   data_mfg_workers %>%  
