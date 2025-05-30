@@ -38,7 +38,9 @@ The United States uses various measures to track inflation, and understanding th
 
 **PCE Inflation**
 
--   Compared to the same month last year, the PCE price index for March 2025:T7 rose by 2.3%. The Federal Reserve targets a long-term PCE inflation rate of 2%
+-   Compared to the same month last year, the PCE price index for April 2025:T7 rose by 2.1%. The Federal Reserve targets a long-term PCE inflation rate of 2%
+
+-   Personal income increased 0.8 percent at a monthly rate in April, according to estimates released at April 30, 2025.
 
 -   PCE inflation measures prices of goods and services consumed by households and nonprofit institutions, and includes food, energy, housing etc. The PCE inflation is more comprehensive than CPI(consume price index). The PCE inflation includes spending directly by households(you pay), and on behalf of households(someone pays for you). For example: When your employer provides health insurance, government provides medicare etc.
 
@@ -48,7 +50,7 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **Last update**: May, 2025
 
--   For March 2025, the Core PCE price index increased 2.6% from the same month one year ago.
+-   From the same month one year ago, the Core PCE price index increased 2.5%.
 
 -   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
@@ -60,6 +62,7 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 **Last update:** May, 2025. 
 
 -   The annual inflation rate for the United States was 2.3% for the 12 months ending April 2025, compared to the previus rate of 2.4% in March 2025, acording to U.S. Bureau of Labor Statistics data.
+
 
 -   CPI measures the average change in prices of a basket of goods and services and often used for cost of living adjustments, wage negotiations, social security benefits. Only counts out-of-pocket expenditures(you pay directly)
 
