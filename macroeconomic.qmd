@@ -607,8 +607,8 @@ data_house_supply %>%
   )+
   theme_minimal()+
   labs(title = "Monthly Supply of New Houses",
-      caption = "Sourre: Federal Reserve Economic Data",
-      y = "new houses for sale/new houses sold")
+      caption = "Source: Federal Reserve Economic Data",
+      y = "Months' Supply at Current Sales Rate")
 
 ```
 
