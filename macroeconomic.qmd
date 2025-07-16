@@ -54,31 +54,31 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** Jun, 2025. 
+**Last update:** Jul, 2025. 
 
--   The annual inflation rate for the United States was 2.4% for the 12 months ending May 2025, compared to the previus rate of 2.3% in April 2025, acording to U.S. Bureau of Labor Statistics data.
+-   The annual inflation rate for the United States was 2.7% for the 12 months ending Jun 2025, compared to the previus rate of 2.4% in May 2025, acording to U.S. Bureau of Labor Statistics data.
 
 
 -   CPI measures the average change in prices of a basket of goods and services and often used for cost of living adjustments, wage negotiations, social security benefits. Only counts out-of-pocket expenditures(you pay directly)
 
--   The CPI price index for May 2025 increased 0.1% from the preceding month.
+-   The CPI price index for Jun 2025 increased 0.3% from the preceding month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | 0.1 | 2.4  |
-| Food        | 0.3 | 2.9  |
-| Energy      | -1.0 | -3.5  |
+| CPI overall | 0.3 | 2.7  |
+| Food        | 0.3 | 3.0  |
+| Energy      | 0.9 | -0.8  |
 | Services    | 0.3 | 3.6  |
-| Shelter     | 0.3 | 3.9  |
+| Shelter     | 0.2 | 3.8  |
 
--   The CPI for Jun 2025 is scheduled to be released on Jul 15, 2025, at 08:30 a.m. (ET).
+-   The CPI for Jul 2025 is scheduled to be released on Aug 12, 2025, at 08:30 a.m. (ET).
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** Jun, 2025. 
+**Last update:** Jul, 2025. 
 
--   According to Federal Reserve Economic Data, the consumer price index (CPI) for May 2025 increased 2.38% compared the same month over year ago.
+-   According to Federal Reserve Economic Data, the consumer price index (CPI) for Jun 2025 increased 2.67% compared the same month over year ago.
 
 
 ![](images/clipboard-2010062285.png) 
