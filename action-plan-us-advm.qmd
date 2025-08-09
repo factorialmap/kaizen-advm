@@ -483,33 +483,33 @@ Theses cases emphasize that the United States must regain its learning by doing 
 
 ### [**Workforce Education**]{style="color: #9D0F6A ;"}
 
-#### **United States Strtegy and Goals**
+#### **United States Strategy and Goals**
 
--   **Reverse declining U.S. manufacturing productivity by accelerating the adoption of advanced manufacturing technologies** To achieve productivity levels comparale to leading industrialized nations, the workforce must be trained in operating, maintaining, and innovating with technologies like AI, robotics, and digital twins. This requires widespread technical education, certification programs, and hands-on training in smart manufacturing systems.
+-   **Reverse declining U.S. manufacturing productivity by accelerating the adoption of advanced manufacturing technologies** To achieve productivity levels comparable to leading industrialized nations, the workforce must be trained in operating, maintaining, and innovating with technologies like AI, robotics, and digital twins. This requires widespread technical education, certification programs, and hands-on training in smart manufacturing systems.
 
--   **Increase U.S. share of global output in advanced industries by at least 20 percentage poins within a decade** Competing globally in high-tech sectors demands a workforce proficient in STEM field(Science, Technology, Engineering, and mathematics), systems engineering, and digital production. Education systems must align with industry needs, emphasizing innovation, design thinking, and cross-disciplinary collaboration.
+-   **Increase U.S. share of global output in advanced industries by at least 20 percentage poins within a decade.** Competing globally in high-tech sectors demands a workforce proficient in STEM field(Science, Technology, Engineering, and mathematics), systems engineering, and digital production. Education systems must align with industry needs, emphasizing innovation, design thinking, and cross-disciplinary collaboration.
 
--   **Quadruple advanced manufacturing technology adoption among small and medium-sized manufacturers by 2030** SMMs often lack the resources to train staff in new technologies. Workforce education must include scalable, affordable training solutions such as online platforms, mobile labs, and regional training hubs to ensure these business can adopt and benefit from ADVM tools.
+-   **Quadruple advanced manufacturing technology adoption among small and medium-sized manufacturers by 2030.** SMMs often lack the resources to train staff in new technologies. Workforce education must include scalable, affordable training solutions such as online platforms, mobile labs, and regional training hubs to ensure these business can adopt and benefit from ADVM tools.
 
--   **Establish strategic trade partnerships with democratic market economies to pool demand for advanced industrial goods** These partnerships will increase demand for high-quality, export-ready products, requiring a workforce skilled in international standards, quality assurance, and supply chain logistics. Education must include global trade literacy and cross-cultural communication skills.
+-   **Establish strategic trade partnerships with democratic market economies to pool demand for advanced industrial goods.** These partnerships will increase demand for high-quality, export-ready products, requiring a workforce skilled in international standards, quality assurance, and supply chain logistics. Education must include global trade literacy and cross-cultural communication skills.
 
--   **Cyber-harden the U.S. industrial base to protect against systemic risk, including from AI-enable attacks** As cyber threats grow, especially in AI-integrated systems, there is critical need for cybersecurity professionals with expertise in industrial control systems. Workforce development must prioritize cyber-physical security training and certifications tailored to manufacturing environments.
+-   **Cyber-harden the U.S. industrial base to protect against systemic risk, including from AI-enable attacks.** As cyber threats grow, especially in AI-integrated systems, there is critical need for cybersecurity professionals with expertise in industrial control systems. Workforce development must prioritize cyber-physical security training and certifications tailored to manufacturing environments.
 
--   **Achieve an average 3% GDP growth per year** Sustained economic growth depends on labor productivity and innovation. Workforce education must foster entrepreneurial thinking, digital fruency, and adaptability to ensure workers can contribute to and benefit from a dynamic economy.
+-   **Achieve an average 3% GDP growth per year.** Sustained economic growth depends on labor productivity and innovation. Workforce education must foster entrepreneurial thinking, digital fluency, and adaptability to ensure workers can contribute to and benefit from a dynamic economy.
 
--   **Reduce the budget deficit from 6.5% to 3% of GDP (a \$2 trillion reduction** A more productive, higher-skilled workforce can increate tax revenues and reduce reliance on social safety nets. Education investments, particularly in high-return areas like technical training and adult reskilling, are essential to achieving fiscal sustainability.
+-   **Reduce the budget deficit from 6.5% to 3% of GDP (a \$2 trillion reduction).** A more productive, higher-skilled workforce can increase tax revenues and reduce reliance on social safety nets. Education investments, particularly in high-return areas like technical training and adult reskilling, are essential to achieving fiscal sustainability.
 
--   **Produce energy equivalentto 3 million barrels of oil per day** Meeting this energy goal likely though renewables, nuclear, and advanced fuels requires a new generation of energy technicians, engineers, and systems operators. Workforce education must expand to include green energy technolgies, environmental systems, and energy policy literacy.
+-   **Produce energy equivalent to 3 million barrels of oil per day.** Meeting this energy goal likely though renewables, nuclear, and advanced fuels requires a new generation of energy technicians, engineers, and systems operators. Workforce education must expand to include green energy technolgies, environmental systems, and energy policy literacy.
 
 #### **Strategic Shifts and Sectoral Transformation: Industrial Reflextions on America's Workforce-Driven Economic Agenda**
 
-National strategy are influence industrial sectors and emphasizes the role of workforce development as a central driver of change. This change has significant implications for workforce development, particularly in traditional industries such as automotive, stell, textiles, and electronics.
+National strategy are influence industrial sectors and emphasizes the role of workforce development as a central driver of change. This change has significant implications for workforce development, particularly in traditional industries such as automotive, steel, textiles, and electronics.
 
 These sectors, once the backbolne of American industry, are now being reimagined through the lens of advanced technolgy and sustainability. As a result, a new model of education and training is not just relevant, it's essential.
 
-Many of these legacy industries are undergoing technological modernization,incorporating robotics, the Internet of Things(IoT), and artifical intelligence(AI) into their operations. This transformation demands a workforce that is not only familiar with theses technologies but also capable of leveraging them to drive productivity and innovation. However, there is a growing skills gap betweenb what workers currenly know and what modern manufacturing requires. Traditional vocational training programs often struggle to keep pace with the rapid evolution of technology, making them insufficient for preparing workers for the future.
+Many of these legacy industries are undergoing technological modernization, incorporating robotics, the Internet of Things(IoT), and artifical intelligence(AI) into their operations. This transformation demands a workforce that is not only familiar with theses technologies but also capable of leveraging them to drive productivity and innovation. However, there is a growing skills gap between what workers currenly know and what modern manufacturing requires. Traditional vocational training programs often struggle to keep pace with the rapid evolution of technology, making them insufficient for preparing workers for the future.
 
-At the same time, demographic shifts are creating additional pressure. As older workers retire, theres is an urgent need to attract younger talent to these industries. A modernized, tech-integrated education model can help make these careers more appealing to a new generation. Moreover, strengthening domestic manufacturing is also a matter of national resilience and security. Reducing dependece of foreing supply chains requires a robust, skilled workforce that can support and sustain local production capailities.
+At the same time, demographic shifts are creating additional pressure. As older workers retire, there is an urgent need to attract younger talent to these industries. A modernized, tech-integrated education model can help make these careers more appealing to a new generation. Moreover, strengthening domestic manufacturing is also a matter of national resilience and security. Reducing dependece of foreing supply chains requires a robust, skilled workforce that can support and sustain local production capailities.
 
 Artifical intelligence can play a transformative role in this educational shift. One of its most powerful contributions is the ability to personalize learning. AI can analyze individual learning styles and skill levels to create customized training programs, making education more effective and engaging. It can also power simulations and virtual training environments that replicate complex industrial settings, allowing workers to train safely and efficiently without needing access to physical equipment.
 
@@ -529,21 +529,19 @@ A significant need is anticipated in manufacturing sector, with an estimated two
 
 Development of short course (10-20 weeks) as crucial new approach for the workforce, as many cannot take two years off for a degree. These programs should offer credentials that can be built into groups and stacked towards degrees over time.
 
-Universities can contribute to developing new advanced curriculum for fields like advanced manufacturing. Boot camps (CHECK WEBE AUTO PROFESSOR JOHN KELLY) "https://youtu.be/Dujr3DRkpDU?si=AKTdbcj2E1Y3PECf"
+Universities can contribute to developing new advanced curriculum for fields like advanced manufacturing. Boot camps (CHECK WEBER AUTO PROFESSOR JOHN KELLY) "https://youtu.be/Dujr3DRkpDU?si=AKTdbcj2E1Y3PECf"
 
 **Putting New Education Technologies to Use**
 
 Online education as a powerful thing and a game changer especially for scaling up to meet workforce training challenges.
 
-Key technologies highlighted include augmented reality and virtual reality.
-
-Online credentialing is also critical, allowing individuals to earn verified digital credentials for shot courses that can be easily shared(e.g linkedIn, Xjobs) and validated by employers without traditional verification calls. The MicroMasters program at MIT is an example of such a credentialing system, offering a pathway to a master's degree.
+Key technologies highlighted include augmented reality and virtual reality. Online credentialing is also critical, allowing individuals to earn verified digital credentials for short courses that can be easily shared(e.g linkedIn, Xjobs) and validated by employers without traditional verification calls. The MicroMasters program at MIT is an example of such a credentialing system, offering a pathway to a master's degree.
 
 The rapid pace of change, with new job category like data scientist and Instagram marketing emerging quickly, makes online education crucial for rapid retraining and upskilling. The science of learning principles, such as spaced retrieval (revisiting information over time) and interleaving(alternating topics to detect differences), are also better supported by online platforms.
 
-For the future of education technology, a compelling idea of Andrej Karpathy spoke about the need for two distinct applications. One for teachers and one for students. This concept stems from his broader vision of *software 3.0*, where large language models and natural language interfaces redefine how we build and interact with software.
+For the future of education technology, Andrej Karpathy at @ycombinator2025 spoke about the need for two distinct applications. One for teachers and one for students. This concept stems from his broader vision of *software 3.0*, where large language models and natural language interfaces redefine how we build and interact with software.
 
-Karpathy argues that the roles of teachers and students are fundamentally different in the learning process, and therefore, heir digital tolls should reflect that distinction.
+Karpathy argues that the roles of teachers and students are fundamentally different in the learning process, and therefore, their digital tools should reflect that distinction.
 
 -   For students, the app should be optimized for exploration, engagement, and personalized learning. It would leverage AI to adapt content to each learner's pace, style, and interests, offering interactive lessons, real-time feedback, and gamified experiences. The student app becomes a dynamic tutorm, capable of guiding learner through complex topics using conversational interfaces and intelligence scaffolding.
 
