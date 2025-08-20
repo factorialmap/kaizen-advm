@@ -17,6 +17,13 @@ website:
       - projects.qmd
       - workflow.qmd
       - sidebar:research_2024
+    right:
+      - icon: twitter
+        href: https://x.com/factorialmap
+        target: "_blank"
+      - icon: github
+        href: https://github.com/factorialmap
+        target: "_blank"
   sidebar: 
     - id: research_2024
       style: "docked"
@@ -29,11 +36,6 @@ website:
         - href: research-us-mfg.qmd
         - href: data-analysis-mfg.qmd
         - href: macroeconomic.qmd
-      tools:
-      - icon: twitter
-        href: https://twitter.com/factorialmap
-      - icon: github
-        href: https://github.com/factorialmap/kaizen-advm
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Marcelo Carvalho  dos Anjos"

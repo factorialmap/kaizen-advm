@@ -485,21 +485,25 @@ Theses cases emphasize that the United States must regain its learning by doing 
 
 #### **United States Strategy and Goals**
 
--   **Reverse declining U.S. manufacturing productivity by accelerating the adoption of advanced manufacturing technologies** To achieve productivity levels comparable to leading industrialized nations, the workforce must be trained in operating, maintaining, and innovating with technologies like AI, robotics, and digital twins. This requires widespread technical education, certification programs, and hands-on training in smart manufacturing systems.
+![US Strategy Goals](img/us_strategic_goals.png)
 
--   **Increase U.S. share of global output in advanced industries by at least 20 percentage poins within a decade.** Competing globally in high-tech sectors demands a workforce proficient in STEM field(Science, Technology, Engineering, and mathematics), systems engineering, and digital production. Education systems must align with industry needs, emphasizing innovation, design thinking, and cross-disciplinary collaboration.
+-   **Reverse declining U.S. manufacturing productivity by accelerating the adoption of advanced manufacturing technologies** To achieve productivity levels comparable to leading industrialized nations, the workforce must be trained in operating, maintaining, and innovating with technologies like AI, robotics, and digital twins. This requires widespread technical education, certification programs, and hands-on training in smart manufacturing systems.
 
 -   **Quadruple advanced manufacturing technology adoption among small and medium-sized manufacturers by 2030.** SMMs often lack the resources to train staff in new technologies. Workforce education must include scalable, affordable training solutions such as online platforms, mobile labs, and regional training hubs to ensure these business can adopt and benefit from ADVM tools.
 
 -   **Establish strategic trade partnerships with democratic market economies to pool demand for advanced industrial goods.** These partnerships will increase demand for high-quality, export-ready products, requiring a workforce skilled in international standards, quality assurance, and supply chain logistics. Education must include global trade literacy and cross-cultural communication skills.
 
+-   **Increase U.S. share of global output in advanced industries by at least 20 percentage poins within a decade.** Competing globally in high-tech sectors demands a workforce proficient in STEM field(Science, Technology, Engineering, and mathematics), systems engineering, and digital production. Education systems must align with industry needs, emphasizing innovation, design thinking, and cross-disciplinary collaboration.
+
 -   **Cyber-harden the U.S. industrial base to protect against systemic risk, including from AI-enable attacks.** As cyber threats grow, especially in AI-integrated systems, there is critical need for cybersecurity professionals with expertise in industrial control systems. Workforce development must prioritize cyber-physical security training and certifications tailored to manufacturing environments.
 
--   **Achieve an average 3% GDP growth per year.** Sustained economic growth depends on labor productivity and innovation. Workforce education must foster entrepreneurial thinking, digital fluency, and adaptability to ensure workers can contribute to and benefit from a dynamic economy.
+-   **Produce energy equivalent to 3 million barrels of oil per day.** Meeting this energy goal likely though renewables, nuclear, and advanced fuels requires a new generation of energy technicians, engineers, and systems operators. Workforce education must expand to include green energy technolgies, environmental systems, and energy policy literacy.
 
 -   **Reduce the budget deficit from 6.5% to 3% of GDP (a \$2 trillion reduction).** A more productive, higher-skilled workforce can increase tax revenues and reduce reliance on social safety nets. Education investments, particularly in high-return areas like technical training and adult reskilling, are essential to achieving fiscal sustainability.
 
--   **Produce energy equivalent to 3 million barrels of oil per day.** Meeting this energy goal likely though renewables, nuclear, and advanced fuels requires a new generation of energy technicians, engineers, and systems operators. Workforce education must expand to include green energy technolgies, environmental systems, and energy policy literacy.
+
+-   **Achieve an average 3% GDP growth per year.** Sustained economic growth depends on labor productivity and innovation. Workforce education must foster entrepreneurial thinking, digital fluency, and adaptability to ensure workers can contribute to and benefit from a dynamic economy.
+
 
 #### **Strategic Shifts and Sectoral Transformation: Industrial Reflextions on America's Workforce-Driven Economic Agenda**
 
