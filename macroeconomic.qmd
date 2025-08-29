@@ -10,17 +10,17 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
-**Last update**: Jul, 2025
+**Last update**: Aug, 2025
 
--   Real gross domestic product increased at an annual rate of 3.0% in the second quarter of 2025 accordind to the advance etimate(July 30,2025:T1). Drivers are the increase in consumer spending and decrease in imports, which are a substraction in the calculation of GDP. In the fourth quarter of 2024, real GPD increased 2.4%.
+-   Real gross domestic product increased at an annual rate of 3.3% in the second quarter of 2025 accordind to the second estimate(Aug 28,2025:T1). Drivers are the increase in consumer spending and decrease in imports, which are a substraction in the calculation of GDP. In the fourth quarter of 2024, real GPD increased 2.4%.
 
--   Personal consumption expenditures increased 1.4%, compared with 0.5% in the first quarter of 2025, according to the advance estimate(Jul 30,2025:T1).
+-   Personal consumption expenditures increased 1.6%, compared with 0.5% in the first quarter of 2025, according to the second estimate(Aug 28,2025:T1).
 
--   Gross private domestic investment was -15.6% in the second quarter of 2025, compared with 23.8% in the first quarter, according to the advance estimate(july 30,2025:T1). There was a 4.8% increased in equipment in the second quarter of 2025, compared to 23.7% in the first quarter.
+-   Gross private domestic investment was -13.8% in the second quarter of 2025, compared with 23.8% in the first quarter, according to the second estimate(Aug 28,2025:T1). There was a 7.4% increased in equipment in the second quarter of 2025, compared to 23.7% in the first quarter.
 
--   Government consumption expenditures and gross investment was 0.4% in the second quarter of 2025, compared with -0.6% in the first quarter according to the advance estimate(July 30, 2025:T1),
+-   Government consumption expenditures and gross investment was -0.2% in the second quarter of 2025, compared with -0.6% in the first quarter according to the second estimate(Aug 28, 2025:T1).
 
--   Personal saving was \$1 trillion in the second quarter of 2025. The personal saving rate as a percentage of disposable personal income was 4.7% in the second quarter of 2025, compared with 4.3% in the first quarter according to the advance estimate(July 30, 2025:T8).
+-   Personal saving was \$1 trillion in the second quarter of 2025. The personal saving rate as a percentage of disposable personal income was 4.6% in the second quarter of 2025, compared with 4.3% in the first quarter according to the second estimate(Aug 28, 2025:T8).
 
 
 **GPD for 2024**
