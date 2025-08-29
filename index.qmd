@@ -12,13 +12,13 @@ format:
 
 ### [**Welcome**]{style="color: #9D0F6A ;"}
 
--   My names is Marcelo Carvalho dos Anjos and I am a Business & Process Improvement Analyst focused on optimizing day-to-day manufacturing business using Lean principles, PDCA method, 5S and computational tools like R, Python, Power BI, and AI models. I have been researching in this area since 1995 and working professionally since 2002.
+-   My name is Marcelo Carvalho dos Anjos, and I am a Business & Process Improvement Analyst specializing in optimizing day-to-day manufacturing operations using Lean principles, the PDCA method, 5S, and computational tools such as R, Python, Power BI, and AI models. I have been researching is this field since 1995 and working professionally since 2022.
 
 ### [**Goals with this website**]{style="color: #9D0F6A ;"}
 
--   Writing about business and process improvement analysis and how to apply machine learning and large language models to facilitate the adoption and execution of lean principles, the PDCA method and statistical tools for process improvement in manufacturing.
--   Create a educational content for my niece Alexis and my nephew Noah who are studying robotics in Japan
--   Build the foundations for my PhD research that investigates **Factors impacting manufacturing competitiveness, personal development, and management capacity during economic shifts.**
+-   Writing about business and process improvement analysis, and how to apply machine learning and large language models to support the adoption and execution of Lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
+-   Creating educational content for my niece Alexis and my nephew NOah, who are studying robotics in Japan.
+-   Laying the groundwork for my PhD research, which investigates the factors influencing manufacturing competitiveness, personal development, and management capacity during periods of economic change.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
 
@@ -35,18 +35,18 @@ format:
 
 ### [**Who do I learn from?**]{style="color: #9D0F6A ;"}
 
-Below are some people from whom I continually learn through books, lectures, classes, scientific papers, and thoughts.
+Below are some individuals I continually learn from through books, lectures, classes, scientific papers, and reflections.
 
 W. Edwards Deming, Max Kuhn, Irene Haas Amaral, Lex Fridman, William Bonvillian, Robert Atkinson, Marilda Martinez de Lima Menes, David Landes, Celso Correia de Souza, Edison Arrabal Arias, Nakata Kenji, Itoshi Kume, Toshiko Narusawa, James Womack, Ivo Martins Cezar, Brian Anthony, John Hart, Pedro Baldoto, Lucia Helena Galvão, Milton Friedman, Allan Greenspan, Jerome Powell, Gary Gensler, Gary Cohn, Rebecca Paterson, Ray Dalio, Douglas Montgomery, Earll Murman, Susan Sheehy, John Shook, George Runger, Julia Silge, Hadley Wickham, David Spiegelhalter, Sanjay Sarma, Raj Shaunak, Ilya Sutskever, Warren McCulloch, Miguel Nocolelis, Anand Avati, Andrej karpathy, Andrew Ng, Fei-Fei-Li,Justin Johnson, Serena Yeung, Geoffrey Hinton, Yan LeCun, Drago Anguelov, Steve Jobs, John Guttag, Bill Aulet, Ed Roberts, Flavio Naoum, Paulo Cezar Naoum, Anderson Roberto, Ana Paula Incerti,Sheila Back, James Wasserman, Mansueto Almeida, Marcos Lisboa, Felipe Salto, Roberto Dumas, Mark Machin, Bharatendra Rai, Marcos Fava Neves, Daniel Sjoberg, Mine Çetinkaya-Rundel, Emily Zabor, Andrew Glassner, Andrew Kniss, Jens Streibig, Michael Bloomberg, David Robinson, Niall Ferguson, Steve Jurvetson, Alboukadel Kassambara, François Husson, Luca Scrucca, Johan Korteling, Anne-Marie Brouwer, Alexander Toet, Sandy Munro,
 
 ### [**Some books that may be helpful in process improvement**]{style="color: #9D0F6A ;"}
 
-Some books with fundamentals that help me deal with the daily challenges of my career.
+These are some foundational books that help me navigate the daily challenges of my career.
 
 ::: panel-tabset
 ## Data Science
 
-![Why is statistics important? Can data help me see the world differently? Is difficult to use software for data science? How do I use R and Python for data science? Is there agricultural data that I can use to practice experiments?](img/book_data_science.png)
+![Why is statistics important? Can data help me see the world differently? It is difficult to use software for data science? How do I use R and Python for data science? Is there agricultural data I can use to practice data science experiments?](img/book_data_science.png)
 
 ## Machine Learning Models
 
@@ -54,16 +54,16 @@ Some books with fundamentals that help me deal with the daily challenges of my c
 
 ## Process improvement and engineering
 
-![How to apply statistics and probability in engineering process? How to use statistical methods for quality improvement? How to use statistical methods in health care? How to use statistical methods in social science? How to use data science in long term strategy?](img/book_engineering.png)
+![How can statistics and probability be applied in engineering processes? How can statistical methods be used to improve quality? How can statisical methods be applied in healthcare? How can statical methods be used in social sciences? How can data science support long-term strategy development?](img/book_engineering.png)
 
 ## New World
 
-![Different thoughts on artificial intelligence, economic challenges and innovation policies](img/book_future.png)
+![Exploring different perspectives on artificial intelligence, economic challenges, and innovation policies](img/book_future.png)
 :::
 
 ### [**Inspirations and long term purpose**]{style="color: #9D0F6A ;"}
 
-Learn with enthusiam, strive for excellence, and share knowledge to create opportunities for others.
+Learn with enthusiasm, strive for excellence, and share knowledge to create opportunities for others.
 
 ::: wrap
 <center>
