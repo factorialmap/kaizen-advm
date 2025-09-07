@@ -8,7 +8,7 @@ This summary is based on @helwig2024, and aims to improve my writing skills, bus
 
 The texts may contain typos, imcomplete thoughts, and will be subject to ongoing revision and development. In addition to the main document, I also used reference documents, books, videos and articles to complement this work.
 
-### [**Advanced Manufacturing**]{style="color: #9D0F6A ;"}
+### [Advanced Manufacturing]{style="color: #9D0F6A ;"}
 
 -   Advanced manufacturing refers to the use of innovative technology, process and methods like intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles to accelerate the design and production of physical goods. As a result, it is possible to achieve scale and possibilities that was previously impossible like cost reduction, and value-added products in shorter cycles.
 
@@ -16,7 +16,7 @@ The texts may contain typos, imcomplete thoughts, and will be subject to ongoing
 
 ![Advanced Manufacturing](img/advanced_mfg_network.png)
 
-### [**Impacts**]{style="color: #9D0F6A ;"}
+### [Impacts]{style="color: #9D0F6A ;"}
 
 Adcanced manufacturing drives economic stability, competitiveness, and growth, while maintaining fundamental skills, and mitigating market risks. Key impacts also include:
 
@@ -28,7 +28,7 @@ Adcanced manufacturing drives economic stability, competitiveness, and growth, w
 -   **Customization and Flexibility**: 3D printing enable on-demand manufacturing of highly customizable products without retooling.
 -   **Environmental Impact**: By reducing material waste, energy consumption, and gas emissions.
 
-### [**The Past**]{style="color: #9D0F6A ;"}
+### [The Past]{style="color: #9D0F6A ;"}
 
 Explore the past experiences estimulate our ability of mental time travel that essential for survival and adaptation, as it helps us predict outcomes, learn from mistakes, and build a sense of identity. Studying the past helps us identify how experiences shape the history and influence memory formation, and learning.
 
@@ -72,7 +72,7 @@ Explore the past experiences estimulate our ability of mental time travel that e
 
     **Continuous improvement** Employees are encouraged to submit improvement ideas, with recognition and rewards for successful implementatios. Lean enterprises need to grow to provide apportunities for their employess and increase value creation. By cosntantly improving and becoming more efficient, theu can remain competitive and secure the jobs of their workforce @murman2008
 
-### [**The Present**]{style="color: #9D0F6A ;"}
+### [The Present]{style="color: #9D0F6A ;"}
 
 Focusing on the present helps us undertand how we process information in real time, essential for responding to stimuli quickly and performing daily activities with mindfulness. One of the challenges of staying focused on the present is dealing with digital and physical distractions that are present in abundant quantities.
 
@@ -331,7 +331,7 @@ data_mfg_construct %>%
 
 ```
 
-### [**The Future**]{style="color: #9D0F6A ;"}
+### [The Future]{style="color: #9D0F6A ;"}
 
 Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
 
@@ -427,7 +427,7 @@ data_real_gdp_yoy <- fredr(series_id = "GDPC1",
 
     -   **Intelligent management grid** Electric vehicle charging management according to variables such as demand, time, and avaiability. The vehicle would make the decision based on data analysis with focus on system avaiability.
 
-### [**Action Plan**]{style="color: #9D0F6A ;"}
+### [Action Plan]{style="color: #9D0F6A ;"}
 
 -   **Semiconductors**: Chips and Science Act, focus on increasing US competitiveness in the semiconductor industry, incentive for creating research and development centers in semiconductor techonologies.
 -   **Energy Technologies**: Inflation Reduction Act, incentives for the production of electric vehicles, batteries electricity, and tax credits for companies investing in clean technologies.
@@ -438,7 +438,7 @@ data_real_gdp_yoy <- fredr(series_id = "GDPC1",
 
 ![Illustration of processes guided by objectives and strategy](img/us_mfg_goals.png)
 
-### [**Challenges**]{style="color: #9D0F6A ;"}
+### [Challenges]{style="color: #9D0F6A ;"}
 
 -   **Learning by doing**: When companies or countries cease production something, it becomes difficult to redevelop that capability. This is due to the speciallized process knowledge required to manufacture high-value-added technology products. Here are some examples of historical process innovations and how they illustrate the importance of learning by doing.
 
@@ -452,7 +452,7 @@ data_real_gdp_yoy <- fredr(series_id = "GDPC1",
 
 Theses cases emphasize that the United States must regain its learning by doing advantage in advanced manufacturing to compete effectively in the global technology landscape.
 
-### [**Value Chain**]{style="color: #9D0F6A ;"}
+### [Value Chain]{style="color: #9D0F6A ;"}
 
 **Business Model and Cultural transformation**
 
@@ -467,7 +467,7 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   How to deliver superior customer value in line with one of the three value disciplines - operational excellence, customer intimacy or product leadership - in a world where populations are getting older @anjos2024 , more urban, new tehnologies are emerging rapidly, economic activity in emerging markets is expanding rapidly all this without forgetting climate change ?
 
 ::: panel-tabset
-## Value Chain
+## Value Chain agents
 
 ![Illustration of value chain](img/new_world_value_chain.png)
 
@@ -481,11 +481,11 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   What about supply chain system with Allies and Partners (pag31,35)
 -   What about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
 
-### [**Workforce Education**]{style="color: #9D0F6A ;"}
+### [Workforce Education]{style="color: #9D0F6A ;"}
 
-#### **United States Strategy and Goals**
+#### U.S. Strategy Goals
 
-![US Strategy Goals](img/us_strategic_goals.png)
+![U.S. Strategy Goals](img/us_strategic_goals.png)
 
 -   **Reverse declining U.S. manufacturing productivity by accelerating the adoption of advanced manufacturing technologies** To achieve productivity levels comparable to leading industrialized nations, the workforce must be trained in operating, maintaining, and innovating with technologies like AI, robotics, and digital twins. This requires widespread technical education, certification programs, and hands-on training in smart manufacturing systems.
 
@@ -505,7 +505,7 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   **Achieve an average 3% GDP growth per year.** Sustained economic growth depends on labor productivity and innovation. Workforce education must foster entrepreneurial thinking, digital fluency, and adaptability to ensure workers can contribute to and benefit from a dynamic economy.
 
 
-#### **Strategic Shifts and Sectoral Transformation: Industrial Reflextions on America's Workforce-Driven Economic Agenda**
+#### Workforce-Driven Economic Agenda
 
 National strategy are influence industrial sectors and emphasizes the role of workforce development as a central driver of change. This change has significant implications for workforce development, particularly in traditional industries such as automotive, steel, textiles, and electronics.
 
@@ -519,7 +519,7 @@ Artifical intelligence can play a transformative role in this educational shift.
 
 Beyond training delivery, AI can help forecast future skill demands based on industry trends, enabling education institutions to proactively design curricula that meet emerging needs. It can also automate the creation and translation of traingin materials, makig educational more accessible to diverse populations.
 
-#### **Forging the Future: Strategic Recommendations for Workforce Empowerment and Industrial Renewal**
+#### Forging the Future
 
 As the United States pursues ambitious industrial and economic goals for the coming decade, the need for actionable, context-aware recommendations becomes increasingly urgent. However, achieving these outcomes requires more than policy declarations, it demands a strategic rethinking of how we prepare workers for the evolving demands of twenty-first-century industries.
 
@@ -586,3 +586,16 @@ Retail employs about 15.2 million workers, making up roughly 9.1% of the total w
 **Manufacturing**
 
 Manufacturing employs approximately 12.75 million workers, representng around 7.6% of the labor force. Though smalller than the other two, it remains vital for economic output and national infrastructure.
+
+#### SMEs & Information Systems
+
+History of SME here
+
+
+![Small and Medium Enterprise Framework](img/sme.png)
+
+#### Modeling Workplace Adaptation
+
+**Workplace Adjustement: A Theoretical Approach**
+
+![A conceptual model for analyzing how individuals adapt to work environments](img/model_work_adap.png)
