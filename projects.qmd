@@ -123,42 +123,45 @@ My job was helping to achieve three strategic goals, open new stores, increase r
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil.
+Delta is a corporate gift manufacturing and distribution company that sells and ships products to over 2,000 customers across all 26 states of Brazil.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-Initially, my job was on scaling up fulfillment operations, ensuring consistent high-quality service levels, and implementing digital systems (e.g enterprise resource planning (ERP) and business intelligence). I also mapped and documented processes to enhance efficiency, and training staff to develop their skills and capabilities.
+Initially, my role focused on scaling up fulfillment operations, ensuring consistently high service quality, and implementing digital systems such as enterprise resource planning(ERP) and business intelligence tools. I also mapped and documented processes to improve efficiency, and trained staff to enhance their skills and capabilities.
 
-Subsequently, I was invited to contribute in the company's strategic discussions using data to fine-tuned judgments of the CEO, and the goals expanded to:
+Subsequently, I was invited to contribute to the company's strategic discussions, using data to refine the CEO's decision-making.  As a result, my responsabilities expanded to include:
 
--   Quickly identify macroeconomic trends and shape scenarios for protecting capital, resources allocation efficiency, diversification, optimizing cash flow to ensure sustainability of the family business in the long run.
+-   Quickly identify macroeconomic trends and develop scenarios to protect capital, improve resource allocation efficiency, diversify investments, and optimize cash flow-ensuring the long-term sustainability of the family business.
 
--   Improve the service experience for existing customers.
+-   Improve customer service for existing clients.
 
--   Better understand who our potential customers are located and how to attract them.
+-   Gain deeper insights into where our potential customer are located and how to effectively attract them.
 
--   Increase revenue from existing customers.
+-   Boost revenue from or existing customer base.
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   Created a business intelligence platform using tools (Qlikview and R) to integrate and explore macroeconomics, sales/ price quotations, market sentiment, and operational performance.
+-   Developed a business intelligence platform using QlikView to integrate and analyze macroeconomic data, sales and price quotations, market sentiment, and operational performance.
 
--   Used data to anticipate macroeconomic and market behavior to support the CEO's decisions.
+-   Leveraged data to forecast macroeconomic and market trends, providing strategic support for the CEO's decision-making.
 
--   Implementation of the ERP system, process design and training.
+-   Led the implementation of the ERP system, including process design and employee training.
 
--   In 2024 we redesign, improved and migrated the business intelligence system to Microsoft Power BI tools, and started testing by adjusting the data pipelines to meet the retrieval augmented generation requirements for automating tasks using generative AI.
+-   In 2024, we redesigned, enhanced, and migrated the business intelligence system to Microsoft Power BI. We also began testing by adjusting data pipelines o meet Retrieval-Augmented Generation(RAG) requirements for task automaton using generative AI.
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
--   Performed day-to-day tasks, mapped processes, and suggested and implemented improvements.
--   Documented and trained teams for distribution planning activities, shipments, customer price quotes, and communication to maintain a positive relationship with customers and suppliers.
+-   Handled daily operations, mapped business processes, and proposed and implemented improvements.
+
+-   Documented procedures and trained teams in distribution planning, shipment coordination, customer pricing, and communication strategies to foster strong relationships wih customers and suppliers.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Reduced shipping errors caused by registration problems by 98% and setup time from 1 day to 20 minutes.
--   Implemented ERP system, Business Intelligence, and a new data collection and analysis structure, and trained staff.
--   150% increase revenue 2019-2022
+-   Reduced shipping errors caused by registration issues by 98%, and cut setup time from one day to just 20 minutes.
+
+-   Implemented an ERP system, Business Intelligence tools, and a new data collection and analysis framework, while also training staff.
+
+-   Achieved a 150% increase in revenue between 2019 and 2022.
 
 ![Business Intelligence Project at Delta Brindes Corporativos](img/delta_brindes_action.png)
 
@@ -166,15 +169,15 @@ Subsequently, I was invited to contribute in the company's strategic discussions
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gifts manufacturing and distribution that sells and ships products to more than 2000 customers in the 26 states of Brazil and studies the opportunities for expansion to the United States.
+Delta is a corporate gift manufacturing and distribution company that sells and ships products to over 2,000 customers across all 26 states of Brazil.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
 -   Evaluate new business opportunities in United States and Brazil.
 
--   Analyze the fitness between the company business and market opportunities (What incredible benefits can we give to the customer? Where can we take the customer?)
+-   Analyze the strategic fit between the company business and market opportunities (What incredible benefits can we give to the customer? Where can we take the customer?)
 
--   Create and learn to operationalize an information system that integrates data, strategic planning methods, and generative artificial intelligence tools.
+-   Design and operationalize an integrated information system that combines data, strategic planning methodologies, and generatie AI tools.
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 

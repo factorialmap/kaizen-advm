@@ -12,12 +12,12 @@ format:
 
 ### [**Welcome**]{style="color: #9D0F6A ;"}
 
--   My name is Marcelo Carvalho dos Anjos, and I am a Business & Process Improvement Analyst specializing in optimizing day-to-day manufacturing operations using Lean principles, the PDCA method, 5S, and computational tools such as R, Python, Power BI, and AI models. I have been researching is this field since 1995 and working professionally since 2022.
+-   My name is Marcelo Carvalho dos Anjos, and I am a Business & Process Improvement Analyst specializing in optimizing day-to-day manufacturing operations using Lean principles, the PDCA method, 5S, and computational tools such as R, Python, Power BI, and AI models. I have been researching is this field since 1995 and working professionally since 2002.
 
 ### [**Goals with this website**]{style="color: #9D0F6A ;"}
 
 -   Writing about business and process improvement analysis, and how to apply machine learning and large language models to support the adoption and execution of Lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
--   Creating educational content for my niece Alexis and my nephew NOah, who are studying robotics in Japan.
+-   Creating educational content for my niece Alexis and my nephew Noah, who are studying robotics in Japan.
 -   Laying the groundwork for my PhD research, which investigates the factors influencing manufacturing competitiveness, personal development, and management capacity during periods of economic change.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
