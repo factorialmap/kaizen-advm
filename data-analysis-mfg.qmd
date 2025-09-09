@@ -1,12 +1,10 @@
 ---
 title: "Lean Principles & Data Science in Manufacturing"
-subtitle: "What concepts and practices are being used in this process?"
+subtitle: "What concepts and practices are involved in this process?"
 bibliography: references.bib
 ---
 
-### [**PDCA Method and Quality Tools in Manufacturing**]{style="color: #9D0F6A ;"}
-
-**Lean Principles**
+### [**Lean Principles**]{style="color: #9D0F6A ;"}
 
 -   The basic idea of Lean principles is to focus on the customer value that requires a smooth flow in production and elimination of waste during the value-adding process. The quality is built into every step (e.g design, engineering, production, shipping) making it more adaptable to changing environment, and improvement is driven by workers. One example of value is how much the customer is willing to pay for something.
 
@@ -17,60 +15,62 @@ bibliography: references.bib
 -   Non-value added activity pure waste: No value is created and consumes resources for example inventory, rework, excess steps and checks, accidents, scraps, waiting times.
 
 ::: panel-tabset
-## Background
+## Types of Waste
 
 ![Types of waste](img/type_of_waste.png)
 
-## Genshi genbutsu
+## Genchi Genbutsu
 
-![Gemba Walk](img/gemba_walk.png)
+![An example of Gemba Walk](img/gemba_walk.png)
 
-## Action
+## 5S
 
-![Five S](img/tools_five_s.png)
+![An example of Five S](img/tools_five_s.png)
 
 ## Basic Stability1
 
-![Process Stability](img/process_stability.png)
+![Process Stability Flow](img/process_stability.png)
 
 ## Basic Stability2
 
-![Process Variability](img/process_variability.png)
+![Process Variability Flow](img/process_variability.png)
 
 ## Basic Stability3
 
-![Process Control](img/process_control.png)
+![Process Control Flow](img/process_control.png)
 
-## Process mapping
+## Value Stream
 
-![Value Stream Map](img/vsm.png)
+![An example of Value Stream Map](img/vsm.png)
 
 ## Muda
 
-![Example of muda](img/muda_example.png)
+![An example of Waste(Muda)](img/muda_example.png)
 
 ## Training1
 
-![Training](img/training_factor1.png)
+![Ebbinghaus forgetting curve](img/training_factor1.png)
 
 ## Training2
 
-![Training](img/training_factor2.png)
+![An example of Spaced Learning Curve](img/training_factor2.png)
 :::
 
-**Artificial Intelligence**
+### [**Artificial Intelligence**]{style="color: #9D0F6A ;"}
 
-Artificial Intelligence is a set of powerful general-purpose tools. Some of these tools include machine learning models used in prediction and recomendation, large language models that enhance knowledge dissemination and task automation, computer vision that allows the capture, processing, and action of manufacturing processes,  digital twins that allow the simulation of virtual environments with real-time data, and autonomous agents that can perform tasks in productions. For this to work, elements are needed such as labeled data, synthetic data, sensors, variation control, optimizations, engineering, desing, and a multitude of other components that are developed by humans.
+Artificial Intelligence encompasses a powerful set of general-purpose tools. These include machine learning models used for prediction and recomendation, large language models that support knowledge dissemination and tasks automation, computer vision systems that enable the capture, processing, and control of manufacturing operactions, digital twins that simulate virtual environments using real-time data, and autonomous agents capable of performing tasks in produtions settings.
 
-As our focus is manufacturing, we continue with the following questions:
+To make these technologies work effectively, several key components are required such as labeled and synthetic data, sensors, variation control, optimization techniques, engineering, design, and many other elements developed by humans.
 
--   How AI tools (e.g predictive, generative, and agentic models) could support implementation of lean culture in business?
+Since our focus is on manufacturing, we continue with the following questions:
 
--   How to incorporate lean principles, PDCA method and quality tools into an AI agent and make it useful in solving manufacturing problems?
+-   How can AI tools(e.g., predictive, generative, and agent-based models) support the implementation of a lean culture in business?
 
-    ![RAG Application Pipeline](img/rag_application.png)
+-   How can Lean principles, the PDCA method, and quality tools be integrated into an AI agent to effectively solve manufacturing problems?
 
-**Plan-Do-Check-Action- PDCA**
+    ![An example of te retrieval-agumented generation(RAG) approach, which leverages a knowledge base as contextual input to enhance the performance of large language models(LLMs).](img/rag_application.png)
+
+### [**PDCA**]{style="color: #9D0F6A ;"}
 
 -   The basic idea of PDCA method is create a universal language to serve as a guide for thinking during the problem-solving process. If language is the vehicle of thought @wittgenstein2022, PDCA is a way to make that vehicle faster.
 
@@ -78,11 +78,15 @@ As our focus is manufacturing, we continue with the following questions:
 
     ![PDCA (Plan-do-check-action) Method](img/PDCA.png)
 
-### [**Data Science in Manufacturing**]{style="color: #9D0F6A ;"}
+### [**Data Science**]{style="color: #9D0F6A ;"}
 
--   Basically data science is solving real problems using data to create as much impact as possible for a business or a system. Impacts can be the form of insights, data products or data recomendations. To do this, data scientists need tools like machine learning models, data visualizations, technical reports, dashboards , and more.
+-   Data science is the practice of solving real-world problems using data to create meaningful impact for a business or system. This impact can take the form of insights, data products, or actionable recommendations. To achieve this, data scientists rely on tools such as machine learning models, data visualizations, technical reports, dashboards, and more.
 
--   The principles of data science involves breaking down complex problems into fundamental truths, gathering data from various sources, identifying and correting errors and inconsistencies to ensure its quality, analyzing data visualy and statistically to uncover patterns and insights, transforming and selecting variables and using techniques such as statistics, programming, and machine learning to build descriptive models that are helpful to descrie or illustrate characteristics of data, inferencial models to produce a decision for a research question or to explore a specific hypothesis, and predictive models to produce the most accurate prediction possible for new data @kuhn2022.
+-   The principles of data science involve breaking down complex problems into fundamental truths, collecting data from diverse sources, and identifying and correctiong errors and inconsistencies to ensure data quality. Data is then analyzed(visually and statistically) to uncover patters and insights. This process includes transforming and selecting variables, and applying techniques such as statistics, programming, and machine learning to build various types of models:
+
+    -   **Descriptive models**, which help illustrate and summarize the characteristics of the data.
+    -   **Inferential models**, which support decision-making by answering research questions or testing specific hypotheses.
+    -   **Predictive models**, which aim to generate the most accurate forecasts possible for new or unseen data @kuhn2022.
 
 -   Among the foundations of data science, two stand out as fundamental:
 
@@ -90,100 +94,24 @@ As our focus is manufacturing, we continue with the following questions:
 
     -   **Technical**, which would basically the application of technical or scientific knowledge or both to something with a practical purpose. it requires abilities in statistics and probability such as data distributions and statistical tests, programming like Python and R, ability to represent data visually for communicating findings, and machine learning that involves training models to make predictions or decisions based on data.
 
--   As impact of data science on manufacturing we can mention insights into product performance, identify areas for improvement, and develop targeted solutions to reduce warranty claims and improve customer satisfaction. Some examples of practical application are shown below.
+::: {.callout-tip collapse="true"}
+## Click here for more detail about Impact of data science in manufacturing
 
-    -   Indetify patterns and trends in warranty claims data.
+Today, advanced sensors, IoT devices, and AI-driven analytics enable real-time monitoring of production lines, predictive maintenance, and quality control. Machine learing algorithms help in identifying patterns and anomalies, leading to proactive decision-making.
 
-    -   Develop predictive models for forecast potential warranty claims.
+Looking forward, autonomous decision-making, adaptive manufacturing systems, and personalized production will coexist. Data integration across supply chains and the adoption of digital twins will enable virtual simulations for testing and optimization before physical production begins. Use of cyber-physical systems will reduce the boundaries between the physical and digital, with smart-manufacturings capable of self-otimization, atomic-level vision capability and real-time response to market demand. Some examples os pratical application os data science on manufacturing including:
 
-    -   Analyzie the root cause of product defects and develop corrective actions.
+-   **Predictive Analysis:** To monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Machine learning and deep learning are used to predict energy consumption, mechanical properties, and other performance metrics.
 
-    -   Optimize warranty claims processing and reduce costs.
+-   **Maintenace:** Predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency. Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.
 
-    -   Stop a machine in an emergency situation, avoiding accidents.
+-   **Price reduction:** To optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must consider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques. By analyzing pricing and cost data from both internal and external sources, data science anables manufaturers to gain a competitive edge and develop optimized price variants. This data-driven approach allows manufacturers to identify areas of inefficiency, minimize costs, and maximize revenue, ultimately leading to increased profitability and a stronger market presence. Manufacturers can make informed pricing decisions that drive business growth, improve profitability, ad enhance customer satisfaction.
 
-    -   Identify fatigue in equipment and workers based on movements patterns.
+-   **Directing the Supply Chain:** Data science could help manufaturers to navigate risks and uncertainties, providing visibility with the agility they need to respond quickly to changing market conditions and customer needs. Proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact. Supply chain management requires a deep understanding of the complex variables, including supplier performance, inventory levels, transportation costs, and customer demand. Some examples where data science can be helpful in the supply chain are shown below.
 
--   Looking at the history of use of data in manufacturing processes, we cansay that in the past, manufacturing processes relied heavily on manual labor and basic automation. Data collection was limited and carried out manually through notes, and quality control often involved small sampling. Today, advanced sensors, IoT devices, and AI-driven analytics enable real-time monitoring of production lines, predictive maintenance, and quality control. Machine learing algorithms help in identifying patterns and anomalies, leading to proactive decision-making. Looking forward, autonomous decision-making, adaptive manufacturing systems, and personalized production will coexist. Data integration across supply chains and the adoption of digital twins will enable virtual simulations for testing and optimization before physical production begins. Use of cyber-physical systems will reduce the boundaries between the physical and digital, with smart-manufacturings capable of self-otimization, atomic-level vision capability and real-time response to market demand.
+-   **Warranty Analysis:** To optimize warranty claims process by analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them. Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims. With the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
 
--   Some examples os pratical application os data science on manufacturing including:
+-   **Product Authenticity:** Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health. Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. With the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification of chemical composition, allowing manufacturers to verify the ahthenticity of their products. The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
 
-    -   **Predictive Analysis:** To monitor businesss operations, performance, and potential solutions to problems impeding future prospects. Machine learning and deep learning are used to predict energy consumption, mechanical properties, and other performance metrics.
-
-    -   **Maintenace:** Predict equipment failures, enabling manufacturers to take proactive measures to avoid or mitigate them. By leveraging predictive analytics techniques, manufaturers can identify potential issues before they occur, reducing downtime and increasing overall efficiency. Traditional time-based preventative maintenance strategies can be augmented with data-driven insights, allowing for more informed decision-making and optimized maintenance planning. With careful planning and analysis, equipment manufacturers can schedule maintenance breaks or shutdowns to address potential problems, minimizing delays and failures. This proactive approach helps ensure equipment reliability, reduces maintenance costs and optimizes production output.
-
-    -   **Price reduction:** To optimize their pricing strategies, leading to significant cost reductions. When setting product prices, manufaturers must consider a multitude of factors, including raw material costs, manufacturing expenses, distribution fees, maintenance costs, and more. To strike the perfect balance between profitability and customer affordability, manufacturers leverage price optimization techniques. By analyzing pricing and cost data from both internal and external sources, data science anables manufaturers to gain a competitive edge and develop optimized price variants. This data-driven approach allows manufacturers to identify areas of inefficiency, minimize costs, and maximize revenue, ultimately leading to increased profitability and a stronger market presence. Manufacturers can make informed pricing decisions that drive business growth, improve profitability, ad enhance customer satisfaction.
-
-        -   Gain a deeper understanding of their cost structure and identify opportunities for reduction.
-
-        -   Analyze market trends and competitor pricing to inform their own pricing strategies.
-
-        -   Analyze macro economic trends
-
-        -   Develop targeted pricing models that account for variations in customer demand and market conditions.
-
-        -   Optimize their supply chain and logistics to reduce costs and improve efficiency.
-
-        -   Monitor and adjust their pricing strategies in real-time to stay ahead of the competition.
-
-    -   **Simulations Digital Twin:** To simulate and predict the behavior of spaces or manufactured parts under various contiditions, enhancing quality assurance and reducing the need for physical testing @witherell2024.
-
-    <!-- -->
-
-    -   **Directing the Supply Chain:** Data science could help manufaturers to navigate risks and uncertainties, providing visibility with the agility they need to respond quickly to changing market conditions and customer needs. Proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact. Supply chain management requires a deep understanding of the complex variables, including supplier performance, inventory levels, transportation costs, and customer demand. Some examples where data science can be helpful in the supply chain are shown below.
-
-        -   Analyze real-time data to identify potential bottlenecks and delays.
-
-        -   Assess the likehood of major disruptions and develop contingency plans.
-
-        -   Evaluate the performance of suppliers and identify opportunities for improvement.
-
-        -   Optimize inventory management and reduce waste.
-
-    -   **Warranty Analysis:** To optimize warranty claims process by analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them. Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims. With the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
-
-        -   Product sensor data
-
-        -   Customer feedback and complaints
-
-        -   Warranty claims and repair data
-
-        -   Manufacturing and quality control data
-
-    -   **Product Authenticity:** Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health. Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. With the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification of chemical composition, allowing manufacturers to verify the ahthenticity of their products. The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
-
-        -   Examples of use
-
-            -   Verify the identity of raw materials and finished products.
-
-            -   Detect adulteration or contamination.
-
-            -   Ensure compliance with regulatory requirements.
-
-            -   Protect their brand reputation and intellectual property.
-
-            -   Prevent financial loesses due to counterfeit products.
-
-        -   Characteristics of NIRS
-
-            -   **Fast**: NIRS can analyze samples in a matter of second, making it an ideal technique for high-volume production environments.
-
-            -   **Cost-effective**: Is a relative low-cost technique compared to other analytical methods, making it an attractive option for manufacturers.
-
-            -   **Non-invasive**: Is a non-destructive technique, which means that samples remain intact and can be used for further analysis or processing.
-
-    -   **Robotization and Automation:** To perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(**Exploring more in this topic in the future**), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs. Some examples of the pratical application of data science in robotis and automation:
-
-        -   Analyze sensor data from robots to predict and prevent maintenance issues, reducing repair costs and extending equipment lifespan.
-
-        -   Identify areas where automation can be improved or expanded, driving further innovation and growth.
-
-        -   Streamline robot integration and deployment, reducing downtime increasing productivity and availability.
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RpgRRIkG_pw?si=tNfCdS7fqKUqOHgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
-
-</center>
+-   **Robotization and Automation:** To perform repetitive, mundane, and hazardous tasks, freeing up human workers to focus on higher-value activities. However, the integration and maintenance of robots can be a significant annual expense for manufaturers. This where data science comes in - by analyzing data from various sources(**Exploring more in this topic in the future**), manufacturers can optimize robot programming and operation, leading to improved product quality and reduced costs. Some examples of the pratical application of data science in robotis and
+:::
