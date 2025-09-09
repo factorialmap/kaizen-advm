@@ -1,6 +1,6 @@
 ---
 title: "Calendar"
-subtitle: "What am I doing to support this research project?"
+subtitle: "What steps am I taking to bring this research project to life?"
 execute: 
   warning: false
   echo: false
@@ -41,8 +41,8 @@ ganttrify(
   #font_family = "TT Arial",
   axis_text_align = "left"
 ) +
-  labs(title = "Immigration process and ongoing activities",
-       subtitle = "2025 - Marcelo Carvalho",
+  labs(title = "Overview of the Immigration Process and Associated Tasks",
+       subtitle = "2025 - Marcelo Carvalho dos Anjos",
        caption = "@carvalhoribeiro | USCIS/NVC data")
 ```
 
