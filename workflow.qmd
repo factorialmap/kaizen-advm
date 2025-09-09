@@ -1,25 +1,25 @@
 ---
 title: "Workflow"
-subtitle: "The approach and some steps I usually use in projects I work on"
+subtitle: "The approach and key steps I follow in the projects I work on"
 ---
 
 ::: panel-tabset
 
-## Fase 1: Approach
+## Phase 1: Approach
 
-![Define business & process improvement project approach](img/fase_1.png)
+![Define the Project Approach](img/fase_1.png)
 
-## Fase 2: Investigation
+## Phase 2: Investigation
 
-![Problem investigation from different points of view](img/fase_2.png)
+![Investigate the Problem from Multiple Perspective](img/fase_2.png)
 
-## Fase 3: Analysis of impact
+## Phase 3: Analysis of impact
 
-![Relationship between tools that will be used and impacts in finance and sustainability](img/fase_3.png)
+![Link tools and Principles to Financial and Sutainability Impacts](img/fase_3.png)
 
 
-## Fase 4: Execution
+## Phase 4: Execution
 
-![Scheduling, deployment, and monitoring](img/fase_4.png)
+![Plan, Deploy, and Monitor the Solution](img/fase_4.png)
 
 :::
