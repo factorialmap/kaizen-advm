@@ -65,32 +65,16 @@ These are some foundational books that help me navigate the daily challenges of 
 
 Learn with enthusiasm, strive for excellence, and share knowledge to create opportunities for others.
 
-::: wrap
-<center>
-
-<iframe src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-
-</iframe>
-
-</center>
-:::
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ### [**What challenges do I enjoy working on?**]{style="color: #9D0F6A ;"}
 
 Complex problems that require in-depth investigation in search of cause-and-effect relationships.
 
-::: wrap
-<center>
-
-<iframe src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" rameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-
-</iframe>
-
-</center>
-:::
-
-> Embody a growth mindset by combiniing humility with intellectual curiosity, approaching learning with the openness and eagerness of a child, regardless of experience or expertise.
->
-> — Marcelo Carvalho dos Anjos
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Thanks for checking out my web site!
