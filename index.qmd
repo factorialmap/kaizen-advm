@@ -17,7 +17,7 @@ format:
 ### [**Goals with this website**]{style="color: #9D0F6A ;"}
 
 -   Writing about business and process improvement analysis, and how to apply machine learning and large language models to support the adoption and execution of Lean principles, the PDCA method, and statistical tools for process improvement in manufacturing.
--   Creating educational content for my niece Alexis and my nephew Noah, who are studying robotics in Japan.
+-   Develop a story-based educational piece about my career that might inspire my niece Alexis and nephew Noah as they embark on their own paths.
 -   Laying the groundwork for my PhD research, which investigates the factors influencing manufacturing competitiveness, personal development, and management capacity during periods of economic change.
 
 ### [**Education**]{style="color: #9D0F6A ;"}
@@ -61,7 +61,7 @@ These are some foundational books that help me navigate the daily challenges of 
 ![Exploring different perspectives on artificial intelligence, economic challenges, and innovation policies](img/book_future.png)
 :::
 
-### [**Inspirations and long term purpose**]{style="color: #9D0F6A ;"}
+### [**Inspirations and long-term purpose**]{style="color: #9D0F6A ;"}
 
 Learn with enthusiasm, strive for excellence, and share knowledge to create opportunities for others.
 
@@ -69,12 +69,15 @@ Learn with enthusiasm, strive for excellence, and share knowledge to create oppo
 <iframe src="https://www.youtube.com/embed/twdg8415WH4?si=nrKzhvcBYseZcO9J" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-### [**What challenges do I enjoy working on?**]{style="color: #9D0F6A ;"}
+### [**What kinds of challenges do I enjoy working on?**]{style="color: #9D0F6A ;"}
 
-Complex problems that require in-depth investigation in search of cause-and-effect relationships.
+I enjoy handling complex problems that requires in-depth investigation to uncover cause-and-effect relationships.
+
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/_YwrI5SlS8Q?si=l5hkvvqPprCaa0NQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+---
 
 Thanks for checking out my web site!
