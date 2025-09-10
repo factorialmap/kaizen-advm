@@ -3,7 +3,7 @@ title: "Projects"
 subtitle: "Some projects I've worked on"
 ---
 
-## Bertin S/A - 1999 to 2009
+## Bertin S/A (1999-2009)
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
@@ -45,7 +45,7 @@ My role involved visiting twelve manufacturing plants to identify opportunities 
 
 :::
 
-## GovBR - 2011-2012
+## GovBR  (2011-2012)
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
@@ -82,7 +82,7 @@ My role was to help increase the company's valuation during the merger and acqui
 :::
 
 
-## Portobello Shop - 2014 - 2016
+## Portobello Shop (2014-2016)
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
@@ -120,7 +120,7 @@ My role was to help achieve three strategic goals: opening new stores, increasin
 :::
 
 
-## Delta Brindes - 2019 - 2024
+## Delta Brindes (2019-2024)
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
@@ -166,7 +166,7 @@ Subsequently, I was invited to contribute to the company's strategic discussions
 
 ![Business Intelligence Project at Delta Brindes Corporativos](img/delta_brindes_action.png)
 
-## Delta Brindes - 2024/2025
+## Delta Brindes(2024-2025)
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
