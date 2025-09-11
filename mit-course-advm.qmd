@@ -1,6 +1,6 @@
 ---
-title: "MIT Courses in Advanced Manufacturing "
-subtitle: "What are the innovations that scale-up manufacturing and change the world in a profound ways?"
+title: "MIT Advanced Manufacturing Courses"
+subtitle: "What innovations are scaling up manufacturing and transforming the world in profound ways?"
 bibliography: references.bib
 ---
 
