@@ -1,5 +1,5 @@
 ---
-title: "Lean Principles & Data Science in Manufacturing"
+title: "Data-Driven Lean Manufacturing"
 subtitle: "What concepts and practices are involved in this process?"
 bibliography: references.bib
 ---
