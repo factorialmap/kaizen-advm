@@ -37,48 +37,51 @@ The United States employs several different methods to monitor inflation, and it
 
 **PCE Inflation**
 
+PCE inflation measures the prices of goods and services consumed by households and nonprofit institutions, including food, energy, housing , and more. It is more comprehensive than the Consumer Price Index (CPI). PCE inflation accounts for both direct household spending (you pay) and spending on behalf of households (someone pays for you). For example, when your employer provides health insurance or the government provides Medicare.
+
 -   Compared to the same month last year, the PCE price index rose by 2.6% in July 2025 (T7). The Federal Reserve targets a long-term PCE inflation rate of 2%.
 
 -   Personal income rose by 0.4% in July on a monthly basis, according to the estimates published on August 29, 2025 (T3).
 
--   PCE inflation measures the prices of goods and services consumed by households and nonprofit institutions, including food, energy, housing , and more. It is more comprehensive than the Consumer Price Index (CPI). PCE inflation accounts for both direct household spending (you pay) and spending on behalf of households (someone pays for you). For example, when your employer provides health insurance or the government provides Medicare.
 
 **Core PCE Inflation**
 
+Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
+
 -   When compared to the same month in the previous year, the core PCE price index rose by 2.9% in July 2025, which is slightly higher than the 2.8% increase recorded in June, 2025:T7.
-
--   Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
-
 
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** Aug, 2025. 
+**Last update:** Sep, 2025. 
 
--   The annual inflation rate for the United States increased by 2.7% for the 12 months ending July 2025, compared to the previus rate of 2.7% in june, acording to U.S. Bureau of Labor Statistics data.
+The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, netotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
 
--   CPI measures the average change in prices of a basket of goods and services and often used for cost of living adjustments, wage negotiations, social security benefits. Only counts out-of-pocket expenditures(you pay directly)
 
--   The CPI price index for Jul 2025, increased by 0.2% from the preceding month.
+-   The annual inflation rate in the United States rose to 2.9% for the 12 months ending in August 2025, up from 2.7% in July, according to data from the U.S. Bureau of Labor Statistics.
+
+-   The annual inflation rate for the United States increased by 2.9% for the 12 months ending August 2025, compared to the previous rate of 2.7% in July, according to U.S. Bureau of Labor Statistics data.
+
+
+-   The Consumer Price Index (CPI) rose by 0.4% in August 2025 compared to the previous month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | 0.2 | 2.7  |
-| Food        | 0.0 | 2.9  |
-| Energy      | -1.1 | -1.6  |
-| Services    | 0.4 | 3.6  |
-| Shelter     | 0.2 | 3.7  |
+| CPI overall | 0.4 | 2.9  |
+| Food        | 0.5 | 3.2  |
+| Energy      | 0.7 | 0.2  |
+| Services    | 0.3 | 3.6  |
+| Shelter     | 0.4 | 3.6  |
 
--   The CPI for Aug 2025 is scheduled to be released on Sep 11, 2025, at 08:30 a.m. (ET).
+-   The CPI for September 2025 is scheduled to be released on October 15, 2025, at 08:30 a.m. (ET).
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
 **Last update:** Aug, 2025. 
 
--   According to Federal Reserve Economic Data, the consumer price index (CPI) for July 2025 increased by 2.73% compared the same month over year ago.
-
+-   According to Federal Roserve Economic data, the Consuper Price Index (CPI) increase by 2.94% in August 2025 compared to the same month a year earlier.
 
 ![](images/clipboard-2010062285.png) 
 
@@ -166,16 +169,16 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
-**Last update:** May, 2025
+**Last update:** Sep, 2025
 
--   Total nonnfarm payroll employment increased by 177 thousand in April 2025, and the unemployment rate was unchanged at 4.2%.
-Employment continued to trended up in health care, transportation and warehousing, financial ectivities, and social assistance. Federal government employment declined.
+-   The unemployment rate stood at 4.3% in August 2025. A Job gains in healthcare were partially offset by losses in the federal government and in mining, quarrying, and oil and gas extraction.
 
--   In April 2025 the unemployment rate was 4.2% or 7.2 million people. The long-term unemployed(\>27 weeks or more) was 1.7 million up by 179 thousand from a year earlier that represents 23.5% of all unemployed people.
+-   In August 2025, the unemployment rate was 4.3%, representing 7.4 million people. Of those, 1.9 million were long-term unemployed(*out of work for 27 weeks or more*) accounting for 25.7% of all unemployed persons(TA12).
 
--   In April 2025, the labor force participation rate was 62.6%.
+-   The labor force participation rate declined to 62.3% in August 2025 (TA-1), down 0.4 percentage points from the previous year.
 
--   One important indicator of labor market is the continuing claims that track the number of residents filing for ongoing unemployment benefits in a given week. 
+
+-   One important indicator of the labor market is continuing claims, which track the number of individuals filing for ongoing unemployment benefits each week. This indicator is crucial because it reflects the health of the labor market, signal consumer spending strength, helps identify recession risks, informs Reserve policy decisions, and guides business confidence(all in one metric).
 
 ```{r}
 #| label: continued_claims
@@ -214,7 +217,7 @@ data_continuos_claims %>%
 
 ```
 
--   Another importat labor market indicator is aggregate hours worked. The chart below shows the average weekly hours of all employees, total private. The first thing you see when the economy is slowing down is a reduction in job openings. That is the first wave. The secong wave that you see is the number of hours worked. And that is a very important metric because when you're cutting hours, the next step is to actually cut positions.
+-   Another important labor market indicator is aggregate hours worked. The chart below shows the average weekly hours of all employees in the total private sector. One of the first signs of a slowing economy is a reduction in job openings(that's the first wave). The second wave is a decline in hours worked, which is a critical metric. When employers begin cutting hours, the next step is often cutting positions.
 
 ```{r}
 #| label: weekly_hours_work
@@ -250,9 +253,10 @@ data_wk_hours %>%
 
 ```
 
-The labor market tightness is the number of job vacancies per unemployed worker, which is a key factor in monetary policymakers' decisions.
 
-The graph, below sugested by Mick Dueholm and Serdar Ozkan on FRED Blog, show labor market tighness as the ratio of job openings to unemployment. This captures how many job opportunities there are for each person seeking a job.
+Labor market tightness refers to the number of job vacancies per unemployed worker, and it plays a key role in monetary policy decisions.
+
+The graph below, suggested by Mick Dueholm and Serdar Ozkan on the FRED Blog, illustrates labor market tightness as the ratio of job openings to unemployed individuals. This metric reflects how many job opportunities are available for each person seeking employment.
 
 ```{r}
 #| label: labor_mkt_tightness
@@ -288,7 +292,7 @@ data_labor_tidht %>%
        y = "Job opport for each person seek a job")
 ```
 
-Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) and [U.S. Departament of Labor](https://www.dol.gov)
+Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departament of Labor](https://www.dol.gov), and FRED.
 
 ## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
