@@ -1,6 +1,6 @@
 ---
-title: "U.S. Economic Data at a Glance"
-subtitle: "What economic cycle are we in?"
+title: "U.S. Economic Overview"
+subtitle: "Which phase of the economic cycle are we currently in?"
 bibliography: references.bib
 execute: 
   warning: false
