@@ -57,36 +57,35 @@ Exploring past experiences stimulates our capacity for mental time travel, which
 
 -   **Redefine Customer Values**: Companies like Ford, Home Depot, Nike, Dell, Apple, Netflix, and Tesla exemplify how redefining customer value can unlock entirely new demand. Rather than competing solely on price or features, these companies intruduced experiences and solutions that consumers didn't even know they needed and tranforming industries in the process. By building powerful, cohesive business systems designed to consistently deliver this new value, they outperformed competitors who were still focused on traditional efferings. As a result, the elevated customer expectations to levels that others struggle to meet, creating a lasting competitive adavantage rooted in innovation and custmer centric thinking.
 
--   **Importance of competition**: There is a potential link bewteen consistently low levels of stress and anxiety(*especially when individuals or organizations remain in their confort zones*), and a decline in economic competitiveness. While operating within a confort zone can support mental and physical well-being, it may also foster complacency and resistance to change. In contrast, moderate stressors(**such as the presence of strong competitors or the pressure of market competition*), can stimulate problem-solving, innovation, and the adoption of new technologies. Theses challenges push individuals and organizations to adapt, evolve, and improve. Over time, a lack of competitive pressure and growth opportunities can lead to reduced motivation, diminished creativity, and stagnation. Stress, when managed effectively, acts as a catalyst for cognitive adaptation, which is essential for maintaining productivity and relevance in dynamic economic environments. Historical patterns of this bahavior were evident in the United States during 1980s, as documented by sources such as @justarandomchannel2019, @petersantenello2024, and @frontlinepbs2024b, and similar trends are observable in Germany in 2024, as reported by @dwnews2024. These examples highlight how the absence of meaningful competition can erode a nation's or organization's innovative edge.
+-   **Importance of competition**: There is a potential link bewteen consistently low levels of stress and anxiety(*especially when individuals or organizations remain in their confort zones*), and a decline in economic competitiveness. While operating within a confort zone can support mental and physical well-being, it may also foster complacency and resistance to change. In contrast, moderate stressors(\*\*such as the presence of strong competitors or the pressure of market competition\*), can stimulate problem-solving, innovation, and the adoption of new technologies. Theses challenges push individuals and organizations to adapt, evolve, and improve. Over time, a lack of competitive pressure and growth opportunities can lead to reduced motivation, diminished creativity, and stagnation. Stress, when managed effectively, acts as a catalyst for cognitive adaptation, which is essential for maintaining productivity and relevance in dynamic economic environments. Historical patterns of this bahavior were evident in the United States during 1980s, as documented by sources such as @justarandomchannel2019, @petersantenello2024, and @frontlinepbs2024b, and similar trends are observable in Germany in 2024, as reported by @dwnews2024. These examples highlight how the absence of meaningful competition can erode a nation's or organization's innovative edge.
 
--   **Process Improvement**: Founded in 1906 by Willlian Riley, New Balance is an American footwear and apperal company headquartered in Boston Massachusetts, and one of the world leading manufacturers of high-quality athletic footwear. Known for its "Made in USA" products, the company prides itself on innovation, and performance using lean principles and tools to improve product flow through its plants to retailers and final customers.
+-   **Process Improvement**: Founded in 1906 by Willian Riley, New Balance is an American footwear and apparel company headquartered in Boston, Massachusetts. It is recognized as one of the world's leading manufacturers of high-quality athletic footwear. Known for its "Made in USA" products, the company emphasizes innovation and performance, applying lean principles and tools to enhance product flow from its manufacturing plants to retailers and end customers.
 
-    The company began its lean transformation journey in 2003, with guidance from the Toyota Supplier Support Center, New Balance focused in problem-solving and process improvement to create a culture engaging the workforce while boosting performance.
+    New Balance began its lean transformation journey in 2003 with guidance from the Toyota Supplier Support Center. The company focused on problem-solving and process improvement to foster a culture of employee engagment while boosting operational performance.
 
-    Lean as management philosophy and set of practices aimed at creating more value for customers with less waste by continuously improving processes and eliminating non-value-adding activities. Deep understand of the value creation process, continuous learning through PDCA cycles, and willingness to challenge assumtions are vital for both workers and managers.
+    Lean is both a management philosophy and a set of practices aimed at creating more value for customers with less waste. It emphasizes continuous process improvement and the elimination of non-value-adding activities. A deep understanding of the value creation process, ongoing learning through PDCA(Plan-Do-Check-Action) cycles, and a willingness to challenge assumptions are essential for both workers and managers. These principles not only improve efficiency but also strengthen competitiveness in a fast-changing global market.
 
-    **Problem-Solving Culture** Employees identufy and tackle problems, with regular meetings to discuss and implement solutions. Instead of giving orders and say do that do this do this, they say, Okay, here's the problem, here's the gap that wr are trying to close, what are you going to do, how can I help? Start with a custmer, go backwards, and say, "Well, now hat are your problems?".
+    -   **Problem-Solving Culture** A strong problem-solving culture empowers employees to actively identify and address issues rather than waiting for top-down directives. In such environments, regular team meetings are help not just to report problems, but to collaboratively explore solutions and implement improvements. Leaders shift from giving orders(e.g., Do this, do that) to facilitating ownership by saying, **"Here's the problem, here's the gap we're trying to close. What do you think we should do? How can I support you?"**
 
-    **Lean Education** Associates receive training on lean priciples, including workshops on the basics of lean and waste detection. We have gone from the great manager solves problems to the coach helps people learn how to solve problems.
+    -   **Lean Education** Associates receive structured training on lean principles, including hands-on workshops focused on waste detection and process improvement. Lean education shifts the mindset from "the manager solves problem" to "the coach develops problem-solvers." This approach builds critical thinking, encourages ownership, and fosters an culture of continuous improvement. By learning to identify inefficiencies and propose solutions, employees become active contributors to organizational excellence. Lean thinking becomes not just a skill but a shared language for innovation and growth.
 
-    **Standardized Work** Processes are standardized to ensure efficiency and quality.
+    -   **Continuous improvement** Employees are encouraged to submit improvement ideas, with recognition and rewards given for successful implementations. Lean enterprises must grow not only to increase value creation but also to provide meaningful opportunities for theirs employees. By continuously improving and becoming more efficient, they can stay competitive and help secure long-term job stability for their workforce @murman2008
 
-    **Continuous improvement** Employees are encouraged to submit improvement ideas, with recognition and rewards for successful implementatios. Lean enterprises need to grow to provide apportunities for their employess and increase value creation. By cosntantly improving and becoming more efficient, theu can remain competitive and secure the jobs of their workforce @murman2008
 
 ### [The Present]{style="color: #9D0F6A ;"}
 
-Focusing on the present helps us understand how we process information in real time, which is essential for responding quickly to stimuli and peformiing daily activities with mindfulness. One of the main challenges in staying present is managing the abundance of digital and physical distractions the constantly compete for our attention.
+Focusing on the present helps us understand how we process information in real time, which is essential for responding quickly to stimuli and peforming daily activities with mindfulness. One of the main challenges in staying present is managing the overwhelming amount of digital and physical distractions the constantly compete for our attention.
 
 **Challenges**
 
--   **Disruptive technologies**: New ideas and old ones that could be explored by integration with emerging technology like computational capability, genAI, and atomic computer vision.\
+-   **Disruptive technologies** emerge when new ideas(or even old ones) are reimagined through integration with advanced tools like generative AI, atomic-level computer vision, and exponential computational power. These innovations challenge traditional models, unlockingcapabilities that were previously unimaginable. Embracing them is key to staying ahead in a rapidly evolving digital landscape.\
 
--   **Demographic shifts around the world**: People are getting older and more urban. Below is an example of the demographic transition in some countries where:
+-   **Demographic shifts around the world**: Populations are becoming older and increasingly urbanized. Below is an example of the demographic transition occuring in several countries.
 
-    -   **P** pencentage of the population in each group
-    -   **T** total population in million in each group
-    -   **AS** number of Adults to each Senior (65+ years)
-    -   **AY** number of Adults to each Young (0-19 years)
+    -   **P** Pencentage of the population in each group
+    -   **T** Total population (in million) in each group
+    -   **AS** Number of adults per senior (aged 65 and older)
+    -   **AY** Number of adults per Young (aged 0-19)
 
 ![](img\demograph_legend.png)
 
@@ -120,11 +119,11 @@ Focusing on the present helps us understand how we process information in real t
 ![Demographic transition - Germany](img/demograph_germany.png)
 :::
 
--   **Economic activities in emerging markets**: Many countries are emerging from poverty, creating opportunities and threats for example new demands, and lower labor costs.\
+-   **Economic activities in emerging markets**: Many countries are emerging from poverty, creating both opportunities and challenges(e.g. rising number consumer demand and increased competition due to lower labor costs).\
 
-![PCA: Principal Component Analysis between countries](img/country_power_index.png) 
+![PCA (Principal Component Analysis) applied to cross-country data](img/country_power_index.png)
 
-::: {.callout-tip collapse="true"} 
+::: {.callout-tip collapse="true"}
 ## Click here to learn more about the chart
 
 **Explanation of the Principal Component Analysis (PCA) Graph of the Country Power Index**
@@ -159,10 +158,9 @@ This graph you're looking at is a "map" that helps us understand how different c
 -   **Location and Investment Strategies:** Companies can use this type of analysis to decide where to invest, considering the power factors most important to their objectives (e.g., access to skilled labor via "education," developed infrastructure via "infraestru_investmt").
 -   **Risk Assessment:** Countries that move erratically on the map, or that are associated with less stable power factors, might represent higher risks or emerging opportunities.
 -   **Understanding Trends:** By comparing 2022 and 2024, we can infer global trends. If most countries are moving to the right, it might indicate a growing importance of factors associated with Dim1 (economic output, military, etc.).
-
 :::
 
--   **Climate change**: New rules to take care of the environment, improving the capacity to adapt and interact with the environment by creating new products and services.\
+-   **Climate change**: New rules aimed at protecting the environment, enhancing our ability to adapt to and interact with it through the development of innovative products and services.\
 
 ![Electricity consumption by country](img/electricity_consumption.png)
 
@@ -174,9 +172,7 @@ This graph you're looking at is a "map" that helps us understand how different c
 
 -   **Small and Medium Manufacturing Adoption Barriers**: Small and medium-sized manufacturers contribute the majority of the U.S. manufacturing ecosystem and they face significant obstacles in adopting advanced manufacturing technologies. These include a lacka of access to capital, expertise, and resources for system upgrades and integration.\
 
--   **Underinvestment in R&D**: The U.S. lag as behind other advanced economies in terms of *manufacturing-related* R&D spending as a percentage of GDP. This underinvestment hampers innovation and the development of cutting-edge manufacturing processes.\
-
--   **Need the key actors working together**: Industry, universities and governments\
+-   **Underinvestment in R&D**: The U.S. lags behind other advanced economies in manufacturing-related R&D spending as a percentage of GDP. This underinvestment hinders innovation and the development of cutting-edge manufacturing technologies. Key actors(industry, universities, and governments) need to work together. \
 
 ```{r}
 #| label: r&d
