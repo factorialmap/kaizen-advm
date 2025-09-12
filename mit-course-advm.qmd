@@ -6,22 +6,22 @@ bibliography: references.bib
 
 ### [**Lean Six Sigma**]{style="color: #9D0F6A ;"}
 
-**What about this classes ?**
+**What Are These Classes About ?**
 
--   There are 17 classes with an introduction to lean principles and six sigma methods, published by MIT and presented by professors Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen.
--   Book that may be useful: Kaizen Express: Fundamentals for Your Lean Journey by Toshiko Narusawa and John Shook
--   Additional videos that may be useful: Industry Talks E11: James P. Womack on YouTube
+-   MIT offers 17 classes introducing lean principes and Six Sigma methods, presented by professor Earll Murman, Hugh McManus, Annalisa Weigel, Bo Madsen and more.
+-   Recommended book: *Kaizen Express: Fundamentals for Your Lean Journey by Toshiko Narusawa and John Shook*
+-   Additional useful video: *Industry Talks E11: James P. Womak - available on YouTube.
 
 **Summary**
 
--   Overview about productivity, quality defects, and training hours. Differences between North American and Japanese manufacturing in 1990.
--   Lean thinking, knowledge-driven, and customer focused process through which all people in a defined enterprise continuously eliminate waste and create value. Enterprises usually adopt their own name (e.g GE Aviation - Flight Deck, Pratt & Whitney - ACE, US air Force - AFS021, Boeig - Lean+ , New York City Health & Hospitals Corp - Breakthrough)
--   Lean thinking is a way of thinking and a set of practices focused o creating more value with less rosources. It involves constantly experimenting and improving to eliminate waste and optimize the entire value stream, from raw materials to the customer.
+-   Overview of productivity, quality defects, and training hours, highlighting differences between North American and Japanese manufacturing in 1990.
+-   Lean thinking is a knowledge-driven, customer-focused approach in which everyone within an enterprise continuously work to eliminate waste and create value. Organizations often adopt their own branded version of lean(e.g., GE Aviation-Flight Deck, Pratt&Whitney-ACE, U.S.Air force-AFS021, Boeing-Lean+, NYC Health + Hospitals - Breakthrough)
+-   Lean thinking is both a mindset and a set of practices focused on creating more value with fewer resources. It involves continuous experimentation and improvement to eliminate waste and optimize the entire value stream from raw materials to the customer.   
 
 **Types of value in process steps**
 
--   **Value added process steps**: Transform or shape materials
--   **Necessary waste process steps**: Regulatory, project coordinations
+-   **Value added process steps**: Transform or shape materials.
+-   **Necessary waste process steps**: Regulatory, project coordinations.
 -   **Pure waste process steps**: Excess moviment, inventory, wait time, rework, confusion(information process).
 
 **Value Stream map**
@@ -138,12 +138,18 @@ Lean focused on reduce waste and six sigma focused on reduced variation creating
 ![cause and Effect diagram](img/tools_ishikawa.png)
 :::
 
-::: callout-important
-## Defining cause-and-effect- research and evidence-based approach
+::: {.callout-tip collapse="true"}
+## Understanding Root Causes: A Scientific, Evidence-Based Approach
 
-It requires meticulous and systematic study of cause-and-effect relationship to prevent palliative decisions from resulting in adverse outcomes, which can consume a large amout of resources(e.g. time, money) in the reorganization. An illustration that helps to clarify this idea is the Large Blue Butterfly case in southern England. Recent discoveries have identified a positive correlation between the success of the conservation of Large Blue Butterfly, but also of conservation of Myrmica ants and thyme plants. The ants brig the thyme seeds to the nest along with the butterfly larvae. Because they are physically and chemically similar to myrmica ants in their larval stage and use mimicry, the Phengaris Caterpillars(Large Butterfly larva) deceive the ants using the cuckoo strategy @broodparasitism2024, preying on the ant larvae or begging for food just like a real ant larva. These cause-and-effect relationship were not known in the 1970s, when some countries, in order to solve a problem of overpopulation of rabbits that were destroying crops, took measures by reducing the rabbit population, which, among other things, kept the grass short. From then on, the grass grew quickly cooling the soil, making it an unfavorable environment for the ant, forcing out the ant and depriving the butterfly of the host it depended on, disrupting the process and extinguishing the Large Blue Butterfly that required 40 years of intense scientific research and work to reorganize the system @yong2009. The data also ruled out a popular theory at the time, that butterfly collectors were responsible for the large blue's disappearance. The measures that were taken to keep the collectors away made the situation even worse, as the fances erected to keep them away also kept away grazing animals, further accelerating the growth of grass and the rapid extinction of the large blue.
+Preventing short-sighted or palliative decisions from leading to unintended consequences requires a meticulous and systematic study of cause-and-effect relationships. Whithout this depth of understanding, interventions can consume significant resources(e.g., time, money) during later efforts o reorganize systems.
 
-Professor Earll Murman at @mitopencourseware2014 compares the hours of training in the industry in Japan(380.3) to the United States(46.4). The value of training is difficult to measure in the short term, but studies such as the Ebbinghaus fogetting curve could provide relevant information for understanding the cause-and-effect relationships between consistent training and long-term expertise.
+A compelling illustrations of this principle is the case of the Large Blue Butterfly in southern England. Recent research has revealed a positive correlation between the success conservation of the butterfly and the preservation of Myrmica ants and thyme plants. The ants carry thyme seeds to their nests, along with butterfly larvae. Due to physical and chemical mimicry, the *Phengaris* caterpillars(Large Blue larvae) deceive the ants using a "cuckoo strategy"--a form of brood parasitism-- by preying on ant larvae or begging for food as if they were genuine ant offspring, ensuring the survival and proliferation of the butterfly species. This complex interaction is essential for the betterfly's survival and reproduction.
+
+These intricate ecological relationship were not understood in 1970s, when some countries attempted to control rabbit overpopulation to protect crops. However, rabbits played a crucial role in maintaining short grass. Once their population was reduced, the grass grew rapidly, cooling the soil and creating an unfavorable environment for the thyme plants and Myrmica ants. As the Ants disappeared, so did the butterflies that depended on them. This disruption led to the extinction of the Large Blue Butterfly, and it took 40 years of intensive scientific research to restore the ecosystem.
+
+Interestingly, data later disproved the theory that butterfly collectors caused the species' decline. Ironically, measures to deter them--like fencing--excluded grazing animals, accelerating grass growth and habitat loss.
+
+Professor Earll Murman, in his MIT OpenCourseWare lectures, compares industry training hours in Japan (380.3) to those in the United States(46.4). While the value of training is difficult to measure is the short term, studies like the Ebbinghaus forgetting curve offer insights into the cause-and-effect relationship between consistent training and long-term expertise.
 :::
 
 Sorce: MIT by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen
