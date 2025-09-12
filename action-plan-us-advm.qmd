@@ -6,7 +6,7 @@ bibliography: references.bib
 
 This summary is based on @helwig2024, and is intended to enhance my writing skills, business analysis, and process improvement capabilities for the U.S. market.
 
-The texts may contain typos and incomplete thoughts, and will undergo continuous revision and development. In addition to the main document, I've also use reference materials such as documents, books, videos, and articles to support this work.
+The texts may contain typos and incomplete thoughts and will undergo continuous revision and development. In addition to the main document, I've also used reference materials such as documents, books, videos, and articles to support this work.
 
 ### [Advanced Manufacturing]{style="color: #9D0F6A ;"}
 
@@ -35,11 +35,11 @@ Exploring past experiences stimulates our capacity for mental time travel, which
 
 **Process Innovation History**
 
--   **shortening the distance**: Improving the movement of goods to stimulate trade, industry, agriculture, and communication both regionally and nationwide. The Erie Canal - a navigable waterway completed in 1825-connected the Great Lakes to the Atlantic Ocean, according to @dpla1821. Its primary goal was to develop and agricultural expansion. This transformation significantly impacted the marginal product of labor, as noted by @kaiman2024. Beyond its economic effects, the canal had profound societal impacts, shaping the nation's development throughout the 19th century:
+-   **Shortening the Distance**: Improving the movement of goods to stimulate trade, industry, agriculture, and communication both regionally and nationwide. The Erie Canal(*a navigable waterway completed in 1825*), connected the Great Lakes to the Atlantic Ocean, according to @dpla1821. Its primary goal was to develop and agricultural expansion. This transformation significantly impacted the marginal product of labor, as noted by @kaiman2024. Beyond its economic effects, the canal had profound societal impacts, shaping the nation's development throughout the 19th century:
 
     -   It spurred westward migration and enhanced commercial trade between regions.\
     -   It contributed to the emergence of new towns along its route.\
-    -   It fostered cultural and political unity between the Northeast and the expanding western territories.\
+    -   It fostered cultural and political unity between the Northeast and the expanding Western territories.\
 
 ::: panel-tabset
 ## Erie Canal Map
@@ -51,15 +51,15 @@ Exploring past experiences stimulates our capacity for mental time travel, which
 ![By 1855 cross-state travel went from six weeks to six days, and freight costs fell from \$100 to \$5 per ton - Old Newarks' Main Street Bridge](img/erie_canal.png)
 :::
 
--   **New processes**: Creating better products - faster and more affordably. The Bessemer process patented by Henry Bessemer in 1855 in the U.S. and popularized in the 1870s by visionary entrepreneur Andrew Carnegie. This innovation enabled the construction of transformative infrastructure such as bridges, ships, trains, elevators, oil and water pipelins, and vertical buildings. The process dramatically reduced the manufacturing time of single steel rail - from two weeks to just fifteen minutes.
+-   **New Processes**: Creating better products, faster and more affordably. The Bessemer process patented by Henry Bessemer in 1855 in the U.S. and popularized in the 1870s by visionary entrepreneur Andrew Carnegie. This innovation enabled the construction of transformative infrastructure such as bridges, ships, trains, elevators, oil and water pipelins, and vertical buildings. The process dramatically reduced the manufacturing time of single steel rail from two weeks to just fifteen minutes.
 
--   **Knowledge base, science, and data**: Improvements of efficiency in the petroleum refining process using scientific methods, commercial partnerships, product standardization and uniformity. These factors enhanced Rockefeller's natural leadership capabilities.
+-   **Knowledge base, Science, and Data**: During the rise of the oil industry in the late 19th century, improvements in efficiency within the petroleum refining process were crucial to gaining a competitive edge. These advancements were achieved through the application of scientific methods, the establishment of strategic commercial partnerships. and the implementation of product standardization and operational uniformity. Together, these innovations not only streamlined production and reduced costs but also reinforced John D. Rockefeller's natural leadership capabilities, enabling him to build a highly organized and dominant enterprise in the energy sector.
 
--   **Redefine customer values**: Ford, Packard, Home Depot, Nike, Dell Computer, Apple, Netflix and Tesla are just a few examples of how they created new damand by delivering a previously unknown experience to consumers. They built powerful, cohesive business systems that could deliver more of this value than their competitors. They raised customer expectations beyond what their competitors could reach.
+-   **Redefine Customer Values**: Companies like Ford, Home Depot, Nike, DEll, Apple, Netflix, and Tesla exmplify how redefining customer value can unlock entirely new demand. Rather than competing solely on price or features, these companies intruduced experiences and solutions that consmers didn't even know they needed and tranforming industries in the process. By building powerful, cohesive business systems designed to consistently deliver this new value, they outperformed competitors who were sill focused on traditional efferings. As a result, the elevated customer expectations to levels that others struggle to meet, creating a lasting competitive adavantage rooted in innovation and custmer centric thinking.
 
--   **Low levels of stress and anxiety**: There is a potential association between consistently low levels of stress and anxiety (particularly when individuals or organizations remain in their confort zones) and a loss of economic competitiveness. While confort zone is beneficial for maintaining mental and physical health, can also lead to complacency. Moderate stressors encourage problem-solving, innovation, and adoption of new technologies. In the long term a lack of challenge and growth opportunities can lead to decreased motivation and creativity. Stress is a know driver of cognitive adaptation which is crucial for maintaining productivity in dynamic economic environments. This type of behavior and its consequences could be observed in the 1980s in the United States @justarandomchannel2019 @petersantenello2024 @frontlinepbs2024b and currently in 2024 in Germany @dwnews2024.
+-   **Low levels of stress and anxiety**: There is a potential link bewteen consistently low levels of stress and anxiety(*especially when individuals or organizations remain in their confort zones*), and a decline in economic competitiveness. While operating within a confort zone can support mental and physical well-being, it may also foster complacency and resistance to change. In contrast, moderate stressors(**such as the presence of strong competitors or the pressure of market competition*), can stimulate problem-solving, innovation, and the adoption of new technologies. Theses challenges push individuals and organizations to adapt, evolve, and improve. Over time, a lack of competitive pressure and growth opportunities can lead to reduced motivation, diminished creativity, and stagnation. Stress, when managed effectively, acts as a catalyst for cognitive adaptation, which is essential for maintaining productivity and relevance in dynamic economic environments. Historical patterns of this bahavior were evident in the United States during 1980s, as documented by sources such as @justarandomchannel2019, @petersantenello2024, and @frontlinepbs2024b, and similar trends are observable in Germany in 2024, as reported by @dwnews2024. These examples highlight how the absence of meaningful competition can erode a nation's or organization's innovative edge.
 
--   **Process improvement**: Founded in 1906 by Willlian Riley, New Balance is an American footwear and apperal company headquartered in Boston Massachusetts, and one of the world leading manufacturers of high-quality athletic footwear. Known for its "Made in USA" products, the company prides itself on innovation, and performance using lean principles and tools to improve product flow through its plants to retailers and final customers.
+-   **Process Improvement**: Founded in 1906 by Willlian Riley, New Balance is an American footwear and apperal company headquartered in Boston Massachusetts, and one of the world leading manufacturers of high-quality athletic footwear. Known for its "Made in USA" products, the company prides itself on innovation, and performance using lean principles and tools to improve product flow through its plants to retailers and final customers.
 
     The company began its lean transformation journey in 2003, with guidance from the Toyota Supplier Support Center, New Balance focused in problem-solving and process improvement to create a culture engaging the workforce while boosting performance.
 
@@ -75,7 +75,7 @@ Exploring past experiences stimulates our capacity for mental time travel, which
 
 ### [The Present]{style="color: #9D0F6A ;"}
 
-Focusing on the present helps us undertand how we process information in real time, essential for responding to stimuli quickly and performing daily activities with mindfulness. One of the challenges of staying focused on the present is dealing with digital and physical distractions that are present in abundant quantities.
+Focusing on the present helps us understand how we process information in real time, which is essential for responding quickly to stimuli and peformiing daily activities with mindfulness. One of the main challenges in staying present is managing the abundance of digital and physical distractions the constantly compete for our attention.
 
 **Challenges**
 
