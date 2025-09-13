@@ -8,7 +8,7 @@ This summary is based on @helwig2024, and is intended to enhance my writing skil
 
 The texts may contain typos and incomplete thoughts and will undergo continuous revision and development. In addition to the main document, I've also used reference materials such as documents, books, videos, and articles to support this work.
 
-### [Advanced Manufacturing]{style="color: #9D0F6A ;"}
+## [Advanced Manufacturing]{style="color: #9D0F6A ;"}
 
 -   Advanced manufacturing refers to the use of innovative technologies, processes, and methods(e.g. intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles) to accelerate the design and production of physical goods. This approach anables scalability and capabilities that were previously impossible, including cost reduction and creating of value-added products in shorter production cycles.
 
@@ -29,7 +29,7 @@ Advanced manufacturing promotes economic stability, enhances competitiveness, an
 -   **Customization and Flexibility**: 3D printing enable on-demand manufacturing of highly customizable products without retooling.
 -   **Environmental Impact**: By reducing material waste, energy consumption, and gas emissions.
 
-### [The Past]{style="color: #9D0F6A ;"}
+## [The Past]{style="color: #9D0F6A ;"}
 
 Exploring past experiences stimulates our capacity for mental time travel, which is essential for survival and adaptation. It helps us predict outcomes, learn from mistakes, and develop a sense of identity. Studying the past also reveals how experiences shape history and influence memory formation and learning.
 
@@ -72,7 +72,7 @@ Exploring past experiences stimulates our capacity for mental time travel, which
     -   **Continuous improvement** Employees are encouraged to submit improvement ideas, with recognition and rewards given for successful implementations. Lean enterprises must grow not only to increase value creation but also to provide meaningful opportunities for theirs employees. By continuously improving and becoming more efficient, they can stay competitive and help secure long-term job stability for their workforce @murman2008
 
 
-### [The Present]{style="color: #9D0F6A ;"}
+## [The Present]{style="color: #9D0F6A ;"}
 
 Focusing on the present helps us understand how we process information in real time, which is essential for responding quickly to stimuli and peforming daily activities with mindfulness. One of the main challenges in staying present is managing the overwhelming amount of digital and physical distractions the constantly compete for our attention.
 
@@ -366,7 +366,7 @@ data_mfg_construct %>%
 
 ```
 
-### [The Future]{style="color: #9D0F6A ;"}
+## [The Future]{style="color: #9D0F6A ;"}
 
 Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
 
@@ -388,9 +388,8 @@ Studying the future to understand decision-making processes, planning, and expec
 
 > — Mr. Robert Bagheri, founder and CEO of Sakuú
 
-```         
 -   **Modular Assembly or Unboxed Manufacturing Process** A modular approach where vehicle sub-assenblies are manufactured independently and connected later. Giga Castings, replacing hundreds of smaller parts with large, single-piece castings simplifies assembly, reduces weight, and improves structural rigidity. Autonomous Production eliminating traditional conveyor belts and exploring autonomous vehicles that move through production areas. Flow chart would go from a linear process flow to a parallel process flow. 30% increase in assembly speed and a 44% increase in worker density requiring a smaller factory, 40% smaller factory footprint leading to lower capital expenditure and 50% reduction in cost of good sold for future vehicles.
-```
+
 
 -   **Knowledge base, science, and data**: (insert Lip-Bu Tan here, What are the limitation of scientists today?What are your questions? Insert the schematic process of the beagle sensors and processing here )
 
@@ -516,9 +515,9 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   What about supply chain system with Allies and Partners (pag31,35)
 -   What about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
 
-### [Workforce Education]{style="color: #9D0F6A ;"}
+## [Workforce Education]{style="color: #9D0F6A ;"}
 
-#### U.S. Strategy Goals
+### U.S. Strategy Goals
 
 ![U.S. Strategy Goals](img/us_strategic_goals.png)
 
@@ -538,7 +537,7 @@ Theses cases emphasize that the United States must regain its learning by doing 
 
 -   **Achieve an average 3% GDP growth per year.** Sustained economic growth depends on labor productivity and innovation. Workforce education must foster entrepreneurial thinking, digital fluency, and adaptability to ensure workers can contribute to and benefit from a dynamic economy.
 
-#### Workforce-Driven Economic Agenda
+### Workforce-Driven Economic Agenda
 
 National strategy are influence industrial sectors and emphasizes the role of workforce development as a central driver of change. This change has significant implications for workforce development, particularly in traditional industries such as automotive, steel, textiles, and electronics.
 
@@ -552,13 +551,13 @@ Artifical intelligence can play a transformative role in this educational shift.
 
 Beyond training delivery, AI can help forecast future skill demands based on industry trends, enabling education institutions to proactively design curricula that meet emerging needs. It can also automate the creation and translation of traingin materials, makig educational more accessible to diverse populations.
 
-#### Forging the Future
+### Forging the Future
 
 As the United States pursues ambitious industrial and economic goals for the coming decade, the need for actionable, context-aware recommendations becomes increasingly urgent. However, achieving these outcomes requires more than policy declarations, it demands a strategic rethinking of how we prepare workers for the evolving demands of twenty-first-century industries.
 
 @bonvillian2021 present a compelling case for transforming the fragmented and outdated systems of workforce training in the U.S. They argue that the current model is ill-equipped to meet the pace of technological change and the scale of economic disruption. Their work highlights the importance of rapid, scalable, and inclusive education models such as short-cycle credentialing, modern appreniceships, and the integration of new learning technologies that can equip workers with the skills they need now, not just in the distant future.
 
-Drawing from this framework, the recommendations that follow are grounded in situational knowlege: they respond to the specific challenges faced by key industrial sectors like manufacturing, healthcar, and retail, and align with the strategic goals outlined for national growth and resilience. These proposals aim to bridge the gap between policy ambition and workforce readiness, offering pathways to empower individuals, strengthen industries, and ensure that technological progress translates into broad-based economic opportunity.
+Drawing from this framework, the recommendations that follow are grounded in situational knowledge: they respond to the specific challenges faced by key industrial sectors like manufacturing, healthcare, and retail, and align with the strategic goals outlined for national growth and resilience. These proposals aim to bridge the gap between policy ambition and workforce readiness, offering pathways to empower individuals, strengthen industries, and ensure that technological progress translates into broad-based economic opportunity.
 
 **Short, Intensive Programs in Advanced Manufacturing**
 
@@ -566,7 +565,13 @@ A significant need is anticipated in manufacturing sector, with an estimated two
 
 Development of short course (10-20 weeks) as crucial new approach for the workforce, as many cannot take two years off for a degree. These programs should offer credentials that can be built into groups and stacked towards degrees over time.
 
-Universities can contribute to developing new advanced curriculum for fields like advanced manufacturing. Boot camps (CHECK WEBER AUTO PROFESSOR JOHN KELLY) "https://youtu.be/Dujr3DRkpDU?si=AKTdbcj2E1Y3PECf"
+Universities can contribute to developing new advanced curriculum for fields like advanced manufacturing.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/SRUrB7ruh-8?si=6x-4VMF9lDSpIBRs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+---
 
 **Putting New Education Technologies to Use**
 
@@ -620,14 +625,56 @@ Retail employs about 15.2 million workers, making up roughly 9.1% of the total w
 
 Manufacturing employs approximately 12.75 million workers, representng around 7.6% of the labor force. Though smalller than the other two, it remains vital for economic output and national infrastructure.
 
-#### SMEs & Information Systems
+### SMEs & Information Systems
 
 History of SME here
 
 ![Small and Medium Enterprise Framework](img/sme.png)
 
-#### Modeling Workplace Adaptation
+### Modeling Workplace Adaptation
 
 **Workplace Adjustement: A Theoretical Approach**
 
 ![A conceptual model for analyzing how individuals adapt to work environments](img/model_work_adap.png)
+### Manufacturing approach
+
+The U.S. advanced manufacturing plan, as outlined in resources like manufacturing.gov, aims to increase productivity, improve supply chains, and retain a strong workforce. 
+
+#### Shift Focus from Design to Manufacturing
+
+The U.S. must recognize that while innovation in product design is important, the real competitive advantage lies in mastering manufacturing processes. This means investing heavily in research and development of manufacturing technologies, such as advanced robotics, AI-driven quality control, and sustainable production methods.
+
+> "Manufacturing is underrated and design overrated". This suggests that the initial design of a product, such as a rocket engine, is just the beginning. The real challenge lies in scaling that design into a manufacturable, cost-effective, and reliable, product.
+
+The effort to design a manufacturing system is explonentially greater than the effort to design the product. For instance, he mentions that designing the Raptor engine required significantly less effort compared to designing the manufacturing system to produce it at scale. this is because manufacturing involves not just producing one unit but thousands, each with consistent quality and at a reduced cost.
+
+#### Embrace Vertical Integration
+
+To reduce vulnerability to global supply chain disruptions and improve control over production quality, the U.S. should encourage plocies that support vertical integration. this could involve incentives for companies to bring manufacturing back to the U.S. or to develop domestic supplier networks. The National Strategy for Advanced Manufacturing should prioritize building a robuts ecosystem that supports end-to-end production.
+
+SpaceX's success is partly due to its vertical integration strategy, where the company controls most aspects of production, from raw materials to final assembly. This approach reduces dependency on external suppliers, improves quality control, and lowers costs. Musk's emphasis on process engineering means optimizing every step of the manufacturing process, from supply chain logistics to automation, to ensure efficiency and scalability.
+
+#### Invest in Workforce Training for Manufacturing
+
+The U.S. must invest in training programs that focus on advanced manufacturing skills, such as process engineering, automation, and data analytics. Programs like apprenticeships, community college partnerships, and industry-led training initiatives can bridg the skills gap.
+
+#### Prioritize Cost Efficiency and Scalability
+
+U.S. manufacturers need to adopt a cost-conscious approach, where design constraints include economic viability at scale. This might involve rethinking traditional manufacturing paradigms to incorporate modular designs, additive manufacturing(3D printing), and other techonologies that reduce waste and increate flexibility.
+
+A critical aspect of Musk's approach is desgning with cost in mind from the outset. He challenges the team to achieve a cost per ton of thrust under $1000 for the Raptor engine, which is a formidable constraint that drives innovation in both design and manufacturing. This cost-focused approach is not just about cutting expenses but about reimagining how products are made to be economically viable at scale.
+
+Musk advocates for accelerating cycle times but only after ensuring the design and process are optimized. This iterative approach allows for continuous improvement and adaptation, which is crucial in high-stakes industries like aerospace where failure is not an option.
+
+#### Leverage Data and Automation
+
+The future of manufacturing is digital, and the U.S. must lead in adopting Industry 4.0 technologies. This includes IoT(Internet of Things) for real-time monitoring, AI for predictve maintenance, and advanced robotics for precision manufacturing. These technolgies can significantly reduce cycle tmes and improve quality.
+
+#### Policy Support for Innovation in Manufacturing Processes
+
+The U.S. government should provide incentives for innovation in manufacturing processes, not just product design. This could include tax breaks for companies taht invest in new manufacturing technolgies, grants for research into process optimization, and regulatory support for pilot projects that test new manufacturng methodologies.
+
+#### Collaborative Ecosystems
+
+Building collaborative ecosystems where academia, industry, and government work together can foste innovation in manufacturing. Universities can develop curricula focused on manufacturing engineering, industry can provide real-world applications, and goverment can fund initiatives that bridge the gap between theory and practice.
+
