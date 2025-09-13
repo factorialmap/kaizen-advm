@@ -636,45 +636,47 @@ History of SME here
 **Workplace Adjustement: A Theoretical Approach**
 
 ![A conceptual model for analyzing how individuals adapt to work environments](img/model_work_adap.png)
-### Manufacturing approach
+---
 
-The U.S. advanced manufacturing plan, as outlined in resources like manufacturing.gov, aims to increase productivity, improve supply chains, and retain a strong workforce. 
+### Manufacturing-focus Approach
 
-#### Shift Focus from Design to Manufacturing
+The U.S. advanced manufacturing plan, as outlined in resources like manufacturing.gov, aims to increase productivity, improve supply chains, and retain a strong workforce.
+
+#### **Shift Focus from Design to Manufacturing**
 
 The U.S. must recognize that while innovation in product design is important, the real competitive advantage lies in mastering manufacturing processes. This means investing heavily in research and development of manufacturing technologies, such as advanced robotics, AI-driven quality control, and sustainable production methods.
 
 > "Manufacturing is underrated and design overrated". This suggests that the initial design of a product, such as a rocket engine, is just the beginning. The real challenge lies in scaling that design into a manufacturable, cost-effective, and reliable, product.
 
-The effort to design a manufacturing system is explonentially greater than the effort to design the product. For instance, he mentions that designing the Raptor engine required significantly less effort compared to designing the manufacturing system to produce it at scale. this is because manufacturing involves not just producing one unit but thousands, each with consistent quality and at a reduced cost.
+The effort to design a manufacturing system is exponentially greater than the effort to design the product. For instance, that designing the Raptor engine required significantly less effort compared to designing the manufacturing system to produce it at scale. This is because manufacturing involves not just producing one unit but thousands, each with consistent quality and at a reduced cost.
 
-#### Embrace Vertical Integration
+#### **Embrace Vertical Integration**
 
-To reduce vulnerability to global supply chain disruptions and improve control over production quality, the U.S. should encourage plocies that support vertical integration. this could involve incentives for companies to bring manufacturing back to the U.S. or to develop domestic supplier networks. The National Strategy for Advanced Manufacturing should prioritize building a robuts ecosystem that supports end-to-end production.
+To reduce vulnerability to global supply chain disruptions and improve control over production quality, the U.S. should encourage policies that support vertical integration. This could involve incentives for companies to bring manufacturing back to the U.S. or to develop domestic supplier networks. The National Strategy for Advanced Manufacturing should prioritize building a robust ecosystem that supports end-to-end production.
 
 SpaceX's success is partly due to its vertical integration strategy, where the company controls most aspects of production, from raw materials to final assembly. This approach reduces dependency on external suppliers, improves quality control, and lowers costs. Musk's emphasis on process engineering means optimizing every step of the manufacturing process, from supply chain logistics to automation, to ensure efficiency and scalability.
 
-#### Invest in Workforce Training for Manufacturing
+#### **Invest in Workforce Training for Manufacturing**
 
-The U.S. must invest in training programs that focus on advanced manufacturing skills, such as process engineering, automation, and data analytics. Programs like apprenticeships, community college partnerships, and industry-led training initiatives can bridg the skills gap.
+The U.S. must invest in training programs that focus on advanced manufacturing skills, such as process engineering, automation, and data analytics. Programs like apprenticeships, community college partnerships, and industry-led training initiatives can bridge the skills gap.
 
-#### Prioritize Cost Efficiency and Scalability
+#### **Prioritize Cost Efficiency and Scalability**
 
 U.S. manufacturers need to adopt a cost-conscious approach, where design constraints include economic viability at scale. This might involve rethinking traditional manufacturing paradigms to incorporate modular designs, additive manufacturing(3D printing), and other techonologies that reduce waste and increate flexibility.
 
-A critical aspect of Musk's approach is desgning with cost in mind from the outset. He challenges the team to achieve a cost per ton of thrust under $1000 for the Raptor engine, which is a formidable constraint that drives innovation in both design and manufacturing. This cost-focused approach is not just about cutting expenses but about reimagining how products are made to be economically viable at scale.
+A critical aspect of SpaceX approach is desgning with cost in mind from the outset. They challenges the team to achieve a cost per ton of thrust under $1000 for the Raptor engine, which is a formidable constraint that drives innovation in both design and manufacturing. This cost-focused approach is not just about cutting expenses but about reimagining how products are made to be economically viable at scale.
 
-Musk advocates for accelerating cycle times but only after ensuring the design and process are optimized. This iterative approach allows for continuous improvement and adaptation, which is crucial in high-stakes industries like aerospace where failure is not an option.
+SpaceX advocates for accelerating cycle times but only after ensuring the design and process are optimized. This iterative approach allows for continuous improvement and adaptation, which is crucial in high-stakes industries like aerospace where failure is not an option.
 
-#### Leverage Data and Automation
+#### **Leverage Data and Automation**
 
-The future of manufacturing is digital, and the U.S. must lead in adopting Industry 4.0 technologies. This includes IoT(Internet of Things) for real-time monitoring, AI for predictve maintenance, and advanced robotics for precision manufacturing. These technolgies can significantly reduce cycle tmes and improve quality.
+The future of manufacturing is digital, and the U.S. must lead in adopting Industry 4.0 technologies. This includes IoT(Internet of Things) for real-time monitoring, AI for predictive maintenance, and advanced robotics for precision manufacturing. These technolgies can significantly reduce cycle times and improve quality.
 
-#### Policy Support for Innovation in Manufacturing Processes
+#### **Policy Support for Innovation in Manufacturing Processes**
 
-The U.S. government should provide incentives for innovation in manufacturing processes, not just product design. This could include tax breaks for companies taht invest in new manufacturing technolgies, grants for research into process optimization, and regulatory support for pilot projects that test new manufacturng methodologies.
+The U.S. government should provide incentives for innovation in manufacturing processes, not just product design. This could include tax breaks for companies that invest in new manufacturing technologies, grants for research into process optimization, and regulatory support for pilot projects that test new manufacturing methodologies.
 
-#### Collaborative Ecosystems
+#### **Collaborative Ecosystems**
 
 Building collaborative ecosystems where academia, industry, and government work together can foste innovation in manufacturing. Universities can develop curricula focused on manufacturing engineering, industry can provide real-world applications, and goverment can fund initiatives that bridge the gap between theory and practice.
 
