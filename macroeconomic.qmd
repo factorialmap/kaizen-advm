@@ -56,10 +56,7 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **Last update:** Sep, 2025. 
 
-The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, netotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
-
-
--   The annual inflation rate in the United States rose to 2.9% for the 12 months ending in August 2025, up from 2.7% in July, according to data from the U.S. Bureau of Labor Statistics.
+The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
 
 -   The annual inflation rate for the United States increased by 2.9% for the 12 months ending August 2025, compared to the previous rate of 2.7% in July, according to U.S. Bureau of Labor Statistics data.
 
@@ -79,9 +76,9 @@ The Consumer Price Index (CPI) measures the average change in prices for a baske
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** Aug, 2025. 
+**Last update:** Sep, 2025. 
 
--   According to Federal Roserve Economic data, the Consuper Price Index (CPI) increase by 2.94% in August 2025 compared to the same month a year earlier.
+-   According to Federal Roserve Economic data, the Consumer Price Index (CPI) increase by 2.94% in August 2025 compared to the same month a year earlier.
 
 ![](images/clipboard-2010062285.png) 
 
@@ -254,9 +251,13 @@ data_wk_hours %>%
 ```
 
 
-Labor market tightness refers to the number of job vacancies per unemployed worker, and it plays a key role in monetary policy decisions.
+Labor market tightness refers to the number of job vacancies per unemployed worker, and it plays a key role in monetary policy decisions. A very tight labor market may indicate an overheating economy, causing firms to compete for workers and raise wages. If wages grow faster than productivity, inflation can rise. To address this, central banks like the Federal Reserve may increase interest rates to slow down economic activity and reduce labor demand, easing inflation.
 
-The graph below, suggested by Mick Dueholm and Serdar Ozkan on the FRED Blog, illustrates labor market tightness as the ratio of job openings to unemployed individuals. This metric reflects how many job opportunities are available for each person seeking employment.
+A tight labor market can also promote inclusion by helping groups historically facing employment barriers, as firms become more willing to hire and train them. The Federal Reseve's average inflation targeting allows lower interest rates during low inflation, supporting a tight labor market and more inclusive job growth.
+
+
+The chart below, shared by Mick Dueholm and Serdar Ozkan on the FRED Blog, illustrates labor market tightness as the ratio of job openings to unemployed individuals. This measure indicates how many job opportunities are available for each person seeking work.
+
 
 ```{r}
 #| label: labor_mkt_tightness
@@ -296,15 +297,17 @@ Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departam
 
 ## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
-**Last update:** May, 2025
+**Last update:** Sep, 2025
 
--   The 10-year Treasury bond yield is a key indicator of investor sentiment about economic conditions. Is the interest rate the U.S. government pays to borrow money for a decade, serving as a benchmark for other interest rates, influences borrowing costs, impacts the valuation of financial assets, and signals expectations about inflation and economic growth.
+-   The 10-year Treasury yield is a key indicator of investor sentiment about the economy. It represents the interest rate the U.S. government pays to borrow money for a decade and serves as benchmark for other interest rates. This yield influences borrowing costs, affects the valuation of financial assets, and reflects expectations about inflation and economic growth.
 
 -   The chart below shows the United States 10-Year Government Bond yield.
 
 ```{r}
 #| label: bonds_10y
 #| fig-align: center
+#| message: false
+#| warning: false
 
 data_10y_bonds <- tq_get("DGS10",
                          get = "economic.data",
