@@ -701,7 +701,7 @@ data_invest %>%
 
     -   **Heavy Industry:** Norsk Hydro(Cassopolis, MI), Altex Heat Exchanger(Columbus, MS), Nucor(Kingman, AZ), GE Appliances(Louisville, KY), JSW Steel(Mingo Junction, Ohio)
 
-    -   **Clean Power:** Tesla Energy, Buffalo Branch Wind, Skipjack Offshore Energy, Engie NA, GE Hitachi SMR(RWRX-300), TerraPower, X-Energy, Hyperion Power Generation. Westinghouse eVinci SMR. Ultra Safe Nuclear Comporation(USNC)
+    -   **Clean Power:** Tesla Energy, Buffalo Branch Wind, Skipjack Offshore Energy, Engie NA, GE Hitachi SMR(RWRX-300), TerraPower, X-Energy, Hyperion Power Generation. Westinghouse eVinci SMR. Ultra Safe Nuclear Comporation(USNC), Colossus Power Plant(Southaven, MS).
 
     -   **Clean Energy Manufacturing:** Boom Supersonic(Greensboro, NC), Electric Hydrogen(Devens, MA), Siemens Gamesa(Port of Coeuumans, NY)
 
