@@ -399,15 +399,15 @@ Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
 **Last update:** January, 2025
 
-Revenue cash flow remains a challenge that has effect on supply chains, labor market and debt costs, as some of these are backed by revenue. Generally, in these cycles, highly leveraged companies tend to file for bankruptcy which are important to observe, mainly due to volatility. The perception of high interest rates and monetary tightening make it difficult to pass on prices to the consumer, leading business to adjust their processes striving for efficiency. Other behaviors:
+Revenue-related cash flow remains a challenge, impacting supply chains, the labor market, and debt costs specially since some of theses are tied to revwnue performance. In such cycles, highly leveraged companies often file for bankruptcy, which is important to monitor due to increased volatility. The perception of high interest rates and monetary tightening makes it difficult to pass costs on to consumers, prompting businesses to adjust their operations in pursuit of greater efficiency. Other observed behaviors include:
 
--   Temporary rise in unemployment rates, however without sudden moviments. The job losses begin at the lowest rungs in terms of skills, educational attainment, income making capacity. This indicators are being closely monitored by FED officials and the signals can be seen in Mr. Powell's statements.
+-   There has been a temporary rise in unemployment rates, though without any sudden shifts. Job losses are beginning to occur primarily among workers with lower levels of skills, education, and income-generating capacity. These indicators are being closely monitored by Federal Reserve officials, and signs of concern can be seen in Chairman Powell's recent statements.
 
--   Decisions by companies towards reducing costs(COGS) and operating expenses(SG&A).
+-   Companies are making decisions to reduce costs of goods sold(COGS) and operating expenses(SG&A).
 
--   Temporary increase in the cost of capital for privet debt.
+-   Temporary increase in the cost of capital for private debt.
 
--   Supply chain reorganization.
+-   Reorganization of supply chains.
 
 ### [**Agroindustry**]{style="color: #9D0F6A ;"}
 
