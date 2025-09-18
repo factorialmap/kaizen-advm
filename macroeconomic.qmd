@@ -527,7 +527,7 @@ data_ml %>%
 
 **Infraestructure**
 
--   **Computing:** xAI(Memphis, TN Phase1 concluded 200k gpus, 2nd 1MGPUs in 2026), Amazon (Madison County, MS:2027), Google(Mesa, AZ, Lincoln, NE), Microsoft(Mount Pleasant, WI:2025),Meta(Jeffersonville, IN) Nvidia, (OpenAi, Oracle, Softbank, Abilene TX:2030)
+-   **Computing:** xAI(Memphis, TN Phase1 concluded, 2nd in 2026), Amazon (Madison County, MS:2027), Google(Mesa, AZ, Lincoln, NE), Microsoft(Mount Pleasant, WI:2025),Meta(Jeffersonville, IN) Nvidia, (OpenAi, Oracle, Softbank, Abilene TX:2030)
 
 -   **AI foundation models:** OpenAI(Msft), Anthropic(Google/Amazon), Cohere(Nvidia), Grok-3(xAi),Gemini-2(Google), DeepSeek-R1(DeepSeek)
 
