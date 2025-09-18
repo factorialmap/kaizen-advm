@@ -88,7 +88,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 -   The U.S. central bank rate was lowered to 4.25% following the most recent adjustment in September 2025.
 
-> Our monetary policy actions are guided by our dual mandate to promote manimum employment and stable prices for the American people. At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4 to 4-1/4 percent and to continue reducing the size of our balance sheet.
+> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4 to 4-1/4 percent and to continue reducing the size of our balance sheet.
 >
 > In our SEP, FOMC participants wrote down their individual assesments of an appropriate path for the federal funds rate, based on what each participant judges to be the most likely scenario for the economy. The median participant projects that the appropriate level of the federal funds rate will be 3.6 percent at the end of this year, 3.4 percent at the end of 2026, and 3.1 percent at the end of 2027. This path is 1/4 percentage point lower than projected in June. As is always the case, these individual forecasts are subject to uncertainty, and they are not a Committee plan or decision. Policy is not on a preset course.
 >
