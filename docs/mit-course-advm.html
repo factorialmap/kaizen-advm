@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.43">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>MIT Advanced Manufacturing Courses – Kaizen &amp; Advanced Manufacturing</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-f7c3438e0a4c12b1267b09d3aebbe458.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-YQPR1KZE4G"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-YQPR1KZE4G', { 'anonymize_ip': true});
+</script>
+
+
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Kaizen &amp; Advanced Manufacturing</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./workflow.html"> 
+<span class="menu-text">Workflow</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research-2024-2025" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research 2024-2025</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research-2024-2025">    
+        <li>
+    <a class="dropdown-item" href="./calendar.html">
+ <span class="dropdown-text">Calendar</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./action-plan-us-advm.html">
+ <span class="dropdown-text">Advanced Manufacturing Roadmap</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./mit-course-advm.html">
+ <span class="dropdown-text">MIT Advanced Manufacturing Courses</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./research-us-mfg.html">
+ <span class="dropdown-text">Manufacturing Outlook</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./data-analysis-mfg.html">
+ <span class="dropdown-text">Data-Driven Lean Manufacturing</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./macroeconomic.html">
+ <span class="dropdown-text">U.S. Economic Overview</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://x.com/factorialmap" target="_blank"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/factorialmap" target="_blank"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./mit-course-advm.html">MIT Advanced Manufacturing Courses</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./calendar.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Calendar</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./action-plan-us-advm.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Advanced Manufacturing Roadmap</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mit-course-advm.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">MIT Advanced Manufacturing Courses</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./research-us-mfg.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Manufacturing Outlook</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./data-analysis-mfg.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Data-Driven Lean Manufacturing</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./macroeconomic.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">U.S. Economic Overview</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#lean-six-sigma" id="toc-lean-six-sigma" class="nav-link active" data-scroll-target="#lean-six-sigma"><span style="color: #9D0F6A ;"><strong>Lean Six Sigma</strong></span></a></li>
+  <li><a href="#innovation-systems" id="toc-innovation-systems" class="nav-link" data-scroll-target="#innovation-systems"><span style="color: #9D0F6A ;"><strong>Innovation Systems</strong></span></a></li>
+  <li><a href="#smart-manufacturing" id="toc-smart-manufacturing" class="nav-link" data-scroll-target="#smart-manufacturing"><span style="color: #9D0F6A ;"><strong>Smart Manufacturing</strong></span></a></li>
+  <li><a href="#industrial-internet-of-things" id="toc-industrial-internet-of-things" class="nav-link" data-scroll-target="#industrial-internet-of-things"><span style="color: #9D0F6A ;"><strong>Industrial Internet of Things</strong></span></a></li>
+  <li><a href="#advanced-data-analytics" id="toc-advanced-data-analytics" class="nav-link" data-scroll-target="#advanced-data-analytics"><span style="color: #9D0F6A ;"><strong>Advanced Data Analytics</strong></span></a></li>
+  <li><a href="#fundamentals-of-autonomous-robots" id="toc-fundamentals-of-autonomous-robots" class="nav-link" data-scroll-target="#fundamentals-of-autonomous-robots"><span style="color: #9D0F6A ;"><strong>Fundamentals of Autonomous Robots</strong></span></a></li>
+  <li><a href="#advanced-additive-manufacturing" id="toc-advanced-additive-manufacturing" class="nav-link" data-scroll-target="#advanced-additive-manufacturing"><span style="color: #9D0F6A ;"><strong>Advanced Additive Manufacturing</strong></span></a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">MIT Advanced Manufacturing Courses</h1>
+<p class="subtitle lead">What innovations are scaling up manufacturing and transforming the world in profound ways?</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="lean-six-sigma" class="level3">
+<h3 class="anchored" data-anchor-id="lean-six-sigma"><span style="color: #9D0F6A ;"><strong>Lean Six Sigma</strong></span></h3>
+<p><strong>What Are These Classes About ?</strong></p>
+<ul>
+<li>MIT offers 17 classes introducing lean principes and Six Sigma methods, presented by professor Earll Murman, Hugh McManus, Annalisa Weigel, Bo Madsen and more.</li>
+<li>Recommended book: <em>Kaizen Express: Fundamentals for Your Lean Journey by Toshiko Narusawa and John Shook</em></li>
+<li>Additional useful video: *Industry Talks E11: James P. Womak - available on YouTube.</li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li>Overview of productivity, quality defects, and training hours, highlighting differences between North American and Japanese manufacturing in 1990.</li>
+<li>Lean thinking is a knowledge-driven, customer-focused approach in which everyone within an enterprise continuously work to eliminate waste and create value. Organizations often adopt their own branded version of lean(e.g., GE Aviation-Flight Deck, Pratt&amp;Whitney-ACE, U.S.Air force-AFS021, Boeing-Lean+, NYC Health + Hospitals - Breakthrough)</li>
+<li>Lean thinking is both a mindset and a set of practices focused on creating more value with fewer resources. It involves continuous experimentation and improvement to eliminate waste and optimize the entire value stream from raw materials to the customer.</li>
+</ul>
+<p><strong>Types of value in process steps</strong></p>
+<ul>
+<li><strong>Value added process steps</strong>: Transform or shape materials.</li>
+<li><strong>Necessary waste process steps</strong>: Regulatory, project coordinations.</li>
+<li><strong>Pure waste process steps</strong>: Excess moviment, inventory, wait time, rework, confusion(information process).</li>
+</ul>
+<p><strong>Value Stream map</strong></p>
+<p>Identify all the steps involved in delivering value and eliminate non-value-adding activities.</p>
+<ul>
+<li>Elements of a process, process map, value in a process, five fundamental lean principles, concepts and tools for implementing lean principles.</li>
+<li>Process is a series of actions, changes, or functions which transform inputs to outputs.</li>
+<li>Customers also drive the inputs to a process through their needs and requirements.</li>
+</ul>
+<p><strong>Continuous flow</strong></p>
+<ul>
+<li><strong>Flow</strong>: Ensure a smooth and continuous flow of work through the value stream.</li>
+<li><strong>Pull</strong>: Produce only what is needed, when it is needed.</li>
+<li><strong>Perfection</strong>: Continuously strive for perfection by eliminating waste and improving processes.</li>
+</ul>
+<p><strong>Social contract or contancy of purpose</strong></p>
+<p>Lean’s succes hinges on a strong social contract between employees and the company, supporting a culture of continuous improvement with the aim to become competitive and to stay in business, and to provide jobs. Workers will only contribute ideas if they feel the arrangement is fair and mutually beneficial. Employees are commited to dedicate themselves to their jobs, while the company is commited to provide opportunities for skill development, enabling employees to defend their jobs.</p>
+<p>Hosing Kanri focuses on aligning the entire organization around a few critical strategic objectives. It involves setting clear goals, developing action plans, and monitoring progress towards those goals.</p>
+<p>Toyota started in 1935 and they only got their system perfected by the mid-1960s. It took them 25+ years of experiments and they’ve struggled across the world to maintain the standard as they’ve grown.</p>
+<p>Shifting from KPIs to Problem-Solving or instead of giving orders and say do that, do this, they say “Okay, here’s the problem, here is the gap that we’re trying to close, what are you going to do, how can I help?” That is a different conversation than “make your numbers”.</p>
+<p>According to <span class="citation" data-cites="jamesp.womack2022">James P. Womack (<a href="#ref-jamesp.womack2022" role="doc-biblioref">2022</a>)</span>, reducing inventory should not be the primary focus, but rather a result of improving capability and reducing variability. He emphasizes that simply decreasing inventory reduction without addressing underlying issues will lead to stockouts and dissatisfied customers.</p>
+<p><strong>Standard Inventory</strong></p>
+<p>In the Lean world, standard inventory is the necessary amout to protect the customer and maintain a smooth production flow that includes:</p>
+<ul>
+<li>Safety stock: To buffer againg process incapability</li>
+<li>Buffer stock: To absorb variations in uptream processes</li>
+<li>Shipping stock: To accommodate shipping frequency</li>
+</ul>
+<p><strong>Focus on Capabilty and Variability</strong></p>
+<ul>
+<li>Improve process capability to consistently produce good results, reducing the need for safety stock.</li>
+<li>Employ Heijunka (production leveling) to smooth demand and minimize buffer stock.</li>
+<li>Increase shipping frequency to reduce shipping stock.</li>
+</ul>
+<p><strong>Inventory as a consequence</strong></p>
+<p>When capability improves and variability decreases, the need for standard inventory naturally diminishes, leading to lower inventory levels. In a high-interest-rate environment, reducing inventory becomes even more crucial, as excess inventory ties up capital. In world war 2, Toyota focus on minimizing inventory due to the high cost of money in Japan.</p>
+<p><strong>Continuous improvement</strong></p>
+<p>Evolution of Lean Implementation that has shifted from a consultant-driven. “quick-fix” approach to a coaching model that empowers employees to identify and solve problems themselves. Every day, everyone is involved in eliminating waste, making their jobs easier and taking pride in their work.</p>
+<p>Genchi genbutsu principles, relying on data and observations produced by others does not give a complete understanding. This meaning go to the actual place, talk to the actual people, doing the actual work</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Value and Muda(Waste)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Types of Muda(Waste)</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Value Stream Map</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false">Cost price relationship</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/muda_example.png" class="img-fluid figure-img"></p>
+<figcaption>Value-added and Waste</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/muda_types.png" class="img-fluid figure-img"></p>
+<figcaption>Example of Muda(Waste)</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/vsm.png" class="img-fluid figure-img"></p>
+<figcaption>Value Stream Map</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-1-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-4-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/cost_value_relationship.png" class="img-fluid figure-img"></p>
+<figcaption>Illustration of Cost price relationship - adapted from MIT lectures</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p><strong>Tools of Lean principles</strong></p>
+<p><strong>Process mapping</strong> is a graphical representation of an idea or steps using texts, illustrations, ideograms or greometric figures. The idea is to provide a clear vision of the whole thing, the flow of elements in the drawing, and the direction they go <span class="citation" data-cites="anjos2024">Anjos (<a href="#ref-anjos2024" role="doc-biblioref">2024</a>)</span></p>
+<p><strong>Basic stability</strong></p>
+<p>Lean focused on reduce waste and six sigma focused on reduced variation creating a basic estability preparing the environment for implementation of Lean.</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true">Process mapping</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false">Process guided by strategy</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-3" role="tab" aria-controls="tabset-2-3" aria-selected="false">Why mapping process?</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-4" role="tab" aria-controls="tabset-2-4" aria-selected="false">Basic stability - prcess control</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-5" role="tab" aria-controls="tabset-2-5" aria-selected="false">Process Control and Capability</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-6-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-6" role="tab" aria-controls="tabset-2-6" aria-selected="false">Process control charts</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-7-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-7" role="tab" aria-controls="tabset-2-7" aria-selected="false">Five S</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-8-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-8" role="tab" aria-controls="tabset-2-8" aria-selected="false">Five Whys</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-9-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-9" role="tab" aria-controls="tabset-2-9" aria-selected="false">Ishikawa diagram</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/ptbl_open_store_map.png" class="img-fluid figure-img"></p>
+<figcaption>Illustration of a mapping process for opening stores at Portobello</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/process_guided_strat_goals.png" class="img-fluid figure-img"></p>
+<figcaption>Example of Strategy-driven processes</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-3-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/why_process.png" class="img-fluid figure-img"></p>
+<figcaption>Process design throughout the business life cycle</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-4-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/process_stability.png" class="img-fluid figure-img"></p>
+<figcaption>Example of basic stability</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-5" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-5-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/process_control.png" class="img-fluid figure-img"></p>
+<figcaption>Process Control and Process Capability</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-6" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-6-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/tools_control_charts.png" class="img-fluid figure-img"></p>
+<figcaption>Control variability</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-7" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-7-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/tools_five_s.png" class="img-fluid figure-img"></p>
+<figcaption>Five S</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-8" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-8-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/tools_five_whys.png" class="img-fluid figure-img"></p>
+<figcaption>Five Whys</figcaption>
+</figure>
+</div>
+</div>
+<div id="tabset-2-9" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-9-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/tools_ishikawa.png" class="img-fluid figure-img"></p>
+<figcaption>cause and Effect diagram</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Understanding Root Causes: A Scientific, Evidence-Based Approach
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Preventing short-sighted or palliative decisions from leading to unintended consequences requires a meticulous and systematic study of cause-and-effect relationships. Whithout this depth of understanding, interventions can consume significant resources(e.g., time, money) during later efforts o reorganize systems.</p>
+<p>A compelling illustrations of this principle is the case of the Large Blue Butterfly in southern England. Recent research has revealed a positive correlation between the success conservation of the butterfly and the preservation of Myrmica ants and thyme plants. The ants carry thyme seeds to their nests, along with butterfly larvae. Due to physical and chemical mimicry, the <em>Phengaris</em> caterpillars(Large Blue larvae) deceive the ants using a “cuckoo strategy”–a form of brood parasitism– by preying on ant larvae or begging for food as if they were genuine ant offspring, ensuring the survival and proliferation of the butterfly species. This complex interaction is essential for the betterfly’s survival and reproduction.</p>
+<p>These intricate ecological relationship were not understood in 1970s, when some countries attempted to control rabbit overpopulation to protect crops. However, rabbits played a crucial role in maintaining short grass. Once their population was reduced, the grass grew rapidly, cooling the soil and creating an unfavorable environment for the thyme plants and Myrmica ants. As the Ants disappeared, so did the butterflies that depended on them. This disruption led to the extinction of the Large Blue Butterfly, and it took 40 years of intensive scientific research to restore the ecosystem.</p>
+<p>Interestingly, data later disproved the theory that butterfly collectors caused the species’ decline. Ironically, measures to deter them–like fencing–excluded grazing animals, accelerating grass growth and habitat loss.</p>
+<p>Professor Earll Murman, in his MIT OpenCourseWare lectures, compares industry training hours in Japan (380.3) to those in the United States(46.4). While the value of training is difficult to measure is the short term, studies like the Ebbinghaus forgetting curve offer insights into the cause-and-effect relationship between consistent training and long-term expertise.</p>
+</div>
+</div>
+</div>
+<p>Sorce: MIT by Earll Murman, Hugh McManus, Annalisa Weigel and Bo Madsen</p>
+</section>
+<section id="innovation-systems" class="level3">
+<h3 class="anchored" data-anchor-id="innovation-systems"><span style="color: #9D0F6A ;"><strong>Innovation Systems</strong></span></h3>
+<p><strong>What is it ?</strong></p>
+<ul>
+<li>There are 20 classes with an introduction to Innovation Systems for Science, Technology, Energy, Manufacturing, and Health, published by MIT and presented by professor William Bonvillian.</li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li>Innovation: Railroad, telegraph, electricity, quality manufacturing, Internet 2000, Energy systems.</li>
+</ul>
+<p><strong>Important factors</strong></p>
+<ul>
+<li><p>Solow MIT: You got to do R&amp;D to achieve technological innovation</p></li>
+<li><p>Paul Romer Stanford: Human capital engaged in research (talent base) to drive economic growth.</p></li>
+<li><p>Dale Jorgenson Harvard: Core technology + driven the economic growth and innovation.</p></li>
+<li><p>Merryl Linch: Venture capital. Investor understand value of technology breakthroughs, but only support short term development.</p></li>
+<li><p>Federal government supports predominantly research while industr supports predominantly development. Research is going to drive development over an extensive period of time.</p></li>
+</ul>
+<p><strong>Innovation pipeline</strong></p>
+<p>Research &gt; Development &gt; Prototype &gt; Demo &gt; Testbed &gt; Production &gt; Market</p>
+<p><strong>Basic concepts</strong></p>
+<ul>
+<li><p><strong>Data:</strong> Fragments that can be analyzed and/or used in the effort to acquire knowledge or make decisions. Potential information that requires processing unit to generate value.</p></li>
+<li><p><strong>Science:</strong> Observe and understand the natural world</p></li>
+<li><p><strong>Technology:</strong> System to organize scientific and technical knowledge or both to achieve a practical purpose.</p></li>
+<li><p><strong>Research:</strong> Increasing scientific or technical knowledge or both.</p></li>
+<li><p><strong>Invention:</strong> Applying research knowledge to create a practical idea or device.</p></li>
+<li><p><strong>Innovation:</strong> Built on scientific discovery and breakthrough invention * commercialization</p></li>
+<li><p><strong>System:</strong> Bunch of components working together to achieve some type of goal <span class="citation" data-cites="alithedazzling2024">Ali the Dazzling (<a href="#ref-alithedazzling2024" role="doc-biblioref">2024</a>)</span></p></li>
+<li><p><strong>Innovation system:</strong> Ecosystem for developing innovation operates at two levels: institution actors and face-to-face groups.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/system.png" class="img-fluid figure-img"></p>
+<figcaption>Systems</figcaption>
+</figure>
+</div>
+<ul>
+<li><p><strong>Process innovation:</strong></p></li>
+<li><p><strong>Innovation wave:</strong> 40/50 year cycle of innovation based on radical breakthrough (aviation, electronics, space, nuclear power, computing, internet), disruptive invention, and then application piled on this, productivity rises, then long period of incremental invention(effect spread around the system)</p></li>
+<li><p><strong>Valley of death:</strong> Where innovation and invention usually dies, gap between research and development, institutions often not in place to bridge this gap, and move idea into dev prototyping and production, then invention into innovation <span class="citation" data-cites="osawa2006">Osawa and Miyazaki (<a href="#ref-osawa2006" role="doc-biblioref">2006</a>)</span>.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/osawa.png" class="img-fluid figure-img"></p>
+<figcaption>Valley of death</figcaption>
+</figure>
+</div>
+<p>Source: MIT by by William Bonvillian</p>
+</section>
+<section id="smart-manufacturing" class="level3">
+<h3 class="anchored" data-anchor-id="smart-manufacturing"><span style="color: #9D0F6A ;"><strong>Smart Manufacturing</strong></span></h3>
+<p><strong>What is it ?</strong></p>
+<ul>
+<li><p>Interactive 10-week course about Smart Manufacturing: Moving From Static to Dynamic Manufacturing Operations, published by MIT and presented by professor Brian Anthony.</p></li>
+<li><p>For modeling to manufacturing systems, advanced data analytics, involves instruments and techniques to monitor and control physical systems through mechanical, electrical, and optical engineering along with computer science and optimization.</p></li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>Technologies like AI, IoT and automation together create a highly connected intelligent sysmtes and implementing this practices anables factories become more efficient, more flexible, and more responsiveness changes in demand.</p></li>
+<li><p>Smart manufacture facilitates more informed decision making and improved sustainability.</p></li>
+<li><p>The course is centered in FrED, fiber extrusion device created by MIT to test conceps, methods and new manufacturing innovations. Applying knowledge from FrED give up practical experience with advanced manufacturing</p></li>
+</ul>
+<p>Source: MIT by by Brian Anthony</p>
+</section>
+<section id="industrial-internet-of-things" class="level3">
+<h3 class="anchored" data-anchor-id="industrial-internet-of-things"><span style="color: #9D0F6A ;"><strong>Industrial Internet of Things</strong></span></h3>
+<p><strong>What is it ?</strong></p>
+<ul>
+<li><p>Interactive 9-weeks(on line) course about Industrial Internet of Things: From Theory to Applications, published by MIT and presented by professor Brian Anthony.</p></li>
+<li><p>Real life case studies, research about digital tools and new generation of sensors including fundamental sensing, computing, and communication softwware technologies.</p></li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>Work with embedded and beyong IoT systems and sensors</p></li>
+<li><p>Design beyond IoT products and platforms using hardware and software.</p></li>
+<li><p>Solve problems with machine learning</p></li>
+<li><p>Devise solutions for industrial cases in transportation, healthcare, agriculture, wellness, the environment using beyond IoT principles.</p></li>
+<li><p>A few examples of how IoT(Internet of Things) is applied in smart manufacturing</p>
+<ul>
+<li><p>Predictive maintenance: IoT sensors embedded in manufacturing equipment collect data on performance metrics like temperature, vibration, and usage patterns. This data is analyzed in real-time to predict when maintenanced is needed, reducing downtime and optimizing equipment lifespan.</p></li>
+<li><p>Inventory management: IoT devices track inventory levels in real-time. This includes raw materials, work-in-process(WIP), and finish goods. Manufacturers can use this data to automate reordering processes, optimize storage and reduces waste.</p></li>
+<li><p>Quality control: IoT enabled sensors monitor product quality during manufacturing processes. They can detect defects early, ensuring that only high-quality products reach customers. This improves overall product uniformity and reduces waste.</p></li>
+<li><p>Supply chain optimization: real time tracking of goods throughout the supply chain. Manufacturers gain visibility into the movement of raw materials, components, and fished producs. This helps in optimization logistics, reducing lead times, and improving overall supply chain efficienty.</p></li>
+<li><p>Energy Management: Sensors monitor energy consumption across manufacturing facilities. This data is analyzed to identify energy-saving opportunities, optimize usae patterns, and reduce overall energy costs.</p></li>
+<li><p>Worker safety and Efficiency: Wearable sensors track worker movements and environmental conditions. This helps in ensuring worker safety by detecting potential hazards and optimizing workflow efficiency.</p></li>
+<li><p>Remote Monitoring and control: For managing multiple facilities or accessing critical data from off-site locations.</p></li>
+</ul></li>
+<li><p>Type of sensors</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="img/mit0003.png" class="img-fluid figure-img"></p>
+<figcaption>Sensors</figcaption>
+</figure>
+</div>
+<p>Source: MIT by y Brian Anthony</p>
+</section>
+<section id="advanced-data-analytics" class="level3">
+<h3 class="anchored" data-anchor-id="advanced-data-analytics"><span style="color: #9D0F6A ;"><strong>Advanced Data Analytics</strong></span></h3>
+<p><strong>What is it ?</strong></p>
+<ul>
+<li><p>4 days course (on campus) about Advanced Data Analytics For IIOT and Smart Manufacturing, published by MIT and presented by professor Brian Anthony.</p></li>
+<li><p>This course is on Campus, and is closed. Course length: 4 days <span class="citation" data-cites="mitcorporaterelations2023">MIT Corporate Relations (<a href="#ref-mitcorporaterelations2023" role="doc-biblioref">2023</a>)</span></p></li>
+<li><p>This course is structured based on industrial case driving with cases on optical fiber continuous extrusion, preform fabrication, coffe roasting(Nescafe), packaging beverages(tetrapack), engine manufacturing(Nissan), human monitoring and observation factory and clinic for improve quality(BMW), among others. The idea is to use consolidated techniques such as data distribution, probability, fourier transform <span class="citation" data-cites="oficiencia2019">Oficiencia (<a href="#ref-oficiencia2019" role="doc-biblioref">2019</a>)</span> and machine learning to perform spectral analysis for predictive maintenance for example.- .</p></li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>Machine learning base twins on the factory floor process control with real time feedback for quality control.The idea is to expose to IoT(feedback control) data, using statistical trends to identify anormally and automatically improve the process using machine learning models for SPC beyond “normal”.</p></li>
+<li><p>Use of laser ultrasound imaging to capture charateristics of object and build digital map for 3D print for example see inside of pipeflows for contaminants. Motion vision make decision base on video in process manufacturing with feedback decision.</p></li>
+</ul>
+<table class="caption-top table">
+<caption>Calendar</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Tools of the day1</th>
+<th>Tools of the day2</th>
+<th>Tools of the day3</th>
+<th>Tools of the day4</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Machine learning for real time process control and monitorig</td>
+<td>Discrete Event Simulation</td>
+<td>Security: Homomorphic Encryptions</td>
+<td>Complex Assemblies</td>
+</tr>
+<tr class="even">
+<td>Deep reinforcement learning for real-time control</td>
+<td>Synthetic Training</td>
+<td>Inverse Problems</td>
+<td>Unsupervised learning - assemblies, test, and quality check</td>
+</tr>
+<tr class="odd">
+<td>Time-series classification with CNN and LSTM</td>
+<td></td>
+<td></td>
+<td>LSTM RNN vs Clustering</td>
+</tr>
+<tr class="even">
+<td><strong>Cases of the Day1</strong></td>
+<td><strong>Cases of the Day2</strong></td>
+<td><strong>Cases of the Day3</strong></td>
+<td><strong>Cases of the Day4</strong></td>
+</tr>
+<tr class="odd">
+<td>Food processing</td>
+<td>Automotive</td>
+<td>Imaging</td>
+<td>Packaging</td>
+</tr>
+<tr class="even">
+<td>Ambient Sensing in the Home</td>
+<td>Fiber</td>
+<td>Inverse Design</td>
+<td>Automotive</td>
+</tr>
+<tr class="odd">
+<td>Fiber</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Themes</strong></td>
+<td><strong>Themes</strong></td>
+<td><strong>Themes</strong></td>
+<td><strong>Themes</strong></td>
+</tr>
+<tr class="odd">
+<td>Continuous processing</td>
+<td>Systems/Lin/Batch processes</td>
+<td>Design and Inverse problems</td>
+<td>Complex Assembly and Test</td>
+</tr>
+</tbody>
+</table>
+<p>Source: MIT by Brian Anthony</p>
+</section>
+<section id="fundamentals-of-autonomous-robots" class="level3">
+<h3 class="anchored" data-anchor-id="fundamentals-of-autonomous-robots"><span style="color: #9D0F6A ;"><strong>Fundamentals of Autonomous Robots</strong></span></h3>
+<p><strong>What is it ?</strong></p>
+<ul>
+<li><p>4 days course (on campus) about Advanced Data Analytics For IIOT and Smart Manufacturing, published by MIT and presented by professor Brian Anthony.</p></li>
+<li><p>This course is on Campus, and is closed. Course length: 4 days <span class="citation" data-cites="mitcorporaterelations2023">MIT Corporate Relations (<a href="#ref-mitcorporaterelations2023" role="doc-biblioref">2023</a>)</span></p></li>
+<li><p>This course is structured based on industrial case driving with cases on optical fiber continuous extrusion, preform fabrication, coffe roasting(Nescafe), packaging beverages(tetrapack), engine manufacturing(Nissan), human monitoring and observation factory and clinic for improve quality(BMW), among others. The idea is to use consolidated techniques such as data distribution, probability, fourier transform <span class="citation" data-cites="oficiencia2019">Oficiencia (<a href="#ref-oficiencia2019" role="doc-biblioref">2019</a>)</span> and machine learning to perform spectral analysis for predictive maintenance for example.- .</p></li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li><p>Identify the key components and tupes of autonomous robots.</p></li>
+<li><p>Describe basic principles.</p></li>
+<li><p>Recognize the main elements of robotics systems and architecture.</p></li>
+<li><p>List the primary sensors and perception techniques use in robotics, and more.</p></li>
+<li><p>Identify current trends and challenges in robotics, including the use of foundation models.</p></li>
+</ul>
+<p>Source: Nvidia Deep Learning Stitute</p>
+</section>
+<section id="advanced-additive-manufacturing" class="level3">
+<h3 class="anchored" data-anchor-id="advanced-additive-manufacturing"><span style="color: #9D0F6A ;"><strong>Advanced Additive Manufacturing</strong></span></h3>
+<p><strong>What is it ?</strong></p>
+<ul>
+<li><p>12 weeks course (on line) about Advanced Additive Manufacturing for Innovative Design and Production, published by MIT and presented by professor John Hart, Wojciech Matusik, Emanuel “Ely” Sachs and others.</p></li>
+<li><p>Learn the fundamentals, applications, and business implications of 3D printing for desing and manufacturing.</p></li>
+</ul>
+<p><strong>Summary</strong></p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<p>Source: MIT by John Hart, Wojciech Matusik, Emanuel “Ely” Sachs and others</p>
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-alithedazzling2024" class="csl-entry" role="listitem">
+Ali the Dazzling. 2024. <span>“NASA Engineer Explains Why Systems Engineering Is the Best Form of Engineering,”</span> September. <a href="https://www.youtube.com/watch?v=7sxGW9EVtkI">https://www.youtube.com/watch?v=7sxGW9EVtkI</a>.
+</div>
+<div id="ref-anjos2024" class="csl-entry" role="listitem">
+Anjos, Marcelo Carvalho dos. 2024. <em>Método PDCA e Ferramentas Da Qualidade</em>. <a href="https://factorialmap.github.io/pdca/">https://factorialmap.github.io/pdca/</a>.
+</div>
+<div id="ref-jamesp.womack2022" class="csl-entry" role="listitem">
+James P. Womack. 2022. <span>“IndustryTalks E11,”</span> October. <a href="https://www.youtube.com/watch?v=CJ5BCd6jrUs">https://www.youtube.com/watch?v=CJ5BCd6jrUs</a>.
+</div>
+<div id="ref-mitcorporaterelations2023" class="csl-entry" role="listitem">
+MIT Corporate Relations. 2023. <span>“10 12 13 22 DigitalTech Anthony,”</span> October. <a href="https://www.youtube.com/watch?v=Hs8wDeFXN1g">https://www.youtube.com/watch?v=Hs8wDeFXN1g</a>.
+</div>
+<div id="ref-oficiencia2019" class="csl-entry" role="listitem">
+Oficiencia. 2019. <span>“Transformada de Fourier.”</span> December. <a href="https://www.youtube.com/watch?v=c0LeeinaNC4">https://www.youtube.com/watch?v=c0LeeinaNC4</a>.
+</div>
+<div id="ref-osawa2006" class="csl-entry" role="listitem">
+Osawa, Yoshitaka, and Kumiko Miyazaki. 2006. <span>“An Empirical Analysis of the Valley of Death: Large<span>-</span>Scale R&amp;D Project Performance in a Japanese Diversified Company.”</span> <em>Asian Journal of Technology Innovation</em> 14 (2): 93–116. <a href="https://doi.org/10.1080/19761597.2006.9668620">https://doi.org/10.1080/19761597.2006.9668620</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© Copyright 2024, Marcelo Carvalho dos Anjos</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Built with <a href="https://quarto.org/">Quarto</a></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
