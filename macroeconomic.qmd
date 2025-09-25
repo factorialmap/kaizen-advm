@@ -10,7 +10,7 @@ execute:
 
 ## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
 
-**Last update**: Aug, 2025
+**Last update**: August, 2025
 
 -   Real gross domestic product (GPD) increased at an annual rate of 3.3% in the second quarter of 2025, according to the second estimate released on August 28,2025 (T1). The main drivers were an increase in consumer spending and a decrease in imports, which are a substracted in the calculation of GDP. In the fourth quarter of 2024, real GDP increased by 2.4%.
 
@@ -31,7 +31,7 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ## [**Inflation**]{style="color: #9D0F6A ;"}
 
-**Last update**: Aug, 2025
+**Last update**: August, 2025
 
 The United States employs several different methods to monitor inflation, and it is crucial to comprehend the distinctions among these measures to gain a clear understanding of economic trends.
 
@@ -54,7 +54,7 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** Sep, 2025. 
+**Last update:** September, 2025. 
 
 The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
 
@@ -76,7 +76,7 @@ The Consumer Price Index (CPI) measures the average change in prices for a baske
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** Sep, 2025. 
+**Last update:** September, 2025. 
 
 -   According to Federal Roserve Economic data, the Consumer Price Index (CPI) increase by 2.94% in August 2025 compared to the same month a year earlier.
 
@@ -85,6 +85,8 @@ Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Interest rates**]{style="color: #9D0F6A ;"}
+
+**Last update:** September, 2025.
 
 -   The U.S. central bank rate was lowered to 4.25% following the most recent adjustment in September 2025.
 
@@ -112,6 +114,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
     -   Shelter (new tenant rents vs old tenant rents).
 
+---
 
 **Last update:** January, 2025.
 
@@ -163,7 +166,7 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**Labor Market**]{style="color: #9D0F6A ;"}
 
-**Last update:** Sep, 2025
+**Last update:** September, 2025.
 
 -   The unemployment rate stood at 4.3% in August 2025. A Job gains in healthcare were partially offset by losses in the federal government and in mining, quarrying, and oil and gas extraction.
 
@@ -294,7 +297,7 @@ Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departam
 
 ## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
-**Last update:** Sep, 2025
+**Last update:** September, 2025.
 
 -   The 10-year Treasury yield is a key indicator of investor sentiment about the economy. It represents the interest rate the U.S. government pays to borrow money for a decade and serves as benchmark for other interest rates. This yield influences borrowing costs, affects the valuation of financial assets, and reflects expectations about inflation and economic growth.
 
@@ -329,6 +332,14 @@ data_10y_bonds %>%
 
 ```
 
+- The spread between Moody's Baa corporate bond yield and the 10-year Treasury yield is a key measure of credit risk and economic sentiment. It reflects how much extra return investors demand for holding riskier corporate debt over safe government bonds. A widening spread signals rising concern about corporate defaults or economic slowdown, while a narrowing spread suggest confidence in the economy and corporate health. This indicator often move with the business cycle and can act as a leading signal of recession or recovery. Investors and policymakers use it to assess market stress, risk appetite, and monetary policy impact.
+
+- Historically, a spread above ~2.5% has often preceded recessions, while a spread below ~1.5 suggest economic strength.
+
+- Fixed-income investors use the spread to gauge relative value between corporate and government bonds. a high spread may signal undervalued corporate bonds(if default risk is overestimated), and a low spread may indicate overvaluation or excessive risk-taking.
+
+
+
 ```{r}
 #| label: spread_10y_corp
 #| fig-align: center
@@ -359,6 +370,8 @@ data_spread %>%
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
 ## [**Yield Curve**]{style="color: #9D0F6A ;"}
+
+**Last update:** September, 2025.
 
 ```{r}
 #| label: yield_curve
@@ -408,6 +421,8 @@ Revenue-related cash flow remains a challenge, impacting supply chains, the labo
 
 ### [**Agroindustry**]{style="color: #9D0F6A ;"}
 
+**Last update:** January, 2025
+
 -   2023 was an incredible year for agriculture, with high productivity for wheat and corn. In 2024, the harvest is a little late(e.g South Dakota area). There was high intensity of rainfall at the beginning of planting with mild temperatutes, causing the crop not to develop as much as in 2023. During the wheat harvest, usually in August, the corn needs more rain to fill the grain, but this year there was not so much during this period.
 
 -   The distortions generated during the pandemic is make 2024 a year of adjusments that are being faced by growers, agricultural auto manufacturing, and machinery and equipment sales, temporarily affeting jobs.
@@ -415,6 +430,8 @@ Revenue-related cash flow remains a challenge, impacting supply chains, the labo
 -   Looking for agricultural prices, they are still not good. The expectation is not for a bad year, but it will not be as good as 2023. Sales of new equipment have fallen, making it necessary to adjust costs and expenses in companies such as John Deer and CNH industrial.
 
 ### [**Automotive**]{style="color: #9D0F6A ;"}
+
+**Last update:** January, 2025
 
 -   The automotive industry faces many challenges in 2024. Slowing growth, increased competition, supply chain disruptions generated during the pandemic and business decisions caused distortions in costs and prices that grew way above the population's income and general inflation rates. This process may take a few years to stabilize.
 
@@ -469,6 +486,8 @@ data_us_pop %>%
 
 ### [**Transportation**]{style="color: #9D0F6A ;"}
 
+**Last update:** September, 2025.
+
 Between 2020 and 2023, there was overcapacity in the carrier population due to fluctuating demand, wich remais inconsistent and is currently undergoing adjustments. Despite this, capacity level are still high relative to shipment volumes, putting pressure on logistics providers to streamline operations and pursue efficiency gains. Some carriers are downsizing and reducing freet sies to adapt. On the other hand, the total number of carriers declined by 33,200 between December 2022 and October 2024.
 
 -   Diesel prices are \$3.69 per gallon in September 2025, -3.3% compare with \$3.81 per gallon in 2019.
@@ -479,9 +498,10 @@ Between 2020 and 2023, there was overcapacity in the carrier population due to f
 
 -   Flat bed rates in the spot market are currently \$2.27 per mile down 4.7% YoY and 9.8% over six years(\$2.52 in 2019).
 
-**Last update:** September, 2025
 
 ### [**Technology**]{style="color: #9D0F6A ;"}
+
+**Last update:** September, 2025
 
 -   In 2025 investments in disruptive technologies continue to show accelerated growth. The highlight has been in data center, generative AI for the cloud, personal computers, smartphone devices, and factory floor which is unlocking possibilities for innovation between interconnected processes such as robotics, augmented reality, and autonomous vehicles.
 
@@ -577,6 +597,8 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 ### [**Housing market**]{style="color: #9D0F6A ;"}
 
+**Last update:** September, 2025
+
 -   The U.S. median home price in 4Q24 is \$419.200 compared to \$423.200 last year, a decrease of 0.95% and -5.3% compared to the price peak in 4Q22.
 
 -   Spring is busiest time for the housing market in U.S. starting in April and peaks in June when the average number of existing homes sold per day increases significantly, and historically, home prices tend to rise during this period. On the other hand, in 2021 and 2022 home prices rose 16.7% and 13%, respectively, way above the personal income and this factor may change the effect of this year season. With builders facing challenges in passing on costs to consumers, improving proceses can be a relevant factor in avoiding or minimizing the effects on margins.
@@ -656,6 +678,8 @@ data_house_stock %>%
 **Source:** [Federal Reserve Economic Data](https://fred.stlouisfed.org/) ;[US Census Bureau](https://www.census.gov/)
 
 ### [**Manufacturing**]{style="color: #9D0F6A ;"}
+
+**Last update:** September, 2025
 
 -   In 2024, the United States manufatured over 18% of global high-technology goods.This scenario is changing rapidly.
 
