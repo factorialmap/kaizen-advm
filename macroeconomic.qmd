@@ -157,7 +157,7 @@ data_interest_rate %>%
     data = data_end_interest_rate,
     size = 3.5
   )+
-  theme_minimal(base_size = 14)+
+  theme_minimal(base_size = 16)+
   theme(
     plot.title = element_text(face = "bold", size = rel(1.2), hjust = 0),
     plot.subtitle = element_text(size = rel(1.0), hjust = 0),
@@ -218,7 +218,7 @@ data_continuos_claims %>%
         hjust = 1),
     data = data_end
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Continued Claims (Insured Unemployment)",
        caption = "Source: FRED",
        y = "Value")
@@ -254,7 +254,7 @@ data_wk_hours %>%
     aes(label = price),
     data = data_end_wk_hours
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Average weekly hours of all employees, total private",
        caption = "Source: FRED",
        y = "Hours")
@@ -298,7 +298,7 @@ data_labor_tidht %>%
     aes(label = round(rate,1)),
     data = data_labor_tidht_end
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Labor Market Tightness",
        caption = "Source: FRED",
        x = "",
@@ -337,7 +337,7 @@ data_10y_bonds %>%
     data = data_10y_end,
     nudge_x = 1
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
       y = "Rate" ,
       caption = "Source: FRED")
@@ -372,7 +372,7 @@ data_spread %>%
     data = data_spread_end,
     nudge_x = 1
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Corporate Bond Yield vs 10 Year",
       y = "Rate" ,
       caption = "Source: FRED")
@@ -407,7 +407,7 @@ data_yield_curve %>%
     data = data_yield_spread,
     nudge_x = 1)+
   geom_hline(yintercept = 0, linewidth = 0.7, color = "#9D0F6A")+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Yield Curve 10-year bonds vs T-bills 13 weeks",
        y = "Value")
 
@@ -481,7 +481,7 @@ data_us_pop %>%
             color = "#abd5db")+
   facet_wrap(~indicator, scales = "free" )+
   scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(
     title = "Population growth vs Vehicle sales",
     x = "",
@@ -641,7 +641,7 @@ data_house_supply %>%
     data = data_house_supply_end,
     nudge_x = 1
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   labs(title = "Monthly Supply of New Houses",
       caption = "Source: Federal Reserve Economic Data",
       y = "Months' Supply at Current Sales Rate")
@@ -766,7 +766,7 @@ data_mfg_workers %>%
         hjust = 1),
     data = data_end_mfg_workers
   )+
-  theme_minimal()+
+  theme_minimal(base_size = 16)+
   scale_y_continuous(labels = label_number(scale_cut = cut_si("")))+
   labs(title = "Total Employees in Manufacturing",
        x = "",
