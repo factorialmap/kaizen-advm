@@ -129,6 +129,8 @@ Chair Powell on a question from Elizabeth Schulze of ABC News(December meeting, 
 ```{r}
 #| label: fed_funds
 #| fig-align: center
+#| warning: false
+#| message: false
 
 library(tidyverse)
 library(tidyquant)
@@ -144,22 +146,32 @@ data_end_interest_rate <- data_interest_rate %>% tail(1)
 
 data_interest_rate %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
   geom_text_repel(
     aes(label = price,
         hjust = 1),
-    data = data_end_interest_rate
+    data = data_end_interest_rate,
+    size = 3.5
   )+
-  theme_minimal()+
-  labs(title = "Federal Funds Effective Rate",
+  theme_minimal(base_size = 14)+
+  theme(
+    plot.title = element_text(face = "bold", size = rel(1.2), hjust = 0),
+    plot.subtitle = element_text(size = rel(1.0), hjust = 0),
+    plot.caption = element_text(size = rel(0.8), hjust = 1, face = "italic"),
+    axis.title = element_text(size = rel(0.9)),
+    axis.text = element_text(size = rel(0.8)),
+    legend.position = "none"
+  )+
+  labs(title = str_wrap("Federal Funds Effective Rate", width = 40),
+       subtitle = str_wrap("A key indicator for U.S. monetary policy", width = 40),
        x = "Period",
        y = "Rate in %",
-       caption = "Source: FRED")
-
+       caption = "Source: FRED"       
+)
 ```
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
@@ -196,8 +208,8 @@ data_end <- data_continuos_claims %>% tail(1)
 
 data_continuos_claims %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -233,8 +245,8 @@ data_end_wk_hours <- data_wk_hours %>% tail(1)
 
 data_wk_hours %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5, 
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -277,8 +289,8 @@ data_labor_tidht_end <-  data_labor_tidht %>% tail(1)
 
 data_labor_tidht %>% 
   ggplot(aes(x = date,  y= rate))+
-  geom_line(linewidth = 0.5, 
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   scale_y_continuous(
     labels = label_number(scale_cut = cut_short_scale())
   )+
@@ -318,8 +330,8 @@ data_10y_end <- data_10y_bonds %>% tail(1)
 
 data_10y_bonds %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   geom_text_repel(
     aes(label = price),
     data = data_10y_end,
@@ -353,8 +365,8 @@ data_spread_end <- data_spread %>% tail(1)
 
 data_spread %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   geom_text_repel(
     aes(label = price),
     data = data_spread_end,
@@ -388,8 +400,8 @@ data_yield_spread <- data_yield_curve %>% tail(1)
 
 data_yield_curve %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = .5,
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   geom_text_repel(
     aes(label = price),
     data = data_yield_spread,
@@ -465,7 +477,8 @@ data_us_pop %>%
                names_to = "indicator",
                values_to = "value") %>% 
   ggplot(aes(x = year, y = value))+
-  geom_line(color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   facet_wrap(~indicator, scales = "free" )+
   scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))+
   theme_minimal()+
@@ -621,8 +634,8 @@ data_house_supply_end <- data_house_supply %>% tail(1)
 
 data_house_supply %>% 
   ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   geom_text_repel(
     aes(label = price),
     data = data_house_supply_end,
@@ -666,7 +679,8 @@ data_house_stock <-
 
 data_house_stock %>% 
   ggplot(aes(x = date, y = adjusted))+
-  geom_line(linewidth = 0.5,color = "#adb5bd")+
+  geom_line(linewidth = 1,
+            color = "#abd5db")+
   facet_wrap(~symbol, scales = "free_y", nrow =1)+
   theme_get()+
   scale_y_continuous(position = "right")+
