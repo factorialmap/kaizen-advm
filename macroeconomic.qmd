@@ -8,28 +8,28 @@ execute:
   echo: false
 ---
 
-## [**Gross Domestic Product**]{style="color: #9D0F6A ;"}
+## [**U.S. Gross Domestic Product (GDP)**]{style="color: #9D0F6A ;"}
 
-**Last update**: August, 2025
+**Last update**: September, 2025
 
--   Real gross domestic product (GPD) increased at an annual rate of 3.3% in the second quarter of 2025, according to the second estimate released on August 28,2025 (T1). The main drivers were an increase in consumer spending and a decrease in imports, which are a substracted in the calculation of GDP. In the fourth quarter of 2024, real GDP increased by 2.4%.
+-   Real gross domestic product (GDP) increased at an annual rate of 3.8% in the second quarter of 2025, according to the third estimate released on September 25,2025 (T1). The main drivers were an increase in consumer spending and a decrease in imports, which are a substracted in the calculation of GDP. In the fourth quarter of 2024, real GDP increased by 2.4%.
 
--   Personal consumption expenditures increased by 1.6% in the second quarter of 2025, compared with 0.5% in the first quarter, according to the second estimate released on August 28, 2025 (T1).
+-   Personal consumption expenditures increased by 2.5% in the second quarter of 2025, compared with 0.6% in the first quarter, according to the third estimate released on September 25, 2025 (T1).
 
--   Gross private domestic investment declined by 13.8% in the second quarter of 2025, compared with an increased of 23.8% in the first quarter, according to the second estimate released on August 28, 2025 (T1). Equipment investment rose by 7.4% in the second quarter, compared to a 23.7% increased in the first quarter.
+-   Gross private domestic investment declined by 13.8% in the second quarter of 2025, compared with an increased of 23.3% in the first quarter, according to the third estimate released on September 25, 2025 (T1). Equipment investment rose by 8.5% in the second quarter, compared to a 21.4% increased in the first quarter.
 
--   Government consumption expenditures and gross investment decreased by 0.2% in the second quarter of 2025, compared with a 0.6% decreased in the first quarter according to the second estimate released on August 28,2025 (T1).
+-   Government consumption expenditures and gross investment decreased by 0.1% in the second quarter of 2025, compared with a -1.0% decreased in the first quarter according to the third estimate released on September 25,2025 (T1).
 
--   Personal saving totaled \$1 trillion in the second quarter of 2025. The personal saving rate, as a percentage of disposable personal income, was 4.6% in the second quarter, compared with 4.3% in the first quarter, according to the second estimate released on August 28, 2025 (T8).
+-   Personal saving totaled \$1.2 trillion in the second quarter of 2025. The personal saving rate, as a percentage of disposable personal income, was 5.3% in the second quarter, compared with 5.2% in the first quarter, according to the third estimate released on September 25, 2025 (T8).
 
 
-**GPD for 2024**
+**U.S. Gross Domestic Product(GDP) for 2024**
 
 In 2024, real GDP increased by 2.8%, compared with a 2.9% increase in 2023, according to the third estimate released on March 27, 2025. The main contributors were consumer spending, investment, government expenditures, and exports.
 
 Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
-## [**Inflation**]{style="color: #9D0F6A ;"}
+## [**U.S. Inflation**]{style="color: #9D0F6A ;"}
 
 **Last update**: August, 2025
 
@@ -84,7 +84,7 @@ Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
-## [**Interest rates**]{style="color: #9D0F6A ;"}
+## [**U.S. Interest rates**]{style="color: #9D0F6A ;"}
 
 **Last update:** September, 2025.
 
@@ -170,13 +170,13 @@ data_interest_rate %>%
        subtitle = str_wrap("A key indicator for U.S. monetary policy", width = 40),
        x = "Period",
        y = "Rate in %",
-       caption = "Source: FRED"       
+       caption = "Source: FRED"
 )
 ```
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
-## [**Labor Market**]{style="color: #9D0F6A ;"}
+## [**U.S. Labor Market**]{style="color: #9D0F6A ;"}
 
 **Last update:** September, 2025.
 
@@ -185,7 +185,6 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 -   In August 2025, the unemployment rate was 4.3%, representing 7.4 million people. Of those, 1.9 million were long-term unemployed(*out of work for 27 weeks or more*) accounting for 25.7% of all unemployed persons(TA12).
 
 -   The labor force participation rate declined to 62.3% in August 2025 (TA-1), down 0.4 percentage points from the previous year.
-
 
 -   One important indicator of the labor market is continuing claims, which track the number of individuals filing for ongoing unemployment benefits each week. This indicator is crucial because it reflects the health of the labor market, signal consumer spending strength, helps identify recession risks, informs Reserve policy decisions, and guides business confidence(all in one metric).
 
@@ -262,7 +261,6 @@ data_wk_hours %>%
 
 ```
 
-
 Labor market tightness refers to the number of job vacancies per unemployed worker, and it plays a key role in monetary policy decisions. A very tight labor market may indicate an overheating economy, causing firms to compete for workers and raise wages. If wages grow faster than productivity, inflation can rise. To address this, central banks like the Federal Reserve may increase interest rates to slow down economic activity and reduce labor demand, easing inflation.
 
 A tight labor market can also promote inclusion by helping groups historically facing employment barriers, as firms become more willing to hire and train them. The Federal Reseve's average inflation targeting allows lower interest rates during low inflation, supporting a tight labor market and more inclusive job growth.
@@ -307,7 +305,7 @@ data_labor_tidht %>%
 
 Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departament of Labor](https://www.dol.gov), and FRED.
 
-## [**10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
+## [**U.S. 10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
 
 **Last update:** September, 2025.
 
@@ -381,7 +379,7 @@ data_spread %>%
 
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
-## [**Yield Curve**]{style="color: #9D0F6A ;"}
+## [**U.S. Yield Curve**]{style="color: #9D0F6A ;"}
 
 **Last update:** September, 2025.
 
@@ -415,7 +413,7 @@ data_yield_curve %>%
 
 Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
-## [**Sectors 2Q24**]{style="color: #9D0F6A ;"}
+## [**U.S. Sectors 2Q24**]{style="color: #9D0F6A ;"}
 
 ### [**Overall**]{style="color: #9D0F6A ;"}
 
