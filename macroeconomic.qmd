@@ -336,7 +336,7 @@ data_10y_bonds %>%
     nudge_x = 1
   )+
   theme_minimal(base_size = 16)+
-  labs(title = "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",
+  labs(title = str_wrap("Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",40),
       y = "Rate" ,
       caption = "Source: FRED")
 
@@ -672,7 +672,7 @@ library(scales)
 data_house_stock <- 
   tq_get(c("TOL","DHI","KBH"),
          get = "stock.prices",
-         from = "2017-01-01")
+         from = "2019-01-01")
 
 
 data_house_stock %>% 
@@ -680,8 +680,8 @@ data_house_stock %>%
   geom_line(linewidth = 1,
             color = "#abd5db")+
   facet_wrap(~symbol, scales = "free_y", nrow =1)+
-  theme_get()+
-  scale_y_continuous(position = "right")+
+  theme_minimal()+
+  scale_y_continuous(position = "left")+
   labs(x = "",
        y = "")
 ```
