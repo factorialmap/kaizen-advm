@@ -49,6 +49,11 @@ Exploring past experiences stimulates our capacity for mental time travel, which
 ## Erie Canal Impacts
 
 ![By 1855 cross-state travel went from six weeks to six days, and freight costs fell from \$100 to \$5 per ton - Old Newarks' Main Street Bridge](img/erie_canal.png)
+
+## Erie Canal Engineering
+
+![Nathan Roberts' illustration of a stump puller-using wheels, ropes, and horse power to extract tree stumps-boosted daily stump removal tenfold, from 4 to 40. These innovations earned the group the nickname 'Erie School of Engineers'"](img/erie_stump_puller.png)
+
 :::
 
 -   **New Processes**: Creating better products, faster and more affordably. The Bessemer process patented by Henry Bessemer in 1855 in the U.S. and popularized in the 1870s by visionary entrepreneur Andrew Carnegie. This innovation enabled the construction of transformative infrastructure such as bridges, ships, trains, elevators, oil and water pipelins, and vertical buildings. The process dramatically reduced the manufacturing time of single steel rail from two weeks to just fifteen minutes.
@@ -202,7 +207,7 @@ data_rnd_trans <-
 data_rnd_trans %>%
   mutate(label = 
            if_else(
-             year == "2022",
+             year == "2023",
              glue::glue("{country}: {rnd_perc_gdp}%"),
              NA_character_)) %>% 
   ggplot(aes(x = year, y = rnd_perc_gdp, group = country, colour = country)) + 
@@ -438,7 +443,7 @@ fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
 data_real_gdp_yoy <- fredr(series_id = "GDPC1",
                                observation_start = as.Date("1970-01-01"),
-                               observation_end = as.Date("2025-01-01"),
+                               observation_end = as.Date("2025-12-01"),
                                frequency = "a",
                                units = "pc1")
 
