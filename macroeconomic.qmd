@@ -54,31 +54,31 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** September, 2025. 
+**Last update:** October, 2025. 
 
 The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
 
--   The annual inflation rate for the United States increased by 2.9% for the 12 months ending August 2025, compared to the previous rate of 2.7% in July, according to U.S. Bureau of Labor Statistics data.
+-   The annual inflation rate for the United States increased by 3% for the 12 months ending September 2025, compared to the previous rate of 2.9% in August, according to U.S. Bureau of Labor Statistics data.
 
 
--   The Consumer Price Index (CPI) rose by 0.4% in August 2025 compared to the previous month.
+-   The Consumer Price Index (CPI) rose by 0.3% in September 2025 compared to the previous month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | 0.4 | 2.9  |
-| Food        | 0.5 | 3.2  |
-| Energy      | 0.7 | 0.2  |
-| Services    | 0.3 | 3.6  |
-| Shelter     | 0.4 | 3.6  |
+| CPI overall | 0.3 | 3.0  |
+| Food        | 0.2 | 3.1  |
+| Energy      | 1.5 | 2.8  |
+| Services    | 0.2 | 3.5  |
+| Shelter     | 0.2 | 3.6  |
 
--   The CPI for September 2025 is scheduled to be released on October 15, 2025, at 08:30 a.m. (ET).
+-   The CPI for September 2025 is scheduled to be released on November, 2025, at 08:30 a.m. (ET).
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** September, 2025. 
+**Last update:** October, 2025. 
 
--   According to Federal Roserve Economic data, the Consumer Price Index (CPI) increase by 2.94% in August 2025 compared to the same month a year earlier.
+-   According to Federal Roserve Economic data, the Consumer Price Index (CPI) increase by 3.02% in September 2025 compared to the same month a year earlier.
 
 ![](images/clipboard-2010062285.png) 
 
