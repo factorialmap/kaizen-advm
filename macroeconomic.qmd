@@ -86,15 +86,19 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**U.S. Interest rates**]{style="color: #9D0F6A ;"}
 
-**Last update:** September, 2025.
+**Last update:** October, 2025.
 
--   The U.S. central bank rate was lowered to 4.25% following the most recent adjustment in September 2025.
+-   The U.S. central bank rate was lowered to 4% following the most recent adjustment in October 2025.
 
-> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4 to 4-1/4 percent and to continue reducing the size of our balance sheet.
+> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent.
 >
-> In our SEP, FOMC participants wrote down their individual assesments of an appropriate path for the federal funds rate, based on what each participant judges to be the most likely scenario for the economy. The median participant projects that the appropriate level of the federal funds rate will be 3.6 percent at the end of this year, 3.4 percent at the end of 2026, and 3.1 percent at the end of 2027. This path is 1/4 percentage point lower than projected in June. As is always the case, these individual forecasts are subject to uncertainty, and they are not a Committee plan or decision. Policy is not on a preset course.
+> Data available prior to the shutdown show that growth in economic activity may be on a somewhat firmer trajectory that expected, primarily reflecting stronger consumer spending. Business investment in equipment and intangibles has continued to expand, while activity in the housing sector remains weak. The shutdown of the federal government will weigh on economic activity while it persists, but these effects should reverse after the shutdown ends.
 >
-> — Jerome Powell, September 17, 2025.
+> — Jerome Powell, October 29, 2025.
+
+---
+
+**Last update:** January, 2025.
 
 -   There was a signal in the Jackson Hole's speech, which marked the end of the four-year cycle of increase in the interest rates by the FED.
 
@@ -718,11 +722,9 @@ data_invest %>%
   )+
   theme_classic()+
   labs(title = "Distribution of manufacturing private investments by sector",
-       caption = "Source: White House",
+       caption = "Source: White House 2024",
        y = "Billion US dollar",
-       x =  "")+
-  coord_flip()
-
+       x =  "")
 ```
 
 -   Looking at the manufacturing plants construction sites.
