@@ -212,26 +212,8 @@ Delta is a corporate gift manufacturing and distribution company that sells and 
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-São Paulo Institute of Economic Research is a Brazilian research institute focused on economic studies, market analysis, and public policy support.
-
-### [**Goals**]{style="color: #9D0F6A ;"}
-
-As a Data Scientist, my role is to provide statistical support to improve elementary and high school education and help reverse the current low performance in key areas such as reading and math. In 2025, São Paulo accounts for 31% of Brazil's GDP, and raising indicators like reading and math to OECD levels could generate an annual economic impact of billions of dollars, driving investment, improving quality of life, creating jobs, fostering innovation, and reducing inequality.
+São Paulo Institute of Economic Research is a Brazilian research institute focused on economic studies, and market analysis.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
-- Analyze varaiations and identify patterns in SARESP assessment data, which measures stutends' knowledge and skills, primarily in portuguese language and mathematics, through standardized tests.
-
-- Contribute to the design of performance metrics, data analysis, and product formatting for stakeholders (teachers, students, principals, other decision-makers)
-
-- Design and develop student and class evaluation reports using `cohen's d`, along with RAG and MCP methods powered by LLM models, and provide team training.
-
-- Conduct correlation studies between class schedules and performance at student, class, school, and city levels.
-
-- Develop strategies to compare grades across terms using Item Response Theory(IRT) for tests with varying difficulty.
-
-- Design and implement item quality evaluation strategies using Classical Test Theory(CTT).
-
-- Analyze and understand variations in student performance during the transition from elementary school(grades 1-5:literacy and core curriculum) to middle school and early high school(grades 6-9: deeper learning and critical thinking)
-
-![Kaizen project in education sector](img/fipe_project.png)
+Data Scientist
