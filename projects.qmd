@@ -224,11 +224,9 @@ As a Data Scientist, my role is to provide statistical support to improve elemen
 
 - Contribute to the design of performance metrics, data analysis, and product formatting for stakeholders (teachers, students, principals, other decision-makers)
 
-- Design and develop student evaluation reports using RAG & MCP methodos with LLM models; Train the team.
+- Design and develop student evaluation reports using RAG & MCP methodos with LLM models, and train the team.
 
-- Create class evaluation reports applying Cohen's d, RAG, MCP methods with LLM models; Train the team.
-
-- Design pilot project of predictive models replication VAAR calculations for education fund resource allocation.
+- Create class evaluation reports applying Cohen's d, RAG, MCP methods with LLM models, and train the team.
 
 - Conduct correlation studies between class schedules and performance at student, class, school, and city levels.
 
