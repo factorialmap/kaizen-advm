@@ -207,3 +207,33 @@ Delta is a corporate gift manufacturing and distribution company that sells and 
 -   Improved customer service, reducing waiting times, improving experience.
 
 ![Systems integration process and challenges](img/delta_brindes_2025.png)
+
+## FIPE (2025-2026)
+
+### [**Business**]{style="color: #9D0F6A ;"}
+
+São Paulo Institute of Economic Research is a Brazilian research institute focused on economic studies, market analysis, and public policy support.
+
+### [**Goals**]{style="color: #9D0F6A ;"}
+
+As a Data Scientist, my role is to provide statistical support to improve elementary and high school education and help reverse the current low performance in key areas such as reading and math. In 2025, São Paulo accounts for 31% of Brazil's GDP, and raising indicators like reading and math to OECD levels could generate an annual economic impact of billions of dollars, driving investment, improving quality of life, creating jobs, fostering innovation, and reducing inequality.
+
+### [**Activities**]{style="color: #9D0F6A ;"}
+
+- Analyze variations and identify patterns in SARESP assessment data.
+
+- Contribute to the design of performance metrics, data analysis, and product formatting for stakeholders (teachers, students, principals, other decision-makers)
+
+- Design and develop student evaluation reports using RAG & MCP methodos with LLM models; Train the team.
+
+- Create class evaluation reports applying Cohen's d, RAG, MCP methods with LLM models; Train the team.
+
+- Design pilot project of predictive models replication VAAR calculations for education fund resource allocation.
+
+- Conduct correlation studies between class schedules and performance at student, class, school, and city levels.
+
+- Develop strategies to compare grades across terms using Item Response Theory(IRT) for tests with varying difficulty.
+
+- Design and implement item quality evaluation strategies using Classical Test Theory(CTT).
+
+![Kaizen project in education sector](img/fipe_project.png)
