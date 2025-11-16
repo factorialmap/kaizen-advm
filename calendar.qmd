@@ -40,7 +40,10 @@ ganttrify(
   mark_quarters = TRUE,
   #font_family = "TT Arial",
   axis_text_align = "left") +
-  scale_x_date(date_labels = "%y-%b", breaks = "2 months")+
+  #scale_x_date(date_labels = "%y-%b", breaks = "2 months")+
+  scale_x_date(NULL,
+               breaks = scales::breaks_width("3 months"),
+               labels = scales::label_date_short())+
   labs(title = "Overview of the Immigration Process and Associated Tasks",
        subtitle = "2025 - Marcelo Carvalho dos Anjos",
        caption = "@carvalhoribeiro | USCIS/NVC data")
