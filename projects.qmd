@@ -217,3 +217,16 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
 Data Scientist
+
+::: panel-tabset
+
+## AS-IS
+
+![Student performance by Grade](img/education_grade_score.png)
+
+
+## TO-BR
+
+![Education](img/education_grade_goals.png)
+
+:::
