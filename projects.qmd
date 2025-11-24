@@ -229,4 +229,12 @@ Data Scientist
 
 ![Education](img/education_grade_goals.png)
 
+## Framework
+
+![Venn diagram UDL – Universal Design for Learning](img/venn_d_udl.png)
+
+## New Challenges
+
+![Factors of Production - TFP/MPL](img/factor_production.png)
+
 :::
