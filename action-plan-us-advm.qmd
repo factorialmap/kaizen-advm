@@ -186,7 +186,6 @@ This graph you're looking at is a "map" that helps us understand how different c
 #| warning: false
 #| fig-align: center
 
-
 library(tidyverse)
 library(ggrepel)
 library(scales)
@@ -442,7 +441,7 @@ fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
 
 data_real_gdp_yoy <- fredr(series_id = "GDPC1",
-                               observation_start = as.Date("1970-01-01"),
+                               observation_start = as.Date("1945-01-01"),
                                observation_end = as.Date("2025-12-01"),
                                frequency = "a",
                                units = "pc1")
@@ -451,12 +450,13 @@ data_real_gdp_yoy <- fredr(series_id = "GDPC1",
     data_real_gdp_yoy %>% 
       ggplot(aes(x = date, y = value))+
       geom_col(fill = "#1abc9c", alpha = 0.4 )+
+      geom_smooth(method = "loess", se = FALSE)+
       geom_text(aes(label = round(value,1)), size = 3)+
       scale_x_date(breaks = pretty_breaks(n=10), labels = label_date_short())+
       scale_y_continuous(labels = label_percent(scale = 1))+
       theme_minimal()+
       labs(title = "U.S. Real GDP Growth",
-           subtitle = "Annual perncentage change",
+           subtitle = "Annual percentage change",
            x = "",
            y = "",
            caption = "Source: FRED")
@@ -465,6 +465,31 @@ data_real_gdp_yoy <- fredr(series_id = "GDPC1",
 -   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
 
     -   **Intelligent management grid** Electric vehicle charging management according to variables such as demand, time, and avaiability. The vehicle would make the decision based on data analysis with focus on system avaiability.
+
+### [The main problem{style="color: #9D0F6A ;"}
+
+Understand how innovation systems work and how to optimize their organization to drive economic growth and solve societal problems.
+
+Attempt to get inside that unexplained or poorly understood process of innovation, that it's like a mystery box where you know what goes in(investment, research) and what comes out(new technologies, economic growth), but also understand the internal workings of how it transforms inputs into outputs. Understand how the innovation system is actually organized to optimize the results.
+
+History
+
+- 1945 to 1973: U.S. productivity growth 2% range.
+- 1973 to 1993: U.S. productivity growth < 1% range.
+- 1995 to 2000: U.S. productivity growth 3.5% and economic growth 4.2%
+
+According to @bonvillian the Jorgenson's theory shows how the IT wave of the 1990s drove significant economic growth due to rapid technological innovation. This was characterized by a core technology(semiconductors) that became ever more capable at ever lower cost.
+
+In modern times, we could observe a similar pattern in the advancement and widespread adoption of renewable energy technologies, and advancements in artificial intelligence and machine learning technologies.
+
+- **Core Technology**: AI Algorithms, machine learning models, and the specialized hardware that power them.
+
+- **Declining Cost Base**: The cost of processing power and data representation and storage needed for AI development has singificantly decreased over time. This makes AI development and deployment better, faster and cheaper.
+
+- **Increased Capability**: AI models are constantly becoming fmore sophisticated, capable of handling complex tasks from natural language processing to image recognition and predictive analytics with increasing accuracy and speed.
+
+- **Economic Impact**: This has led to widespread adoption across various industries, from healthcare and finance to manufacturing and entertainment, driving efficiency gains, creating new services, and fostering economic growth in the digital economy.
+
 
 ### [Action Plan]{style="color: #9D0F6A ;"}
 
