@@ -268,21 +268,8 @@ Source: MIT by by Brian Anthony
 -   Type of sensors
 
 ![Sensors](img/mit0003.png)
-::: {.callout-tip collapse="true"}
-## Data science experts  by Brian Anthony from MIT
 
-- Know how to process data and extract insight
-
-- Have the intuition to help explain data
-
-- To identify trends and relationships
-
-- Develo algorithms to help extract information
-
-:::
-
-
-Source: MIT by y Brian Anthony
+Source: MIT by Brian Anthony
 
 ### [**Advanced Data Analytics**]{style="color: #9D0F6A ;"}
 
