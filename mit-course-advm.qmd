@@ -139,6 +139,7 @@ Lean focused on reduce waste and six sigma focused on reduced variation creating
 :::
 
 ::: {.callout-tip collapse="true"}
+
 ## Understanding Root Causes: A Scientific, Evidence-Based Approach
 
 Preventing short-sighted or palliative decisions from leading to unintended consequences requires a meticulous and systematic study of cause-and-effect relationships. Whithout this depth of understanding, interventions can consume significant resources(e.g., time, money) during later efforts o reorganize systems.
@@ -212,6 +213,7 @@ Source: MIT by by William Bonvillian
 
 ### [**Smart Manufacturing**]{style="color: #9D0F6A ;"}
 
+
 **What is it ?**
 
 -   Interactive 10-week course about Smart Manufacturing: Moving From Static to Dynamic Manufacturing Operations, published by MIT and presented by professor Brian Anthony.
@@ -229,6 +231,7 @@ Source: MIT by by William Bonvillian
 Source: MIT by by Brian Anthony
 
 ### [**Industrial Internet of Things**]{style="color: #9D0F6A ;"}
+
 
 **What is it ?**
 
@@ -265,6 +268,19 @@ Source: MIT by by Brian Anthony
 -   Type of sensors
 
 ![Sensors](img/mit0003.png)
+::: {.callout-tip collapse="true"}
+## Data science experts  by Brian Anthony from MIT
+
+- Know how to process data and extract insight
+
+- Have the intuition to help explain data
+
+- To identify trends and relationships
+
+- Develo algorithms to help extract information
+
+:::
+
 
 Source: MIT by y Brian Anthony
 
@@ -297,6 +313,17 @@ Source: MIT by y Brian Anthony
 | Continuous processing | Systems/Lin/Batch processes | Design and Inverse problems | Complex Assembly and Test |
 
 : Calendar
+
+
+::: {.callout-tip collapse="true"}
+## What are digital twins
+
+Digital twin is a virtual model of a physical object, product, process, or system that is regularly updated with data to maintain a strong resemblance to its real-world counterpart. 
+
+Think of it like a very detailed, always-on simulation(e.g., if you have a physical machine on a factory floor, its digital twn would be a software mdoel taht gets constant updates from sensors on the real machine. This allows you to monitor, analyze, and event predict the behavior of the physical assent without directly interacting with it)
+
+:::
+
 
 Source: MIT by Brian Anthony
 

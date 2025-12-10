@@ -12,6 +12,15 @@ The texts may contain typos and incomplete thoughts and will undergo continuous 
 
 -   Advanced manufacturing refers to the use of innovative technologies, processes, and methods(e.g. intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles) to accelerate the design and production of physical goods. This approach anables scalability and capabilities that were previously impossible, including cost reduction and creating of value-added products in shorter production cycles.
 
+::: {.callout-tip collapse="true"}
+## What are digital twins
+
+Digital twin is a virtual model of a physical object, product, process, or system that is regularly updated with data to maintain a strong resemblance to its real-world counterpart. 
+
+Think of it like a very detailed, always-on simulation(e.g., if you have a physical machine on a factory floor, its digital twn would be a software mdoel taht gets constant updates from sensors on the real machine. This allows you to monitor, analyze, and event predict the behavior of the physical assent without directly interacting with it)
+
+:::
+
 -   Advanced manufacturing integrates human expertise with automation, robotics, AI(e.g, machine learning, large language models, computer vision, autonomous agents), the Internet of Things(IoT), and 3D printing to drive innovation and operational efficiency.
 
 ![Advanced Manufacturing](img/advanced_mfg_network.png)
