@@ -86,15 +86,16 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**U.S. Interest rates**]{style="color: #9D0F6A ;"}
 
-**Last update:** October, 2025.
+**Last update:** December, 2025.
 
--   The U.S. central bank rate was lowered to 4% following the most recent adjustment in October 2025.
+-   The U.S. central bank rate was lowered to 3.75% following the most recent adjustment in October 2025.
 
-> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent.
+> Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 3-1/2 to 3-3/4 percent.
 >
-> Data available prior to the shutdown show that growth in economic activity may be on a somewhat firmer trajectory that expected, primarily reflecting stronger consumer spending. Business investment in equipment and intangibles has continued to expand, while activity in the housing sector remains weak. The shutdown of the federal government will weigh on economic activity while it persists, but these effects should reverse after the shutdown ends.
+> In the near term, risks to inflation are tilted to the upside and risks to employment to the downside, a challenging situation. There is no risk-free path for policy as we navigate this tension between our employment and inflation goals. A reasonable base case is that the effects of tariffs on > inflation will be relatively short-lived effectively a one-time shift in the price level.
+> Our obligation is to make sure that a one-time increase in the price level does not becoome an ongoing inflation problem. But with downside risks to employment having risen in recent months, the balance of risks has shifted. Our framework calls for us to take a balance approach in promoting both side of our dual mandate.
 >
-> — Jerome Powell, October 29, 2025.
+> — Jerome Powell, December 10, 2025.
 
 ---
 
