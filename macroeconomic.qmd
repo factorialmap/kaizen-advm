@@ -76,9 +76,9 @@ The Consumer Price Index (CPI) measures the average change in prices for a baske
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** October, 2025. 
+**Last update:** December, 2025. 
 
--   According to Federal Roserve Economic data, the Consumer Price Index (CPI) increase by 3.02% in September 2025 compared to the same month a year earlier.
+-   According to Federal Roserve Economic data, the Consumer Price Index (CPI) increase by 2.71% in November 2025 compared to the same month a year earlier.
 
 ![](images/clipboard-2010062285.png) 
 
