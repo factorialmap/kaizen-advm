@@ -10,17 +10,17 @@ execute:
 
 ## [**U.S. Gross Domestic Product (GDP)**]{style="color: #9D0F6A ;"}
 
-**Last update**: September, 2025
+**Last update**: December, 2025
 
--   Real gross domestic product (GDP) increased at an annual rate of 3.8% in the second quarter of 2025, according to the third estimate released on September 25,2025 (T1). The main drivers were an increase in consumer spending and a decrease in imports, which are a substracted in the calculation of GDP. In the fourth quarter of 2024, real GDP increased by 2.4%.
+-   Real gross domestic product (GDP) increased at an annual rate of 4.3% in the third quarter of 2025, according to the initial estimate released on December 23,2025 (T1). The main drivers were an increase in consumer spending, exports, and government spendings that were partly offset by a decrease in investment. In the fourth quarter of 2024, real GDP increased by 2.4%.
 
--   Personal consumption expenditures increased by 2.5% in the second quarter of 2025, compared with 0.6% in the first quarter, according to the third estimate released on September 25, 2025 (T1).
+-   Personal consumption expenditures increased by 3.5% in the third quarter of 2025, compared with 2.5% in the second quarter, according to the initial estimate released on December 23, 2025 (T1).
 
--   Gross private domestic investment declined by 13.8% in the second quarter of 2025, compared with an increased of 23.3% in the first quarter, according to the third estimate released on September 25, 2025 (T1). Equipment investment rose by 8.5% in the second quarter, compared to a 21.4% increased in the first quarter.
+-   Gross private domestic investment declined by -0.3% in the third quarter of 2025, compared with an decrease of -13.8% in the second quarter, according to the initial estimate released on December 23, 2025 (T1). Equipment investment rose by 5.4% in the third quarter, compared to a 8.5% increased in the second quarter.
 
--   Government consumption expenditures and gross investment decreased by 0.1% in the second quarter of 2025, compared with a -1.0% decreased in the first quarter according to the third estimate released on September 25,2025 (T1).
+-   Government consumption expenditures and gross investment decreased by 2.2% in the third quarter of 2025, compared with a -0.1% decreased in the second quarter according to the initial estimate released on December 23,2025 (T1).
 
--   Personal saving totaled \$1.2 trillion in the second quarter of 2025. The personal saving rate, as a percentage of disposable personal income, was 5.3% in the second quarter, compared with 5.2% in the first quarter, according to the third estimate released on September 25, 2025 (T8).
+-   Personal saving totaled \$953 billion in the third quarter of 2025. The personal saving rate, as a percentage of disposable personal income, was 4.2% in the third quarter, compared with 5.0% in the second quarter, according to the initial estimate released on December 23, 2025 (T8).
 
 
 **U.S. Gross Domestic Product(GDP) for 2024**
