@@ -719,3 +719,52 @@ The U.S. government should provide incentives for innovation in manufacturing pr
 
 Building collaborative ecosystems where academia, industry, and government work together can foste innovation in manufacturing. Universities can develop curricula focused on manufacturing engineering, industry can provide real-world applications, and goverment can fund initiatives that bridge the gap between theory and practice.
 
+
+## Skills REquirements
+
+Skills requirements refers the abilities workers need and the specific content that workforce education must cover to ensure they develop those skills. A set of training competency categories that outline the essential knowledge and abilities required in modern workplace education had been created by the U.S. Department of Labor.
+
+
+- **Personal Skills** refer to the basic behaviors and attitudes that individuals bring to any job, such as reliability, lifelong learnin, self-management, communication, and professionalism. Their main purpose is to ensure that workers can behave responsibly, interact well with others, and manage themselves efffectively in any work environment.
+
+::: {.callout-tip collapse="true"}
+
+Summary Workforce education studies by Merrilea Mayo pag 168.(key personal and interpersonal skills set out by employers)
+
+
+- **Critical thinking** is the ability to analyze information carefully, question assumptions, and make sound judgments. It helps individuals solve problems more effectively and make better decisions  in both independent and collaborative work. 
+
+- **Works independently**refers to the capacity to manage one's own tasks without constant supervision, staying organized, focused, and accountable for results. It reflects maturity and realiability in any professional setting.
+
+- **Collaboration and teamwork** involve working productively with others, communication clearly, listening actively, and contributin to shared goals. This skill ensures that individuals can integrate diverse perspectives and maintain positive group dynamics.
+
+- **Grit and mindset** relate to perseverance, resilience, and the belief that abilities can grow through effort. They help people staty motivated and overcome setbacks, especially when facing long-term or difficult challenges.
+
+- **Time management** is the hability to prioritize tasks, plan ahead, and use available time efficiently. It supports productivity and reduces stress by allowing individuals to meet deadlines and maintain steady progress.
+
+- **Curiosity** reflects a desire to learn, explore new ideas, and ask meaningful questions. It fuels continuous improvement and helps people adapt to changing environments.
+
+- **Creativity** is the skill of generating original ideas, seeing alternative solutions, and approaching problems from fresh angles. It encourages innovation and contributes to better problem-solving in both technical and interpersonal settings.
+
+- **Openness** describes the willingness to consider new perspectives, accept feedback, and adapt to new situations or ways of thinking. It makes individuals more flexible and receptive in diverse workplaces.
+
+- **Motivation** refers to the internall drive that pushes someone to act, learn, and achieve. It sustains effort over time and supports engagement, productivity, and overall performance.
+
+
+:::
+
+- **Academic competencies** involve foundation knowledge learned through formal education, including reading, writing, math, science, digital literacy, and critical thinking. These competencies exist to give workers the analytical abilities necessary to understand information, follow instructions, and solve problems in increasingly complex workplaces.
+
+- **Workplace competencies** focus on the practical abilities needed to function efficiently within an organization. They include teamwork, problem-solving, adaptability, planning, and the use of workplace technologies. The goal is to prepare workkers to contribute productively within teams, handle day-to-day taks, and operate within real organizational systems.
+
+- **Industry-wide technical competencies** represent the technical knowledge that applies broadly across and entire sector, such as manufacturing, healthcare, or logistics. These skills ensure that workers understand common tools, processes, safety requirements, and regulatory expectations that define performance and quality across the industry.
+
+- **Occupational-specific technical competencies** refer to the specialized abilities required for a particular job role. These competencies are tied directly to specific tasks, technologies, and procedures unique to a given occupation. Their goal is to make sure that workkers can perform the specialized, technocal functions of their role at a high level of accuracy, productivity, and safety.
+
+
+::: {.callout-tip collapse="true"}
+
+
+Case study Workkeys at Phifer in Tuscaloosa pag 161. They have achieved program completion rates that range from 61% to 87% across schools, and job placement rates from 76% to 92%. $2 million reduction in training costs, a 25% cut in training time, a 40% improvement in the quality of applicant, a 33% reduction in orientation time, and a 15% increase in workforce punctuality.
+
+:::
