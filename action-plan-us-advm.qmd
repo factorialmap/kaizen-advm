@@ -669,12 +669,6 @@ Manufacturing employs approximately 12.75 million workers, representng around 7.
 History of SME here
 
 ![Small and Medium Enterprise Framework](img/sme.png)
-
-### Modeling Workplace Adaptation
-
-**Workplace Adjustement: A Theoretical Approach**
-
-![A conceptual model for analyzing how individuals adapt to work environments](img/model_work_adap.png)
 ---
 
 ### Manufacturing-focus Approach
@@ -719,8 +713,9 @@ The U.S. government should provide incentives for innovation in manufacturing pr
 
 Building collaborative ecosystems where academia, industry, and government work together can foste innovation in manufacturing. Universities can develop curricula focused on manufacturing engineering, industry can provide real-world applications, and goverment can fund initiatives that bridge the gap between theory and practice.
 
+---
 
-## Skills REquirements
+### Skills Requirements
 
 Skills requirements refers the abilities workers need and the specific content that workforce education must cover to ensure they develop those skills. A set of training competency categories that outline the essential knowledge and abilities required in modern workplace education had been created by the U.S. Department of Labor.
 
@@ -768,3 +763,11 @@ Summary Workforce education studies by Merrilea Mayo pag 168.(key personal and i
 Case study Workkeys at Phifer in Tuscaloosa pag 161. They have achieved program completion rates that range from 61% to 87% across schools, and job placement rates from 76% to 92%. $2 million reduction in training costs, a 25% cut in training time, a 40% improvement in the quality of applicant, a 33% reduction in orientation time, and a 15% increase in workforce punctuality.
 
 :::
+
+---
+
+### Modeling Workplace Adaptation
+
+**Workplace Adjustement: A Theoretical Approach**
+
+![A conceptual model for analyzing how individuals adapt to work environments](img/model_work_adap.png)
