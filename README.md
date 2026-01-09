@@ -1,4 +1,4 @@
-#### The idea of this project is to produce material for continuing education on improving manufacturing processes using data analysis and machine learning techniques.
+#### The goal of this project is to create education materials focused on improving manufacturing processes through data analysis and machine learning techniques
 
 1.  Analyze the past, presente and future of manufacturing process in the United States.
 
