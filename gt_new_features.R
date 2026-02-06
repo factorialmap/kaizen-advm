@@ -90,7 +90,6 @@ data_student_scores %>%
   )
 
 
-
 # format numb -------------------------------------------------------------
 
 # step1: create some data

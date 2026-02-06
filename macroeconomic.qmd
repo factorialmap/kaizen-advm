@@ -145,7 +145,7 @@ library(ggrepel)
 data_interest_rate <-  tq_get("DFF", 
                               get = "economic.data",
                               from = "1970-01-01",
-                              to = "2026-01-01")
+                              to = "2027-01-01")
 
 data_end_interest_rate <- data_interest_rate %>% tail(1)
 
@@ -206,7 +206,7 @@ library(ggrepel)
 data_continuos_claims <-  tq_get("CCSA", 
                                  get = "economic.data",
                                  from = "1970-01-01",
-                                 to = "2026-01-01")
+                                 to = "2027-01-01")
 
 data_end <- data_continuos_claims %>% tail(1)
 
@@ -243,7 +243,7 @@ data_continuos_claims %>%
 data_wk_hours <-  tq_get("AWHAETP", 
                          get = "economic.data",
                          from = "1970-01-01",
-                         to = "2026-01-01")
+                         to = "2027-01-01")
 
 data_end_wk_hours <- data_wk_hours %>% tail(1)
 
@@ -282,7 +282,7 @@ data_labor_tidht <-
   tq_get(c("JTSJOR","UNRATE"),
          get = "economic.data",
          from = "2000-01-01",
-         to = "2026-01-01") %>% 
+         to = "2027-01-01") %>% 
   pivot_wider(names_from = symbol,
               values_from = price) %>% 
   drop_na() %>% 
@@ -327,7 +327,7 @@ Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departam
 data_10y_bonds <- tq_get("DGS10",
                          get = "economic.data",
                          from = "1970-01-01",
-                         to = "2026-01-01")
+                         to = "2027-01-01")
 
 data_10y_end <- data_10y_bonds %>% tail(1)
 
@@ -351,7 +351,7 @@ data_10y_bonds %>%
 
 - Historically, a spread above ~2.5% has often preceded recessions, while a spread below ~1.5 suggest economic strength.
 
-- Fixed-income investors use the spread to gauge relative value between corporate and government bonds. a high spread may signal undervalued corporate bonds(if default risk is overestimated), and a low spread may indicate overvaluation or excessive risk-taking.
+- Fixed-income investors use the spread to gauge relative value between corporate and government bonds. A high spread may signal undervalued corporate bonds(if default risk is overestimated), and a low spread may indicate overvaluation or excessive risk-taking.
 
 
 
@@ -362,7 +362,7 @@ data_10y_bonds %>%
 data_spread <- tq_get("BAA10Y",
                          get = "economic.data",
                          from = "1970-01-01",
-                         to = "2026-01-01")
+                         to = "2027-01-01")
 
 data_spread_end <- data_spread %>% tail(1)
 
