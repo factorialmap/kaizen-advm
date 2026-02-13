@@ -54,24 +54,24 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** January, 2026. 
+**Last update:** February, 2026. 
 
 The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
 
--   The annual inflation rate for the United States increased by 2.7% for the 12 months ending December 2025, compared to the previous rate of 2.7% in November, according to U.S. Bureau of Labor Statistics data.
+-   The annual inflation rate for the United States increased by 2.4% for the 12 months ending January 2026, compared to the previous rate of 2.7% in December 2025, according to U.S. Bureau of Labor Statistics data.
 
 
--   The Consumer Price Index (CPI) rose by 0.30% in December 2025 compared to the previous month.
+-   The Consumer Price Index (CPI) rose by 0.2% in January 2026 compared to the previous month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | 0.3 | 2.7  |
-| Food        | 0.7 | 3.1  |
-| Energy      | 0.3 | 2.3  |
-| Services    | 0.3 | 3.0  |
-| Shelter     | 0.4 | 3.2  |
+| CPI overall | 0.2 | 2.4  |
+| Food        | 0.2 | 2.9  |
+| Energy      | -1.5 | -0.1  |
+| Services    | 0.4 | 2.9  |
+| Shelter     | 0.2 | 3.0  |
 
--   The CPI for January 2026 is scheduled to be released on February 11, 2026, at 08:30 a.m. (ET).
+-   The CPI for February 2026 is scheduled to be released on March 11, 2026, at 08:30 a.m. (ET).
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
