@@ -6,22 +6,23 @@ bibliography: references.bib
 
 This summary is based on @helwig2024, and is intended to enhance my writing skills, business analysis, and process improvement capabilities for the U.S. market.
 
-The texts may contain typos and incomplete thoughts and will undergo continuous revision and development. In addition to the main document, I've also used reference materials such as documents, books, videos, and articles to support this work.
+The text might have typos and unfinished ideas and will be regularly updated. Besides the main document, I've used references like documents, books, videos, and articles to support this work.
 
 ## [Advanced Manufacturing]{style="color: #9D0F6A ;"}
 
--   Advanced manufacturing refers to the use of innovative technologies, processes, and methods(e.g. intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles) to accelerate the design and production of physical goods. This approach anables scalability and capabilities that were previously impossible, including cost reduction and creating of value-added products in shorter production cycles.
+-   Advanced Manufacturing refers to the use of innovative technologies, processes, and methods to accelerate the design and production of physical goods(e.g. intelligent robotics, additive manufacturing, digital twins, artificial intelligence, and lean principles). This approach anables scalability and capabilities that were previously impossible, including cost reduction and creating of value-added products in shorter production cycles.
 
 ::: {.callout-tip collapse="true"}
 ## What are digital twins
 
-Digital twin is a virtual model of a physical object, product, process, or system that is regularly updated with data to maintain a strong resemblance to its real-world counterpart. 
+A digital twin is a virtual model of a physical object, product, process, or system. It is regularly updated with real-world data so it closely matches its physical counterpart.
 
-Think of it like a very detailed, always-on simulation(e.g., if you have a physical machine on a factory floor, its digital twn would be a software mdoel taht gets constant updates from sensors on the real machine. This allows you to monitor, analyze, and event predict the behavior of the physical assent without directly interacting with it)
+Think of it as a very detailed, always-on simulation. For example, if you have a machine on a factory floor, its digital twin is a software model that constantly receives data from sensors on the real machine. This allows you to monitor, analyze, and even predict how the machine will behave without touching the physical asset.
 
 :::
 
--   Advanced manufacturing integrates human expertise with automation, robotics, AI(e.g, machine learning, large language models, computer vision, autonomous agents), the Internet of Things(IoT), and 3D printing to drive innovation and operational efficiency.
+-   Advanced manufacturing combines human expertise with automation, robotics, AI(such as machine learning, large language models, computer vision, and autonomous agents), the Internet of Things(IoT), and 3D printing to drive innovation and improve operational efficiency.
+
 
 ![Advanced Manufacturing](img/advanced_mfg_network.png)
 
@@ -31,12 +32,16 @@ Advanced manufacturing promotes economic stability, enhances competitiveness, an
 
 -   **National Security**: A strong manufacturing sector is vital for economic independence and national security. By producing essential goods domestically, the U.S. can reduce reliance on foreign powers.
 -   **Productivity**: Streamline production processes by automation, reducing cycle times and labor cost.
--   **Costs**: By optimizing processes and reducing waste.
+-   **Costs**: By optimizing processes reducing waste, errors, and downtime.
 -   **Supply Chain**: IoT and data analytics can improve visibility and efficiency, reducing lead times and inventory costs.
 -   **Jobs and skill requirements**: New opportunities in fields like robotics programming, data analysis, and maintenance of advanced machinery.
 -   **Quality**: High precision, uniformity and consistency in production.
 -   **Customization and Flexibility**: 3D printing enable on-demand manufacturing of highly customizable products without retooling.
 -   **Environmental Impact**: By reducing material waste, energy consumption, and gas emissions.
+
+
+**Advanced manufacturing expands the set of economically feasible activities by lowering costs, reducing risk, increasing flexibility, and enabling the efficient production of complex and customized products that were previously too expensive or unreliable to make.**
+
 
 ## [The Past]{style="color: #9D0F6A ;"}
 
