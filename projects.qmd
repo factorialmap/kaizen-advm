@@ -7,27 +7,26 @@ subtitle: "Some projects I've worked on"
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Bertin S/A was a meat processing company that manufactures beef-based proteins. After merging with Friboi, it became part of JBS Global, which now employs over 270,000 people worldwide.
+Bertin S/A was a beef protein producer later integrated into JBS Global through its merger with Friboi.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My role involved visiting twelve manufacturing plants to identify opportunities for process improvement and implement enchancement procedures. I contributed to over fifty improvement projects across seven states, leading teams and training managers, supervisors, and production line operators in areas such as safety, computer systems, Lean manufacturing principles, the PDCA method, quality tools, strategic planning, production planning and optimization techniques.
+Led process improvements initiatives across twelve plants, delivering over fifty projects in seven states and training teams in Lean, PDCA, and production optimization.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Designed and implemented a low-latency business intelligence system deployed across nine manufacturing plants.
--   Developed an integrated planning system using linear programming to support strategic decision-making, creating a tool that helped reduce COGS(Cost of Goods Sold), which accounted for 80% of the company's revenue.
--   Trained teams of operators, supervisors, and managers in Lean manufacturing principles and business intellince tools.
+-   Deployed a low-latency BI system across nine plants.
+-   Built a linear-programming planning tool to drive strategic decisions and reduce COGS(cost of good sold).
+-   Trained teams of operators, supervisors, and managers in Lean manufacturing principles and BI tools.
 -   Led fifteen Kaizen projects focused on energy efficiency, production processes, slaughter, deboning, and supply chain optimization.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Reduced cost of Good Sold(COGS) by 2%, saving approximately $27 million in 2007.
--   Supported the commercial team in identifying and presenting the optimal product mix.
--   Improved operational performance by managing cost and driving revenue growth.
--   Improved energy efficiency by reducing consumption by 10% from 90 kWh/ton to 81 kWh/ton in 2009.
+-   Reduced COGS by 2%, saving $27M(2007).
+-   Enabled the commercial team to define and present the optimal product mix,
+-   Cut energy consumption by 10%, from 90 to 81 kWh/ton(2009).
 -   Recuded average truck loading time by 17%. 
--   Reduced carcass weight loss during chilling by 0.42%, saving approximately $2 million per plant in 2009.
+-   Lowered carcass weight loss during chilling by 0.42%, saving ~$2M per plant(2009).
 
 ::: panel-tabset
 
@@ -49,15 +48,15 @@ My role involved visiting twelve manufacturing plants to identify opportunities 
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-GOVBR is a private software company that develops solutions to enhance public sector management.
+GOVBR is a private software company focused on public sector management.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My role was to help increase the company's valuation during the merger and acquisition process by establishing areas of compliance and transparency. To support this, I developed a business intelligence system that enabled managers to fine-tune their decisions using a data-driven approach.
+I supported the company's valuation during the M&A process by building compliance, transparency, and a data-driven decision system.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Mapped financial processes by collecting data on information flows, requirements, timelines, constraints, and statement communications.
+-   Mapped and standardized financial processes.
 -   Structured the business intelligence function with a focus on controllership processes across five companies withing the business group.
 -   Created a new SQL Served database to store historical financial and operational data.
 -   Developed dashboards using QlikView to monitor performance metrics.
@@ -65,9 +64,8 @@ My role was to help increase the company's valuation during the merger and acqui
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
-
--   Delivered a modern P&L report design to enhance clarity in key performance indicators, while ensuring the highest standards of compliance and transparency. Leveraged business intelligence tools and adopted financial reporting practices aligned with private companies standards, maintaining a structured calendar for accuracy and consistency.
--   Improved communication strategies to make operational and financial results easier to present both orally and in writing.
+- Redesign the P&L to clarify KPIs while maintaining full compliance and transparency, using BI tools and disciplined public-company reporting standards.
+- Simplified the presentation of operational and financial results, both spoken and written.
 
 ::: panel-tabset
 
@@ -90,21 +88,21 @@ Portobello Group is a premium ceramic tile manufacturer with production faciliti
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-My role was to help achieve three strategic goals: opening new stores, increasing revenue in existing locations, and improving service quality for franchisees and other customers.
+My role supported three strategic priorities: store expansion, same-store revenue growth, and service quality improvement.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Mapped internal processes, executed and monitored them, identified improvement opportunities, and implemented changes.
--   Enhanced data quality and improved the user interface of Neoway Radar, a third-party big data tool used to boost external sales.
--   Developed user manuals and trained support teams on new software tools.
--   Supported the business intelligence team by creating performance indicators and dashboards aligned with strategic goals.
+-   Mapped and improved internal processes through execution and monitoring.
+-   Enhanced data quality and UI for Neoway Radar to support external sales.
+-   Trained teams and produced user documentation for new tools.
+-   Delivered KPIs and dashboards aligned with strategy.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Increased the rate of new store openings from 8 to 12 per year.
--   Achieved an 86% increase in external sales in 2015.
--   Enhanced the company's web portal to provide better information support for both customers and internal staff.
--   Increased the number of stores using the Neoway Radar big data tool by 44%
+-   Raised store openings from 8 to 12 per year.
+-   Drove 86% external sales growth in 2015.
+-   Upgraded the web portal to better serve customers and staff.
+-   Increased Neoway Radar adoption by 44%
 
 ::: panel-tabset
 
@@ -124,45 +122,36 @@ My role was to help achieve three strategic goals: opening new stores, increasin
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gift manufacturing and distribution company that sells and ships products to over 2,000 customers across all 26 states of Brazil.
+Delta manufactures and distributes corporate gifts nationwide in Brazil, serving over 2,000 customers.
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-Initially, my role focused on scaling up fulfillment operations, ensuring consistently high service quality, and implementing digital systems such as enterprise resource planning(ERP) and business intelligence tools. I also mapped and documented processes to improve efficiency, and trained staff to enhance their skills and capabilities.
+Scaled fulfilment operations, ensured service quality, implemented ERP and BI systems, documented processes, and trained teams.
 
-Subsequently, I was invited to contribute to the company's strategic discussions, using data to refine the CEO's decision-making.  As a result, my responsabilities expanded to include:
+Later supported executive decision-making with data, with expanded responsabilities to:
 
--   Quickly identify macroeconomic trends and develop scenarios to protect capital, improve resource allocation efficiency, diversify investments, and optimize cash flow-ensuring the long-term sustainability of the family business.
-
--   Improve customer service for existing clients.
-
--   Gain deeper insights into where our potential customer are located and how to effectively attract them.
-
--   Boost revenue from or existing customer base.
+- Antecipate macroeconomic trends and protect financial resources while improving allocation, diversification, cash flow, and long-term sustainability.
+- Improve service for existing customer.
+- Identify and attract new customers.
+- Increase revenue for the existing base.
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   Developed a business intelligence platform using QlikView to integrate and analyze macroeconomic data, sales and price quotations, market sentiment, and operational performance.
-
--   Leveraged data to forecast macroeconomic and market trends, providing strategic support for the CEO's decision-making.
-
--   Led the implementation of the ERP system, including process design and employee training.
-
--   In 2024, we redesigned, enhanced, and migrated the business intelligence system to Microsoft Power BI. We also began testing by adjusting data pipelines o meet Retrieval-Augmented Generation(RAG) requirements for task automaton using generative AI.
+-   Built a Qlikview BI platform integrating macro, sales, pricing, market sentiment, and operations data.
+-   Used data to inform CEO-level strategic decisions.
+-   Led ERP implementation, including process design and training.
+-   Migrated BI to Power BI and adapted data pipelines for RAG-based AI automation
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
--   Handled daily operations, mapped business processes, and proposed and implemented improvements.
-
--   Documented procedures and trained teams in distribution planning, shipment coordination, customer pricing, and communication strategies to foster strong relationships wih customers and suppliers.
+-   Managed daily operations, mapped business processes, and implemented improvements.
+-   Documented workflows and trained teams in distribution planning, shipment coordination, customer communication to streghthen relationships  with customers and suppliers.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Reduced shipping errors caused by registration issues by 98%, and cut setup time from one day to just 20 minutes.
-
--   Implemented an ERP system, Business Intelligence tools, and a new data collection and analysis framework, while also training staff.
-
--   Achieved a 150% increase in revenue between 2019 and 2022.
+-   Cut shipping errors by 98% and reduced setup time from one day to 20 minutes.
+-   Implemented ERP and BI systems and trained teams.
+-   Drove 150% revenue growth (2019-2022)
 
 ![Business Intelligence Project at Delta Brindes Corporativos](img/delta_brindes_action.png)
 
@@ -170,37 +159,28 @@ Subsequently, I was invited to contribute to the company's strategic discussions
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
-Delta is a corporate gift manufacturing and distribution company that sells and ships products to over 2,000 customers across all 26 states of Brazil.
+Delta manufactures and distributes corporate gifts nationwide in Brazil, serving over 2,000 customers..
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Evaluate new business opportunities in United States and Brazil.
-
--   Analyze the strategic fit between the company business and market opportunities (What incredible benefits can we give to the customer? Where can we take the customer?)
-
--   Design and operationalize an integrated information system that combines data, strategic planning methodologies, and generatie AI tools.
+-   Evaluated new business opportunities in the U.S. and Brazil.
+-   Assessed strategic fit between the company's capabilities and market opportunities, focusing on customer value and growth potential (What incredible benefits can we give to the customer? Where can we take the customer?)
+-   Built and integrated data, strategy, and generative AI information system.
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   AS-IS databases were used to conduct experiments and evaluate results.
-
--   The retrieval augmented generation(RAG) process was developed to fine-tune the LLMs that will be used.
-
--   Agent spectrums(e.g., retrieval, task, autonomous), quantities and types of agents have been defined.
-
--   Documentation of successes and failures was done.
-
--   A/B tests were executed to validate the solutions using the agents.
-
--   The Knowledge base and data-driven decisions were periodically evaluated to validate the consistency of expected productivity gains and value-added product.
+-   Used AS-IS databases to run experiments and evaluate outcomes.
+-   Built a RAG pipeline to fine-tune LLMs.
+-   Defined agent types, scale, and autonomy levels(retrieval, task, autonomous).
+-   Validated solutions through A/B testing. 
+-   Documented outcomes, successes, and failures.
+-   Periodically reviewed the knowledge base and data-driven decisions to confirm productivity gains and value creation.
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
--   One assistant agent has been created to assist in customer price quotations, reducing response time.(work in progress)
-
--   One assistant agent has been created to improve the product traceability task. (work in progress)
-
--   One assistant agent has been created to process and print address labels and issue invoices. (work in progress)
+-   Built an assistant agent to support customer price quotations, reducing response time(WIP)
+-   Built an assistant agent to improve product traceability.
+-   Built an assistant agent to automate address label printing and invoice issuance.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 

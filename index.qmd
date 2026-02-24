@@ -16,7 +16,7 @@ format:
 
 ### [**Goals with this website**]{style="color: #9D0F6A ;"}
 
-- Write about business and process improvement, applying machine learning models to support Lean, PDCA, and statistical methods in manufacturing.
+- Write about business and process improvement, applying machine learning to support Lean, PDCA, and statistical methods in manufacturing—expanding economic feasibility.
 
 - Tell a story-driven account of my career to inspire my niece Alexis and nephew Noah as they shape their own paths.
 
