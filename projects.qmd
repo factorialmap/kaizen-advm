@@ -197,9 +197,9 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
-- Analyzed raw data and transformed it into high-quality, reliable datasets.
+- Analyzed raw data and transformed it into high-quality, reliable datasets
 
-- Built socioeconomic models using mixed effects, Item Response Theory(IRT), survival analysis, and structural equation modeling.
+- Built socioeconomic models using mixed effects, Item Response Theory(IRT), survival analysis, and structural equation modeling
 
 ::: panel-tabset
 

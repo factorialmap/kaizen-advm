@@ -277,13 +277,12 @@ a + b + c + d
 
 **General idea**
 
--   Robots becoming increasingly prevalent in almost every industry, from healthcare and manufacturing to defense and education.
+-   Robots becoming increasingly prevalent in almost every industry, from healthcare and manufacturing to defense and education. The operational cost of $5.20 per hour will bring improvements in competitiveness to the American industry.
 
     -   Welding
     -   Teaching
     -   Assemling cars
     -   Performing surgery
-    -   
 
 **Robots Manufacturing**
 
