@@ -197,7 +197,9 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
-Data Scientist
+- Data analysis and processing
+
+- 
 
 ::: panel-tabset
 
@@ -213,6 +215,11 @@ Data Scientist
 ## Framework
 
 ![Venn diagram UDL – Universal Design for Learning](img/venn_d_udl.png)
+
+## Base Theory
+
+![Theory](img/education_grade_theory.png)
+
 
 ## New Challenges
 
