@@ -165,7 +165,8 @@ Delta manufactures and distributes corporate gifts nationwide in Brazil, serving
 
 -   Evaluated new business opportunities in the U.S. and Brazil.
 -   Assessed strategic fit between the company's capabilities and market opportunities, focusing on customer value and growth potential (What incredible benefits can we give to the customer? Where can we take the customer?)
--   Built and integrated data, strategy, and generative AI information system.
+-   Design and implement AI systems through context engineering and high‑quality data preparation
+-   Enable leadership teams to use AI and analytics to make faster, better decisions
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
