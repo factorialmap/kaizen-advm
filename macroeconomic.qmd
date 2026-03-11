@@ -31,54 +31,55 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 ## [**U.S. Inflation**]{style="color: #9D0F6A ;"}
 
-**Last update**: September, 2025
-
 The United States employs several different methods to monitor inflation, and it is crucial to comprehend the distinctions among these measures to gain a clear understanding of economic trends.
+
+
+**Last update**: February, 2026
 
 **PCE Inflation**
 
 PCE inflation measures the prices of goods and services consumed by households and nonprofit institutions, including food, energy, housing , and more. It is more comprehensive than the Consumer Price Index (CPI). PCE inflation accounts for both direct household spending (you pay) and spending on behalf of households (someone pays for you). For example, when your employer provides health insurance or the government provides Medicare.
 
--   Compared to the same month last year, the PCE price index rose by 2.7% in August 2025 (T7). The Federal Reserve targets a long-term PCE inflation rate of 2%. From the preceding month, the PCE price index increased 0.3% (T5).
+-   Compared to the same month last year, the PCE price index rose by 2.9% in December 2025 (T7). The Federal Reserve targets a long-term PCE inflation rate of 2%. From the preceding month, the PCE price index increased 0.4% (T5).
 
--   Personal income rose by 0.4% in August on a monthly basis, according to the estimates published on September 26, 2025 (T3).
+-   Personal income rose by 0.3% in December, 2025 on a monthly basis, according to the estimates published on February 20, 2026 (T3).
 
 
 **Core PCE Inflation**
 
 Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
--   When compared to the same month in the previous year, the core PCE price index rose by 2.9% in July 2025, which is slightly higher than the 2.8% increase recorded in June, 2025:T7.
+-   When compared to the same month in the previous year, the core PCE price index rose by 3.0% in December 2025, which is slightly higher than the 2.8% increase recorded in November, 2025 (T7).
 
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** February, 2026. 
+**Last update:** March, 2026. 
 
 The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly)
 
--   The annual inflation rate for the United States increased by 2.4% for the 12 months ending January 2026, compared to the previous rate of 2.7% in December 2025, according to U.S. Bureau of Labor Statistics data.
+-   The annual inflation rate for the United States increased by 2.4% for the 12 months ending February 2026, compared to the previous rate of 2.4% in January 2026, according to U.S. Bureau of Labor Statistics data.
 
 
--   The Consumer Price Index (CPI) rose by 0.2% in January 2026 compared to the previous month.
+-   The Consumer Price Index (CPI) rose by 0.3% in February 2026 compared to the previous month.
 
 | Item        | MoM | YoY  |
 |-------------|-----|------|
-| CPI overall | 0.2 | 2.4  |
-| Food        | 0.2 | 2.9  |
-| Energy      | -1.5 | -0.1  |
-| Services    | 0.4 | 2.9  |
+| CPI overall | 0.3 | 2.4  |
+| Food        | 0.4 | 3.1  |
+| Energy      | 0.6 | 0.5  |
+| Services    | 0.3 | 2.9  |
 | Shelter     | 0.2 | 3.0  |
 
--   The CPI for February 2026 is scheduled to be released on March 11, 2026, at 08:30 a.m. (ET).
+-   The CPI for March 2026 is scheduled to be released on March 11, 2026, at 08:30 a.m. (ET).
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** January, 2026. 
+**Last update:** March, 2026. 
 
--   According to Federal Reserve Economic data, the Consumer Price Index (CPI) increase by 2.65% in December 2025 compared to the same month a year earlier.
+-   According to Federal Reserve Economic data, the Consumer Price Index (CPI) increase by 2.43% in February 2026 compared to the same month a year earlier.
 
 ![](images/clipboard-2010062285.png) 
 
