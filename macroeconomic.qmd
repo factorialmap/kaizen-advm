@@ -133,45 +133,8 @@ Chair Powell on a question from Elizabeth Schulze of ABC News(December meeting, 
 >
 > — Jerome Powell, December meeting 2024
 
-```{r}
-#| label: fed_funds
-#| fig-align: center
-#| warning: false
-#| message: false
 
-library(tidyverse)
-library(tidyquant)
-library(scales)
-library(ggrepel)
-
-data_interest_rate <-  tq_get("DFF", 
-                              get = "economic.data",
-                              from = "1970-01-01",
-                              to = "2027-01-01")
-
-data_end_interest_rate <- data_interest_rate %>% tail(1)
-
-
-data_interest_rate %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1, color = "#abd5db")+
-  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))+
-  geom_text_repel(aes(label = price, hjust = 1),data = data_end_interest_rate, size = 3.5)+
-  theme_minimal(base_size = 16)+
-  theme(
-    plot.title = element_text(face = "bold", size = rel(1.2), hjust = 0),
-    plot.subtitle = element_text(size = rel(1.0), hjust = 0),
-    plot.caption = element_text(size = rel(0.8), hjust = 1, face = "italic"),
-    axis.title = element_text(size = rel(0.9)),
-    axis.text = element_text(size = rel(0.8)),
-    legend.position = "none")+
-
-  labs(title = str_wrap("Federal Funds Effective Rate", width = 40),
-       subtitle = str_wrap("A key indicator for U.S. monetary policy", width = 40),
-       x = "Period",
-       y = "Rate in %",
-       caption = "Source: FRED")
-```
+![Interest Rates](img/interest_rates.png)
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
@@ -187,78 +150,13 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 -   One important indicator of the labor market is continuing claims, which track the number of individuals filing for ongoing unemployment benefits each week. This indicator is crucial because it reflects the health of the labor market, signal consumer spending strength, helps identify recession risks, informs Reserve policy decisions, and guides business confidence(all in one metric).
 
-```{r}
-#| label: continued_claims
-#| fig-align: center
 
-library(tidyverse)
-library(tidyquant)
-library(scales)
-library(ggrepel)
+![Continuous Claims](img/continuous_claims.png)
 
-#Continued Claims (Insured Unemployment) from FRED
-data_continuos_claims <-  tq_get("CCSA", 
-                                 get = "economic.data",
-                                 from = "1970-01-01",
-                                 to = "2027-01-01")
-
-data_end <- data_continuos_claims %>% tail(1)
-
-data_continuos_claims %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  scale_y_continuous(
-    labels = label_number(scale_cut = cut_short_scale())
-  )+
-  geom_text_repel(
-    aes(label = price,
-        hjust = 1),
-    data = data_end
-  )+
-  theme_minimal(base_size = 16)+
-  labs(title = "Continued Claims (Insured Unemployment)",
-       caption = "Source: FRED",
-       y = "Value")
-
-
-```
 
 -   Another important labor market indicator is aggregate hours worked. The chart below shows the average weekly hours of all employees in the total private sector. One of the first signs of a slowing economy is a reduction in job openings(that's the first wave). The second wave is a decline in hours worked, which is a critical metric. When employers begin cutting hours, the next step is often cutting positions.
 
-```{r}
-#| label: weekly_hours_work
-#| fig-align: center
-
-
-#Average weekly hours of all employees, total private ()
-#Table B-2. Average weekly hours and overtime of all employees on private nonfarm payrolls by industry sector, seasonally adjusted
-
-data_wk_hours <-  tq_get("AWHAETP", 
-                         get = "economic.data",
-                         from = "1970-01-01",
-                         to = "2027-01-01")
-
-data_end_wk_hours <- data_wk_hours %>% tail(1)
-
-data_wk_hours %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  scale_y_continuous(
-    labels = label_number(scale_cut = cut_short_scale())
-  )+
-  geom_text_repel(
-    aes(label = price),
-    data = data_end_wk_hours
-  )+
-  theme_minimal(base_size = 16)+
-  labs(title = "Average weekly hours of all employees, total private",
-       caption = "Source: FRED",
-       y = "Hours")
-
-
-```
+![weekly Hours Work](img/wk_hours.png)
 
 Labor market tightness refers to the number of job vacancies per unemployed worker, and it plays a key role in monetary policy decisions. A very tight labor market may indicate an overheating economy, causing firms to compete for workers and raise wages. If wages grow faster than productivity, inflation can rise. To address this, central banks like the Federal Reserve may increase interest rates to slow down economic activity and reduce labor demand, easing inflation.
 
@@ -268,39 +166,9 @@ A tight labor market can also promote inclusion by helping groups historically f
 The chart below, shared by Mick Dueholm and Serdar Ozkan on the FRED Blog, illustrates labor market tightness as the ratio of job openings to unemployed individuals. This measure indicates how many job opportunities are available for each person seeking work.
 
 
-```{r}
-#| label: labor_mkt_tightness
-#| fig-align: center
 
-data_labor_tidht <- 
-  tq_get(c("JTSJOR","UNRATE"),
-         get = "economic.data",
-         from = "2000-01-01",
-         to = "2027-01-01") %>% 
-  pivot_wider(names_from = symbol,
-              values_from = price) %>% 
-  drop_na() %>% 
-  mutate(rate  = JTSJOR/UNRATE)
+![Labor Market Tightness](img/labor_mkt_tightness.png)
 
-data_labor_tidht_end <-  data_labor_tidht %>% tail(1)  
-
-data_labor_tidht %>% 
-  ggplot(aes(x = date,  y= rate))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  scale_y_continuous(
-    labels = label_number(scale_cut = cut_short_scale())
-  )+
-  geom_text_repel(
-    aes(label = round(rate,1)),
-    data = data_labor_tidht_end
-  )+
-  theme_minimal(base_size = 16)+
-  labs(title = "Labor Market Tightness",
-       caption = "Source: FRED",
-       x = "",
-       y = "Job opport for each person seek a job")
-```
 
 Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departament of Labor](https://www.dol.gov), and FRED.
 
@@ -312,34 +180,8 @@ Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departam
 
 -   The chart below shows the United States 10-Year Government Bond yield.
 
-```{r}
-#| label: bonds_10y
-#| fig-align: center
-#| message: false
-#| warning: false
 
-data_10y_bonds <- tq_get("DGS10",
-                         get = "economic.data",
-                         from = "1970-01-01",
-                         to = "2027-01-01")
-
-data_10y_end <- data_10y_bonds %>% tail(1)
-
-data_10y_bonds %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  geom_text_repel(
-    aes(label = price),
-    data = data_10y_end,
-    nudge_x = 1
-  )+
-  theme_minimal(base_size = 16)+
-  labs(title = str_wrap("Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity",40),
-      y = "Rate" ,
-      caption = "Source: FRED")
-
-```
+![10 year treasury bonds](img/bonds_10y.png)
 
 - The spread between Moody's Baa corporate bond yield and the 10-year Treasury yield is a key measure of credit risk and economic sentiment. It reflects how much extra return investors demand for holding riskier corporate debt over safe government bonds. A widening spread signals rising concern about corporate defaults or economic slowdown, while a narrowing spread suggest confidence in the economy and corporate health. This indicator often move with the business cycle and can act as a leading signal of recession or recovery. Investors and policymakers use it to assess market stress, risk appetite, and monetary policy impact.
 
@@ -348,33 +190,7 @@ data_10y_bonds %>%
 - Fixed-income investors use the spread to gauge relative value between corporate and government bonds. A high spread may signal undervalued corporate bonds(if default risk is overestimated), and a low spread may indicate overvaluation or excessive risk-taking.
 
 
-
-```{r}
-#| label: spread_10y_corp
-#| fig-align: center
-
-data_spread <- tq_get("BAA10Y",
-                         get = "economic.data",
-                         from = "1970-01-01",
-                         to = "2027-01-01")
-
-data_spread_end <- data_spread %>% tail(1)
-
-data_spread %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  geom_text_repel(
-    aes(label = price),
-    data = data_spread_end,
-    nudge_x = 1
-  )+
-  theme_minimal(base_size = 16)+
-  labs(title = "Corporate Bond Yield vs 10 Year",
-      y = "Rate" ,
-      caption = "Source: FRED")
-
-```
+![Spread between 10Y vs Corporate bonds](img/spread_10y_corp.png)
 
 Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouisfed.org/series/DGS10/)
 
@@ -382,34 +198,8 @@ Source: [Yahoo finance](https://finance.yahoo.com/), [FRED](https://fred.stlouis
 
 **Last update:** September, 2025.
 
-```{r}
-#| label: yield_curve
-#| fig-align: center
-#| code-line-numbers: true
 
-data_yield_curve <- tq_get("T10Y3M", 
-                           get = "economic.data",
-                           from = "1970-01-01",
-                           to = "2027-01-01")
-
-data_yield_spread <- data_yield_curve %>% tail(1)
-
-
-data_yield_curve %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  geom_text_repel(
-    aes(label = price),
-    data = data_yield_spread,
-    nudge_x = 1)+
-  geom_hline(yintercept = 0, linewidth = 0.7, color = "#9D0F6A")+
-  theme_minimal(base_size = 16)+
-  labs(title = "Yield Curve 10-year bonds vs T-bills 13 weeks",
-       y = "Value")
-
-```
-
+![Yeald Curve 10y vs 3 months](img/yield_curve.png)
 Source: [FRED - Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
 ## [**U.S. Sectors 2Q24**]{style="color: #9D0F6A ;"}
@@ -451,40 +241,9 @@ Revenue-related cash flow remains a challenge, impacting supply chains, the labo
     -   The age of the vehicles on the road in the United States is 12.6 years acording to @parekh2024
 
     -   The average cost of car ownership in 2024 was around \$12,000 annually according to BLS (vehicle purchase 46%, fuels 22%, finance charges 3%, repairs 8%, insurance 15%, others 6%)
+    
 
-```{r}
-#| label: vehicles
-#| fig-align: center
-
-
-library(tidyverse)
-library(scales)
-
-data_us_pop <- tribble(~year,~pop, ~vehicle_sales,
-                       1970, 203211926,13290000, 
-                       1980, 226545805,11464000,
-                       1990, 248709873,14141000,
-                       2000, 281421906,17811000,
-                       2010, 308745538,11772000,
-                       2020, 331449281,14881000,
-                       2023, 331449281,16032000)
-
-data_us_pop %>% 
-  pivot_longer(cols =-year,
-               names_to = "indicator",
-               values_to = "value") %>% 
-  ggplot(aes(x = year, y = value))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  facet_wrap(~indicator, scales = "free" )+
-  scale_y_continuous(labels = label_number(scale_cut = cut_short_scale()))+
-  theme_minimal(base_size = 16)+
-  labs(
-    title = "Population growth vs Vehicle sales",
-    x = "",
-    y = "",
-    caption = "Source: ww.census.gov | FRED ")
-```
+![Population growth vs Vehicle sales](img/vehicles.png)
 
 -   Financial data from auto industry in the second quarter of 2024.
 
@@ -517,39 +276,8 @@ Between 2020 and 2025, there was overcapacity in the carrier population due to f
 
 -   Factors such as macroeconomic, geopolitical environment, and intense competition influence the adoption of technology as alternatives to improve operational efficiency in business.
 
-```{r}
-#| label: machine_learning
-#| fig-align: center
 
-library(tidyverse)
-
-
-#https://aiindex.stanford.edu/vibrancy/   ai metrics over time>R&D>notable ML models
-#https://aiindex.stanford.edu/report/
-#
-data_ml <- tribble(~country, ~ml_models,
-                   "United States", 61,
-                   "China", 15,
-                   "France", 8,
-                   "Germany", 5,
-                   "Israel",4,
-                   "Canada",4)
-
-
-data_ml %>% 
-  ggplot(aes(x = fct_reorder(country, ml_models, .desc = TRUE), 
-             y  = ml_models))+
-  geom_col(fill = "#adb5bd")+
-  geom_text(label = data_ml$ml_models, vjust = -.6)+
-  theme_classic()+
-  expand_limits(y = c(0,70))+
-  labs(title = "Number of big machine learning models",
-       subtitle = "qty by country 2023",
-       x = "",
-       y = "",
-       caption = "Source: World Economic Forum")
-
-```
+![Number of big machine learning models](img/machine_learning.png)
 
 -   The innovation process has accelerated, driven by the development of large generative AI models, known as foundation models. These foundation models are then utilized by specialized applications that build upon them to perform more specific tasks. Finally, traditional processes are leveraging the applications to achieve efficiency gains, create new processes, and develop new value-added products.
 
@@ -615,36 +343,8 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 -   The plot below shows the behaviors from the perspective of supply and demand.
 
-```{r}
-#| label: house_mkt
-#| fig-align: center
 
-
-#median home price 
-data_house_supply <- tq_get("MSACSR", 
-                            get = "economic.data",
-                            from = "2000-01-01",
-                            to = Sys.Date())
-
-data_house_supply_end <- data_house_supply %>% tail(1)
-
-
-data_house_supply %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  geom_text_repel(
-    aes(label = price),
-    data = data_house_supply_end,
-    nudge_x = 1
-  )+
-  theme_minimal(base_size = 16)+
-  labs(title = "Monthly Supply of New Houses",
-      caption = "Source: Federal Reserve Economic Data",
-      y = "Months' Supply at Current Sales Rate")
-
-```
-
+![Monthly Supply of New Houses](img/house_mkt.png)
 -   In 2025 home buyers are looking for better prices and interest rates, two family homes with smarter technologies and other factors that may be relevant such as a gyms, ceilling fans, energy star rated windows, patio, hardwood floors in the living areas, and side-by-side kitchen sink, and close to fun and public transportation.
 
 -   One modality that has been gaining traction is built-to-rent commnunities driving for some factors:
@@ -660,31 +360,9 @@ data_house_supply %>%
     -   Net new home orders that represent the number of new sales contracts that have been finalized and signed by buyers minus customer home order cancellations booked.
     -   Companies financial guidance such as Lennar, Toll Brothers, D.R. Horton, Pultegroup and KB Home.
     
-```{r}
-#| label: housing
-#| fig-align: center
 
-library(tidyverse)
-library(tidyquant)
-library(scales)
-
-data_house_stock <- 
-  tq_get(c("TOL","DHI","KBH"),
-         get = "stock.prices",
-         from = "2019-01-01")
-
-
-data_house_stock %>% 
-  ggplot(aes(x = date, y = adjusted))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  facet_wrap(~symbol, scales = "free_y", nrow =1)+
-  theme_minimal()+
-  scale_y_continuous(position = "left")+
-  labs(x = "",
-       y = "")
-```
-
+![Real State Stocks](img/housing.png)
+  
 
 **Source:** [Federal Reserve Economic Data](https://fred.stlouisfed.org/) ;[US Census Bureau](https://www.census.gov/)
 
@@ -696,31 +374,8 @@ data_house_stock %>%
 
 -   Looking at gross private domestric investment, it has been growing 7.6% in 2024. Below is an overview of private investments the manufacturing sector.
 
-```{r}
-#| label: invest_america
-#| fig-align: center
 
-library(waterfalls)
-
-data_invest <- tribble(~sector, ~value,
-                       "Semiconductor", 449,
-                       "Ev & batteries", 184,
-                       "Clean power", 215,
-                       "Clean energy mfg", 93,
-                       "Bio mfg",63,
-                       "Heavy industry",51)
-
-data_invest %>% 
-  waterfalls::waterfall(
-    calc_total = TRUE,
-    total_rect_color = "#9D0F6A"
-  )+
-  theme_classic()+
-  labs(title = "Distribution of manufacturing private investments by sector",
-       caption = "Source: White House 2024",
-       y = "Billion US dollar",
-       x =  "")
-```
+![Distribution of manufacturing private investments by sector - 2022](img/invest_america.png)
 
 -   Looking at the manufacturing plants construction sites.
 
@@ -736,38 +391,7 @@ data_invest %>%
 
     -   **Clean Energy Manufacturing:** Boom Supersonic(Greensboro, NC), Electric Hydrogen(Devens, MA), Siemens Gamesa(Port of Coeuumans, NY)
 
-```{r}
-#| label: mfg_workers
-#| fig-align: center
-
-library(tidyverse)
-library(tidyquant)
-
-data_mfg_workers <- tq_get("MANEMP",
-                           get = "economic.data",
-                           from = "1970-01-01",
-                           to = "2027-01-01")
-
-data_end_mfg_workers <- 
-  data_mfg_workers %>%  
-  tail(1) 
-
-data_mfg_workers %>% 
-  ggplot(aes(x = date, y = price*1000))+
-  geom_line(linewidth = 1,
-            color = "#abd5db")+
-  geom_text_repel(
-    aes(label = round(price/1000,1),
-        hjust = 1),
-    data = data_end_mfg_workers
-  )+
-  theme_minimal(base_size = 16)+
-  scale_y_continuous(labels = label_number(scale_cut = cut_si("")))+
-  labs(title = "Total Employees in Manufacturing",
-       x = "",
-       y = "Employees")
-```
-
+![Total Employees in Manufacturing](img/mfg_workers.png)
 **Training and education**
 
 -   **Training programs** In the training and labor force perspective, several ongoing initiatives such as educational programs, some specific to women in the semiconductor field such as Fresh Start Semiconductor Program @pbsnewshour2024.
@@ -786,40 +410,5 @@ Some stats about community colleges that I find at @parker2024
 
 -   2/3 of undergraduate students attended a community college after high school
 
-```{r}
-#| label: comm_college
-#| fig-align: center
 
-library(tidyverse)
-
-data_com_college <- tribble(~state, ~num_comm_college,
-                            "California", 184,
-                            "Texas",101,
-                            "New York",75,
-                            "Florida",74,
-                            "Ohio",73,
-                            "North Carolina",63,
-                            "Pennsylvania",62,
-                            "Illinois",57,
-                            "Georgia",46,
-                            "Virginia",41,
-                            "Washington",39,
-                            "Arizona",36,
-                            "Others 46",625)
-
-
-data_com_college %>% 
-  waterfalls::waterfall(calc_total = TRUE,
-                        total_rect_color = "#9D0F6A",
-                        rect_text_size = 1,
-                        rect_width = .7,
-                        scale_y_to_waterfall = TRUE
-                        )+
-  theme_classic()+
-  coord_flip()+
-  labs(title = "Geographic Distribution of Community College in U.S." ,
-       x = "",
-       y = "",
-       caption = "Source: US News-2023")
-
-```
+![Geographic Distribution of Community College in U.S.](img/comm_college.png)

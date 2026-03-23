@@ -9,45 +9,8 @@ execute:
 ::: panel-tabset
 ## Calendar 2025
 
-```{r}
-#| fig-width: 8
-#| fig-height: 6
-#| fig-align: center
 
-library(tidyverse)
-library(ganttrify)
-
-data_gantt <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/models/quarto_projects/db/gantt_research24.xlsx", sheet = 1)
-data_spot <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/models/quarto_projects/db/gantt_research24.xlsx", sheet = 2)
-
-#make gantt chart
-ganttrify(
-  project = data_gantt,
-  spots = data_spot,
-  by_date = TRUE,
-  colour_palette = c("#96ceb4","#525e75","#cfa093","#e06377","#a3b7ca"),            #wesanderson::wes_palette("IsleofDogs2"),
-  spot_size_text_relative = 1,
-  spot_fill = ggplot2::alpha(c("white"), 0.1),
-  spot_padding = unit(0.1, "lines"),
-  spot_border = NA,
-  project_start_date = data_gantt$start_date ,
-  #hide_wp = TRUE,
-  alpha_wp = 1,
-  alpha_activity = 0.9,
-  line_end_wp = "round",
-  line_end_activity = "round",
-  size_text_relative = .9,
-  mark_quarters = TRUE,
-  #font_family = "TT Arial",
-  axis_text_align = "left") +
-  #scale_x_date(date_labels = "%y-%b", breaks = "2 months")+
-  scale_x_date(NULL,
-               breaks = scales::breaks_width("3 months"),
-               labels = scales::label_date_short())+
-  labs(title = "Overview of the Immigration Process and Associated Tasks",
-       subtitle = "2025 - Marcelo Carvalho dos Anjos",
-       caption = "@carvalhoribeiro | USCIS/NVC data")
-```
+![Calendar](img/calendar.png)
 
 ## Activity details
 

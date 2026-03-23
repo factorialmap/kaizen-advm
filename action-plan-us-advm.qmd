@@ -187,65 +187,7 @@ This graph you're looking at is a "map" that helps us understand how different c
 
 -   **Underinvestment in R&D**: The U.S. lags behind other advanced economies in manufacturing-related R&D spending as a percentage of GDP. This underinvestment hinders innovation and the development of cutting-edge manufacturing technologies. Key actors(industry, universities, and governments) need to work together.\
 
-```{r}
-#| label: r&d
-#| message: false
-#| echo: false
-#| warning: false
-#| fig-align: center
-
-library(tidyverse)
-library(ggrepel)
-library(scales)
-library(ggthemes)
-
-#https://www.oecd.org/en/data/indicators/gross-domestic-spending-on-r-d.html?oecdcontrol-8027380c62-var3=2022
-data_rnd <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/db_kaizen-advm.xlsx")
-
-data_rnd_trans <- 
-  data_rnd %>% 
-  pivot_longer(-country,
-               names_to = "year",
-               values_to = "rnd_perc_gdp") %>% 
-  mutate(year = as.Date(year, "%Y"),
-         year = year(year)) 
-
-
-data_rnd_trans %>%
-  mutate(label = 
-           if_else(
-             year == "2023",
-             glue::glue("{country}: {rnd_perc_gdp}%"),
-             NA_character_)) %>% 
-  ggplot(aes(x = year, y = rnd_perc_gdp, group = country, colour = country)) + 
-  geom_smooth(method = "loess", span= 0.9, se = FALSE, linewidth=3)+
-  scale_color_manual(
-    values =c("#bccad6",
-              "#667292",
-              "#D5DBDB",
-              "#ffcaca",
-              "#8d9db6",
-              "#eeac99",
-              "#bdcebe",
-              "#34495e",
-              "#b8a9c9",
-              "#c4b7a6",
-              "#50394c"))+
-  geom_text_repel(
-    aes(label = label ),
-    nudge_x = 3,
-    na.rm = TRUE
-  )+
-  theme_hc()+
-  theme(legend.position = "none")+
-  scale_y_continuous(labels = label_percent(scale = 1))+
-  scale_x_continuous(n.breaks = 8)+
-  labs(title = "Research and development expenditure (% of GDP)",
-       x = "",
-       y = "",
-       caption = "Source: OECD data")
-
-```
+![U.S. R&D spend over GPD](img/r_and_d.png)
 
 **Opportunities**
 
@@ -263,69 +205,7 @@ data_rnd_trans %>%
 
 -   CHIPS Act: The U.S.manufacturing share of GDP down 16% since 2012, share of semiconductor production declined from 37% in 1990 to 12% in 2022, and produced no cutting-edge advanced chips. Also, \$205B trade deficit in advanced tech products, and the Hamilton Index @atkinson2022 showing gaps with comparison to another countries. To reduce theses gaps, U.S. Congress passed Chips Act to incentivize U.S. and allied country firms to build or expand advanced-industry R&D and production sites in the United States. The focus on quantum computing, robotics, 6G equipments, gene edititing, high bandwidth memory chips, chipmaking equipment and software to develop advanced AI systems to improve manufacturing capabilities. Not only invent in U.S. but manufacture in U.S.
 
-```{r}
-#| label: robots
-#| message: false
-#| echo: false
-#| warning: false
-#| fig-align: center
-
-
-    library(tidyverse)
-    library(ggrepel)
-    library(scales)
-    library(ggthemes)
-    library(ggsankey)
-
-    data_robots <- readxl::read_xlsx("C:/Users/Usuario/OneDrive/Documents/customers/carvalhoribeiro/asset_alocation.xlsx", sheet = "robots")
-
-    data_robots_trans <-  
-      data_robots %>% 
-      pivot_longer(-c(country, status),
-                   names_to = "year",
-                   values_to = "value") %>% 
-      mutate(year = as.Date(year, "%Y"),
-             year = year(year)) 
-
-
-    data_robots_trans %>% 
-      filter(status == "y") %>% 
-      mutate(label = 
-             if_else(
-               year == "2023",
-               glue::glue("{country}: {value}"),
-               NA_character_)) %>% 
-      ggplot(aes(x = year, y = value, group = country, colour = country)) + 
-      geom_smooth(method = "loess", 
-                  span= 0.9, 
-                  se = FALSE, 
-                  linewidth=2)+
-      scale_color_manual(
-        values =c("#bccad6",
-                  "#667292",
-                  "#D5DBDB",
-                  "#ffcaca",
-                  "#8d9db6",
-                  "#eeac99",
-                  "#bdcebe",
-                  "#34495e",
-                  "#b8a9c9",
-                  "#c4b7a6",
-                  "#50394c"))+
-      geom_text_repel(
-        aes(label = label ),
-        nudge_x = 1,
-        na.rm = TRUE
-      )+
-      theme_hc()+
-      theme(legend.position = "none")+
-      labs(title = "Global average robot density in 2023",
-           subtitle = "Units per 10,000 employees",
-           x = "",
-           y = "",
-           caption = "Source: International Federation of Robotics(IFR)")
-
-```
+![Global robot density in 2023](img/robots.png)
 
 -   Science: The basic idea was to identify 10 strategic tecnologies like quantum autonomous systems, AI, biotech, etc. and then give funding to National Science Fundation but for slightly later TRL research more focus on commercialization and partnership with industry.
 
@@ -341,42 +221,8 @@ According to @atkinson2024 , Assuming a 3% growth rate in the rest of the econom
 
 According to @bonvillian2024 , different approaches were applied such as `top down, bottom up, direct production support, demonstration projects, supply chain support, and regional implementation`. The impact can be seen in the chart below (Overall U.S. Manufacturing construction), and also in the growth of investment in machinery and equipment(by brekdown of GDP).
 
-```{r}
-#| label: us_mfg_construction
-#| echo: false
-#| warning: false
-#| fig-align: center
 
-library(tidyverse)
-library(tidyquant)
-library(scales)
-library(ggrepel)
-
-#us manufacturing construction
-data_mfg_construct <-  tq_get("C307RC1Q027SBEA", 
-                         get = "economic.data",
-                         from = "1979-01-01",
-                         to = "2026-01-01")
-
-data_mfg_construct_end <- data_mfg_construct %>% tail(1)
-
-data_mfg_construct %>% 
-  ggplot(aes(x = date, y = price))+
-  geom_line(linewidth = 0.5,
-            color = "#adb5bd")+
-  scale_y_continuous(
-    labels = label_number(scale_cut = cut_short_scale()))+
-  scale_x_date(date_breaks = "4 years",
-                 labels = label_date_short())+
-  geom_text_repel(aes(label = price,
-                      hjust = 1),
-                  data = data_mfg_construct_end)+
-  theme_minimal()+
-  labs(title = "Overall U.S. Manufacturing construction",
-       caption = "Source: FRED",
-       y = "Billion of Dollars")
-
-```
+![U.S. Manufacturing Construction Investments](img/us_mfg_construction.png)
 
 ## [The Future]{style="color: #9D0F6A ;"}
 
@@ -432,42 +278,8 @@ Studying the future to understand decision-making processes, planning, and expec
 
 -   **Redefine customer values**: Create new damand by delivering a previously unknown experience to consumers. They built powerful, cohesive business systems that could deliver more of this value than their competitors. They raised customer expectations beyond what their competitors could reach. According to Gary Cohn, increase in GDP growth could substantially reduce debt/GDP ratio, which could consequently improve investors's long-term planning.
 
-```{r}
-#| label: real_gdp
-#| echo: false
-#| warning: false
-#| fig-align: center
 
-library(tidyverse)
-library(tidyquant)
-library(fredr)
-library(scales)
-library(ggrepel)
-
-fredr_set_key(Sys.getenv("FRED_API_KEY"))
-
-
-data_real_gdp_yoy <- fredr(series_id = "GDPC1",
-                               observation_start = as.Date("1945-01-01"),
-                               observation_end = as.Date("2025-12-01"),
-                               frequency = "a",
-                               units = "pc1")
-
-
-    data_real_gdp_yoy %>% 
-      ggplot(aes(x = date, y = value))+
-      geom_col(fill = "#1abc9c", alpha = 0.4 )+
-      geom_smooth(method = "loess", se = FALSE)+
-      geom_text(aes(label = round(value,1)), size = 3)+
-      scale_x_date(breaks = pretty_breaks(n=10), labels = label_date_short())+
-      scale_y_continuous(labels = label_percent(scale = 1))+
-      theme_minimal()+
-      labs(title = "U.S. Real GDP Growth",
-           subtitle = "Annual percentage change",
-           x = "",
-           y = "",
-           caption = "Source: FRED")
-```
+![GPD](img/real_gdp_yoy.png)
 
 -   **Process improvement**: The best possible products at the lowest possible cost, in the most timely manner, on a stable long-term basis.
 
