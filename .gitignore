@@ -5,3 +5,4 @@
 
 /.quarto/
 mca.R
+**/*.quarto_ipynb

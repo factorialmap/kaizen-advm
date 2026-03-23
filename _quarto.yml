@@ -4,8 +4,10 @@ project:
 
 execute: 
   echo: true
-  freeze: auto
+  freeze: false
+  cache: false
   keep-md: false
+  eval: false
 
 
 website:
