@@ -15,7 +15,7 @@ subtitle: "The approach and key steps I follow in the projects I work on"
 
 ## Phase 3: Analysis of impact
 
-![Link tools and Principles to Financial and Sutainability Impacts](img/fase_3.png)
+![Link tools and Principles to Financial and Sustainability Impacts](img/fase_3.png)
 
 
 ## Phase 4: Execution
