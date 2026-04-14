@@ -212,6 +212,11 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ![Education](img/education_grade_goals.png)
 
+## Critical Success Factors
+
+![Critical Success Factors](img/education_pillars.png)
+
+
 ## Framework
 
 ![Venn diagram UDL – Universal Design for Learning](img/venn_d_udl.png)
