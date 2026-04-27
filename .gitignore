@@ -8,4 +8,6 @@ mca.R
 sql_queries.R
 gt_new_features.R
 plots.R
+img/
+imagens/
 **/*.quarto_ipynb
