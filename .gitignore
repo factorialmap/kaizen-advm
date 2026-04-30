@@ -11,3 +11,4 @@ plots.R
 img/
 imagens/
 **/*.quarto_ipynb
+.positai

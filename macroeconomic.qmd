@@ -88,16 +88,16 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
 ## [**U.S. Interest rates**]{style="color: #9D0F6A ;"}
 
-**Last update:** March, 2026
+**Last update:** Apr, 2026
 
 -   The U.S. central bank rate was kept at 3.75% following the most recent adjustment in March 2026
 
 > Our monetary policy actions are guided by our dual mandate to promote maximum employment and stable prices for the American people. At today's meeting, the Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent.
 >
-> The implications of events in the Middle East for the U.S. economy are uncertain. In the near term, higher energy prices will push up overall inflation, but it is too soon to know the scope and duration of the potential effects on the economy.
+> The economic outlook remains highly uncertain, and the conflict in the Middle East has added to this uncertanty. In the near term, higher energy prices will push up overall inflation. Beyond that, the scope and duration of potential effects on the economy remain unclear, as does the future course of the conflict itself.
 > We will continue to monitor the risks to both sides of our mandate. We are well positioned to determine the extent and timing of additional adjustments to our policy rate based on the icoming data, the evolving outlook, and the balance of risks.
 >
-> — Jerome Powell, Marh 18, 2026
+> — Jerome Powell, April 29, 2026
 
 ---
 
