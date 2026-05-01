@@ -11,9 +11,9 @@ execute:
 
 ## [**U.S. Gross Domestic Product (GDP)**]{style="color: #9D0F6A ;"}
 
-**Last update**: March, 2026
+**Last update**: Apr, 2026
 
--   Real gross domestic product (GDP) increased at an annual rate of 0.7% in the fourth quarter of 2025, according to the second estimate released on March 13, 2026 (T1). The main drivers were an increase in consumer spending and investment. In the fourth quarter of 2024, real GDP increased by 1.9%.
+-   Real gross domestic product (GDP) increased at an annual rate of 2 percent in the first quarter of 2026, according to the advance estimate released on April 30, 2026 (T1). The main drivers were an increase in investment, exports, and consumer spending. In the fourth quarter of 2024, real GDP increased by 1.9%.
 
 -   Personal consumption expenditures increased by 2.0% in the fourth quarter of 2025, compared with 3.5% in the third quarter, according to the second estimate released on March 13, 2026 (T1).
 

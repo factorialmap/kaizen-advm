@@ -7,7 +7,7 @@ execute:
 ---
 
 ::: panel-tabset
-## Calendar 2025
+## Immigration Process calendar 2026
 
 
 ![Calendar](img/calendar.png)
@@ -39,4 +39,60 @@ execute:
 **4.8. Full Birth Certificate Sent:** Submitted the full birth certificate.\
 **4.9. Document Qualification Status:** Received confirmation that documents are qualified.\
 **5.4. Workforce Education for U.S. Manufacturing Research:** To support ongoing effors in workforce development, I created a new area on my website dedicated to exploring educational models and strategies. A new section of my website now focuses on workforce education research, drawing on foundational contributions from William Bonvillian, Sanjay Sarma, and Benjamin Bloom\
+:::
+
+
+::: panel-tabset
+## Business Plan 2026-2027
+
+![Business Plan](img/calendar_bp.png)
+
+## Activity details
+
+**1.1. Register the business as an LLC in Massachusetts (Secretary of the Commonwealth)**
+
+**1.2. Apply for EIN through the IRS (free)**
+
+**1.3. Open a U.S. business bank account**
+
+**1.4. Secure a business address (physical/virtual office)**
+
+**1.5. Research local regulations and confirm if a Boston business certificate is needed**
+
+**2.1. Enroll in MIT Advanced Analytics courses and start earning certifications**
+
+**2.3. Update professional profile and company website to highlight MIT affiliation and expertise**
+
+**2.4. Define value proposition for U.S. clients (focus on process improvement + data analytics)**
+
+**3.1. Attend MIT and Boston tech events, meetups, and conferences**
+
+**3.2. Connect with local business associations and chambers of commerce**
+
+**3.3. Research potential clients in manufacturing, supply chain, and tech sectors**
+
+**3.4. Build a list of 20 target companies (IBM, BOSE, etc)**
+
+**4.1. Create marketing materials (pitch deck, one-pager, LinkedIn content)**
+
+**4.2. Start LinkedIn outreach to decision-makers in target companies**
+
+**4.3. Publish thought leadership posts on process improvement and analytics**
+
+**4.4. Explore partnerships with local consultants or small firms**
+
+**5.1. Schedule introductory meetings with prospects**
+
+**5.2. Offer free webinars or workshops on process improvement using analytics**
+
+**5.3. Negotiate and secure my first U.S. client contract**
+
+**6.1. Identify professionals with similar interests (analytics, process improvement)**
+
+**6.2. Begin hiring or forming partnerships for the first small team**
+
+**6.3. Plan service expansion (advanced analytics solutions, training programs)**
+
+**6.4. Set goals for year two: 3–5 U.S. clients and a growing team**
+
 :::
