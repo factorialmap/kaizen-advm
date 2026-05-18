@@ -1,5 +1,5 @@
 ---
-title: "Workflow"
+title: "Framework"
 subtitle: "The approach and key steps I follow in the projects I work on"
 ---
 
