@@ -11,17 +11,15 @@ execute:
 
 ## [**U.S. Gross Domestic Product (GDP)**]{style="color: #9D0F6A ;"}
 
-**Last update**: Apr, 2026
+**Last update**: May, 2026
 
--   Real gross domestic product (GDP) increased at an annual rate of 2 percent in the first quarter of 2026, according to the advance estimate released on April 30, 2026 (T1). The main drivers were an increase in investment, exports, and consumer spending. In the fourth quarter of 2024, real GDP increased by 1.9%.
+-   Real gross domestic product (GDP) increased at an annual rate of 1.6 percent in the first quarter of 2026, according to the second estimate released on May 28, 2026 (T1). The main drivers were an increase in investment, exports, and consumer spending. In the fourth quarter of 2024, real GDP increased by 1.9%.
 
--   Personal consumption expenditures increased by 2.0% in the fourth quarter of 2025, compared with 3.5% in the third quarter, according to the second estimate released on March 13, 2026 (T1).
+-   Personal consumption expenditures increased by 1.4% in the first quarter of 2026, compared with 1.9% in the fourth quarter of 2025, according to the second estimate released on May 28, 2026 (T1).
 
--   Gross private domestic investment increased by 3.3% in the fourth quarter of 2025, compared with 0% in the third quarter, according to the second estimate released on March 13, 2026 (T1). Equipment investment rose by 3.9% in the fourth quarter, compared to a 5.2% increased in the third quarter.
+-   Gross private domestic investment increased by 7% in the first quarter of 2026, compared with 2.3% in the fourth quarter of 2025, according to the second estimate released on May 28, 2026 (T1). Equipment investment rose by 17.2% in the first quarter of 2026, compared to a 4.3% increased in the fourth quarter of 2025.
 
--   Government consumption expenditures and gross investment decreased by 5.8% in the fourth quarter of 2025, compared with a 2.2% increased in the third quarter according to the second estimate released on March 13, 2026 (T1).
-
--   Personal saving totaled \$929.2 billion in the fourth quarter of 2025. The personal saving rate, as a percentage of disposable personal income, was 4.0% in the fourth quarter, compared with 4.4% in the third quarter, according to the second estimate released on March 13, 2026 (T8).
+-   Government consumption expenditures and gross investment increased by 4.4% in the first quarter of 2026, compared with a decrease of 5.6% in the fourth quarter of 2025 according to the second estimate released on May 28, 2026 (T1).
 
 
 **U.S. Gross Domestic Product(GDP) for 2024**
