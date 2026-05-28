@@ -195,6 +195,11 @@ Delta manufactures and distributes corporate gifts nationwide in Brazil, serving
 
 São Paulo Institute of Economic Research is a Brazilian research institute focused on economic studies, and market analysis.
 
+### [**Goals**]{style="color: #9D0F6A ;"}
+
+- I'm working on a project to improve elementary and high school education across São Paulo state. The goal is to bring reading and math up to OECD standards unlocking about 43 billion dollars in annual economic impact. It means better living standards, more job opportunities, and a real change to reduce inequality.
+
+
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
 - Analyzed raw data and transformed it into high-quality, reliable datasets
@@ -229,5 +234,12 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 ## New Challenges
 
 ![Factors of Production - TFP/MPL](img/factor_production.png)
+
+
+## Accomplishments
+
+![Using NAEP visual chart](img/saresp_2025.png)
+
+
 
 :::
