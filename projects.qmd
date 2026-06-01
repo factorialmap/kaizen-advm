@@ -15,21 +15,20 @@ Led process improvements initiatives across twelve plants, delivering over fifty
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Deployed a low-latency BI system across nine plants.
--   Built a linear-programming planning tool to drive strategic decisions and reduce COGS(cost of good sold).
--   Trained teams of operators, supervisors, and managers in Lean manufacturing principles and BI tools.
--   Led fifteen Kaizen projects focused on energy efficiency, production processes, slaughter, deboning, and supply chain optimization.
+- Deployed a low-latency BI system across nine plants.
+- Built a linear-programming planning tool to drive strategic decisions and reduce COGS(cost of good sold).
+- Trained teams of operators, supervisors, and managers in Lean manufacturing principles and BI tools.
+- Led fifteen Kaizen projects focused on energy efficiency, production processes, slaughter, deboning, and supply chain optimization.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Reduced COGS by 2%, saving $27M(2007).
--   Enabled the commercial team to define and present the optimal product mix,
--   Cut energy consumption by 10%, from 90 to 81 kWh/ton(2009).
--   Recuded average truck loading time by 17%. 
--   Lowered carcass weight loss during chilling by 0.42%, saving ~$2M per plant(2009).
+- Reduced COGS by 2%, saving \$27M(2007).
+- Enabled the commercial team to define and present the optimal product mix,
+- Cut energy consumption by 10%, from 90 to 81 kWh/ton(2009).
+- Recuded average truck loading time by 17%.
+- Lowered carcass weight loss during chilling by 0.42%, saving \~\$2M per plant(2009).
 
 ::: panel-tabset
-
 ## Strategic Model Summary
 
 ![Optimization model to support strategic decision-making - summarized view](img/bertin_sno_1.png)
@@ -41,10 +40,9 @@ Led process improvements initiatives across twelve plants, delivering over fifty
 ## Operational Kaizen Projects
 
 ![Phases of the manufacturing process where I contributed to implementing process improvements](img/kaizen_jbs_bertin.png)
-
 :::
 
-## GovBR  (2011-2012)
+## GovBR (2011-2012)
 
 ### [**Business**]{style="color: #9D0F6A ;"}
 
@@ -56,11 +54,11 @@ I supported the company's valuation during the M&A process by building complianc
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Mapped and standardized financial processes.
--   Structured the business intelligence function with a focus on controllership processes across five companies withing the business group.
--   Created a new SQL Served database to store historical financial and operational data.
--   Developed dashboards using QlikView to monitor performance metrics.
--   Analyzed balance sheets and financial statements to identify improvement opportunities and implement changes.
+- Mapped and standardized financial processes.
+- Structured the business intelligence function with a focus on controllership processes across five companies withing the business group.
+- Created a new SQL Served database to store historical financial and operational data.
+- Developed dashboards using QlikView to monitor performance metrics.
+- Analyzed balance sheets and financial statements to identify improvement opportunities and implement changes.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
@@ -68,7 +66,6 @@ I supported the company's valuation during the M&A process by building complianc
 - Simplified the presentation of operational and financial results, both spoken and written.
 
 ::: panel-tabset
-
 ## Business process map
 
 ![An example of BI, compliance, and strategic planning process integration implemented in 2012](img/govbr_1.png)
@@ -76,9 +73,7 @@ I supported the company's valuation during the M&A process by building complianc
 ## Dimentional modeling
 
 ![An example of multidimensional modeling - business intelligence in 2012](img/govbr_2.png)
-
 :::
-
 
 ## Portobello Shop (2014-2016)
 
@@ -92,31 +87,27 @@ My role supported three strategic priorities: store expansion, same-store revenu
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
--   Mapped and improved internal processes through execution and monitoring.
--   Enhanced data quality and UI for Neoway Radar to support external sales.
--   Trained teams and produced user documentation for new tools.
--   Delivered KPIs and dashboards aligned with strategy.
+- Mapped and improved internal processes through execution and monitoring.
+- Enhanced data quality and UI for Neoway Radar to support external sales.
+- Trained teams and produced user documentation for new tools.
+- Delivered KPIs and dashboards aligned with strategy.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Raised store openings from 8 to 12 per year.
--   Drove 86% external sales growth in 2015.
--   Upgraded the web portal to better serve customers and staff.
--   Increased Neoway Radar adoption by 44%
+- Raised store openings from 8 to 12 per year.
+- Drove 86% external sales growth in 2015.
+- Upgraded the web portal to better serve customers and staff.
+- Increased Neoway Radar adoption by 44%
 
 ::: panel-tabset
-
 ## Quantitative results
 
 ![Partial results of the radar market intelligence tool in stores 2015 - Public Report](img/portobello_2.png)
 
-
 ## Improvements
 
 ![Improvement projects underway in 2016 - Public Report](img/portobello_3.png)
-
 :::
-
 
 ## Delta Brindes (2019-2024)
 
@@ -137,21 +128,21 @@ Later supported executive decision-making with data, with expanded responsabilit
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   Built a Qlikview BI platform integrating macro, sales, pricing, market sentiment, and operations data.
--   Used data to inform CEO-level strategic decisions.
--   Led ERP implementation, including process design and training.
--   Migrated BI to Power BI and adapted data pipelines for RAG-based AI automation
+- Built a Qlikview BI platform integrating macro, sales, pricing, market sentiment, and operations data.
+- Used data to inform CEO-level strategic decisions.
+- Led ERP implementation, including process design and training.
+- Migrated BI to Power BI and adapted data pipelines for RAG-based AI automation
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
--   Managed daily operations, mapped business processes, and implemented improvements.
--   Documented workflows and trained teams in distribution planning, shipment coordination, customer communication to streghthen relationships  with customers and suppliers.
+- Managed daily operations, mapped business processes, and implemented improvements.
+- Documented workflows and trained teams in distribution planning, shipment coordination, customer communication to streghthen relationships with customers and suppliers.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Cut shipping errors by 98% and reduced setup time from one day to 20 minutes.
--   Implemented ERP and BI systems and trained teams.
--   Drove 150% revenue growth (2019-2022)
+- Cut shipping errors by 98% and reduced setup time from one day to 20 minutes.
+- Implemented ERP and BI systems and trained teams.
+- Drove 150% revenue growth (2019-2022)
 
 ![Business Intelligence Project at Delta Brindes Corporativos](img/delta_brindes_action.png)
 
@@ -163,29 +154,29 @@ Delta manufactures and distributes corporate gifts nationwide in Brazil, serving
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
--   Evaluated new business opportunities in the U.S. and Brazil.
--   Assessed strategic fit between the company's capabilities and market opportunities, focusing on customer value and growth potential (What incredible benefits can we give to the customer? Where can we take the customer?)
--   Design and implement AI systems through context engineering and high‑quality data preparation
--   Enable leadership teams to use AI and analytics to make faster, better decisions
+- Evaluated new business opportunities in the U.S. and Brazil.
+- Assessed strategic fit between the company's capabilities and market opportunities, focusing on customer value and growth potential (What incredible benefits can we give to the customer? Where can we take the customer?)
+- Design and implement AI systems through context engineering and high‑quality data preparation
+- Enable leadership teams to use AI and analytics to make faster, better decisions
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 
--   Used AS-IS databases to run experiments and evaluate outcomes.
--   Built a RAG pipeline to fine-tune LLMs.
--   Defined agent types, scale, and autonomy levels(retrieval, task, autonomous).
--   Validated solutions through A/B testing. 
--   Documented outcomes, successes, and failures.
--   Periodically reviewed the knowledge base and data-driven decisions to confirm productivity gains and value creation.
+- Used AS-IS databases to run experiments and evaluate outcomes.
+- Built a RAG pipeline to fine-tune LLMs.
+- Defined agent types, scale, and autonomy levels(retrieval, task, autonomous).
+- Validated solutions through A/B testing.
+- Documented outcomes, successes, and failures.
+- Periodically reviewed the knowledge base and data-driven decisions to confirm productivity gains and value creation.
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
--   Built an assistant agent to support customer price quotations, reducing response time(WIP)
--   Built an assistant agent to improve product traceability.
--   Built an assistant agent to automate address label printing and invoice issuance.
+- Built an assistant agent to support customer price quotations, reducing response time(WIP)
+- Built an assistant agent to improve product traceability.
+- Built an assistant agent to automate address label printing and invoice issuance.
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
--   Improved customer service, reducing waiting times, improving experience.
+- Improved customer service, reducing waiting times, improving experience.
 
 ![Systems integration process and challenges](img/delta_brindes_2025.png)
 
@@ -197,8 +188,7 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-- I'm working on a project to improve elementary and high school education across São Paulo state. The goal is to bring reading and math up to OECD standards unlocking about 43 billion dollars in annual economic impact. It means better living standards, more job opportunities, and a real change to reduce inequality.
-
+- Raise São Paulo's reading and math to OECD levels, reach 3.5 million students across 5,000 state schools;unlock 40-45 billion dollars in annual economic impact.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
@@ -207,11 +197,9 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 - Built socioeconomic models using mixed effects, Item Response Theory(IRT), survival analysis, and structural equation modeling
 
 ::: panel-tabset
-
 ## AS-IS
 
 ![Student performance by Grade](img/education_grade_score.png)
-
 
 ## TO-BE
 
@@ -221,7 +209,6 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ![Critical Success Factors](img/education_pillars.png)
 
-
 ## Framework
 
 ![Venn diagram UDL – Universal Design for Learning](img/venn_d_udl.png)
@@ -230,16 +217,28 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ![Theory](img/education_grade_theory.png)
 
-
 ## New Challenges
 
 ![Factors of Production - TFP/MPL](img/factor_production.png)
+:::
 
+### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
-## Accomplishments
+- The partial results are shown below.
 
-![Using NAEP visual chart](img/saresp_2025.png)
+::: panel-tabset
+## General results
 
+![Using NAEP visual chart - Source SARESP 2025](img/saresp_2025.png)
+
+## Math
+
+![Math results - Source SARESP 2025](img/education_grade_score_evolution_math.png)
+
+## Reading
+
+![Reading results - Source SARESP 2025](img/education_grade_score_evolution_reading.png)
 
 
 :::
+

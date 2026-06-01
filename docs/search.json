@@ -53,7 +53,7 @@
     "href": "projects.html#fipe-2025-2026",
     "title": "Projects",
     "section": "FIPE (2025-2026)",
-    "text": "FIPE (2025-2026)\n\nBusiness\nSão Paulo Institute of Economic Research is a Brazilian research institute focused on economic studies, and market analysis.\n\n\nGoals\n\nI’m working on a project to improve elementary and high school education across São Paulo state. The goal is to bring reading and math up to OECD standards unlocking about 43 billion dollars in annual economic impact. It means better living standards, more job opportunities, and a real change to reduce inequality.\n\n\n\nActivities\n\nAnalyzed raw data and transformed it into high-quality, reliable datasets\nBuilt socioeconomic models using mixed effects, Item Response Theory(IRT), survival analysis, and structural equation modeling\n\n\nAS-ISTO-BECritical Success FactorsFrameworkBase TheoryNew ChallengesAccomplishments\n\n\n\n\n\nStudent performance by Grade\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\nCritical Success Factors\n\n\n\n\n\n\n\nVenn diagram UDL – Universal Design for Learning\n\n\n\n\n\n\n\nTheory\n\n\n\n\n\n\n\nFactors of Production - TFP/MPL\n\n\n\n\n\n\n\nUsing NAEP visual chart"
+    "text": "FIPE (2025-2026)\n\nBusiness\nSão Paulo Institute of Economic Research is a Brazilian research institute focused on economic studies, and market analysis.\n\n\nGoals\n\nI’m working on a project to improve elementary and high school education across São Paulo state. The goal is to bring reading and math up to OECD standards unlocking about 43 billion dollars in annual economic impact. It means better living standards, more job opportunities, and a real change to reduce inequality.\n\n\n\nActivities\n\nAnalyzed raw data and transformed it into high-quality, reliable datasets\nBuilt socioeconomic models using mixed effects, Item Response Theory(IRT), survival analysis, and structural equation modeling\n\n\nAS-ISTO-BECritical Success FactorsFrameworkBase TheoryNew Challenges\n\n\n\n\n\nStudent performance by Grade\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\nCritical Success Factors\n\n\n\n\n\n\n\nVenn diagram UDL – Universal Design for Learning\n\n\n\n\n\n\n\nTheory\n\n\n\n\n\n\n\nFactors of Production - TFP/MPL\n\n\n\n\n\n\n\nAccomplishments\n\nThe partial results are shown below.\n\n\nGeneral resultsMathReading\n\n\n\n\n\nUsing NAEP visual chart - Source SARESP 2025\n\n\n\n\n\n\n\nMath results - Source SARESP 2025\n\n\n\n\n\n\n\nReading results - Source SARESP 2025"
   },
   {
     "objectID": "macroeconomic.html",
@@ -251,5 +251,26 @@
     "crumbs": [
       "Manufacturing Outlook"
     ]
+  },
+  {
+    "objectID": "projects.html#general-results",
+    "href": "projects.html#general-results",
+    "title": "Projects",
+    "section": "General results",
+    "text": "General results\n\n\n\nUsing NAEP visual chart"
+  },
+  {
+    "objectID": "projects.html#math",
+    "href": "projects.html#math",
+    "title": "Projects",
+    "section": "Math",
+    "text": "Math\n\n\n\nMath results"
+  },
+  {
+    "objectID": "projects.html#reading",
+    "href": "projects.html#reading",
+    "title": "Projects",
+    "section": "Reading",
+    "text": "Reading\n\n\n\nReading results"
   }
 ]
