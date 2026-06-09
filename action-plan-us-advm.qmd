@@ -24,7 +24,7 @@ Think of it as a very detailed, always-on simulation. For example, if you have a
 
 ![Advanced Manufacturing](img/advanced_mfg_network.png)
 
-### [Impacts]{style="color: #9D0F6A ;"}
+### [The Ripple Effect: Why Our Choices Matter]{style="color: #9D0F6A ;"}
 
 Advanced manufacturing promotes economic stability, enhances competitiveness, and drives growth, while preserving essential workforce skills and reducing market risks. Key impacts include:
 
@@ -39,7 +39,7 @@ Advanced manufacturing promotes economic stability, enhances competitiveness, an
 
 **Advanced manufacturing expands the set of economically feasible activities by lowering costs, reducing risk, increasing flexibility, and enabling the efficient production of complex and customized products that were previously too expensive or unreliable to make.**
 
-## [The Past]{style="color: #9D0F6A ;"}
+## [The Roots: How We Solved the Impossible]{style="color: #9D0F6A ;"}
 
 Exploring past experiences stimulates our capacity for mental time travel, which is essential for survival and adaptation. It helps us predict outcomes, learn from mistakes, and develop a sense of identity. Studying the past also reveals how experiences shape history and influence memory formation and learning.
 
@@ -85,7 +85,7 @@ Exploring past experiences stimulates our capacity for mental time travel, which
 
     -   **Continuous improvement** Employees are encouraged to submit improvement ideas, with recognition and rewards given for successful implementations. Lean enterprises must grow not only to increase value creation but also to provide meaningful opportunities for theirs employees. By continuously improving and becoming more efficient, they can stay competitive and help secure long-term job stability for their workforce @murman2008
 
-## [The Present]{style="color: #9D0F6A ;"}
+## [The Now: Navigating a Changing World]{style="color: #9D0F6A ;"}
 
 Focusing on the present helps us understand how we process information in real time, which is essential for responding quickly to stimuli and peforming daily activities with mindfulness. One of the main challenges in staying present is managing the overwhelming amount of digital and physical distractions the constantly compete for our attention.
 
@@ -224,7 +224,7 @@ According to @bonvillian2024 , different approaches were applied such as `top do
 
 ![U.S. Manufacturing Construction Investments](img/us_mfg_construction.png)
 
-## [The Future]{style="color: #9D0F6A ;"}
+## [The Horizon: Connecting the Dots]{style="color: #9D0F6A ;"}
 
 Studying the future to understand decision-making processes, planning, and expectation building, which are crucial for strategic goals. Anticipating future scenarios helps analyze consequences and risks, leading to more effective and safer decisions. The challenges is to control anxiety especially in very optimistic or pessimistic projections.
 
@@ -234,11 +234,11 @@ Studying the future to understand decision-making processes, planning, and expec
 
     -   Returning supersonic trips more affordable for passengers, profitable for companies, cleaner, quieter, and dramatically more fuel efficient. Speed of sound making the world feel smaller for example Tokio-Seattle in 4.4 hours, New York to London in 3.4 hours. The overture synphony engine runs with a 100% sustainable aviation fuel making supersonic flights more efficient than subsonic flights in terms of carbon emissions.
 
-    -   **Satelite high speed internet communication** More information, education,
+    -   **Satelite high speed internet communication** More information, education, and acessibility.
 
     -   **Hyperloop** is a technology has the potential to offering faster, more efficient, and sustainable logistics solutions. It can transport cargo at speeds of up to 700 mph, significantly reducing travel times, reducing downtime and incresing overall efficiency. some ot the challenges of this technology today are maintaining a vaccum seal in the tubes, propulsion, and levitation systems. Despite thise challenges, several companies, including HyperloopTT, Hardt B.V., and Transpod, are actively working on developing hyperloop technology for cargo transportation.
 
--   **New processes**: Making better products, faster and cheaper. (Innovation economic book here, tesla unbox here, example based tactile simulation and sim-to-real applications )
+-   **New processes**: Making better products, faster and cheaper.
 
     -   **Battery manufacturing process** Advancing dry-process battery technology that enable to dry print anodes and varios cathodes(e.g lithium iron phospate-LFP, nickel manganese cobalt-NMC, sodium ion etc) with no metal or liquid inside it, saving weight(23% from today standards), space in the packaging, costs(7% from today standards), more easely to recycling, more safe because no risk of thermal runaway, and 30% more energy density(from today standards 272 Wh/kg).
 
@@ -285,7 +285,7 @@ Studying the future to understand decision-making processes, planning, and expec
 
     -   **Intelligent management grid** Electric vehicle charging management according to variables such as demand, time, and avaiability. The vehicle would make the decision based on data analysis with focus on system avaiability.
 
-### \[The main problem {style="color: #9D0F6A ;"}
+### [The main problem]{style="color: #9D0F6A ;"}
 
 Understand how innovation systems work and how to optimize their organization to drive economic growth and solve societal problems.
 
@@ -314,7 +314,7 @@ In modern times, we could observe a similar pattern in the advancement and wides
 -   **Semiconductors**: Chips and Science Act, focus on increasing US competitiveness in the semiconductor industry, incentive for creating research and development centers in semiconductor techonologies.
 -   **Energy Technologies**: Inflation Reduction Act, incentives for the production of electric vehicles, batteries electricity, and tax credits for companies investing in clean technologies.
 -   **Technology Demonstrations**: Infraestructure Act, focus on infrastructure projects that promote innovation and sustainability, incentives for the adoption of clean and efficient techonologies in infrastructure project.
--   3-3-3 plan: Involve cutting the budget deficit to 3% of GDP by 2028, boosting GDP growth to 3% through deregulation and other pro-growth policies, and increasing U.S. energy production to the equivalent of an additional 3 million barrels of oil per day.
+-   **3-3-3 plan**: Involve cutting the budget deficit to 3% of GDP by 2028, boosting GDP growth to 3% through deregulation and other pro-growth policies, and increasing U.S. energy production to the equivalent of an additional 3 million barrels of oil per day.
 -   Workforce Education:
 -   Ambitious of industrialize: Build the factories, Supply chain, and vertically integrate those Supply chains together.
 
@@ -363,7 +363,7 @@ Theses cases emphasize that the United States must regain its learning by doing 
 -   What about supply chain system with Allies and Partners (pag31,35)
 -   What about training and talent (pag 36, 37,38, 39) and Earl Murman(MIT) with japanese training stats, Ebbinghaus forgetting curve, Jereme Bruner, Lev Vygotsky, Richard Skemp, Zontan Deans, Jean Piaget, Denis Littly, and Raj Shaunak.
 
-## [Workforce Education]{style="color: #9D0F6A ;"}
+## [The Toolkit: Learning How to Thrive]{style="color: #9D0F6A ;"}
 
 ### U.S. Strategy Goals
 
@@ -479,31 +479,32 @@ Manufacturing employs approximately 12.75 million workers, representng around 7.
 
 History of SME here
 
-## ![Small and Medium Enterprise Framework](img/sme.png)
+![Small and Medium Enterprise Framework](img/sme.png)
 
 ### Manufacturing-focus Approach
 
 The U.S. advanced manufacturing plan, as outlined in resources like manufacturing.gov, aims to increase productivity, improve supply chains, and retain a strong workforce.
 
-#### **Shift Focus from Design to Manufacturing**
+### **Shift Focus from Design to Manufacturing**
 
 The U.S. must recognize that while innovation in product design is important, the real competitive advantage lies in mastering manufacturing processes. This means investing heavily in research and development of manufacturing technologies, such as advanced robotics, AI-driven quality control, and sustainable production methods.
 
-> "Manufacturing is underrated and design overrated". This suggests that the initial design of a product, such as a rocket engine, is just the beginning. The real challenge lies in scaling that design into a manufacturable, cost-effective, and reliable, product.
+> "Manufacturing is underrated and design overrated". This suggests that the initial design of a product, such as a rocket engine, is just the beginning. The real challenge lies in scaling that design into a manufacturable, cost-effective, and reliable product 
+> Elon Musk
 
 The effort to design a manufacturing system is exponentially greater than the effort to design the product. For instance, that designing the Raptor engine required significantly less effort compared to designing the manufacturing system to produce it at scale. This is because manufacturing involves not just producing one unit but thousands, each with consistent quality and at a reduced cost.
 
-#### **Embrace Vertical Integration**
+### **Embrace Vertical Integration**
 
 To reduce vulnerability to global supply chain disruptions and improve control over production quality, the U.S. should encourage policies that support vertical integration. This could involve incentives for companies to bring manufacturing back to the U.S. or to develop domestic supplier networks. The National Strategy for Advanced Manufacturing should prioritize building a robust ecosystem that supports end-to-end production.
 
 SpaceX's success is partly due to its vertical integration strategy, where the company controls most aspects of production, from raw materials to final assembly. This approach reduces dependency on external suppliers, improves quality control, and lowers costs. Musk's emphasis on process engineering means optimizing every step of the manufacturing process, from supply chain logistics to automation, to ensure efficiency and scalability.
 
-#### **Invest in Workforce Training for Manufacturing**
+### **Invest in Workforce Training for Manufacturing**
 
 The U.S. must invest in training programs that focus on advanced manufacturing skills, such as process engineering, automation, and data analytics. Programs like apprenticeships, community college partnerships, and industry-led training initiatives can bridge the skills gap.
 
-#### **Prioritize Cost Efficiency and Scalability**
+### **Prioritize Cost Efficiency and Scalability**
 
 U.S. manufacturers need to adopt a cost-conscious approach, where design constraints include economic viability at scale. This might involve rethinking traditional manufacturing paradigms to incorporate modular designs, additive manufacturing(3D printing), and other techonologies that reduce waste and increate flexibility.
 
@@ -511,21 +512,19 @@ A critical aspect of SpaceX approach is desgning with cost in mind from the outs
 
 SpaceX advocates for accelerating cycle times but only after ensuring the design and process are optimized. This iterative approach allows for continuous improvement and adaptation, which is crucial in high-stakes industries like aerospace where failure is not an option.
 
-#### **Leverage Data and Automation**
+### **Leverage Data and Automation**
 
 The future of manufacturing is digital, and the U.S. must lead in adopting Industry 4.0 technologies. This includes IoT(Internet of Things) for real-time monitoring, AI for predictive maintenance, and advanced robotics for precision manufacturing. These technolgies can significantly reduce cycle times and improve quality.
 
-#### **Policy Support for Innovation in Manufacturing Processes**
+### **Policy Support for Innovation in Manufacturing Processes**
 
 The U.S. government should provide incentives for innovation in manufacturing processes, not just product design. This could include tax breaks for companies that invest in new manufacturing technologies, grants for research into process optimization, and regulatory support for pilot projects that test new manufacturing methodologies.
 
-#### **Collaborative Ecosystems**
+### **Collaborative Ecosystems**
 
 Building collaborative ecosystems where academia, industry, and government work together can foste innovation in manufacturing. Universities can develop curricula focused on manufacturing engineering, industry can provide real-world applications, and goverment can fund initiatives that bridge the gap between theory and practice.
 
-------------------------------------------------------------------------
-
-### Skills Requirements
+## Skills Requirements
 
 Skills requirements refers the abilities workers need and the specific content that workforce education must cover to ensure they develop those skills. A set of training competency categories that outline the essential knowledge and abilities required in modern workplace education had been created by the U.S. Department of Labor.
 

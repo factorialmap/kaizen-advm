@@ -11,12 +11,18 @@ Bertin S/A was a beef protein producer later integrated into JBS Global through 
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
-Led process improvements initiatives across twelve plants, delivering over fifty projects in seven states and training teams in Lean, PDCA, and production optimization.
+- Our problem was a multi-echelon, multi-product, multi-destination combinatorial supply network optimization problem
+  - 13 industrial plants
+  - Dismantling cattle (22+parts)
+  - Separation of cuts + variable yeilds
+  - Multi-line processing(Cooked, Beef Jerky, Frozen, Chilled, Pouch, etc)
+  - Allocation for markets with different prices, demand, and transportation costs.
+- Led process improvements initiatives across twelve plants, delivering over fifty projects in seven states and training teams in Lean, PDCA, and production optimization.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
 - Deployed a low-latency BI system across nine plants.
-- Built a linear-programming planning tool to drive strategic decisions and reduce COGS(cost of good sold).
+- Generates a MILP(Mixed-Integer Linear Program) as a tool to drive strategic decisions and reduce COGS(cost of good sold).
 - Trained teams of operators, supervisors, and managers in Lean manufacturing principles and BI tools.
 - Led fifteen Kaizen projects focused on energy efficiency, production processes, slaughter, deboning, and supply chain optimization.
 
@@ -238,7 +244,4 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 ## Reading
 
 ![Reading results - Source SARESP 2025](img/education_grade_score_evolution_reading.png)
-
-
 :::
-
