@@ -29,7 +29,7 @@ $darker-gray: #687178 !default;
 // Navbar
 $navbar-bg: $deep-cyan !default;
 $navbar-fg: $bluegray !default;
-$navbar-hl: $white !default;
+$navbar-hl: $bermuda !default;
 
 // Links
 $link-color: $bermuda !default;
@@ -82,4 +82,11 @@ body.sidebar-docked .quarto-body-content {
   max-width: 800px; /* Adjust as needed */
   padding-left: 1em;
   padding-right: 1em;
+}
+
+/* Remove uppercase from navbar menu items */
+.navbar a,
+.navbar-nav a,
+.navbar-brand {
+  text-transform: none !important;
 }
