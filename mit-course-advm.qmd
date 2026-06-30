@@ -1,6 +1,6 @@
 ---
 title: "What I Learned at MIT"
-subtitle: "What innovations are scaling up manufacturing and transforming the world in profound ways?"
+subtitle: "What cutting-edge concepts and tools have shaped my technical foundation?"
 bibliography: references.bib
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Smart Lean: AI Applied to Efficiency"
-subtitle: "What concepts and practices are involved in this process?"
+subtitle: "How do I apply AI and data to enhance Lean principles in real operations?"
 bibliography: references.bib
 ---
 

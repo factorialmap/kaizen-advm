@@ -1,6 +1,6 @@
 ---
-title: "Projects"
-subtitle: "Some projects I've worked on"
+title: "Manufacturing Projects"
+subtitle: "What have I built or contributed that demonstrates my expertise?"
 ---
 
 ## Bertin S/A (1999-2009)

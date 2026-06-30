@@ -1,6 +1,6 @@
 ---
 title: "U.S. Economic and Sector Overview"
-subtitle: "Which phase of the economic cycle are we currently in?"
+subtitle: "How do I interpret the macroeconomic environment and sector-level dynamics in the U.S.?"
 bibliography: references.bib
 execute: 
   warning: false

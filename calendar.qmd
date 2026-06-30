@@ -1,6 +1,6 @@
 ---
 title: "My Immigration Journey"
-subtitle: "Immigration Process and Business Plan"
+subtitle: "Where am I in my path toward living and working in the United States?"
 execute: 
   warning: false
   echo: false

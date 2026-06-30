@@ -1,6 +1,6 @@
 ---
 title: "U.S. Advanced Manufacturing Landscape"
-subtitle: "What  are the guidelines that support this research project?"
+subtitle: "How do I understand the national advanced manufacturing ecosystem and its priorities?"
 bibliography: references.bib
 ---
 

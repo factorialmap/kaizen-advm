@@ -1,6 +1,6 @@
 ---
 title: "My Work Framework"
-subtitle: "The approach and key steps I follow in the projects I work on"
+subtitle: "How do I think, structure, and solve complex problems?"
 ---
 
 ::: panel-tabset
