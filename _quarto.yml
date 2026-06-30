@@ -13,7 +13,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About Me
       - projects.qmd
       - workflow.qmd
       - sidebar:research_2024
@@ -27,7 +27,7 @@ website:
   sidebar: 
     - id: research_2024
       style: "docked"
-      title: "Research 2024-2027"
+      title: "Research Dashboard 2024–2027"
       collapse-level: 7
       contents: 
         - href: calendar.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Outlook"
+title: "Advanced Manufacturing Trends"
 subtitle: "What projects are underway, and how can I contribute?"
 execute: 
   warning: false

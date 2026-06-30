@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Lean Manufacturing"
+title: "Smart Lean: AI Applied to Efficiency"
 subtitle: "What concepts and practices are involved in this process?"
 bibliography: references.bib
 ---

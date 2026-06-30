@@ -1,5 +1,5 @@
 ---
-title: "Framework"
+title: "My Work Framework"
 subtitle: "The approach and key steps I follow in the projects I work on"
 ---
 

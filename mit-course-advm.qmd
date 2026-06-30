@@ -1,5 +1,5 @@
 ---
-title: "MIT Advanced Manufacturing Courses"
+title: "What I Learned at MIT"
 subtitle: "What innovations are scaling up manufacturing and transforming the world in profound ways?"
 bibliography: references.bib
 ---
