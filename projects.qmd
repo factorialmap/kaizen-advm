@@ -235,13 +235,13 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 ::: panel-tabset
 ## General results
 
-![Using NAEP visual chart - Source SARESP 2025](img/saresp_2025.png)
+![Using NAEP visual chart - Source SARESP 2025;Dados abertos da educação](img/saresp_2025.png)
 
 ## Math
 
-![Math results - Source SARESP 2025](img/education_grade_score_evolution_math.png)
+![Math results - Source SARESP 2025;Dados abertos da educação](img/education_grade_score_evolution_math.png)
 
 ## Reading
 
-![Reading results - Source SARESP 2025](img/education_grade_score_evolution_reading.png)
+![Reading results - Source SARESP 2025;Dados abertos da educação](img/education_grade_score_evolution_reading.png)
 :::
