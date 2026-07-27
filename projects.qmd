@@ -1,5 +1,5 @@
 ---
-title: "Manufacturing Projects"
+title: "Projects"
 subtitle: "What have I built or contributed that demonstrates my expertise?"
 ---
 
@@ -194,13 +194,18 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ### [**Goals**]{style="color: #9D0F6A ;"}
 
+- Implementation of the Intelligence Center of the São Paulo State Department of Education.
 - Raise São Paulo's reading and math to OECD levels, reach 3.5 million students across 5,000 state schools;unlock 40-45 billion dollars in annual economic impact.
 
 ### [**Activities**]{style="color: #9D0F6A ;"}
 
-- Analyzed raw data and transformed it into high-quality, reliable datasets
+- Data science consultancy, integrating the project's Information Technology team.
 
-- Built socioeconomic models using mixed effects, Item Response Theory(IRT), Survival Analysis, Structural Equation Modeling, and Cumulative Link Models(Ordinal Regression).
+- Analyzed raw data and transformed it into high-quality, reliable datasets.
+
+- In-depth study for the development of structured rubrics.
+
+- Built predictive models and psychometric analysis using mixed effects, item response theory(IRT), survival analysis, structural equation modeling, and cumulative link models(ordinal regression).
 
 ::: panel-tabset
 ## AS-IS
