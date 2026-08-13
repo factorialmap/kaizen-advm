@@ -8,6 +8,8 @@ mca.R
 sql_queries.R
 gt_new_features.R
 plots.R
+desirability.r
+desirability_pipeline.qmd
 img/
 !docs/img/
 imagens/
