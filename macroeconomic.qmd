@@ -9,17 +9,17 @@ execute:
   freeze: false
 ---
 
-## [**U.S. Gross Domestic Product (GDP)**]{style="color: #9D0F6A ;"}
+## [**U.S. GDP**]{style="color: #9D0F6A ;"}
 
-**Last update**: Jun, 2026
+**Last update**: Aug, 2026
 
--   Real gross domestic product (GDP) increased at an annual rate of 2.1 percent in the first quarter of 2026, according to the third estimate released on June 25, 2026 (T1). Growth in real GDP came from investment, exports, government spending, and consumer spending. Imports rose, trimming the gain.
+-   Real gross domestic product (GDP) increased at an annual rate of 1.5 percent in the second quarter of 2026, according to the second estimate released on August 26, 2026 (T1). Growth in real GDP came from consumer spending, exports, and investment. Imports rose, trimming the gain.
 
--   Personal consumption expenditures increased by 0.5% in the first quarter of 2026, compared with 1.9% in the fourth quarter of 2025, according to the third estimate released on June 25, 2026 (T1).
+-   Personal consumption expenditures increased by 3.4% in the second quarter of 2026, compared with 0.5% in the first quarter, according to the second estimate released on August 26, 2026 (T1).
 
--   Gross private domestic investment increased by 7.9% in the first quarter of 2026, compared with 2.3% in the fourth quarter of 2025, according to the third estimate released on June 25, 2026 (T1). Equipment investment rose by 15.8% in the first quarter of 2026, compared to a 4.3% increased in the fourth quarter of 2025.
+-   Gross private domestic investment increased by 2.7% in the second quarter of 2026, compared with 7.9% in the first quarter, according to the second estimate released on August 26, 2026 (T1). Equipment investment rose by 13.6% in the second quarter of 2026, compared to a 15.8% increased in the first quarter.
 
--   Government consumption expenditures and gross investment increased by 4.4% in the first quarter of 2026, compared with a decrease of 5.6% in the fourth quarter of 2025 according to the third estimate released on June 25, 2026 (T1).
+-   Government consumption expenditures and gross investment decrease by 1% in the second quarter of 2026, compared with a increase of 4.4% in the first quarter according to the second estimate released on August 26, 2026 (T1).
 
 
 **U.S. Gross Domestic Product(GDP) for 2024**
@@ -32,22 +32,22 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 The United States employs several different methods to monitor inflation, and it is crucial to comprehend the distinctions among these measures to gain a clear understanding of economic trends.
 
-**Last update**: Jun, 2026
+**Last update**: Aug, 2026
 
 **PCE Inflation**
 
 PCE inflation measures the prices of goods and services consumed by households and nonprofit institutions, including food, energy, housing , and more. It is more comprehensive than the Consumer Price Index (CPI). PCE inflation accounts for both direct household spending (you pay) and spending on behalf of households (someone pays for you). For example, when your employer provides health insurance or the government provides Medicare.
 
--   Compared to the same month last year, the PCE price index rose by 4.1% in May 2026 (T7). The Federal Reserve targets a long-term PCE inflation rate of 2%. From the preceding month, the PCE price index increased 0.4% (T5).
+-   Compared to the same month last year, the PCE price index rose by 3.7% in July 2026 (T2811). The Federal Reserve targets a long-term PCE inflation rate of 2%. From the preceding month, the PCE price index increased 0.2% (T287).
 
--   Personal income rose by 0.4% in January, 2026 on a monthly basis, according to the estimates published on March 13, 2026 (T3).
+-   Personal income rose by 0.4% in July 2026 on a monthly basis, according to the estimates published on August 26, 2026 (T26).
 
 
 **Core PCE Inflation**
 
 Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
--   When compared to the same month in the previous year, the core PCE price index rose by 3.4% in May 2026, which is slightly higher than the 3.3% increase recorded in April, 2026 (T2811).
+-   When compared to the same month in the previous year, the core PCE price index rose by 2.7% in July 2026(T2811).
 
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
@@ -55,13 +55,13 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **Last update:** Aug, 2026. 
 
-The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine Social Security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly).
+The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine social security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly).
 
 - The annual inflation rate for the United States increased by 3.4% for the 12 months ending July 2026, compared to the previous rate of 3.5% in June, according to U.S. Bureau of Labor Statistics data.
 
 - The Consumer Price Index(CPI) rose by 0.1% in July 2026 compared to the previous month.
 
-| Item        | MoM | YoY  |
+| Item        | MoM % | YoY %  |
 |-------------|-----|------|
 | CPI overall | 0.1 | 3.4  |
 | Food        | 0.1 | 3.0  |
@@ -82,7 +82,7 @@ Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
 Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 
-## [**U.S. Interest rates**]{style="color: #9D0F6A ;"}
+## [**U.S. Interest Rates**]{style="color: #9D0F6A ;"}
 
 **Last update:** Jun, 2026
 
@@ -93,12 +93,12 @@ Source: [Federal Reserve](https://www.federalreserve.gov/publications.htm)
 > Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflit in the Middle East.
 > Productivity growth and capital investment are both strong. Job gains have kept pace with the workforce, and the unemployment rate has changed little.
 >
-> We recognize that inflation has been running well ahead of the Fed's long-stated inflation goal of 2 percent that's been going on for more than 5 years. Persistently hihg prices are a burden for the American people.
+> We recognize that inflation has been running well ahead of the Fed's long-stated inflation goal of 2 percent that's been going on for more than 5 years. Persistently high prices are a burden for the American people.
 > But the recent past need to be prologue. I am please to report that members of the FOMC are anambiguous and unanimous: This Committee will deliver price stability.
 >
 > I am appointing a task force in each of five areas that are central to the broad conduct of monetary policy: First, Fed communications;second, the Fed's balance sheet policy;third, our use and reliance on existing data sources;fourth, productivity and jobs in an era of transformation; and last, the Fed's inflation frameworks.
 
-> — Kevin Warsh, Jun 17, 2026.
+> — Kevin Warsh, June 17, 2026.
 
 
 ---
@@ -191,7 +191,7 @@ The chart below, shared by Mick Dueholm and Serdar Ozkan on the FRED Blog, illus
 
 Source: [U.S. Bureau of Labor Statistics](https://www.bls.gov/) , [U.S. Departament of Labor](https://www.dol.gov), and FRED.
 
-## [**U.S. 10-Year Treasury bonds**]{style="color: #9D0F6A ;"}
+## [**U.S. 10 Year Treasury**]{style="color: #9D0F6A ;"}
 
 **Last update:** September, 2025.
 
