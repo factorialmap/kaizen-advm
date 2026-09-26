@@ -283,7 +283,7 @@ Between 2020 and 2025, there was overcapacity in the carrier population due to f
 -   Flat bed rates in the spot market are currently \$2.35 per mile up 6.3% YoY and down 6.6% compared to 2019(\$2.52).
 
 
-### [**Technology**]{style="color: #9D0F6A ;"}
+### [**AI Systems**]{style="color: #9D0F6A ;"}
 
 **Last update:** September, 2025
 
@@ -394,7 +394,7 @@ Vertical AI are often designed to perform a specific task or set of tasks within
 
 -   Looking at the manufacturing plants construction sites.
 
-    -   **Semiconductor:** TSMC (Phenix, AZ:TSM: fab1 production pilot Dec24, fab2 under construction, fab3 2nm chips next 10 years) , Wolfspeed(Siler City Chatham County,NC and Mohawk Valley,NY:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN)
+    -   **Semiconductor:** TSMC (Phenix, AZ:TSM: fab1 production pilot Dec24, fab2 under construction, fab3 2nm chips next 10 years) , Wolfspeed(Siler City Chatham County,NC and Mohawk Valley,NY:WOLF), Intel(Licking County, OH:INTC), SK Hynix(West Lafayette, IN), IBM(Hudson Valley, NY), GlobalFoundries(Essex, VT:GSF), Samsung(Taylor, TX:SSNLF), Texas Instruments(Sherman, TX:TXN), Micron(syracuse, NY), Spacex/Tesla Terafab(Grimes County, TX)
 
     -   **Batteries:** Sakuu & SK on, Toyota (Liberty, NC:Production pilot Apr25 300k EV, 150K PHEV, 800K HEV annual production, 10 lines for EV and 14 lines for Hybrids), LG Energy(Queen Creek, AZ), Redwood (Reno, NV), Panasonic(De Soto, KS:WIP Start production in Spring25), Ford SK (Stanton, TN:WIP Delay until 2027), SK on/Nissan (Canton, MS: Start 2028), Ultium Cells(Spring Hill, TN:2027 and Lansing MI:2025)
 
