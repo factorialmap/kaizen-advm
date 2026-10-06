@@ -195,7 +195,7 @@ This graph you're looking at is a "map" that helps us understand how different c
 -   **Leverage existing programs**: The United States can build upon succesful programs like the manufacturing USA program and the Manufacturing Externsion Partnetship(MEP) to accelerate workforce development initiatives.
 -   **Focus on cyber skills**: The increasing integration of digital technologies in manufacturing requires a workforce with strong cyber skills.
 -   **Develop a national talent marketplace**: A centralized platform connecting job seekers with advanced manufacturing opportunities can help to adress workforce shortages.
--   **Leveraging U.S. Strenths in AI and Software**: The U.S. enjoys a significant lead in generative AI, a technology with the potential to transform various facets of advanced manufacturing (e.g.GenAI can creates copilots to helps workers interpret complex factory data and enhance AI-driven design tools that can create product designs from natural language descriptions)
+-   **Leveraging U.S. Strenths in Supper Intelligence and Software**: The U.S. enjoys a significant lead in generative AI, a technology with the potential to transform various facets of advanced manufacturing (e.g.GenSupper Intelligence can creates copilots to helps workers interpret complex factory data and enhance AI-driven design tools that can create product designs from natural language descriptions)
 -   **Rebuilding Domestic Production Capacity**:
 -   **Public and Private Investments**:
 -   **Collaboration with Allies and Partners**:
@@ -203,7 +203,7 @@ This graph you're looking at is a "map" that helps us understand how different c
 
 **Industrial Policy for Process Innovation and Recent Development in U.S.**
 
--   CHIPS Act: The U.S.manufacturing share of GDP down 16% since 2012, share of semiconductor production declined from 37% in 1990 to 12% in 2022, and produced no cutting-edge advanced chips. Also, \$205B trade deficit in advanced tech products, and the Hamilton Index @atkinson2022 showing gaps with comparison to another countries. To reduce theses gaps, U.S. Congress passed Chips Act to incentivize U.S. and allied country firms to build or expand advanced-industry R&D and production sites in the United States. The focus on quantum computing, robotics, 6G equipments, gene edititing, high bandwidth memory chips, chipmaking equipment and software to develop advanced AI systems to improve manufacturing capabilities. Not only invent in U.S. but manufacture in U.S.
+-   CHIPS Act: The U.S.manufacturing share of GDP down 16% since 2012, share of semiconductor production declined from 37% in 1990 to 12% in 2022, and produced no cutting-edge advanced chips. Also, \$205B trade deficit in advanced tech products, and the Hamilton Index @atkinson2022 showing gaps with comparison to another countries. To reduce theses gaps, U.S. Congress passed Chips Act to incentivize U.S. and allied country firms to build or expand advanced-industry R&D and production sites in the United States. The focus on quantum computing, robotics, 6G equipments, gene edititing, high bandwidth memory chips, chipmaking equipment and software to develop advanced Supper Intelligence systems to improve manufacturing capabilities. Not only invent in U.S. but manufacture in U.S.
 
 ![Global robot density in 2023](img/robots.png)
 
@@ -250,7 +250,7 @@ Studying the future to understand decision-making processes, planning, and expec
 
 -   **Knowledge base, science, and data**: (insert Lip-Bu Tan here, What are the limitation of scientists today?What are your questions? Insert the schematic process of the beagle sensors and processing here )
 
-    -   **Chip manufacturing** there a five generations waves happening at the same time including AI Machine learning, Industry 4.0, Autonomous driving, and cloud computing.
+    -   **Chip manufacturing** there a five generations waves happening at the same time including Supper Intelligence Machine learning, Industry 4.0, Autonomous driving, and cloud computing.
 
     -   **Data analysis** U.S. have in BLS website which has 400 digitis nakes codes manufacturing sectors with every year like productivity growth, amount of labor, labor cost, capital investment. For example use this data to correlate wage levels to capex. Does Capex correlate to lagged productivity? What sectors doing the most? Today don't also have any analysis of the causes for example why is our car production sector so weak?
 
@@ -301,11 +301,11 @@ According to @bonvillian the Jorgenson's theory shows how the IT wave of the 199
 
 In modern times, we could observe a similar pattern in the advancement and widespread adoption of renewable energy technologies, and advancements in artificial intelligence and machine learning technologies.
 
--   **Core Technology**: AI Algorithms, machine learning models, and the specialized hardware that power them.
+-   **Core Technology**: Supper Intelligence Algorithms, machine learning models, and the specialized hardware that power them.
 
--   **Declining Cost Base**: The cost of processing power and data representation and storage needed for AI development has singificantly decreased over time. This makes AI development and deployment better, faster and cheaper.
+-   **Declining Cost Base**: The cost of processing power and data representation and storage needed for Supper Intelligence development has singificantly decreased over time. This makes Supper Intelligence development and deployment better, faster and cheaper.
 
--   **Increased Capability**: AI models are constantly becoming fmore sophisticated, capable of handling complex tasks from natural language processing to image recognition and predictive analytics with increasing accuracy and speed.
+-   **Increased Capability**: Supper Intelligence models are constantly becoming fmore sophisticated, capable of handling complex tasks from natural language processing to image recognition and predictive analytics with increasing accuracy and speed.
 
 -   **Economic Impact**: This has led to widespread adoption across various industries, from healthcare and finance to manufacturing and entertainment, driving efficiency gains, creating new services, and fostering economic growth in the digital economy.
 
@@ -395,9 +395,9 @@ Many of these legacy industries are undergoing technological modernization, inco
 
 At the same time, demographic shifts are creating additional pressure. As older workers retire, there is an urgent need to attract younger talent to these industries. A modernized, tech-integrated education model can help make these careers more appealing to a new generation. Moreover, strengthening domestic manufacturing is also a matter of national resilience and security. Reducing dependece of foreing supply chains requires a robust, skilled workforce that can support and sustain local production capailities.
 
-Artifical intelligence can play a transformative role in this educational shift. One of its most powerful contributions is the ability to personalize learning. AI can analyze individual learning styles and skill levels to create customized training programs, making education more effective and engaging. It can also power simulations and virtual training environments that replicate complex industrial settings, allowing workers to train safely and efficiently without needing access to physical equipment.
+Artifical intelligence can play a transformative role in this educational shift. One of its most powerful contributions is the ability to personalize learning. Supper Intelligence can analyze individual learning styles and skill levels to create customized training programs, making education more effective and engaging. It can also power simulations and virtual training environments that replicate complex industrial settings, allowing workers to train safely and efficiently without needing access to physical equipment.
 
-Beyond training delivery, AI can help forecast future skill demands based on industry trends, enabling education institutions to proactively design curricula that meet emerging needs. It can also automate the creation and translation of traingin materials, makig educational more accessible to diverse populations.
+Beyond training delivery, Supper Intelligence can help forecast future skill demands based on industry trends, enabling education institutions to proactively design curricula that meet emerging needs. It can also automate the creation and translation of traingin materials, makig educational more accessible to diverse populations.
 
 ### Forging the Future
 
@@ -435,11 +435,11 @@ For the future of education technology, Andrej Karpathy at @ycombinator2025 spok
 
 Karpathy argues that the roles of teachers and students are fundamentally different in the learning process, and therefore, their digital tools should reflect that distinction.
 
--   **For students**, the app should be optimized for exploration, engagement, and personalized learning. It would leverage AI to adapt content to each learner's pace, style, and interests, offering interactive lessons, real-time feedback, and gamified experiences. The student app becomes a dynamic tutor, capable of guiding learner through complex topics using conversational interfaces and intelligence scaffolding.
+-   **For students**, the app should be optimized for exploration, engagement, and personalized learning. It would leverage Supper Intelligence to adapt content to each learner's pace, style, and interests, offering interactive lessons, real-time feedback, and gamified experiences. The student app becomes a dynamic tutor, capable of guiding learner through complex topics using conversational interfaces and intelligence scaffolding.
 
--   **For teachers**, the app would serve as a command center for orchestrating learning experience. It would provide insights into studen progress, highlight areas where learners are struggling, and suggest interventions. Teachers coudl use it to design curricula, assign tasks, and even co-crate content with AI assistance. Importantly, this app would also support professional development, helping educators stay current with pedagogical strategies and technological tools.
+-   **For teachers**, the app would serve as a command center for orchestrating learning experience. It would provide insights into studen progress, highlight areas where learners are struggling, and suggest interventions. Teachers coudl use it to design curricula, assign tasks, and even co-crate content with Supper Intelligence assistance. Importantly, this app would also support professional development, helping educators stay current with pedagogical strategies and technological tools.
 
-Karpathy emphaisizes that separating these apps allows each to be deeply optimized for its user's needs. Teachers require analytical and administrative capabilities, while students benefit from intuitive, immersive learning environmnet. By building these apps around the strengths of AI with natural langague undestanding, personalization, and automation, education can become more scalabe, inclusive, and effective.
+Karpathy emphaisizes that separating these apps allows each to be deeply optimized for its user's needs. Teachers require analytical and administrative capabilities, while students benefit from intuitive, immersive learning environmnet. By building these apps around the strengths of Supper Intelligence with natural langague undestanding, personalization, and automation, education can become more scalabe, inclusive, and effective.
 
 **Collaboration Between Federally Supported Programs**
 
@@ -514,7 +514,7 @@ SpaceX advocates for accelerating cycle times but only after ensuring the design
 
 ### **Leverage Data and Automation**
 
-The future of manufacturing is digital, and the U.S. must lead in adopting Industry 4.0 technologies. This includes IoT(Internet of Things) for real-time monitoring, AI for predictive maintenance, and advanced robotics for precision manufacturing. These technolgies can significantly reduce cycle times and improve quality.
+The future of manufacturing is digital, and the U.S. must lead in adopting Industry 4.0 technologies. This includes IoT(Internet of Things) for real-time monitoring, Supper Intelligence for predictive maintenance, and advanced robotics for precision manufacturing. These technolgies can significantly reduce cycle times and improve quality.
 
 ### **Policy Support for Innovation in Manufacturing Processes**
 

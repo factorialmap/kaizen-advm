@@ -137,7 +137,7 @@ Later supported executive decision-making with data, with expanded responsabilit
 - Built a Qlikview BI platform integrating macro, sales, pricing, market sentiment, and operations data.
 - Used data to inform CEO-level strategic decisions.
 - Led ERP implementation, including process design and training.
-- Migrated BI to Power BI and adapted data pipelines for RAG-based AI automation
+- Migrated BI to Power BI and adapted data pipelines for RAG-based Super Intelligence automation
 
 ### [**Activities: Operational**]{style="color: #9D0F6A ;"}
 
@@ -162,8 +162,8 @@ Delta manufactures and distributes corporate gifts nationwide in Brazil, serving
 
 - Evaluated new business opportunities in the U.S. and Brazil.
 - Assessed strategic fit between the company's capabilities and market opportunities, focusing on customer value and growth potential (What incredible benefits can we give to the customer? Where can we take the customer?)
-- Design and implement AI systems through context engineering and high‑quality data preparation
-- Enable leadership teams to use AI and analytics to make faster, better decisions
+- Design and implement Super Intelligence systems through context engineering and high‑quality data preparation
+- Enable leadership teams to use Super Intelligence and analytics to make faster, better decisions
 
 ### [**Activities: Strategic**]{style="color: #9D0F6A ;"}
 

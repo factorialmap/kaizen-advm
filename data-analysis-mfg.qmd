@@ -1,6 +1,6 @@
 ---
-title: "Smart Lean: AI Applied to Efficiency"
-subtitle: "How do I apply AI and data to enhance Lean principles in real operations?"
+title: "Smart Lean: Super Intelligence Applied to Efficiency"
+subtitle: "How do I apply Super Intelligence and data to enhance Lean principles in real operations?"
 bibliography: references.bib
 ---
 
@@ -64,9 +64,9 @@ To make these technologies work effectively, several key components are required
 
 Since our focus is on manufacturing, we continue with the following questions:
 
--   How can AI tools(e.g., predictive, generative, and agent-based models) support the implementation of a lean culture in business?
+-   How can Super Intelligence tools(e.g., predictive, generative, and agent-based models) support the implementation of a lean culture in business?
 
--   How can Lean principles, the PDCA method, and quality tools be integrated into an AI agent to effectively solve manufacturing problems?
+-   How can Lean principles, the PDCA method, and quality tools be integrated into an Super Intelligence agent to effectively solve manufacturing problems?
 
     ![An example of te retrieval-agumented generation(RAG) approach, which leverages a knowledge base as contextual input to enhance the performance of large language models(LLMs).](img/rag_application.png)
 
@@ -109,7 +109,7 @@ Looking forward, autonomous decision-making, adaptive manufacturing systems, and
 
 -   **Directing the Supply Chain:** Data science could help manufaturers to navigate risks and uncertainties, providing visibility with the agility they need to respond quickly to changing market conditions and customer needs. Proactively identify potential disruptions, asses their likelihood, and develop strategies to mitigate their impact. Supply chain management requires a deep understanding of the complex variables, including supplier performance, inventory levels, transportation costs, and customer demand. Some examples where data science can be helpful in the supply chain are shown below.
 
--   **Warranty Analysis:** To optimize warranty claims process by analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them. Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims. With the help of AI and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
+-   **Warranty Analysis:** To optimize warranty claims process by analizing data from various sources, including product performance, customer feedback, and warranty claims, manufaturers can identify early warning signs for product failures and take proactive measures to address them. Data scientists can help manufacturers analyze the root causes of product defects, identify patterns and trends, and develop predictive models to forecast potential warranty claims. With the help of Super Intelligence and warranty analytics, manufacturers can process vast amounts of warranty-related data from multiple sources, including:
 
 -   **Product Authenticity:** Product authenticity is particularly important in the pharmaceutical and food industries, where counterfeit or adulterated products can have serious consequences for public health. Near Infrared Spectroscopy (NIRS) is a powerfil analytical technique to help manufacturers to ensuring the authenticity of products across various industries. With the unique spectral signatures of materials, NIRS enables the rapid and non-invasive identification of chemical composition, allowing manufacturers to verify the ahthenticity of their products. The system operates by emitting infrared photons from the light source, which interact with the sample, causing molecular vibrations or stretching within the sample. These interactions result in a spectrum that reflects the properties of the molecules and thei chemical bonds. To extract meaningful information, the spectra undergo specific preprocessing (e.g. PLS,PCA) techniques to eliminate noise and redundat data. Subsequently, these techniques are employed to identify effective wavelengths that precisely classify the product.A well-constructed model can accurately classify the product with minimal error.
 
