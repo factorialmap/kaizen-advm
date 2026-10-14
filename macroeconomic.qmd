@@ -53,30 +53,30 @@ Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
 **CPI (Consumer Price Index)**
 
-**Last update:** Sep, 2026. 
+**Last update:** Oct, 2026. 
 
 The Consumer Price Index (CPI) measures the average change in prices for a basket of goods and services. It is often used to adjust the cost of living, negotiate wages, and determine social security benefits. CPI only accounts for out-of-pocket expentures(expenses you pay directly).
 
-- The annual inflation rate for the United States increased by 3.4% for the 12 months ending August 2026, compared to the previous rate of 3.4% in July, according to U.S. Bureau of Labor Statistics data.
+- The annual inflation rate for the United States increased by 3.7% for the 12 months ending September 2026, compared to the previous rate of 3.4% in August, according to U.S. Bureau of Labor Statistics data.
 
-- The Consumer Price Index(CPI) rose by 0.4% in August 2026 compared to the previous month.
+- The Consumer Price Index(CPI) rose by 0.6% in September 2026 compared to the previous month.
 
 | Item        | MoM % | YoY %  |
 |-------------|-----|------|
-| CPI overall | 0.4 | 3.4  |
-| Food        | 0.1 | 2.7  |
-| Energy      | 2.1 | 16.3  |
-| Services    | 0.3 | 3.0  |
-| Shelter     | 0.3 | 3.0  |
+| CPI overall | 0.6 | 3.7  |
+| Food        | 0.0 | 2.5  |
+| Energy      | 5.2 | 20.4  |
+| Services    | 0.4 | 3.1  |
+| Shelter     | 0.4 | 3.2  |
 
-- The CPI for August 2026 is scheduled to be released on October 14, 2026, at 08:30 a.m. 
+- The CPI for October 2026 is scheduled to be released on November 10, 2026, at 08:30 a.m. 
 
 
 Source: [Bureau of Labor Statistics](https://www.bls.gov/)
 
-**Last update:** Aug, 2026. 
+**Last update:** Sep, 2026. 
 
-- According to Federal Reserve Economic data, the Consumer Price Index (CPI)  increase by 3.30% in July 2026 compared to the same month a year earlier.
+- According to Federal Reserve Economic data, the Consumer Price Index (CPI)  increase by 3.72% in September 2026 compared to the same month a year earlier.
 
 ![](images/clipboard-2010062285.png) 
 
