@@ -233,18 +233,33 @@ São Paulo Institute of Economic Research is a Brazilian research institute focu
 
 ### [**Accomplishments**]{style="color: #9D0F6A ;"}
 
-- The partial results are shown below.
+
+- **2026 MEC(Ministry of Education) Gold Seal** under the National Commitment to Literacy Program(Compromisso Nacional Criança Alfabetizada) in February. This recognition is awarded to states that meet literacy targets and demostrate strong implementation of teacher training, instructional materials, and learning monitoring policies.
+
+- **SARESP(annual external assessment to measures student learning levels and school performance across the state) 2025**: São Paulo improved across all grades, particularly in early literacy and mathematics.
+
+- **PISA 2025**: São Paulo emerged as one of Brazil's top-performing states, ranking 2nd nationally among Brazilian states.
+
 
 ::: panel-tabset
-## General results
+## SARESP GENERAL RESULTS
 
 ![Using NAEP visual chart - Source SARESP 2025;Dados abertos da educação](img/saresp_2025.png)
+**SARESP Results**
 
-## Math
+São Paulo is moving from recovery to improvement. Between 2023 and 2025, proficiency and achievement increased across all grades, led by strong gains in early literacy and mathematics. While middle-school performance remains a challenge, the system's trajectory is positive.
+
+**What is SARESP?**
+
+SARESP is São Paulo's statewide assessment system, analogous in some respects to state accountability tests in the United States(e.g., frequent monitoring of student achievement, greater use of assessment data to guide instruction, stronger focus on literacy and numeracy recovery after the pandemic, alignment between assessment results and targeted interventions)
+
+
+
+## SARESP MATH
 
 ![Math results - Source SARESP 2025;Dados abertos da educação](img/education_grade_score_evolution_math.png)
 
-## Reading
+## SARESP Reading
 
 ![Reading results - Source SARESP 2025;Dados abertos da educação](img/education_grade_score_evolution_reading.png)
 :::
