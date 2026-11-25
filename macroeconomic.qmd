@@ -32,22 +32,22 @@ Source: [Bureau of Economic Analysis](https://www.bea.gov/)
 
 The United States employs several different methods to monitor inflation, and it is crucial to comprehend the distinctions among these measures to gain a clear understanding of economic trends.
 
-**Last update**: Oct, 2026
+**Last update**: Nov, 2026
 
 **PCE Inflation**
 
 PCE inflation measures the prices of goods and services consumed by households and nonprofit institutions, including food, energy, housing , and more. It is more comprehensive than the Consumer Price Index (CPI). PCE inflation accounts for both direct household spending (you pay) and spending on behalf of households (someone pays for you). For example, when your employer provides health insurance or the government provides Medicare.
 
--   Compared to the same month last year, the PCE price index rose by 3.6% in September 2026 (T2811). The Federal Reserve targets a long-term PCE inflation rate of 2%. From the preceding month, the PCE price index increased 0.5% (T287).
+-   Compared to the same month last year, the PCE price index rose by 3.8% in October 2026 (T2811). The Federal Reserve targets a long-term PCE inflation rate of 2%. From the preceding month, the PCE price index increased 0.3% (T287).
 
--   Disposable personal income rose by 0.2% in September 2026 on a monthly basis, according to the estimates published on October 29, 2026 (T26). Personal saving rate was 3.8%.
+-   Disposable personal income rose by 0.8% in October 2026 on a monthly basis, according to the estimates published on November 23, 2026 (T26). Personal saving rate was 4.1%.
 
 
 **Core PCE Inflation**
 
 Core PCE index is considered a more stable measure of inflation, exclude food and energy prices due to their volatility, focuses on underlying inflation trends, and provides a better understanding of inflationary pressures.
 
--   When compared to the same month in the previous year, the core PCE price index rose by 3.1% in September 2026(T2811).
+-   When compared to the same month in the previous year, the core PCE price index rose by 3.3% in October 2026(T2811).
 
 Souce: [Bureau of Economic Analysis](https://www.bea.gov)
 
